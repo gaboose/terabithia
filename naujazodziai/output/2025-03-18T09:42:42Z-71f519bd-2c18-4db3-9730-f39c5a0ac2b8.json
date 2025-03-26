@@ -1,0 +1,22 @@
+{
+  "uuid": "71f519bd-2c18-4db3-9730-f39c5a0ac2b8",
+  "header": "nutriciologija",
+  "publishedDate": 1742290962262,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "nutriciològija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, nutriciology;  nutritional science; nutrition science.",
+      "Giminiški naujažodžiai": "nutrigenetika",
+      "Pateikta": "2025-03-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "mitybos mokslas, tiriantis fiziologinį mitybos procesą, maisto medžiagų poveikį žmogaus sveikatai.",
+      "Vartojimo sritys": "maistas, medicina (sveikata)",
+      "Sąsajos": "nutrigenetika"
+    }
+  }
+}
