@@ -1,0 +1,53 @@
+name: Naujazodziai
+
+on:
+  schedule:
+    # Runs every 15 minutes
+    - cron: "*/15 * * * *"
+
+  # Manually triggered
+  workflow_dispatch:
+
+jobs:
+  fetch_and_commit:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./naujazodziai
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run the Python script to fetch records
+        run: |
+          python update.py
+
+      - name: Commit and push new files
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # Count the number of new files added to the output directory
+          NEW_FILES_COUNT=$(git ls-files --others --exclude-standard output | wc -l)
+
+          # If there are new files, commit them
+          if [ $NEW_FILES_COUNT -gt 0 ]; then
+            git add output/*
+            git commit -m "Add $NEW_FILES_COUNT new naujazodziai records"
+            git push
+          else
+            echo "No new files to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use GitHub token for authentication
