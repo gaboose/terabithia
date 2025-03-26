@@ -11,8 +11,8 @@ USER_ENDPOINT = f"{BASE_URL}/action/user"
 VOCABULARY_RECORDS_ENDPOINT = f"{BASE_URL}/action/vocabulary/records/public"
 OUTPUT_DIR = "output"
 
-# Ensure the output directory exists
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+class DetailsError(Exception):
+    """Details are not yet available."""
 
 def fetch_user_data() -> Dict[str, str]:
     """Fetch user cookies from the API."""
@@ -62,13 +62,14 @@ def parse_html_details(view_html: str) -> Dict[str, Any]:
     def parse_section(section_title: str) -> Dict[str, str]:
         section_details = {}
         section = soup.find("h2", string=section_title)
-        if section:
-            info_section = section.find_next("ul")
-            for item in info_section.find_all("li", class_="description_list__items"):
-                key = item.find("div", class_="description_list__dt") or item.find("span", class_="description_list__dt")
-                value = item.find("div", class_="description_list__dd") or item.find("span", class_="description_list__dd")
-                if key and value:
-                    section_details[key.text.strip().strip(":")] = value.text.strip()
+        if not section:
+            raise DetailsError("Details are not yet available")
+        info_section = section.find_next("ul")
+        for item in info_section.find_all("li", class_="description_list__items"):
+            key = item.find("div", class_="description_list__dt") or item.find("span", class_="description_list__dt")
+            value = item.find("div", class_="description_list__dd") or item.find("span", class_="description_list__dd")
+            if key and value:
+                section_details[key.text.strip().strip(":")] = value.text.strip()
         return section_details
 
     # Parse both sections
@@ -79,14 +80,10 @@ def parse_html_details(view_html: str) -> Dict[str, Any]:
 
 def fetch_details(item: Dict[str, Any]) -> Dict[str, Any]:
     """Fetch detailed information for a specific vocabulary item."""
-    try:
-        response = requests.get(f"{BASE_URL}/action/vocabulary/record/{item['uuid']}?viewType=64")
-        response.raise_for_status()
-        view_html = response.json()["details"]["viewHtml"]
-        return parse_html_details(view_html)
-    except requests.RequestException as e:
-        print(f"Error fetching details for {item['uuid']}: {e}")
-        return {}
+    response = requests.get(f"{BASE_URL}/action/vocabulary/record/{item['uuid']}?viewType=64")
+    response.raise_for_status()
+    view_html = response.json()["details"]["viewHtml"]
+    return parse_html_details(view_html)
 
 def save_to_file(data: Dict[str, Any], filename: str) -> None:
     """Save data to a JSON file."""
@@ -104,7 +101,10 @@ def get_filename(irasas: Dict[str, Any]) -> str:
     return os.path.join(OUTPUT_DIR, f"{date_str}-{irasas['uuid']}.json")
 
 if __name__ == "__main__":
-    irasai = fetch_irasai().get('details', {}).get('list', [])
+    # Ensure the output directory exists
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    irasai = fetch_irasai()['details']['list']
 
     for irasas in irasai:
         contents = {
@@ -119,9 +119,10 @@ if __name__ == "__main__":
             print(f"File {filename} already exists")
             continue
 
-        details = fetch_details(irasas)
-        if not details:
-            print(f"Failed to fetch details for {contents['header']}")
+        try:
+            details = fetch_details(irasas)
+        except (DetailsError, requests.RequestException) as e:
+            print(f"Failed to fetch details for {irasas['header']}: {e}")
             continue
 
         contents['details'] = details
