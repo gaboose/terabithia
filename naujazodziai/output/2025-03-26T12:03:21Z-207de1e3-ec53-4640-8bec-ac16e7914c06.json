@@ -1,0 +1,63 @@
+{
+  "uuid": "207de1e3-ec53-4640-8bec-ac16e7914c06",
+  "header": "garažynas",
+  "publishedDate": 1742990601536,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "garažýnas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < garažas < prancūzų k. garage.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-03-24).",
+      "Pateikta": "2025-03-26"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "garažų kompleksas.",
+      "Vartojimo sritys": "aplinka, transportas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Asfaltuotas keliukas link garažyno Pilaitės pusėje. Šito garažyno savininkai buvo didžiausi projekto priešininkai prieš 20 metų Beje, ši gatvelė bus perkirsta.",
+          "Šaltinis": "miestai.net/forumas",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2011",
+          "Kita metrika": "05 30.",
+          "Pavyzdį pateikė": "Gita (2025-03-24)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Čia juk Užupis, oazė, o ką mes matome — pagrindinė gatvė ir laikini garažai. Jei miestas imtųsi, tai ir išspręstų problemą, o dabar — garažynas ir tiek...“, — apgailestauja architektas.",
+          "Šaltinis": "tv3.lt (iš: „Šiaulių kraštas“).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "08 20.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kanalai prie kiekvieno namo tikrai suteikia įpatingą aurą tik reik tinkamai suprojektuoti, o ne iš konteinerių pastatyti eilinį garažyną. Bijau kad neatsitiktų kaip Šventosios uoste, kur vardan greitų pinigų suniokota konteineriniais sprendimais įpatinga vieta. Nors sprogdink.",
+          "Šaltinis": "baltai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2012",
+          "Kita metrika": "11 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Sa­vi­val­dy­bės su­da­ry­ta ko­mi­si­ja nu­spren­dė, kad me­ni­nį ak­cen­tą ga­li­ma bū­tų pa­sta­ty­ti Eže­ro ir Vil­niaus gat­vių skve­re, ku­ris yra Šiau­lių „Auš­ros“ mu­zie­jui, Ch. Fren­ke­lio vi­lai pri­klau­san­ti te­ri­to­ri­ja. Tam rei­kia šią te­ri­to­ri­ją su­tvar­ky­ti, o kol kas nė­ra te­ri­to­ri­jos su­tvar­ky­mo tech­ni­nio pro­jek­to. V. P[...] šią vie­tą va­di­na „ga­ra­žy­nų už­kam­piu“, ne­de­ran­čiu kū­ri­niui, „tu­rin­čiam me­ni­nę ver­tę, tu­ris­ti­niam ob­jek­tui, mies­tą pa­da­ran­čiam įžy­my­be“",
+          "Šaltinis": "skrastas.lt, aut. Rita Žadeikytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "12 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Be to, šioje seniūnijoje yra ir daugiau įdomių vietelių – Narėpų garažynas, bunkeris, Rykštynės amfiteatras, nuostabioje vietoje esantis Karmėlavos bažnyčios šventorius, keistas ir apgyvendintas Karmėlavos piliakalnis [nekeista, juk čia būta Visvaldės pilies] ar Karmėlavos barakai.",
+          "Šaltinis": "gediminasbanaitis.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2019",
+          "Kita metrika": "03 28.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
