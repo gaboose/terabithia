@@ -5,14 +5,12 @@ from typing import Dict, Any
 from bs4 import BeautifulSoup
 import datetime
 
-# Constants
+import parser
+
 BASE_URL = "https://ekalba.lt"
 USER_ENDPOINT = f"{BASE_URL}/action/user"
 VOCABULARY_RECORDS_ENDPOINT = f"{BASE_URL}/action/vocabulary/records/public"
 OUTPUT_DIR = "output"
-
-class DetailsError(Exception):
-    """Details are not yet available."""
 
 def fetch_user_data() -> Dict[str, str]:
     """Fetch user cookies from the API."""
@@ -54,36 +52,12 @@ def fetch_irasai() -> Any:
         print(f"Error fetching vocabulary records: {e}")
         return {}
 
-def parse_html_details(view_html: str) -> Dict[str, Any]:
-    """Parse the HTML content and extract details into a dictionary."""
-    soup = BeautifulSoup(view_html, "html.parser")
-    details = {}
-
-    def parse_section(section_title: str) -> Dict[str, str]:
-        section_details = {}
-        section = soup.find("h2", string=section_title)
-        if not section:
-            raise DetailsError("Details are not yet available")
-        info_section = section.find_next("ul")
-        for item in info_section.find_all("li", class_="description_list__items"):
-            key = item.find("div", class_="description_list__dt") or item.find("span", class_="description_list__dt")
-            value = item.find("div", class_="description_list__dd") or item.find("span", class_="description_list__dd")
-            if key and value:
-                section_details[key.text.strip().strip(":")] = value.text.strip()
-        return section_details
-
-    # Parse both sections
-    details["Bendroji informacija"] = parse_section("Bendroji informacija")
-    details["Reikšmė ir vartosena"] = parse_section("Reikšmė ir vartosena")
-
-    return details
-
 def fetch_details(item: Dict[str, Any]) -> Dict[str, Any]:
     """Fetch detailed information for a specific vocabulary item."""
     response = requests.get(f"{BASE_URL}/action/vocabulary/record/{item['uuid']}?viewType=64")
     response.raise_for_status()
     view_html = response.json()["details"]["viewHtml"]
-    return parse_html_details(view_html)
+    return parser.parse_html_details(view_html)
 
 def save_to_file(data: Dict[str, Any], filename: str) -> None:
     """Save data to a JSON file."""
@@ -121,7 +95,7 @@ if __name__ == "__main__":
 
         try:
             details = fetch_details(irasas)
-        except (DetailsError, requests.RequestException) as e:
+        except (parser.DetailsError, requests.RequestException) as e:
             print(f"Failed to fetch details for {irasas['header']}: {e}")
             continue
 
