@@ -1,0 +1,51 @@
+{
+  "uuid": "817fc45d-03e0-4d30-acad-0b61d1476a0c",
+  "header": "PACS",
+  "publishedDate": 1743943290555,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai skolinta santrumpa",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "anglų, PACS < Picture archiving and communication system.",
+      "Pateikta": "2025-04-06"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "skaitmeninių diagnostinių vaizdų archyvavimo ir perdavimo sistema.",
+      "Vartojimo sritys": "elektrotechnika, medicina (sveikata)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "– Šiaulių apskrities ligoninė yra parengusi radiologinės įrangos modernizavimo programą, kurią įgyvendinant šių metų pradžioje pradėta diegti skaitmeninių radiologinių vaizdų gavimo, perdavimo, archyvavimo bei apsaugos sistemą (PACS), – sako Šiaulių apskrities ligoninės generalinis direktorius Petras Simavičius. [...]– Jau keletą metų ligoninės radiologai dirba su skaitmeniniu rentgeno aparatu ,,Vision”, skaitmeniniai yra ir kompiuteriniai tomografai, angiografas. Kiti ligoninės rentgeno aparatai yra neskaitmeniniai. Jų vaizdams skaitmenizuoti dabar įdiegta PACS sistema leidžia vietoj įprastų rentgeno filmų naudoti fosforo kasetes, kurių informacija įvedama į skaitmeninę sistemą, – sako ligoninės Radiologijos ir endoskopijų skyriaus vedėja Jūratė Jackevičienė. – Šią sistemą įvaldė visi ligoninės radiologai. Archyve esantys skaitmeniniai vaizdai gali būti peržiūrimi ir kitose specialistų darbo vietose, tyrimo rezultatai greičiau patenka pacientą siuntusiam gydytojui.",
+          "Šaltinis": "imed.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2009",
+          "Kita metrika": "03 27.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2017-01-26)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Vėžio diagnostikai ir gydymo kontrolei bei kokybei tarnauja ir ligoninėje įdiegta ligoninės informavimo sistema (LIS), operacijų planavimo ir registracijos sistema, laboratorijos informacinė sistema. Įdiegta ir naudojama PACS sistema, t.y. visų medicininių vaizdų saugojimas, kaupimas ir archyvavimas.",
+          "Šaltinis": "ve.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "02 26.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2017-01-26)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Skaitmeninių diagnostinių vaizdų saugojimo ir paskirstymo sistemos (PACS) integracijos ir plėtros pirkimas.",
+          "Šaltinis": "lrvalstybe.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2017",
+          "Kita metrika": "sausis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2017 01 26)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kartu su informacinių duomenų poreikiu didelės ligoninės susiduria ir su išaugusiu medicininių duomenų poreikiu. Pagal griežtas taisykles, medicininiai atvaizdai turi būti pasiekiami bet kuriuo metu iš bet kurios ligoninės vietos. Jie saugomi Atvaizdų ir komunikacijų sistemose (PACS), bet kuo daugiau atvaizdų jose yra, tuo labiau lėtėja pačios sistemos veikimas.",
+          "Šaltinis": "alfa.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "12 30.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
