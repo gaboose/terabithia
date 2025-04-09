@@ -1,0 +1,57 @@
+{
+  "uuid": "7aaba43a-9c37-47c3-b4a0-084b6bf38d25",
+  "header": "prekaritetas",
+  "publishedDate": 1744179181223,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "prekaritètas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, precarity < precarious („1. nesaugus; rizikingas, pavojingas; 2. nepatikimas, netikras; nepagrįstas“).",
+      "Giminiški naujažodžiai": "prekariatas; prekariatinis, -ė; prekarijai; prekariškas, -a; prekariškumas; prekarizacija",
+      "Pateikta": "2025-04-09"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "socialiai nesaugus būvis (ypač darbo rinkoje).",
+      "Vartojimo sritys": "verslas, visuomenė",
+      "Sąsajos": "prekariatas; prekariškumas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Ne darbas, o darboilsis (arba žaidarbas). (Gal ta redaktorė, kuri išmetė šiuos naujadarus iš mano tezių [ir reikalavo atsisakyti termino \"prekaritetas\"], pagaliau supras, apie ką visa tai.).",
+          "Šaltinis": "facebook.com Karolis Klimka",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2016",
+          "Kita metrika": "06 30.",
+          "Naujažodį pavartojo": "Karolis Klimka",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Vytauto Didžiojo universitetas ir Lietuvos sociologų draugija kviečia teikti pranešimų tezes 9-ajai Nacionalinei Lietuvos sociologų konferencijai. Konferencijoje siūloma analizuoti šias temas:[...]politika ir posocialistinė valstybėgerovės valstybė ir socialinė atskirtisneoliberalizmas ir prekaritetas [...].",
+          "Šaltinis": "sociology.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2017",
+          "Kita metrika": "11 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Vasario 28 d. 19:00 val. paslaptingame Vilniaus klube XI20 Nicola Guy pristatys Berlyno alternatyvių erdvių kultūrą pranešime „Nuosavybės teisių atstatymas ir kultūrinės praktikos suvienytame Berlyne“, tuo tarpu Karolina Rimkutė analizuos skvotų estetikos panaudojimą politiniams tikslams siekti pranešime „Skvotų estetikos pasisavinimas kaip neoliberali prekariteto normalizavimo strategija“.",
+          "Šaltinis": "7md.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "02 21.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-14)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Standigo prekariško užimtumo teorija siejasi su sociologės Butler (2004, 2009) nuostata, kuria remiantis, prekaritetas apibūdinamas kaip žmogaus paramos tinklų netekimas, tik Butler požiūris kalbant apie paramą yra kur kas platesnis, nes ji akcentuoja ne vien ekonominius, bet ir emocinius, socialinius bei psichologinius paramos aspektus, kuriuos palaipsniui praranda prekariato atstovai atsidurdami jiems nepalankių politinių sprendimų arenoje.",
+          "Šaltinis": "azuolynobiblioteka.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Kita metrika": "10 19.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
