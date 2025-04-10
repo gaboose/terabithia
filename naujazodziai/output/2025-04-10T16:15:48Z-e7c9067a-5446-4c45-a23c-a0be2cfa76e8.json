@@ -1,0 +1,79 @@
+{
+  "uuid": "e7c9067a-5446-4c45-a23c-a0be2cfa76e8",
+  "header": "poverbankas",
+  "publishedDate": 1744301748002,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "poverbánkas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "powerbankas; powerbank; power bank.",
+      "Kilmė": "anglų, powerbank.",
+      "Pateikta": "2025-04-10"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "nešiojamasis įkroviklis elektroniniams įrenginiams įkrauti.",
+      "Vartojimo sritys": "technologijos",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Taip pat svarbus greitas įkrovimas. Dauguma šiuolaikinių powerbankų palaiko greitąjį įkrovimą, kas gali gerokai sumažinti laiką, reikalingą įrenginiui įkrauti. Ieškokite modelių, kurie palaiko technologijas kaip Quick Charge ar Power Delivery, kad užtikrintumėte greitą energijos tiekimą.",
+          "Šaltinis": "novatech.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "11 01.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "– Gimimo liudijimas, pasas, asmens tapatybės kortelė, o kam reikia artimųjų nuotraukų? – Įsivaizduokite, telefonas išsikrovė, poverbankas irgi išsikrovė, sakykime, kad turime saulės elementą, bet saulės nėra. Atsitiko nelaimė ir susitikome kolektyviniame gynybos statinyje, o mūsų artimiausias žmogus pasimetė ir mes neturime parodyti, kaip jis atrodo. Nesame dailininkai, tikrai nenupiešime ir neparodysime, kaip atrodo mūsų, pavyzdžiui, vaikas. Tam ir yra reikalinga paprasčiausia nuotrauka.",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "04 11.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Tiesa, tą rytą paaiškėjo, kad specialiai kelionei nusipirkta išorinė baterija (poverbankas) nekrauna mano mobiliojo, nes trūksta reikiamo laido, tad taupydamas energiją viename šiauriausių Lietuvos miestų Žagarėje nefotografavau, bet apėjome Žagarės dvaro parką, pasivaikščiojome po miesto aikštę, kur ne viena parduotuvė mano nuostabai neturi jokios iškabos ar reklamos.",
+          "Šaltinis": "grokiskis.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "09 15.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "10 000 mAh ličio jonų akumuliatoriaus talpos pakanka 3 standartinio telefono įkrovimams arba 2 planšetinio kompiuterio įkrovimams. Pats poverbankas įkraunamas per 5 valandas.",
+          "Šaltinis": "toppc.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Naudodami \"Baseus QPow 2\" maitinimo bloką galite būti tikri, kad jūsų įrenginiai bus įkrauti, kad ir kur būtumėte. Šis 20000 mAh talpos powerbankas yra puikus sprendimas tiems, kuriems reikia patikimos energijos bet kokioje situacijoje. Jis užtikrina iki 30 W galią, o dėl kelių USB prievadų vienu metu galite be vargo įkrauti kelis įrenginius.",
+          "Šaltinis": "new.liumenai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "LiPo išorinis akumuliatorius (Powerbank) 20000mAh 22.5W USB-C, 2xUSB PB312 UGREEN",
+          "Šaltinis": "lemona.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Išorinė baterija (powerbank)",
+          "Šaltinis": "veik.eu",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-10)."
+        }
+      }
+    }
+  }
+}
