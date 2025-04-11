@@ -1,0 +1,62 @@
+{
+  "uuid": "0da70634-9a06-4481-86d5-4802670fdd06",
+  "header": "telematika",
+  "publishedDate": 1744302997376,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "telemãtika",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, telematics.",
+      "Pateikta": "2025-04-10"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "technologija, jungianti informacines technologijas ir telekomunikacijas.",
+      "Vartojimo sritys": "kompiuterija, ryšiai, technologijos",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Ši paroda apima visą transporto ir logistikos pasaulį – telematiką, transportavimo procesus, žaliavų srautus įmonės viduje, logistiką, krovinių gabenimą. Jūrų ir vidaus vandenų transportas šiemet bus kaip niekad gausiai atstovaujamas.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "05 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Telematika – saugaus transporto garantija [antraštė]Telematika – tai informatikos sritis, apimanti telekomunikacijas. Logistikoje tai yra judėjimo ir automobilio būklės nuotolinio stebėjimo sistema. Transporto telematinė stebėsena pagrįsta palydovine navigacija, ryšių technologijomis ir kompiuterine technika. Ji naudojama sprendžiant transporto logistikai kylančius uždavinius, susijusius su gabenimų ir autoparko valdymu.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "10 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Dirbtinis intelektas: telematikos ateities formavimas Lietuvoje [antraštė]Integruodamos transporto priemonių operacijas stebėti ir valdyti skirtus programinės ir aparatinės įrangos komponentus telematikos sistemos atlieka svarbų vaidmenį valdant transporto priemonių parką. Šios sistemos renka duomenis iš transporto priemonių techninės įrangos, pavyzdžiui, bendrovės „Teltonika“ teikiamų GPS įrenginių ir jutiklių, ir tuos duomenis perduoda į programinės įrangos platformas, kur jie analizuojami, kad būtų galima pateikti naudingų įžvalgų (pvz., „Gurtam“ platforma „Wialon“), arba apdorojami tolesniam perdavimui (pvz., „Gurtam“ platforma „flespi“).",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "07 30.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Už greičio ribų: kaip telematika keičia ralio saugumo apibrėžimą [antraštė]Atraskite, kaip „4rally“ transformuoja automobilių ralio saugumą per telematiką ir partnerystę su „Gurtam“. Apie visa tai – išskirtinis pokalbis su bendrovės vadovu Mariu Simsonu. [...]„4rally“ specializuojasi padedant organizuoti ir valdyti ralius visame pasaulyje ir teikia visapusišką pagalbą, įskaitant telematikos pagrindu veikiančias pranešimų sistemas, lenktynių valdymo paslaugas ir dokumentų tvarkymą. [...]Unikalus šios partnerystės su „4rally“ aspektas yra jų, kaip telematikos paslaugų lenktynėms tiekėjo, vaidmuo. Priešingai nei įprasti sistemų tiekėjai, „4rally“ ne tik siūlo sprendimus, bet ir naudoja tą pačią sekimo bei programinę įrangą savo automobilių parkams valdyti.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "08 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Kas yra telematika ir kaip ji veikia transporto srityje [antraštė] Ar žinojote, kad šiuolaikinės transporto valdymo sistemos gali ne tik padėti stebėti transporto priemones, bet ir reikšmingai sumažinti išlaidas? Šiandien telematika – technologija, sujungusi telekomunikacijas ir informatiką – yra nepakeičiama transporto sektoriuje. Ji leidžia realiuoju laiku rinkti, analizuoti ir perduoti duomenis, kad būtų užtikrintas efektyvumas ir saugumas. [...]Telematikos veikimo principas yra paprastas: transporto priemonėse įdiegiami GPS įrenginiai, sensoriai ar kiti prietaisai, kurie surenka informaciją, pavyzdžiui:Transporto vietą. Realiu laiku matoma, kur yra kiekviena transporto priemonė.Važiavimo greitį ir maršrutą. [...]",
+          "Šaltinis": "nyksciai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "01 31.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        }
+      }
+    }
+  }
+}
