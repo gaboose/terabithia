@@ -1,0 +1,49 @@
+{
+  "uuid": "2f6c7836-ec13-4495-9473-8837192ae3a9",
+  "header": "krašinti",
+  "publishedDate": 1744910769962,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "krãšinti, krãšina, krãšino",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "anglų, crasch.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė duomenyno lankytoja Miglė B. (2025-01-02).",
+      "Pateikta": "2025-04-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "strigti, pakibti (kalbant apie kompiuterio veikimą).",
+      "Vartojimo sritys": "kompiuterija",
+      "Kodifikacija": "neteiktina",
+      "Funkciniai atspalviai": "žargonybė",
+      "Varianto statusas": "nenorminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Žiauriai krašina samp pažaidi koki 10min užlūšta ir vėl reikia iš naujo junktis ir taip kas 10min beveik",
+          "Šaltinis": "greenside.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2016",
+          "Kita metrika": "05 29.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-19)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tikėkimes? Tiesa, biški ne į tema - ar dareisi paskutinį PS4 atnaujinimą (ką tik išėjo). Ne krašina, nesulėtėjo ? Nes inete skaitau kad daug nusiskundimų.",
+          "Šaltinis": "playmanija.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2021",
+          "Kita metrika": "09 21.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-19)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Žaidimas nei karto nebuvo pakibęs ar kitaip užsibuginęs, skirtingai nuo to paties Callisto, kuris man gal 3 kartus krašino.",
+          "Šaltinis": "playmanija.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "ne vėliau.",
+          "Pavyzdį pateikė": "Miglė B. (2025-01-02)."
+        }
+      }
+    }
+  }
+}
