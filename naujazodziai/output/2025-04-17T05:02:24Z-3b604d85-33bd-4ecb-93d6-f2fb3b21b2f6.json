@@ -1,0 +1,55 @@
+{
+  "uuid": "3b604d85-33bd-4ecb-93d6-f2fb3b21b2f6",
+  "header": "keliakalbystė",
+  "publishedDate": 1744866144325,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "keliakalbỹstė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "anglakalbystė; bendrakalbystė; kinakalbystė; mėšlakalbystė; rusakalbystė; transkalbystė; žaliaskalbystė",
+      "Pateikta": "2025-04-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kelių kalbų mokėjimas ir vartojimas.",
+      "Vartojimo sritys": "kalbotyra",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "WordPress naudojantys darbuotojų tinklalapiai paruošti veikti iškart keliomis kalbomis, nors numatytoji kalba yra Lietuvių. Norintiems turinį skelbti iškart keliomis kalbomis reikia truputį pakeisti WordPress nustatymus: 1. Administracinės dalies puslapyje Įskiepiai aktyvuojamas qTranslate įskiepis. Aktyvavus keliakalbystę, administracinės dalies meniu apačioje atsiras punktai „Lietuvių“ ir „English“, kurių pagalba galima paprastai perjungti administracinės dalies kalbą. [...].",
+          "Šaltinis": "web.vu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2011",
+          "Kita metrika": "12 23.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ar svarbi keliakalbystė? [antraštė] JAV verslo strategai geba įžvelgti realų ekonominį ir politinį pavojų – greitai gali pritrūkti užsienio kalbas mokančių diplomatų ir darbuotojų, o taip stagnuotų ne tik užsienio politika, bet ir pirma pasaulio ekonomika. Amerikiečiai taip pat supranta, jog šalies vartotojai ir darbo rinkos dalyviai greitai gali prarasti konkurencingumą, nes nebeturės XXI a. būdingų gebėjimų, atsirandančių per keliakalbystę.",
+          "Šaltinis": "15min.lt; aut. Tomas Riklius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "07 04.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Akcentuojama keliakalbystė Vilniuje – kaip iliustracija pateikta koncerto afiša penkiomis kalbomis: jidiš, baltarusių, lenkų, vokiečių, lietuvių.",
+          "Šaltinis": "satenai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "07 20.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "„Aš užsispyriau ir pasiekiau, kad mano vaikai ir anūkai kalbės estiškai. Su vaikais pati tik savo kalba ir kalbėjau – norėjau, kad jie galėtų susikalbėti su Taline gyvenusia močiute ir vienoje iš Estijos salų įsikūrusia prosenele. Tuo metu tai nebuvo įprasta – tik dabar atsirado mokslinių tyrimų, įrodančių, kad vaikams naudinga keliakalbystė“, – savo nuomone pasidalino L.Urman.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "vasaris (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        }
+      }
+    }
+  }
+}
