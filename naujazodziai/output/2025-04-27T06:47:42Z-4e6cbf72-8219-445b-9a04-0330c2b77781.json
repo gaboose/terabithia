@@ -1,0 +1,58 @@
+{
+  "uuid": "4e6cbf72-8219-445b-9a04-0330c2b77781",
+  "header": "evapotranspiracija",
+  "publishedDate": 1745736462745,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "evapotranspirãcija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, evapotranspiration.",
+      "Papildoma informacija": "skolinys yra LR Terminų banke (anksčiausiai filksuota Vytauto Valiukėno ir Prano Juozo Žilinsko „Penkiakalbiame aiškinamajame metrologijos terminų žodyne“ (2006); TŽŽ (2001) yra evaporãcija (lotynų k. evaporatio [< vapor „garai“] „(iš)garinimas, (iš)garavimas“) ir transpirãcija (< trans- + lotynų k. spiro „kvėpuoju“) „1. garavimas, garinimas, rasojimas, prakaitavimas; 2. bot. vandens (garų ir skysčio pavidalo) šalinimasis iš augalo, kai augalo paviršius ir jį supanti erdvė nevienodai prisisotinę vandens garų“.",
+      "Pateikta": "2025-04-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dėgmės praradimas (garavimas) iš dirvožemio ir vandens praradimas iš augalų.",
+      "Vartojimo sritys": "aplinka",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Sąsajos": "dykumėjimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Tuo tarpu sausais vegetacijos periodais nerasta ryšio tarp gruntinių vandenų slūgsojimo gylio ir kalendorinių metų. Tai paaiškinama mažu vandens suminiu garavimu, sudarančiu 55–60% nuo garingumo, sausais vegetacijos periodais ir dideliu vandens garavimo intensyvumu, prilygstančiugaravimui iš atvirų vandens telkinių, šðlapiais vegetacijos periodais. Tai rodo gerai išsivysčiusį pelkinių ekosistemų savireguliacijos mechanizmą, t. y. galimybę joms prisitaikyti prie varijuojančių meteorologinių sąlygų: sausomis vasaromis naudoti vandenį evapotranspiracijai labai taupiai, tuo tarpu drėgnomis vasaromis vandenį garinti daug intensyviau.",
+          "Šaltinis": "J. Ruseckas, V. Grigaliūnas. Įvairių faktorių įtaka Lietuvos pelkių būklei. Pranešimo tezės. XIII pasaulio lietuvių mokslo ir kūrybos simpoziumas. Vilnius.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2005",
+          "Kita metrika": "p. 284.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "2015 metai pasižymėjo išskirtinėmis hidrometeorologinėmis sąlygomis. Karstiniame rajone vidutinė oro temperatūra sausio – lapkričio mėnesiais buvo net 3,8 °C aukštesnė už normą. Tai lėmė padidėjusią evapotraspiraciją (išgaravimą) ir mažesnį paviršinio vandens pritekėjimą į gipsingus sluoksnius.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "01 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Vasarą didėjanti oro temperatūra ir augantys augalai padidina evapotranspiraciją (procesas, apimantis drėgmės praradimą iš dirvožemio ir augalų, kai vanduo juda iš žemės paviršiaus į atmosferą – garavimas, transpiracija ir pan.), drėgmės atsargos dirvožemyje mažėja ir kritulių išsiplovimas nutrūksta.",
+          "Šaltinis": "manoukis.lt, aut. Liudmila Tripolskaja, dr. Asta Kazlauskaitė-Jadzevičė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "sausis.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "„Nors ir nesame tikri, manome, kad ši tendencija gali būti negrįžtama, – sako K. Seo. – Mūsų išvados rodo, kad didėjanti evapotranspiracija atliko pagrindinį vaidmenį mažėjant dirvožemio drėgmei – ir šis didėjimas, tikėtina, tęsis šylant klimatui.“",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "04 26.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
