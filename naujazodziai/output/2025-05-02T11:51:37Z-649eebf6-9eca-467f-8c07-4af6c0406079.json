@@ -1,0 +1,58 @@
+{
+  "uuid": "649eebf6-9eca-467f-8c07-4af6c0406079",
+  "header": "ekotonas",
+  "publishedDate": 1746186697648,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ekotònas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, ecotone < eco- (< graikų k. oikos „namas, būstinė“) + tone (< graikų k. tonos „įtempimas, kirtis“).",
+      "Giminiški naujažodžiai": "ekoaktyvizmas; ekobendruomenė; ekocidas; ekofašizmas; ekofeminizmas; ekogyvenvietė; ekoinovacija; ekolokadzė; ekonerimas; ekorutulys; ekosistema; ekoverslininkystė",
+      "Papildoma informacija": "skolinys yra Algimanto Paulausko, Karolio Jankevičiaus, Rapolo Liužino, Vytauto Raškausko, Petro Zajančkausko „Ekologijos terminų aiškinamajame žodyne“ (2008); VLE.lt: ekotònas „tarpinė, pereinamoji zona tarp dviejų skirtingų ekosistemų, kurioje susilieja abiejų sistemų skirtingos savybės“.",
+      "Pateikta": "2025-05-02"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pereinamoji sritis tarp dviejų ekologinių sistemų (pavyzdžiui, tarp vandens ir sausumos), turinti abiejų sistemų savybių.",
+      "Vartojimo sritys": "aplinka",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Sąsajos": "ekosistema1",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Tvenkinėlio – šlapynės įrengimas vandens nuleidimo griovyje sietinas su pakrančių apsaugos juostų išplėtimu. Pasaulyje ir Lietuvoje jau senokai pabrėţiama ryšių tarp sausumos ir vandens svarba sutelkiant dėmesį į pakrantės ekotoną – pereinamąją zoną tarp sausumos ir vandens.",
+          "Šaltinis": "vdu.lt/cris. Projekto „Priemonių vandensaugos tikslams siekti galimybių studija“ ataskaita. Lietuvos žemės ūkio universitetas.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2008",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Natūraliam miško pakraščių formavimuisi didelės įtakos turi dirvožemis. Pagal jį formuojasi ar formuojamos medžių kompozicijos. Lauko ir miško sandūroje būtina prieš mišką esanti žolių zona. Ji apsaugo nuo žemės ūkio mechaninių pažeidimų, trąšų, herbicidų. Krūmai atlieka žemutinių oro srovių filtro vaidmenį, saugo miško mikroklimatą. Pereinamoji zona, sudaryta iš atsparių žemesnių medžių, apsaugo toliau esantį medyną nuo atviro lauko klimato (vėjų, sausrų, saulės, oro taršos ir pan.). Kartu pereinamoji zona nuo staigių oro temperatūrų svyravimų, sausrų saugo ir laukus. Pamiškėse formuojasi palanki augmenijai zona – ekotonas.",
+          "Šaltinis": "manoukis.lt, aut. Julius Danusevičius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2008",
+          "Kita metrika": "kovas.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Didžiajam baubliui svarbūs seklūs, tačiau pernelyg nesutankėję (kad galėtų įplaukti žuvys) nendrynai. Be žuvų baublys neišsiverstų, nors jo racione pasitaiko ir varliagyvių, vandens vabzdžių netgi paukščių jauniklių ir pelinių graužikų. Tokia buveinė formuojasi augalijos išbridimo iš vandens į pelkėtą sausumą zonoje. Taigi, baublys ekotoninė (pakraščio) rūšis. Ekotonas – vieta, kur susitinka skirtingos aplinkos. Sausumoje, pvz., miškas ir pieva, o ežere – nendrynas ir atviras vanduo. Sausesnėje zonos dalyje kraunamas lizdas, o gilesnėje – „žuvaujama“.",
+          "Šaltinis": "15min.lt, aut. Vitas Stanevičius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "05 13.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Pokyčiai dažnai ateina iš pakraščių. Ekologijoje tai vadinama ekotonu – vieta, kur susiduria dvi biologinės sistemos. Ten yra daugiausia įvairovės, daugiausia jautrumo ir daugiausia dinamikos. Uolėta pakrantė, kur vandenynas liečiasi su žeme, suteikia daugiau galimybių gyvybei nei smėlio kopos toliau sausumoje ar gili jūra.",
+          "Šaltinis": "alkas.lt, aut. Starhawk, parengė Donatas Greičiūnas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 01.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
