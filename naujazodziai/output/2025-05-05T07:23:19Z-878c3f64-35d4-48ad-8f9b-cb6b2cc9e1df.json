@@ -1,0 +1,40 @@
+{
+  "uuid": "878c3f64-35d4-48ad-8f9b-cb6b2cc9e1df",
+  "header": "nepaliautojas, -a",
+  "publishedDate": 1746429799528,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "nepaliáutojas, nepaliáutoja",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < žodžių žaismu paremtas naujadaras: nepaliauti („nenustoti veikti“) ir Nepalas (Pietų Azijos valstybė).",
+      "Pateikta": "2025-05-05"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "nepailstantis keliautojas po Nepalą.",
+      "Vartojimo sritys": "laisvalaikis",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Ekspresiniai atspalviai": "juokaujamasis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Aklimatizacijos diena, pasiekta viršūnė Nangkartsang (5,072 m) ir kylantis nerimas nepaliautojų stovykloje. Gal dėl aukščio ir deguonies trūkumo nepaliautojai pasiklydo – ar pavyks jiems rasti nakvynės vietą ir išlikti ramiems?",
+          "Šaltinis": "delfi.lt, aut. Žygimantas Gedvila",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "04 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jau eilinėmis tampančios Nepaliautojų klajonės ieškant trumpesnių kelių, susidūrimų su laukiniais jakais vengimas ir deguonies trūkumas verčiantis šokti ant „baltų arklių“.",
+          "Šaltinis": "delfi.lt, aut. Žygimantas Gedvila.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "04 12.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
