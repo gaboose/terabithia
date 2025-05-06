@@ -1,0 +1,40 @@
+{
+  "uuid": "52afae54-63a2-4183-bccb-647faf74b97d",
+  "header": "dėklė",
+  "publishedDate": 1746509773371,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dėklė",
+      "Kirčiuotė": "4",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < dėti; plg. anglų k. wallet < EU digital identity wallet (EUDIW).",
+      "Giminiški naujažodžiai": "dėtavietė",
+      "Duomenų pateikėjai": "pirmoji apie naują reikšmę pranešė Aldona Kruševičiūtė (2025-04-20).",
+      "Pateikta": "2025-05-06"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "asmens tapatybės patvirtinimo ir duomenų dalinimosi priemonė Europos Sąjungoje.",
+      "Vartojimo sritys": "administravimas",
+      "Semantiniai požymiai": "dokumentų rūšys",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "ES skaitmeninės tapatybės dėklė atneša rimtų iššūkių – viešasis ir privatus sektorius turi ruoštis jau dabar [antraštė]Europos Parlamentui įteisinus ES skaitmeninę tapatybę, ne tik visam viešajam sektoriui, bet ir pagrindiniams reguliuojamiems verslo sektoriams – transporto, energetikos, finansų, telekomunikacijų ir kitiems – atsiranda prievolė teikiant paslaugas nacionaliniu ar tarpvalstybiniu lygiu savo IT sistemose priimti ES skaitmeninės tapatybės dėklę kaip asmens tapatybės patvirtinimo ir duomenų dalinimosi priemonę. [...]„Visos ES valstybės narės yra įpareigotos sukurti arba naujiems reikalavimams pritaikyti savo nacionalinę dėklę. Dar svarbiau – pirmą kartą kuriama sistema, kurioje visos dėklės turės sąveikauti tarpusavyje. Tai reiškia, kad šalys turės pasirengti priimti kitų šalių piliečių bei verslo subjektų duomenis per nacionalines dėkles. Tai revoliucinis proveržis ES skaitmenizavimo istorijoje. [...]. Ruoštis turime visi ir jau dabar“, – forume kalbėjo „Potential“ vadovė Lietuvoje Vilma Misiukonienė.",
+          "Šaltinis": "ird.lrv.lt",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "06 13.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Ir viena iš esminių inovacijų, kodėl tai taps realybe, yra Europos skaitmeninės tapatybės dėklė. Tai ši sistema teisiškai įsigaliojo 2024 m. gegužės mėnesį ir iki 2026 m. pabaigos kiekviena valstybė rinkai turės pateikti bent vieną Europos skaitmeninės tapatybės dėklės versiją, kuri sukurta pagal tas bendras specifikacijas“, – teigė ji. „Reikalavimas, kada ta dėklė turėtų būti pateikta – 2026 m. pabaiga, 2027 m. pradžia yra nustatyta pagal reglamentą. Tačiau akivaizdu, kad valstybės yra skirtingose starto pozicijose. Ir kai kurios jau keleri metai nuo reglamento teksto pradžios aktyviai įsijungė į tą procesą. Kitos kiek vėliau.“",
+          "Šaltinis": "madeinvilnius.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "04 20.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2025-04-20)."
+        }
+      }
+    }
+  }
+}
