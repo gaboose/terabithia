@@ -1,0 +1,59 @@
+{
+  "uuid": "9aeb7013-90b2-4187-9ebe-ed56b27f14e3",
+  "header": "TA",
+  "publishedDate": 1747232473677,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai sukurta santrumpa",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "lietuvių, < techninė apžiūra.",
+      "Pateikta": "2025-05-14"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "transporto priemonės techninė apžiūra.",
+      "Vartojimo sritys": "technika, transportas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Klaipėdos techninių apžiūrų stotis UAB „Transkona“ išaugusį klientų srautą pajautė artėjant liepai. Nuo liepos 1 d. transporto priemonių techninė apžiūra (toliau – TA) turi būti atlikta prieš jų registraciją „Regitroje“, o registracijos metu patikrinama, ar transporto priemonė atitinka leidimo dalyvauti viešajame eisme būtinąsias sąlygas. [...] Dar viena naujovė – TA galiojimo terminai. Minėtame įstatyme įtvirtinta nuostata, kad sulig TA dokumento galiojimo pabaiga VĮ „Regitra“ stabdo leidimą transporto priemonei dalyvauti eisme. Leidimas bus sustabdomas nustačius, kad neatlikta transporto priemonės privalomoji TA arba kad transporto priemonė neapdrausta transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomuoju draudimu.",
+          "Šaltinis": "gargzdai.lt; aut. Jolanta Venskutė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "08 06.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2020-03-04)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Automobilio techninė apžiūra (TA) ne vienam gali tapti galvos skausmu. Dėl to vis dar ieškoma pažįstamų, kurie padėtų už atlygį ją atlikti fiktyviai. Kiek dabar kainuoja tokia paslauga ir kaip „sukasi“ jos vykdytojai?",
+          "Šaltinis": "kaunas.kasvyksta.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "09 18.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2020-03-04)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kai prieš metus buvo nuspręsta ant transporto priemonių valstybinių numerių nebeklijuoti lipdukų, patvirtinančių, kad automobilis yra perėjęs techninę apžiūrą (TA), būgštauta, kad pamirštančiųjų laiku atvykti į TA stotis skaičius gali išaugti. Tačiau vėluojančiųjų tai padaryti netgi sumažėjo, kai buvo pradėta teikti nemokama paslauga, primenanti apie techninės apžiūros paso galiojimo pabaigą. Šiuo metu tokia paslauga naudojasi apie 40 proc. visų transporto priemonių savininkų.",
+          "Šaltinis": "valstietis.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "09 13.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2020-03-04)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Lietuvoje nuo šių metų gegužės 20 d. turi būti pripažįstama iš Europos ekonominės erdvės (EEE) valstybių atvežtų transporto priemonių techninė apžiūra (TA). Bet kol kas, panašu, ši tvarka galioja tik „ant popieriaus“. Vairuotojai nuolatos susiduria su problema – VĮ „Regitra“ nepripažįsta atvežtos transporto priemonės užsienyje galiojančios TA, todėl jie priversti pakartotinai ją atlikti Lietuvos TA įmonėse, kurias vienija asociacija „Transeksta“.",
+          "Šaltinis": "alfa.lt; aut. Tomas Juškėnas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "10 26.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2020-03-04)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Techninės apžiūros talonas dar nėra garantija Advokatas Raimondas Simonavičius atkreipė dėmesį, kad Lietuvoje vis dar gaji tradicija TA atlikti nelabai sąžiningais būdais. [...] Violeta, įsigijusi „Volvo XC90“ be dugno, nusprendė kreiptis į teismą ir susigrąžinti pinigus už nekokybišką pirkinį. Ketinama ir STT prašyti išsiaiškinti, kaip TA stoties specialistai galėjo pražiopsoti daugybinius defektus.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "03 02.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2020-03-04)."
+        }
+      }
+    }
+  }
+}
