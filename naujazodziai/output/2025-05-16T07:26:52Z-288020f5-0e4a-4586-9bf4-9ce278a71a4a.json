@@ -1,0 +1,40 @@
+{
+  "uuid": "288020f5-0e4a-4586-9bf4-9ce278a71a4a",
+  "header": "tvarkadienis",
+  "publishedDate": 1747380412235,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "tvarkãdienis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "algadienis; aštuntadienis; atostogadienis; bambadienis; bėgadienis; dykadienis; draugadienis; guliadienis; juodadienis; kinadienis; knygadienis; ligadienis; liūdnadienis; nedarbadienis; nesportadienis; pižamadienis; poilsiadienis; pramogadienis; skalbiadienis; sofadienis; svečiadienis; sveikadienis; tingiadienis; tinginiadienis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2024-08-18).",
+      "Pateikta": "2025-05-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "apsitvarkymui skirta diena.",
+      "Vartojimo sritys": "buitis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Didysis tvarkadienis Etnologas Libertas Klimka sako, kad Didysis ketvirtadienis anksčiau buvęs didžiosios tvarkos diena – visi namų pakampiai tądien būdavo valomi ir švarinami.",
+          "Šaltinis": "tv3.lt; aut. Ieva Kazlauskaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "03 27.",
+          "Pavyzdį pateikė": "Gita (2024-08-18)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Dar turime vieną įprotį – tai šeštadieninis tvarkadienis. Visi 4 vaikai pasiskirsto darbus ir puikiausiai juos atlieka – tvarkomi visi namai.",
+          "Šaltinis": "minfo.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "05 06.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        }
+      }
+    }
+  }
+}
