@@ -1,0 +1,40 @@
+{
+  "uuid": "be3fe27c-01b9-44db-91e4-4fff8a1a949a",
+  "header": "eskeipas",
+  "publishedDate": 1747378721536,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "eskei̇̃pas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, escape.",
+      "Giminiški naujažodžiai": "eskeipizmas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Vilnelė (2025-05-15).",
+      "Pateikta": "2025-05-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "atsiribojimas ar pabėgimas mintimis (pavyzdžiui, skaitant, rašant) nuo pabodusio realaus pasaulio.",
+      "Vartojimo sritys": "psichologija",
+      "Sąsajos": "eskeipizmas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kodėl žmonės vartoja narkotikus? [...] [temos pavadinimas]Nes nemanau, kad jie laimingi, o eskeipas labai viliojantis. Neįsivaizduoju kaip žmogus su tiek baimės ir nepasitikėjimo savimi, sutuoktiniu [...].",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Be to, tiek priklausomybių, tiek savižalos atveju žmogus siekia pabėgimo nuo savo aplinkybių, savo realybės reikalų – eskeipo. Juk ir priklausomybė nuo interneto pirmiausia yra siekis pabėgti nuo realybės, nuo negatyvo.﻿",
+          "Šaltinis": "bernardinai.lt, Faustinos Elenos Andrulytės pokalbis su psichologe Dalia Fediajeviene.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "01 18.",
+          "Pavyzdį pateikė": "Vilnelė (2025-05-15)."
+        }
+      }
+    }
+  }
+}
