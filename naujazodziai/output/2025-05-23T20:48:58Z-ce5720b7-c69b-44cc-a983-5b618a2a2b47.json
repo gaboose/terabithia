@@ -1,0 +1,43 @@
+{
+  "uuid": "ce5720b7-c69b-44cc-a983-5b618a2a2b47",
+  "header": "bebrynas",
+  "publishedDate": 1748033338084,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "bebrýnas",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < bebras „kas valstybinėje veikloje nėra atsikratęs senajai sovietinei nomenklatūrai būdingų metodų rūpintis tik savo interesais“.",
+      "Giminiški naujažodžiai": "bebras; bebrėti; bebriškas, -a; bebrizmas; bebrometras; neobebrystė; nubebrinti; socbebras",
+      "Duomenų pateikėjai": "LKŽe yra tiesioginė reikšmė „bebrų gyvenamoji vieta“.",
+      "Pateikta": "2025-05-23",
+      "Atnaujinta": "2025-05-24"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "sovietinės nomenklatūros rūpintis tik savo interesais (įdarbinti savus šiltose vietelėse ir pan.) tradicijų tęsėjų būrys.",
+      "Vartojimo sritys": "politika",
+      "Semantiniai požymiai": "politikos veikėjai",
+      "Sąsajos": "bebras; bebrizmas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pavyzdžiui, dėl „Lietuvos geležinkelių“ valdybos. Gal nuo to ir verta pradėti. Kai tapau ministru, mano pirmas darbas buvo išvalyti visą tą „bebryną“ iš „Lietuvos geležinkelių“, tą valstybę valstybėje, ko nė vienai Lietuvos Vyriausybei nepavyko padaryti. Dar prieš pradėdamas oficialiai eiti pareigas atlikau namų darbus. Buvo sudaryta valdybos sudėtis, kuri, aišku, ir su premjeru buvo suderinta, nes tai buvo pirmas reikšmingas didelis pokytis. Ir jis pavyko.",
+          "Šaltinis": "delfi.lt (laida „DELFI dėmesio centre“). Edmundo Jakilaičio pokalbis su Roku Masiuliu.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "01 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Reikėjo kovotojų su sistema, štai ko tada reikėjo, nes net ore tvyrojo reikalas, kad tą nomenklatūrinį tvaiką skleidžiančią sistemą reikia ardyti. Ten buvo ir konservatorių palikimo, bet per ilgai užsibuvusio bebryno – dar daugiau. Visiems norėjosi mažiau arogancijos – štai dėl ko anuos rinkimus ir prapylė konservatoriai, nors irgi siūlė pokyčius. Ir pagaliau realių reformų – švietimo, sveikatos apsaugos. O taip pat naivaus tikėjimo, kad atėjus nepatyrusiems, bet naujiems veidams kažkaip tie nomenklatūriniai saitai surūks ir nebeatsinaujins.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "10 26.",
+          "Naujažodį pavartojo": "Indrė Makaraitytė",
+          "Pavyzdį pateikė": "Gita (2025-05-19)."
+        }
+      }
+    }
+  }
+}
