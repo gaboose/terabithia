@@ -1,0 +1,41 @@
+{
+  "uuid": "ddb2727d-ba72-4186-849a-2db98bfc5658",
+  "header": "traukiniauti",
+  "publishedDate": 1748087639746,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "traukiniáuti, traukiniáuja, traukiniãvo",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "traukiniautojas, -a",
+      "Duomenų pateikėjai": "pirmoji apie naujadarą pranešė Karolina Marapolskaitė (2025-05-23).",
+      "Pateikta": "2025-05-24"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "keliauti traukiniu ir tuo mėgautis.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Sąsajos": "traukiniautojas, -a",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "„LTG Link“ kviečia traukiniauti į Palangos stintos šventę [antraštė]Jau vasario 7–9 dienomis Palangoje vyks kasmetinis festivalis „Palangos stinta\". Ta proga „LTG Link“ kviečia išvengti spūsčių ir į šventę itin patogiai keliauti traukiniu.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "02 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Statistika rodo, kad daugiau nei 40 proc. „Traukiniautojų klubo“ narių šią transporto priemonę renkasi laisvalaikio kelionėms, daugiau nei 14 proc. – darbo, o dar 13 proc. traukiniauja mokslo ar studijų tikslais.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 15.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
