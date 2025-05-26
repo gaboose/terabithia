@@ -1,0 +1,57 @@
+{
+  "uuid": "ff103724-1eb9-4048-8fff-23485687f049",
+  "header": "promptografija",
+  "publishedDate": 1748236872494,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "promptogrãfija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "promtografija.",
+      "Kilmė": "neklasifikuota, plg. anglų k. promptography < prompt „užklausa dirbtiniam intelektui“ + photography „fotografija“.",
+      "Giminiški naujažodžiai": "promptas",
+      "Pateikta": "2025-05-26"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dirbtinio intelekto sugeneruota fotografija.",
+      "Vartojimo sritys": "kompiuterija, menas",
+      "Sąsajos": "įspūdžiografija; mobilografija; promptas; videografija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Anot menininko, didelė dalis kūrėjų jau priėmė sprendimą, kad juos domina šis naujas vaizdų kūrimo būdas. „Daugelis fotografijos festivalių nori įtraukti į konkursų programas ir sugeneruotų vaizdų kategoriją. Kai kurie jau pradėjo atvirus kvietimus, atskirdami fotografiją nuo promptografijos. Nors tarp šių dalykų yra ryšys, bet esama ir skirtumo“.",
+          "Šaltinis": "nemunas.press",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "09 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Balandį fotografų bendruomenę sukrėtė kontroversiškas įvykis. Prestižinis „Sony Photography Awards“ apdovanojimas atiteko Borisui Eldagsenui iš Vokietijos, kuris netrukus prisipažino, kad konkursą laimėjusią fotografiją sugeneravo dirbtinis intelektas. [...]Dauguma fotografų atsisuka į supantį pasaulį, susitinka su žmonėmis, klausosi jų istorijų, o tam reikia empatijos, pasitikėjimo ir socialinių įgūdžių. Promptografijoje visi šie dalykai nesvarbūs. Kūrėjas leidžiasi į vidinę kelionę, todėl reikia tiksliai žinoti, ką norisi sukurti, kas tam daro įtaką. Kiekvienas DI sukurtas vaizdas yra tam tikra pasąmonės poezija, nes dirbama tik su savo vaizduote, o ne su tuo, kas yra priešais objektyvą. Paprasčiau tariant, fotografija veda į išorinį pasaulį, o promtografija – į vidinį.",
+          "Šaltinis": "kauno.diena.lt, aut. Ieva Klimaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "09 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Vizualieji menai, fotografija, animacija yra draugystės su DI avangarde. „Sony Photography Awards“ su „netikra“ fotografija laimėjęs Borisas Eldagsenas, pernai rudenį viešėdamas Kaune, garsiai kalbėjo apie promptografiją – tai vis dar naujas išraiškos būdas, kuriam įvaldyti taip pat reikia įvairių gabumų, įskaitant kantrybę. Sugebėti aiškiai, detaliai ir originaliai suformuluoti užduotį, kurią atliks DI, – štai niša rašytojams, žurnalistams, literatams.",
+          "Šaltinis": "kaunaspilnas.lt, aut. Kotryna Lingienė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "02 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Juk ir prieš GDI [generatyvinis dirbtinis intelektas. – Red. past.] erą fotografija buvo pasitelkiama kaip įrankis manipuliuoti ir tam tikra linkme kreipti mases. Kadangi fotografija buvo galima pasitikėti. Fotografija buvo lygi tiesai. Tačiau mes gyvename promtografijų eroje, kur fotografija nebegalime pasitikėti, ypač kaip tiesa. [...]Su DI dirbantis vokiečių fotomenininkas Borisas Eldagsenas tapo fotografijos pasaulio sensacija, kai jo pasitelkus DI sugeneruota fotografija, vadinamoji promtografija, 2023 m. laimėjo prestižinį Sony World Photo Awards apdovanojimą. Tačiau jo kontroversiškas atsisakymas priimti šį apdovanojimą, jam pačiam iškėlus į viešumą faktą, kad tai yra promtografija, paskatino diskusijas apie fotografijos ir dirbtinio intelekto sukurtų vaizdų santykį.",
+          "Šaltinis": "Šiaurės Atėnai, aut. Audrė Gruodytė.",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 09.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
