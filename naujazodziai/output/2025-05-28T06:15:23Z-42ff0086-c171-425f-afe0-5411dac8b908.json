@@ -1,0 +1,40 @@
+{
+  "uuid": "42ff0086-c171-425f-afe0-5411dac8b908",
+  "header": "daugiaprojektis, -ė (būdv.)",
+  "publishedDate": 1748412923598,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "daugiaprojèktis, daugiaprojèktė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Ypatingieji požymiai": "vartosenoje itin retas",
+      "Giminiški naujažodžiai": "paprojektis; poprojektinis, -ė (būdv.); projektantas, -ė; projektaras, -ė; projektažmogis; projektininkas, -ė; projektintis; projektizmas; rusprojektas; suprojektinti",
+      "Pateikta": "2025-05-28"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris vykdo daug projektų vienu metu.",
+      "Vartojimo sritys": "administravimas",
+      "Sąsajos": "daugiaprogramis, -ė (būdv.); daugiaveika; daugiaveiksnis, -ė (būdv.)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Daugiaprojektėje aplinkoje organizacija susiduria su didžiulėmis problemomis, jei ji nėra sukūrusi aiškios projektų prioritetų sistemos, glaudžiai susietos su organizacijos strateginiu planu.",
+          "Šaltinis": "Adolfas Kaziliūnas. Strateginis projektų valdymas. [Vadovėlis]. Mykolo Romerio universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2009",
+          "Kita metrika": "p. 38.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Teismai dirba daugiaprojekčiu režimu, kitaip sakant, „multitaskina“ (red. atlieka daug užduočių vienu metu).",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2016-12-29)."
+        }
+      }
+    }
+  }
+}
