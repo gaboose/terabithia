@@ -1,0 +1,40 @@
+{
+  "uuid": "330f322b-9622-429d-b913-ca849f8c9328",
+  "header": "prikimštukas",
+  "publishedDate": 1749195826612,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "prikimštùkas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < prikimšti.",
+      "Giminiški naujažodžiai": "kimštainis; kimštinukas; užkimštuvas",
+      "Pateikta": "2025-06-06"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "patiekalas, kurio pagrindinė dalis kuo nors įdaryta (ko nors prikimšta).",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "patiekalai",
+      "Kiti variantai": "kimštainis; kimštinukas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Šeštadienio vakarą Čarlis nusivedė mane į „Gegutės kepsnius“ Kingstaune. Ten padavėja dirbo mama moters, su kuria lankėme mokyklą, taigi, kaip įprasta Rod Ailande, visi buvo pažįstami. Kai apsikeitėme malonybėmis bei naujienomis ir užsisakėme įdarytų moliuskų, arba prikimštukų, kaip mėgstame juos vadinti, mudu su Čarliu nejaukiai spoksojome vienas į kitą.",
+          "Šaltinis": "Kristan Higgins. O gal tai jis? Vilnius: Svajonių knygos. Iš anglų k. vertė Indrė Norvaišaitė-Aleliūnienė.",
+          "Šaltinio rūšis": "verstinis meninis tekstas",
+          "Metai": "2017",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ant stalo – „prikimštukai“ [antraštė]Patiekalai iš įdarytų arba prikimštų produktų yra vienas universaliausių kulinarinių sprendimų. [...]﻿Labai dažnai ant įdarytų patiekalų užtarkuojamas ir išlydomas sūris. Kartais nepamainomu pagardu būna padažas, kuriame „prikimštukai“ dar ir patroškinami. [...]Gaminant „prikimštukus“ suteikiama galimybė eksperimentuoti virtuvėję ir kurti įdomius skonių derinius. Tai gera proga panaudoti savo mėgstamus produktus, pagardus ir paįvairinti kasdienę mitybą.",
+          "Šaltinis": "Savaitė, aut. Dalia Valentienė.",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "04 24.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
