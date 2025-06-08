@@ -1,0 +1,38 @@
+{
+  "uuid": "03df349f-1019-4d31-8d3a-a1256fd5366e",
+  "header": "prielaidauti",
+  "publishedDate": 1749392484529,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "prielaidáuti, prielaidáuja, prielaidãvo",
+      "Rūšis": "naujadaras",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmasis (-oji) apie naujažodį pranešė duomenyno lankytojas (-a) (2025-06-06).",
+      "Pateikta": "2025-06-08"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "daryti prielaidą (prielaidas).",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Programa pagal tam tikrą algoritmą ieško kuo trumpesnio pirminių implikantų rinkinio, darydama tokias prielaidas apie empiriškai nestebimus atvejus, kurios leidžia galutinį sprendimą maksimaliai suglaudinti Keblumai: Prieštaringos prielaidos (programa apie tą pačią nestebimą konfigūraciją gali prielaidauti ir pozityvią, ir negatyvią baigmę) [...].",
+          "Šaltinis": "Zenonas Norkus. Kokybinė lyginamoji analizė ir neryškiųjų aibių metodas. Seminaro pranešimo skaidrių rinkinys.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2011",
+          "Kita metrika": "04 16.",
+          "Naujažodį pavartojo": "Zenonas Norkus",
+          "Pavyzdį pateikė": "duomenyno lankytojas (-a) (2025-06-06)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kaip jau minėta, praktinio motramizmo šalininkai linksta teisti pasaulį kaip nesantį vienybėje su popiežiaus veiksmais ir tariamomis intencijomis, užuot pripažinę galimybę, kad ir popiežius daro klaidų praktiniuose sprendimuose. Tai veda prie neįprasto kritiškumo atžvilgiu tųjų, kurie yra sutrikę ar nusiminę dėl popiežiaus veiksmų. Kiekvieną užsiminusį apie popiežiaus veiksmų galimą neišmintingumą šie žmonės užsipuola su tokiu gynybiškumu, kuris pats stokoja meilės. Dar blogiau yra prielaidauti, jog pavadinti popiežiaus veiksmą neišmintingu ar neapgalvotu – tai savaime užimti schizmos ar sedevakantisto poziciją.",
+          "Šaltinis": "propatria.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "11 30.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
