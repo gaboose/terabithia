@@ -1,0 +1,31 @@
+{
+  "uuid": "217ebba5-8f12-458e-80ff-c40e9b430bda",
+  "header": "vertiklis",
+  "publishedDate": 1749459545329,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "﻿verti̇̀klis",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "nusivertėjas, -a; nusivertimas; verstainė; verstainiauti; verstainis; verteliena; vertyklė",
+      "Pateikta": "2025-06-09"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuterinė teksto vertimo iš vienos kalbos į kitą programa.",
+      "Vartojimo sritys": "kompiuterija",
+      "Kiti variantai": "vertyklė [norminis (pagrindinis)]",
+      "Sąsajos": "nusivertėjas, -a; nusivertimas; verstainis; verteliena",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "„Google Translate“ turkiškus sakinius su lyčių atžvilgiu neutraliais įvardžiais į anglų kalbą verčia remdamasis stereotipais. O bir doktor (tai reiškia „Ji (-is) yra gydytoja (-as)“) į anglų kalbą verčiamas kaip „Jis yra gydytojas“, užtat O bir hemşire (tai reiškia „Ji (-is) yra slaugytoja (-as)“) verčiamas kaip „Ji yra slaugytoja“. Tiriant aptikta, kad vertiklis elgiasi taip pat, į anglų kalbą versdamas iš suomių, estų, vengrų ir persų kalbų.",
+        "Šaltinis": "Caroline Criado Perez. Nematomos moterys. Duomenų spragų nulemta nelygybė šiandienos pasaulyje. Vilnius: Baltos lankos. Iš anglų k. vertė Daiva Repečkaitė.",
+        "Šaltinio rūšis": "mokslinis tekstas",
+        "Metai": "2022",
+        "Kita metrika": "p. 208.",
+        "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-07)."
+      }
+    }
+  }
+}
