@@ -1,0 +1,47 @@
+{
+  "uuid": "a3fc5550-36da-46e3-83fe-7cbab18a90f8",
+  "header": "semplingas",
+  "publishedDate": 1750627889929,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, sampling.",
+      "Giminiški naujažodžiai": "semplas; semplavimas; sempleris; sempluoti",
+      "Pateikta": "2025-06-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kitų muzikos kūrinių skaitmeninio formato ištraukų (semplų) citavimas muzikos kūrinyje.",
+      "Vartojimo sritys": "muzika",
+      "Kiti variantai": "semplavimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[...] semplingas [angl. sampling], svetimų muzikos kūrinių elementų arba fragmentų pasisavinimas (saviems kūriniams) naudojantis kompiuterizuota garso įrašų technika.",
+          "Šaltinis": "forum.midiaudio.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2005",
+          "Kita metrika": "01 24.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-08)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tas pats muzikoje: semplingas – ištisų muzikos kūrinių konstravimas iš kitų kūrinių – tapo priprastu dalyku. Kultūra, pradedant Napster ir vaizdo žaidimais, karaoke ir torentais, įsilieja į daugialypį skaitmeninį pasaulį; čia išsiskiria tik rašymas, kuris iš esmės tebėra nukreiptas į autentiškos ir tvarios tapatybės propagavimą bet kokia kaina.",
+          "Šaltinis": "aplinkkeliai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "05 09.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-08)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Semplingas (angl. sampling) yra technika muzikoje, kai iš esamo garso įrašo paimama dalis, kitaip vadinama \"semplu”, ir ji įtraukiama į naują muzikinę kompoziciją. Ši technika, paplitusi nuo XX a. septinto dešimtmečio pabaigos, padarė didelę įtaką įvairių žanrų muzikos kūrimui.",
+          "Šaltinis": "portalcris.vdu.lt; Justinas Drūtys „Kodų trigerių komunikacinė reikšmė muzikoje“. Magistro darbas. Vytauto Didžiojo universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "p. 23.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-08)."
+        }
+      }
+    }
+  }
+}

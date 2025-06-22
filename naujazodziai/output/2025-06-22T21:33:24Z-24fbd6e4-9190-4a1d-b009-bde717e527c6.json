@@ -1,0 +1,42 @@
+{
+  "uuid": "24fbd6e4-9190-4a1d-b009-bde717e527c6",
+  "header": "semplavimas",
+  "publishedDate": 1750628004617,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "semplãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, sampling.",
+      "Giminiški naujažodžiai": "semplas; sempleris; semplingas; sempluoti",
+      "Pateikta": "2025-06-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kitų muzikos kūrinių skaitmeninio formato ištraukų (semplų) citavimas muzikos kūrinyje.",
+      "Vartojimo sritys": "muzika",
+      "Kiti variantai": "semplingas",
+      "Sąsajos": "semplas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Todėl išties labai įdomu, kas laukia tų daugybės jaunuolių, kurie, pasak JAV plagiato tyrinėtojų, užaugs šiandienėje aplinkoje, kur autorinių teisių samprata yra gerokai išskydusi, kur informacija randama internete yra visų ir niekieno, kur parsisiųsto akademinio darbo sukeliama jausena yra tokia pat, kaip Youtube svetainėje pažiūrėto filmo ar parsisiųsto muzikos kūrinėlio. Semplavimas muzikoje, koliažas mene, plagiatas moksle – visa muzika sugrota, ne visi honorarai paimti (atrodo, Benjamino Gorbulskio frazė)? Panašu, kad daugybė jaunų protų būtent taip ir protauja. Ir kuo toliau tuo labiau.",
+          "Šaltinis": "bernardinai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "03 11.",
+          "Naujažodį pavartojo": "Kęstas Kirtiklis",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-08)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tai pasakojimai apie senus apdulkėjusius įrašus, jų semplavimą, kilpavimą, karpymą ir maišymą su įvairiais ritmais.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "08 11.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-08)."
+        }
+      }
+    }
+  }
+}
