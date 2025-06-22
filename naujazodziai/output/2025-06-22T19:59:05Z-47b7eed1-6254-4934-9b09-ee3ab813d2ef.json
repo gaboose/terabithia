@@ -1,0 +1,62 @@
+{
+  "uuid": "47b7eed1-6254-4934-9b09-ee3ab813d2ef",
+  "header": "atžymėti",
+  "publishedDate": 1750622345155,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "atžymė́ti, atžỹmi, atžymė́jo﻿",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių",
+      "Papildoma informacija": "LKŽe yra fiksuotas bendrinėje kalboje nevartotinas veiksmažodis atžymėti „pažymėti“.",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pašalinti žymėjimą elektroninėje aplinkoje, t. y. nuimti varnelę (nuo pasirinkimo langelio) ar atšaukti kitokį pažymėjimą.",
+      "Pastabos vartotojams": "dėl nenorminės atžymėti vartosenos žr. „Kalbos patarimų“ rekomendaciją.",
+      "Vartojimo sritys": "kompiuterija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Išplėskite Microsoft Word 2000-2003, spustelėkite Common ir atžymėkite varnele pažymėtą Process files with tw4winMark style.",
+          "Šaltinis": "sdl-trados-lietuva.blogspot.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2012",
+          "Kita metrika": "02 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "savitarnoj atžymi varnelę, kad nenori gauti skambučių ir nieks neskambina.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-06)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Atžymėti pažymėtą sritį Kartais programoje \"Excel\" pasirinkdami kelis langelius ar diapazonus netyčia pasirenkate vieną ar kelis langelius, kurių neketinote. Galite atžymėti bet kuriuos pažymėto diapazono langelius naudodami žymėjimo atžymėti įrankį. Paspaudę klavišą \"Ctrl\", galite spustelėti arba spustelėti ir vilkti, kad atžymėtumėte bet kuriuos pažymėtos srities langelius ar diapazonus.",
+          "Šaltinis": "support.microsoft.com",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2025",
+          "Kita metrika": "2025 birželis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-06)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Mygtukas, skirtas atžymėti pažymėtus objektus žemėlapyje.",
+          "Šaltinis": "klaipedos-r.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "birželis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-06)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Patartina visada atžymėti varneles nuo įtartinų programų.",
+          "Šaltinis": "nksc.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "birželis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-06)."
+        }
+      }
+    }
+  }
+}

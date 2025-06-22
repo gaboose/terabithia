@@ -1,0 +1,87 @@
+{
+  "uuid": "829809bf-2275-4a7e-979c-e36f9f3577f7",
+  "header": "poataskaitinis, -ė (būdv.)",
+  "publishedDate": 1750622877025,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "poataskaiti̇̀nis, poataskaiti̇̀nė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2024-07-02).",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris yra, vyksta po ataskaitos.",
+      "Vartojimo sritys": "administravimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "1. 18-asis viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartas „Atidėjiniai, neapibrėžtieji įsipareigojimai, neapibrėžtasis turtas ir poataskaitiniai įvykiai“ (toliau – šis standartas) nustato atidėjinių, neapibrėžtųjų įsipareigojimų, neapibrėžtojo turto ir poataskaitinių įvykių pripažinimo, įvertinimo, registravimo apskaitoje ir pateikimo finansinėse ataskaitose reikalavimus. [...] 3. Šis standartas taikomas: [...] 3.3. poataskaitiniams įvykiams, t. y. nuo paskutinės ataskaitinio laikotarpio dienos iki paskutinio ataskaitinio laikotarpio finansinių ataskaitų pateikimo dienos. [...] Poataskaitinis įvykis – įvykis per laikotarpį nuo paskutinės ataskaitinio laikotarpio dienos iki finansinių ataskaitų rinkinio sudarymo dienos.",
+          "Šaltinis": "e-seimas.lrs.lt; Lietuvos Respublikos finansų ministro įsakymas „Dėl viešojo sektoriaus apskaitos ir finansinės atskaitomybės 18-ojo standarto patvirtinimo“.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2008",
+          "Kita metrika": "08 21.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pagal sutartį už paslaugas sąskaita išrašoma iki poataskaitinio mėnesio 10 d.",
+          "Šaltinis": "tax.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2016",
+          "Kita metrika": "10 03.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Delsimas dėl nuosavo kapitalo kritinės ribos atkūrimo gali tapti pražūtingu – poataskaitiniais metais gali būti paralyžiuota bendrovės veikla. Todėl siūlau nuolat stebėti nuosavą kapitalą ir jo atkūrimą baigti iki metų pabaigos, kad kiekvienų metų finansinėse ataskaitose nuosavas kapitalas negadintų bendrovės ateities.",
+          "Šaltinis": "delfi.lt; aut. Jurgita Navikienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "03 15.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Įmonių vadovai, sudarydami metines ataskaitas, dar iki jų patvirtinimo privalo atsižvelgti į poataskaitinius įvykius, o pandemijos protrūkis yra vienas tokių. Prieš teikiant metinę ataskaitą Registrų centrui už 2019 m. svarbu įvertinti ir koreguoti ataskaitos eilutes ir nurodyti aiškinamajame rašte, jeigu per karantiną vykdomos sutartys tapo nuostolingos, išaugo veiklos tęstinumo rizika ar sumažėjo turto bei atsargų vertės.",
+          "Šaltinis": "vz.lt; aut. Dalius Simėnas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "05 19.",
+          "Pavyzdį pateikė": "Gita (2024-07-02)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Dėl koronaviruso epidemijos pasaulyje taikomi apribojimai neturėjo reikšmingos įtakos bendrovės teikiamoms paslaugoms ar įsipareigojimų vykdymui. „Atsižvelgiant į tai, kad pandemijos trukmė ir pasekmės nėra aiškios, bendrovė šiuo metu negali nustatyti įtakos finansinei būklei, veiklos rezultatams ir pinigų srautams“, – teigiama poataskaitinių įvykių komentare.",
+          "Šaltinis": "delfi.lt (BNS).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "06 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Netrukus po šios invazijos ES bei kitos pasaulio valstybės bei institucijos pristatė platų ribojamųjų priemonių Rusijai paketą, kuris yra nuolat atnaujinamas ir plečiamas. Į šį nekoreguojantį poataskaitinį įvykį nebuvo atsižvelgta, darant apskaitinius įvertinimus ir prielaidas 2021 m. gruodžio 31 d.",
+          "Šaltinis": "kaunas.kasvyksta.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "08 22.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Poataskaitiniai įvykiai rodomi finansinės būklės, veiklos rezultatų ir pinigų srautų ataskaitose atsižvelgiant į jų įtakos parengtoms finansinėms ataskaitoms reikšmę. Poataskaitiniai įvykiai rodomi minėtose ataskaitose, kai suteikia papildomos informacijos apie savivaldybės iždo finansinę padėtį paskutinę ataskaitinio laikotarpio dieną (koreguojantieji įvykiai). Nekoreguojantieji poataskaitiniai įvykiai aprašomi aiškinamajame rašte, kai jie reikšmingi.",
+          "Šaltinis": "kelme.lt",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2023",
+          "Kita metrika": "03 14.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "Reikšmingų poataskaitinių įvykių, turinčių įtakos įstaigos veiklos tęstinumui, nebuvo.",
+          "Šaltinis": "gra.lrv.lt",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "09 30.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-25)."
+        }
+      }
+    }
+  }
+}

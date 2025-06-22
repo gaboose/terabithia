@@ -1,0 +1,123 @@
+{
+  "uuid": "2fba841e-189c-4fc9-8f46-2ee53235ee53",
+  "header": "popdainininkas, -ė",
+  "publishedDate": 1750623272093,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "popdaininiñkas, popdaininiñkė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. pop singer.",
+      "Giminiški naujažodžiai": "popgrupė; popkultūrininkas, -ė; popsininkas, -ė; popsistas, -ė; popsuomenė",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "atlikėjas, dainuojantis popmuzikos žanro kūrinius.",
+      "Vartojimo sritys": "laisvalaikis, muzika, visuomenė",
+      "Sąsajos": "popprincas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kalifornijos teismas išskyrė popdainininkę Whitney Houston ir ritmenbliuzo Bobby Browną.",
+          "Šaltinis": "delfi.lt (ELTA).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2007",
+          "Kita metrika": "04 05.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Klausytojai dabar mane pažįsta kaip popdainininką. Atlikdami populiarią pramoginę muziką stengiamės, kad joje slypėtų profesionalumo ženklai: įdomesnė melodija, instrumentuotė... Stengiamės pabėgti nuo primityvaus, neprofesionalaus atlikimo ir lėkštos kūrybos.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2008",
+          "Kita metrika": "04 20.",
+          "Naujažodį pavartojo": "Stepas Januška",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Dar prieš keletą metų Mantas Jankavičius rimtai svarstė mesti ilgai trukusius bandymus prasimušti į scenos aukščiausiąją lygą ir imtis kokio „rimtesnio“ darbo. Klausytojų laimei, jis to nepadarė. Pagaliau išpopuliarėjęs dainininkas pagrįstai taikosi į geriausio šalies popdainininko karūną.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2010",
+          "Kita metrika": "03 20.",
+          "Naujažodį pavartojo": "Ramūnas Zilnys",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Popdainininkas A.Stepukonis į Euroviziją nesigręžioja [antraštė] Aivarą Stepukonį daugelis prisimena su kepure ir dryžuotu megztiniu, kai 2002-aisiais jis atstovavo Lietuvai Eurovizijos konkurse. Šiandien dainininkas pristato naująjį savo albumą „Sage & Fool“.",
+          "Šaltinis": "lrytas.lt; aut. Laura Čaplinskaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2010",
+          "Kita metrika": "05 09.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Popdainininkai Lady Gaga, Justinas Bieberis ir Katy Perry atsidūrė „Forbes“ sudaryto geriausiai apmokamų garsenybių iki 30 m. sąrašo pradžioje. Pirmauja Lady Gaga (25 m.), ji už koncertinį turą „Monster Tour“ ir už albumų pardavimus iš viso uždirbo JAV 90 mln. dolerių.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "06 15.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Popdainininkei Katy Perry priklauso toks pats rekordas kaip Michaelui Jacksonui – jie abu turi daugiausia singlų pirmosiose topų eilutėse iš vieno muzikinio albumo.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "12 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Viena ryškiausių Lietuvos popdainininkių Džordana Butkutė (43), lydima mylimojo ir vadybininko Elegijaus Strasevičiaus (45) tęsia grandiozinį koncertinį turą Europoje, tiesa, jis jau artėja prie pabaigos. Keturis mėnesius trunkančių gastrolių metu dainininkė koncertavo ne tik Didžiojoje Britanijoje gyvenantiems tautiečiams, bet ir Islandijos lietuviams.",
+          "Šaltinis": "15min.lt; aut. Justina Dirsė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2012",
+          "Kita metrika": "05 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "„Operos atlikėjams bus iššūkis dainuoti popkūrinius, o popdainininkams – operą. [...]“, - sakė M. Karnaševičius.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "01 29.",
+          "Naujažodį pavartojo": "Ramūnas Zilnys",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "9-as pavyzdys": {
+          "Pavyzdys": "„Billboard“ metų moteris - popdainininkė Pink [antraštė] Popdainininkė Katy Perry tokį apdovanojimą gavo pernai, o tarp ankstesnių laureačių yra kantri ir popmuzikos dainininkė Taylor Swift bei ritmenbliuzo atlikėja Beyonce.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "09 17.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "10-as pavyzdys": {
+          "Pavyzdys": "Mielės istorijos dramatizmą praskaidrina dvaro juokdarių triukšmas. Jų išties pilna visur ir juokdariai ne tik dainuoja, šoka, vaidina, o ir savo tylėjimu sugeba daug pasakyti. Juokdarių rolė miuzikle patikėta aktoriui ir popdainininkui Dominykui Vaikiekūnui, operos solistams Mindaugui Jankauskui ir Rafailui Karpiui.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "12 12.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        },
+        "11-as pavyzdys": {
+          "Pavyzdys": "Meilės romanais garsi popdainininkė susižadėjo su Latvijos krepšinio žvaigžde [antraštė] Ukrainoje televizijoje rytinę laidą vedusi, o paskui į pop grupę „VIA Gra“ atėjusios A.Sedokovos santuoka truko dvejus metus (2004-2006 m.).",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "07 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "12-as pavyzdys": {
+          "Pavyzdys": "Jaunosios kartos popdainininkas Silvester Belt pristato dainą „Vidury naktų”.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "08 10.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-13)."
+        }
+      }
+    }
+  }
+}

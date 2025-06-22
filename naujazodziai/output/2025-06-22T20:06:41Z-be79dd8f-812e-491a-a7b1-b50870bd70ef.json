@@ -1,0 +1,64 @@
+{
+  "uuid": "be79dd8f-812e-491a-a7b1-b50870bd70ef",
+  "header": "lemuoklis",
+  "publishedDate": 1750622801965,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "lemuõklis",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < lema < anglų k. lemma.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2024-07-19).",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuterinis žodžių morfologinės analizės įrankis.",
+      "Vartojimo sritys": "kalbotyra, kompiuterija",
+      "Sąsajos": "morfuoklis; vertyklė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kad pritaikytų vieną kirčiavimo taisyklę, programa turi daug ką gebėti. Kiekvieną gebėjimą realizuoja atskiras algoritmas. Pavyzdžiui, morfologinę analizę atlieka Vytauto Zinkevičiaus sukurtas „Lemuoklis“.",
+          "Šaltinis": "vlkk.lt (iš: „Gimtoji kalba“, nr. 7); aut. Joris Kazlauskas.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2014",
+          "Kita metrika": "p. 14–18.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pagrindinė bet kurio lemuoklio problema yra žodžių dviprasmiškumas. Tai reiškia, kad yra daug žodžių, kurie turi skirtingas reikšmes, tačiau gramatiškai užrašomi taip pat. Tokių žodžių pavyzdys būtų - \"kovas\" (reikšmė gali būti arba mėnesio pavadinimas, arba daugiskaita žodžio \"kova\") arba \"mes\" (naudojamas kaip įvardis arba kaip veiksmažodis).",
+          "Šaltinis": "Indrė Jaloveckienė. Automatizuotas gramatinių struktūrų mažinimas lietuvių kalboje. Magistro darbas. Vilniaus universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2018",
+          "Kita metrika": "p. 7.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Lemuoklyje prie kiekvienos šaknies, esančios sąraše, nurodoma jos morfologinė klasė. Kompiuterinėje morfologijoje tai yra taisyklių rinkinys, nusakantis, kaip ir kokius afiksus galima jungti prie tokio tipo šaknų ir kokias gramatines reikšmes įgyja padarytos žodžių formos.",
+          "Šaltinis": "Daiva Šveikauskienė. Lietuvių kalbos gramatikos kompiuterizavimas. Lietuvių kalbos institutas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2022",
+          "Kita metrika": "p. 60.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "SITTI mokslininkai jau apie 30 metų vykdo tekstynų ir kompiuterinės lingvistikos tyrimus, rengia tekstynus, taip pat ir gramatiškai (morfologiškai ir sintaksiškai) anotuotus. Šiuo metu SITTI tyrėjai pristato tris laisvai prieinamus morfologinius anotatorius: 1) Lemuoklį (https://sitti.vdu.lt/anotatorius/) – tai daugiau nei prieš 30 metų sukurta programa, ją parengė Vytautas Zinkevičius (Zinkevičius 2000, Rimkutė ir kt. 2007), vis dar gana gerai veikianti, nors nebeatnaujinama; [...].",
+          "Šaltinis": "Gimtoji kalba",
+          "Šaltinio rūšis": "įvairūs spaudiniai",
+          "Metai": "2024",
+          "Kita metrika": "nr. 7; p. 8.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2024-07-19)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Lemuoklis - tai svarbi tekstinės paieškos dalis. Fleksinių kalbų tekstinei paieškai labai svarbu surasti žodžio pagrindinę formą. Aukštos kokybės LINGEA lemuoklis ypatingas savo greičiu. Ši programa gali apdoroti 28 000 žodžių per sekundę, tai reiškia vieno žodžio apdorojimo procesui užtenka 0.000036 sekundės.",
+          "Šaltinis": "lingea.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "sausis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        }
+      }
+    }
+  }
+}
