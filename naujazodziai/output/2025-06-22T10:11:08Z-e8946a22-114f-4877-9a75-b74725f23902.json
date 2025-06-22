@@ -1,0 +1,47 @@
+{
+  "uuid": "e8946a22-114f-4877-9a75-b74725f23902",
+  "header": "botų ferma",
+  "publishedDate": 1750587068107,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "bòtų fermà",
+      "Rūšis": "naujai sukurtas junginys",
+      "Žodžio klasė": "darinys [vertinys]",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "anglų, bot farm.",
+      "Giminiški naujažodžiai": "blogoferma; botas; botnetas; kriptoferma; trolių ferma",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "automatizuotai valdomų interneto paskyrų tinklas, per kurį masinėmis atakomis skleidžiama kenkėjiška informacija.",
+      "Vartojimo sritys": "el. komunikacija, kompiuterija",
+      "Sąsajos": "botas1; botnetas; trolių ferma",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Seimas svarstys siūlymą už dezinformacijos sklaidos didinimą per botų fermas taikyti baudžiamąją atsakomybę [antraštė]Seimas pradėjo svarstyti Seimo Nacionalinio saugumo ir gynybos komiteto pirmininko Lauryno Kasčiūno pristatytas Visuomenės informavimo įstatymo ir Baudžiamojo kodekso pataisas, kuriomis siekiama nustatyti griežtesnį manipuliavimo interneto platformos paskyromis reglamentavimą ir operatyviai šalinti socialiniuose tinkluose skleidžiamą draudžiamą informaciją.L. Kasčiūnas tvirtino, kad yra idėja mesti iššūkį botų fermoms ir jas kriminalizuoti tada, kai tai naudojama prieš mūsų valstybę, mūsų Konstituciją, veikiama prieš Lietuvą.",
+          "Šaltinis": "lrs.lt, pranešimas žiniasklaidai.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "05 11.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Botų fermas ir paspaudimų fermas sieja pagrindinis abiejų tikslas – dirbtinai iškreipti informacinį srautą, tačiau pasitelkiamos priemonės tikslui pasiekti yra skirtingos. Botų fermas paprastai sudaro įvairių dirbtinių scenarijų ir automatizuotų veiksmų valdomi prie interneto prijungti įrenginiai. Dažniausiai botų fermos pasitelkiamos netikroms paskyroms kurti, dezinformacijai internete skleisti, DDoS atakoms vykdyti ir pan.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "06 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Botų fermos – tai automatizuotų paskyrų tinklai, kurių pagrindinis tikslas yra vienalaikis didelio kiekio informacijos platinimas ir reakcijų imitavimas. Moksliniai tyrimai rodo, kad botai, kurie gali sudaryti apie 20 proc. visų socialinės žiniasklaidos pokalbių yra itin efektyvūs kuriant klaidingą masinio sutarimo įspūdį.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "06 22.",
+          "Pavyzdį pateikė": "Rit aM."
+        }
+      }
+    }
+  }
+}
