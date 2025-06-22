@@ -1,0 +1,80 @@
+{
+  "uuid": "698284fa-9b21-41c3-bef9-33e828e6d1fb",
+  "header": "pikeris",
+  "publishedDate": 1750625525968,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pi̇̀keris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "„pikeris“.",
+      "Kilmė": "anglų, picker.",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "meškerykotis nedidelėms ir vidutinėms žuvims stovinčiame vandenyje gaudyti nuo kranto.",
+      "Vartojimo sritys": "žvejyba",
+      "Sąsajos": "fideris; paternosteris",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "pasakykit laaamai kuo fideris nuo pikerio skiriasi",
+          "Šaltinis": "zvejotribuna.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2006",
+          "Kita metrika": "04 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jei žvejyba vyksta nedideliame vandens telkinyje kur nereikia tolimų metimų geriau pasirinkti pikerį.",
+          "Šaltinis": "straipsniai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2010",
+          "Kita metrika": "05 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "as nusistebejau, kad Skumbrotas pikeriui naudoja 3 - 5 ozu virsunes, kai pikeriui pagal paskirti yra max 2 ozu virsune. o kitoms virsunems geriau naudoti fideri arba heavy fideri.",
+          "Šaltinis": "zvejotribuna.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2010",
+          "Kita metrika": "09 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Žvejojant fideriais ir pikeriais reikia labai atsargiai elgtis, nes galima nesunkiai nulaužyti galiuką. Pvz. jei metant valas apsisuka aplink meskeres gala tai didele tikimybe jog galiukas nulūž.",
+          "Šaltinis": "žūklė.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2011",
+          "Kita metrika": "09 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Taigi, pradėkime nuo pačių liauniausių meškerykočių. Pikeriai (angl. picker), kitaip dar vadinami winckle picker ar rečiau multi picker – tai patys trumpiausi ir liauniausi (240-300 cm, 5-20 g, rečiau iki 30 g užmetimo svorio) meškerykočiai, skirti nedidelių ir vidutinių žuvų gaudymui netoli kranto – iki 15-20 metrų atstumu, stovinčiame ar beveik stovinčiame vandenyje. Dažniausiai jais žvejojam ežeruose nuo lieptų, nedideliuose tvenkiniuose, kanaluose, upių įlankose. Pagal savo galimybes pikeris dubliuoja plūdinę meškerę ir jį dažniausia renkasi arba žvejai sportininkai, arba iš principo tik dugninę meškerę pripažįstantys žvejai. Pagrindinis pikerių privalumas – neturinti lygių jautrumas, o lyginant jį su plūdine meškere – jis mažiau jautrus vėjui.",
+          "Šaltinis": "zvejokliai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2013",
+          "Kita metrika": "05 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Ilgą laiką „feeder“ ir „picker“ dugnines meškeres naudojo išrinktieji, tačiau šiuo metu ežeruose jas vis gausiau naudoja ir seno sukirpimo žvejai. O jei išbandysite šią žvejybinę įrangą greitose upėse, suprasite, jog tai tikras išsigelbėjimas žvejojant sudėtinguose vandens telkiniuose. [...] „Pikeris“ – tai palengvintas ir sutrumpintas „fiderio“ variantas, tačiau nereikėtų jo numenkinti. Tai prietaisas vertas dėmesio. Jeigu „fiderinei“ meškerei reikia užmojo, laisvumo, didesnės erdvės, „pikeris“ nėra toks reiklus ir labiau tinka žūklei ežere. Juo lengviau užmesti, žūklė tampa dinamiškesnė, nes tokia įranga leidžia varijuoti. „Pikeriui“ tinka plonesni valai, lengvesnės šėryklos, slankiojantys švinai ir smulkesni kabliukai. Be to, „pikeris“ yra jautresnis, ir tai leidžia tiksliau nusitaikyti į smulkią ir vidutinę žuvį, neatmetant ir stambesnių egzempliorių.",
+          "Šaltinis": "zvejokliai.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2013",
+          "Kita metrika": "09 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Kol jaukas „noko“, negaišdami laiko parengėm žūklei po lengvą pikerį ir pasimatavom distancijas iki pasirinktų žūklės taškų. Jaukui išbrinkus, įmaišėm į jį vieną skardinę konservuotų saldžių kukurūzų ir braškių skonio 6 mm skersmens granuliuoto jauko puskilogramį. Galima buvo pradėti žūklę.",
+          "Šaltinis": "romada.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2018",
+          "Kita metrika": "07 05.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
