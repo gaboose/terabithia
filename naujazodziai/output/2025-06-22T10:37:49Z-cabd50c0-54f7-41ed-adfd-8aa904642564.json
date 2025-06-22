@@ -1,0 +1,45 @@
+{
+  "uuid": "cabd50c0-54f7-41ed-adfd-8aa904642564",
+  "header": "paspaudimų ferma",
+  "publishedDate": 1750588669289,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "paspaudi̇̀mų fermà",
+      "Rūšis": "naujai sukurtas junginys",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "anglų, plg. click farm.",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "grupė pasamdytų darbuotojų, masiškai generuojanti paspaudimų srautą internete ir dirbtinai išpučianti informacijos sklaidą.",
+      "Vartojimo sritys": "el. komunikacija",
+      "Sąsajos": "blogoferma; botų ferma; klikas; kriptoferma; patiktukas2; trolių ferma",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Trys vyrai buvo suimti, kuomet policija surado jų valdomą „paspaudimų fermą“. Tai – pogrindinis verslas, generuojantis paspaudimus socialiniams tinklams ar asmeninėms interneto svetainėms. Šioje „fermoje“ aptikta šimtai išmaniųjų telefonų su tūkstančiais SIM kortelių, tačiau neabejojama, kad egzistuoja ir kur kas didesnių ir geriau įrengtų paspaudimus generuojančių verslų.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "06 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Paspaudimų fermos dažnai dar vadinamos sukčiavimo fermomis. Dažniausiai tokiose fermose nusamdomi mažas pajamas gaunantys žemos kvalifikacijos darbuotojai. Jų užduotis – dirbtinai išpūsti informacijos srautą internete. Paspaudimų fermos veikia kaip įprasti verslai, kurie samdo darbuotojus, turi savo būstinę, tačiau dažniausiai jų veikla susijusi su sukčiavimo schemomis. Dažniausiai tokios fermos įsikuria privačiuose namuose ar viešbučių kambariuose. Paspaudimų fermose dirbantys žmonės prijungiami prie daugybės įrenginių – mobiliųjų telefonų, planšečių, nešiojamųjų kompiuterių. [...]Botų fermas ir paspaudimų fermas sieja pagrindinis abiejų tikslas – dirbtinai iškreipti informacinį srautą, tačiau pasitelkiamos priemonės tikslui pasiekti yra skirtingos. Botų fermas paprastai sudaro įvairių dirbtinių scenarijų ir automatizuotų veiksmų valdomi prie interneto prijungti įrenginiai.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "06 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Atvirkštinė vaizdų paieška atskleidžia, kad vaizdo įraše matoma ne botų ar trolių, o telefonų arba paspaudimų (angl. click) ferma. Srauto intensyvumo ir kuo didesnių vertinimo (komentarų, pasidalinimų, patiktukų) skaičių apsėstoje skaitmeninėje ekonomikoje tokios fermos tapo svarbios ne vien reklamoje. Ši šešėlinė industrija Kinijoje, didžiausioje pasaulyje išmaniųjų telefonų rinkoje su daugiau nei 800 mln. vartotojų, egzistuoja jau seniai. [...]Paspaudimų ferma yra vieta, kurioje žmonių grupė kuria masinį srautą internete pačiais įvairiausiais tikslais. Bendras šių operacijų tikslas yra dirbtinai padidinti srautą, manipuliuoti programėlių parduotuvių reitingais ir paieškos rezultatais. [...]Paspaudimų fermose dažniausiai dirba realūs žmonės, kurie rašo fiktyvius komentarus ir atsiliepimus, spaudžia patiktukus, siunčiasi programėles.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "07 04.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
