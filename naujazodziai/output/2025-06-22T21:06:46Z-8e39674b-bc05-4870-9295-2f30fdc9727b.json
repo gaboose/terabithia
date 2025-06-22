@@ -1,0 +1,52 @@
+{
+  "uuid": "8e39674b-bc05-4870-9295-2f30fdc9727b",
+  "header": "pašalpizmas",
+  "publishedDate": 1750626406720,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pašalpi̇̀zmas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < pašalpa.",
+      "Giminiški naujažodžiai": "pašalpadienis; pašalpauti; pašalpinis, -ė (būdv.); pašalpinis, -ė (dktv.)",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2024-09-01).",
+      "Pateikta": "2025-06-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "reiškinys, kai savanaudiškai gyvenama iš valstybės mokamų pašalpų.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Ekspresiniai atspalviai": "menkinamasis",
+      "Sąsajos": "pašalpadienis; pašalpauti; pašalpinis, -ė (būdv.); pašalpinis, -ė (dktv.)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Tik gėda privers pašalpizmu sergantį individą norėti kuo greičiau išsivaduoti iš situacijos, kur jis, būdamas sveikas ir darbingas, yra išlaikomas iš kitų darbo.",
+          "Šaltinis": "protokolai.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2013",
+          "Kita metrika": "01 21.",
+          "Naujažodį pavartojo": "Andrius Užkalnis",
+          "Pavyzdį pateikė": "Daiva Murmulaitytė (2014-05-21)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Aš irgi prieš pašalpizmą. Bet viena yra pašalpizmas skatinantis parazituoti ir kita yra turtingesnės visuomenės dalies parama tiems, kurie dirba/mokosi/stengiasi tikintis, kad ateityje irgi prisijungs prie uždirbančiųjų solidžiai.",
+          "Šaltinis": "miestai.net",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2022",
+          "Kita metrika": "07 07.",
+          "Pavyzdį pateikė": "Gita (2024-09-01)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "O vietinius galimybė likti be darbo ir vilioja labiau šviestis. Ypač jei nepersistengiama su pašalpizmo sistema.",
+          "Šaltinis": "miestai.net",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "02 24.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-03-07)."
+        }
+      }
+    }
+  }
+}

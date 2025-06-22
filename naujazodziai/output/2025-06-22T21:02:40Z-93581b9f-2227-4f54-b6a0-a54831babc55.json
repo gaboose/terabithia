@@ -1,0 +1,64 @@
+{
+  "uuid": "93581b9f-2227-4f54-b6a0-a54831babc55",
+  "header": "panelinis, -ė (būdv.)",
+  "publishedDate": 1750626160654,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotė": "nenustatyta",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "anglų, < panel „specialistų grupė, viešai aptarianti aktualų klausimą; viešos diskusijos“.",
+      "Giminiški naujažodžiai": "panelė; panelistas, -ė",
+      "Pateikta": "2025-06-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "susijęs su viešai diskutuojančia ekspertų grupe.",
+      "Pastabos vartotojams": "bendrinėje lietuvių kaboje siūloma vartoti junginį (vieša) ekspertų diskusija.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "panelė; panelistas, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Karjeros dienų metu vyks panelinė diskusija „Laimė ar pinigai, ką rinktis: pomėgius ar perspektyvas?“. Joje dalyvaus LR finansų ministrė Ingrida Šimonytė, dainininkai Erica Jennings ir Jurgis Didžiulis, sporto komentatorius ir istorikas Robertas Petrauskas, „PriceWaterhouseCoopers“ Lietuvos biuro vadovas Christoferis C. Butleris, SEB Operacijų centro direktorė Asta Sungailienė, „Mars Lietuva“ personalo vadovė Dalia Vitkuvienė ir studentų atstovai: Šarūnas Narbutas ir Antanas Krasauskas.",
+          "Šaltinis": "naujienos.vu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2012",
+          "Kita metrika": "02 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ten buvau tik antrą kartą, bet man padarė įspūdį, kad kalbama apie tikrai svarbius dalykus, labai mažai vyniojant į vatą. Kalbama apie dabartinę padėtį Europoje. Pirmiausia jos rytuose, kur Rusija kariauja prieš Ukrainą, ir diskutuojama, kokios gali būti tolesnės padėtys ir perspektyvos, ką tai reiškia visai Europos ir vakarietiškai civilizacijai. Buvo labai aiškių ir dėmesio reikalaujančių pasisakymų ir minčių. Aš taip pat kalbėjau daugybėje panelinių posėdžių.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "10 15.",
+          "Naujažodį pavartojo": "Vytautas Landsbergis",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Tarp pranešėjų daugybė žinomų švietimo ekspertų ir visuomenininkų, tokių kaip Unė Kaunaitė, Bronislovas Burgis, Nerijus Mačiulis ir kiti. O panelinės diskusijos metu skirtingų politinių partijų atstovai pristatys, kaip jie mato šiuolaikinį mokytoją bei ką siūlo, kad būtų sugrąžinta tinkama pagarba mokytojo profesijai.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "09 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Panelinė diskusija: „Kaip kompiuteriniai žaidimai mokyklose padeda kovoti su dezinformacija?“ [antraštė] „Trys kubai“ ir Britų taryba Lietuvoje organizuoja projektą „Super pilietis“ (angl. „Super Citizen“) – 8-10 klasių mokiniams vedamos interaktyvios pilietiškumo pamokos su “Minecraft”. Kviečiame stebėti projekto renginio transliaciją, kurios metu vyks panelinė diskusija “Kaip kompiuteriniai žaidimai mokyklose padeda kovoti su dezinformacija?”.",
+          "Šaltinis": "15min.lt (iš: mokslas.lt)",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "12 02.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Prieš porą metų dalyvavau puikioje panelinėje diskusijoje apie emocijų ir proto kovą.",
+          "Šaltinis": "vmarkus.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2023",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
