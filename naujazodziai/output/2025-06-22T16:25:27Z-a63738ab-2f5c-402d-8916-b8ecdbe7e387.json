@@ -1,0 +1,72 @@
+{
+  "uuid": "a63738ab-2f5c-402d-8916-b8ecdbe7e387",
+  "header": "dimeris",
+  "publishedDate": 1750609527269,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "di̇̀meris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, dimmer.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2024-06-18).",
+      "Pateikta": "2025-06-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "prietaisas, reguliuojantis apšvietimo intensyvumą.",
+      "Vartojimo sritys": "elektrotechnika",
+      "Kiti variantai": "pritemdiklis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kalbėdama apie virtuvės įsirengimą, architektė Simona Pielikytė siūlo įsirengti kombinuotą apšvietimą, ypač salos erdvėje. „Dažnai virš salos būna įrengtas akcentinis apšvietimas, tačiau gražus šviestuvas ne visada gerai apšviečia. Todėl reikia ir funkcinio apšvietimo, pavyzdžiui, tarp akcentinio apšvietimo įrengti ir taškinių šviestuvų arba įrengti dimerį – šviesos reguliatorių. Yra tikrai labai daug paprastų sprendimų, padedančių kurti skirtingą nuotaiką.“",
+          "Šaltinis": "sa.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "05 06.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2024-06-18)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Rotacinis dimeris „Busch-Dimmer“ yra dėžutėje montuojamas mechanizmas. Jo išvaizdą ir spalvą lemia laidų aksesuarų, kuriuos vartotojas pasirinko įrengti savo namus, serija. Lemputė užsidega paspaudžiant reguliatoriaus rankenėlę. Pasukdami jį, nustatykite reikiamą lygį. Kai kitą kartą įjungsite, ši „mechaninė atmintis“ iš karto padidins apšvietimą nurodytu ryškumu. Apšvietimo schemoje racionalu naudoti dimerį kartu su jungikliais, esančiais skirtinguose kambario galuose.",
+          "Šaltinis": "nuomone.info",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "02 06.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-07-21)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Ar galima vietoje pagrindinio jungiklio dėti LED šviestuvų dimerį [antraštė]Pirmiausia neapsirikite pirkdami Led šviestuvus ir įsitikinkite kad jie yra tikrai skirti dimeriavimui, nes tokio kaip ir specialaus dimerio Led šviestuvams nebūna, tiesiog led šviestuvų maitinimo blokas turi turėti galimybe būti dimeriuojamas. Toliau pas jus situacija gautusi tokia: Galite dėti dimerį į pagrindinio jungiklio vietą, tokiu atveju šviesos intensyvumą nusireguliuoti galėsite toje vietoje o apšvietimą išsijungti ir įjungti jungikliais esančiais prie lovos, tik jeigu kas nors išjungs dimerį tokiu atveju jungikliai liks neveiksnūs.",
+          "Šaltinis": "ekspertai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-07-21)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Blebox dimmerBox v2 wifi dimeris apšvietimo valdiklis Blebox dimmerBox v2 paruoštas, kompaktiškas modulis, leidžiantis valdyti 230 V apšvietimą iki 200 W per „WiFi“ tinklą naudojant mobiliųjų įrenginių programas iš bet kurios pasaulio vietos.",
+          "Šaltinis": "improveit.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-07-21)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Dvipolis sensorinis jungiklis, dimeris Dimeris – su šiuo jungikliu galėsite reguliuoti šviesos intensyvumą (tamsiau, šviesiau).",
+          "Šaltinis": "jungiklis.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-07-21)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Pasirinkite norimą girliandos šviesumo lygį iš 5 galimų iš anksto dimeryje užprogramuotų variantų. Bendras dimerio pajungimo laido ilgis 1.5m. Jei šalia numatomos girliandos vietos nėra rozetės, rekomenduojame naudoti specialiai šiai girliandai skirtą prailginimo kabelį. Maksimalus vienam dimeriui tenkančios girliandos ilgis – iki 100m.",
+          "Šaltinis": "miskosviesos.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-07-21)."
+        }
+      }
+    }
+  }
+}
