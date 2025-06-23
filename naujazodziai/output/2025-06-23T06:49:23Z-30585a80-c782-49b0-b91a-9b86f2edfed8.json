@@ -1,0 +1,45 @@
+{
+  "uuid": "30585a80-c782-49b0-b91a-9b86f2edfed8",
+  "header": "laiškynas",
+  "publishedDate": 1750661363451,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "laiškýnas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "laiškarašys, -ė; laiškavokis",
+      "Duomenų pateikėjai": "pirmasis (-oji) apie naujažodį pranešė lankytojas (-a) (2025-06-19).",
+      "Pateikta": "2025-06-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "laiškų rinkinys.",
+      "Vartojimo sritys": "literatūra",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "B. Sruogos gyvenimo ir kūrybos tyrinėtojas Algis Samulionis naudojosi laiškuose pateikta faktologija rengdamas monografiją apie rašytoją. Keli žodžiai apie šiuos laiškus išsakyti aptariant rašytojo laiškyną ir jo skaitmenini mo darbus.",
+          "Šaltinis": "lkma.lt, Neringa Markevičienė. Balio Sruogos laiškai Juozapui Sruogai: pareigingoji bičiulystė. – Lietuvių katalikų mokslo akademijos metraštis 41.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2018",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "B. Sruogos laiškyne nėra nė vieno laiškų rinkinio, kuris būtų išlikęs visas ir vientisas. Povedybinių laiškų rašytojo žmonai rinkinys taip pat nepilnas – jame labai daug ertmių, kurių kol kas nėra galimybės užpildyti. Matyti, kad išliko nedaug laiškų, kuriuose atsispindi laimingiausias rašytojo šeimos gyvenimo etapas Kaune, dėstytojaujant Lietuvos universitete, atostogaujant žmonos tėviškėje Būgiuose ar laiką leidžiant gimtinėje – Baibokuose. Neišliko laiškų, rašytų per pirmąją sovietinę okupaciją (1940–1941) ir nacmečio pradžioje (1941–1942).",
+          "Šaltinis": "zurnalai.vu.lt, Giedrė Šmitienė. Raštų, kaip ir laiškų, nepasirenki – jie tave ištinka. Paskelbus Balio Sruogos laiškus iš Štuthofo. Pokalbis su Neringa Markevičiene. – Tautosakos darbai 68.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Janinos Degutytės laiškynas: susirašinėjimas su motina Janina Degutiene. I knyga.Nuo tada Degutytė prisiėmė atsakomybę už motiną ir rūpinosi jos bei savęs išlaikymu. Šia knyga skelbiami laiškai rodo viso gyvenimo pastangą palaikyti santykį su motina. Nepaisant pastangos bendrauti ir rūpintis, laiškuose justi išgyventos nemeilės šešėlis. Janinos Degutytės laiškynas: susirašinėjimas su Bronislava Jacevičiūte-Jėčiūte. II knyga.Janinos Degutytės laiškynas: susirašinėjimas su Rena Rapaliene. III knyga.",
+          "Šaltinis": "llti.lt/lt, Knygų serija: Janinos Degutytės laiškynas. Sudarė Giedrė Šmitienė. Vilnius: Lietuvių literatūros ir tautosakos institutas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2025",
+          "Pavyzdį pateikė": "lankytojas (-a) (2025-06-19)."
+        }
+      }
+    }
+  }
+}
