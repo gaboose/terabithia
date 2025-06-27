@@ -1,0 +1,46 @@
+{
+  "uuid": "f2bc1d4f-8c8f-4380-9ab6-924f437e11c3",
+  "header": "pervartojimas",
+  "publishedDate": 1751006982330,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pérvartojimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < pervartoti.",
+      "Pateikta": "2025-06-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "perteklinis vartojimas; normalaus vartojimo viršijimas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Jeigu kalbame apie tai, kad kalorijų pervartojimo didysis nešėjas yra riebalai, svarbu atkreipti dėmesį, kiek riebalų turi vienas ar kitas patiekalas. Jeigu jis labai riebus, vadinasi reikia paragauti tik nedidelę porciją, o ne doroti pusę riebaus gyvulio.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "08 13.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Mūsų organizmas moka susidoroti su nedideliu cukraus kiekiu, tačiau pradėjus sintetinti cukrų ir pramoniniu būdu dėti jo į maisto produktus pradėjome jo masiškai pervartoti. Būtent cukraus pervartojimas ir sukelia problemas sveikatai. Siūloma alternatyva – išmokti kontroliuoti, kiek cukraus suvartojame.",
+          "Šaltinis": "delfi.lt, aut. Inga Saukienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "11 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kasdien suvartoti daugiau cukraus negu rekomenduojama yra labai lengva. Jo gausu labiausiai žmonių pamėgtuose produktuose, o jų, kaip ir saldaus skonio, atsisakyti labai sunku – tai galima prilyginti priklausomybei. Dėl to daugelį kamuoja įvairios sveikatos problemos. Pirmiausia, tiek vaikams, tiek suaugusiems išsivysto dantų ėduonis. antra, kalorijų pervartojimas cukraus ir saldumynų sąskaita veda į nutukimą, o šis, kaip antrinė komplikacija – į II tipo diabetą.",
+          "Šaltinis": "delfi.lt, dietologė Jūratė Dobrovolskienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "12 17.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
