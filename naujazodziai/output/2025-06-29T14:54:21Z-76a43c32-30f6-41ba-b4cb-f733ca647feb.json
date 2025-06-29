@@ -1,0 +1,64 @@
+{
+  "uuid": "76a43c32-30f6-41ba-b4cb-f733ca647feb",
+  "header": "pernaudojimas",
+  "publishedDate": 1751208861742,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pérnaudojimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "pernaudoti",
+      "Pateikta": "2025-06-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pakartotinis panaudojimas (iš naujo).",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "pervartojimas2",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Būstais pramoniniuose pastatuose virstantys loftai, ne tik sandėliavimui, bet ir interjerui pritaikomos europaletės, antikvariniai daiktai – visus juos sieja pernaudojimas, arba antrinis dizainas (angl. – trash design).",
+          "Šaltinis": "diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "1005.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Rugsėjo 18–23 dienomis Vilniuje vyks kūrybinės dirbtuves „Kintantys būviai: miesto medžiagos ir jų trajektorijos“. Tai – renginys, skirtas nagrinėti miesto kasybos reiškinį (ang. urban mining) ir medžiagų pernaudojimą architektūroje.",
+          "Šaltinis": "tie2.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "09 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Naujoje laboratorijoje susijungia aplinkosauga ir kūrybiškumas: nuo antrinių žaliavų pernaudojimo iki poveikio klimatui mažinimo [antraštė]",
+          "Šaltinis": "esinvesticijos.lt",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "10 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kuo naudingas senų daiktų pernaudojimas? [antraštė] Be aplinkosauginių privalumų, senų daiktų pernaudojimas skatina kūrybiškumą ir saviraišką. Senų indų, įrankių ar baldų pavertimas naujais dekoro elementais ar funkcionaliais daiktais leidžia pritaikyti asmeninį stilių ir suteikti namams unikalumo.",
+          "Šaltinis": "manonamai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "01 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "„Kontušo juosta laikoma audimo technikos stebuklu, tačiau persiuvimo metu perkirptos metalinės gijos imdavo irti. Vis dėlto būtent toks pernaudojimas lėmė juostų išlikimą iki mūsų dienų. Liturginėse erdvėse jos įgijo naują prasmę: religinės apeigos tapo tautinės tapatybės saugotojomis“, – pabrėžia parodos kuratorė, LNM istorikė Agnė Andrulevičienė.",
+          "Šaltinis": "alkas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "06 28.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
