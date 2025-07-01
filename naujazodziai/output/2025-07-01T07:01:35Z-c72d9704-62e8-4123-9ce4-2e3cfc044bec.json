@@ -1,0 +1,55 @@
+{
+  "uuid": "c72d9704-62e8-4123-9ce4-2e3cfc044bec",
+  "header": "sorteris",
+  "publishedDate": 1751353295651,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sòrteris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, sorter.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-07-01).",
+      "Pateikta": "2025-07-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "konvejerio principu veikiantis rūšiavimo įrenginys – rūšiuotuvas.",
+      "Vartojimo sritys": "technika",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Prekybos tinklas prie savo komandos kviečia prisijungti dar 200 darbuotojų darbui su prekių rūšiavimo konvejeriu (sorteriu). Logistikos centro vadovas Modestas Virvilas dalinasi, kad kolegomis gali tapti ir patirties logistikoje neturintys kandidatai. [...]Sorterio operatoriai dirbs pamaininiu darbo grafiku, todėl bus galima laisvai derinti darbo valandas, dirbti dienomis arba naktimis.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "01 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Svarstomas prekių rinkimo ir rūšiavimo automatizavimas. Pavyzdys – sorteris prekių agreguotas rinkimas, tai reiškia darbuotojas per visa sandėlį važiuoja vieną kartą, atrenkame prekes ir dedame į sorterį, tas sorteris važiuoja skaidydamas prekes ir automatiškai važiuoja į atšaką kiek yra skyrių, po to susirenki, sudedi į dėžutes ir siunti. Sudėtingas yra gavimas prekių iš tiekėjų, nes sudėjimui į vietą turi būti barkodas, jau sorteris nebepadės, kai kurias prekes turi paimti žmogus.",
+          "Šaltinis": "Kornelija Kauliūtė. UAB „AUTOAIBĖ“ sandėliavimo veiklos analizė. Profesinio bakalauro baigiamasis darbas. Klaipėdos valstybinė kolegija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2025",
+          "Kita metrika": "06 02.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kėdainiuose esančiame centriniame „Norfos“ prekybos tinklo sandėlyje – su tvarumu susiję pokyčiai. Naujos technologijos ilgo galiojimo prekių rūšiavimą paspartins du kartus, sumažins logistikos sąnaudas, o kartu ir prekių kainą vartotojams. [...]Iš saugyklos padėklai taip pat automatiškai – liftais ir konvejeriais – bus perduodami į naujos kartos prekių rūšiavimo įrenginį, vadinamąjį sorterį. Jis prekes sparčiai ir tiksliai išskirstys maždaug 200 užsakovų – parduotuvių, o rūšiavimo greitis sieks net 13 tūkst. pakuočių per valandą.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "06 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Didžiausio šalyje mažmeninės prekybos tinklo „Maxima“ naujausias logistikos centras, skirtas šviežiems produktams, išsiskiria tuo, kad jame veikia 700 m ilgio prekių rūšiavimo konvejerinė sistema, kurioje prekes nuo padėklų į prekių rūšiavimo įrenginį krauna ne tik žmonės, bet ir trys robotai. Prie sorterio, kuris per 1 valandą išrūšiuoja iki 15.000 pakuočių, dabar dirba 60 žmonių, o be robotų ir sorterio jų reikėtų maždaug 75.",
+          "Šaltinis": "vz.lt, aut. Rūta Vizbarienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "07 01.",
+          "Pavyzdį pateikė": "Gita (2025-07-01)."
+        }
+      }
+    }
+  }
+}
