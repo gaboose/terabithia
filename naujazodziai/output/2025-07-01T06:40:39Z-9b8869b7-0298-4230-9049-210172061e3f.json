@@ -1,0 +1,56 @@
+{
+  "uuid": "9b8869b7-0298-4230-9049-210172061e3f",
+  "header": "intelektika",
+  "publishedDate": 1751352039099,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "intelèktika",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, intellectics.",
+      "Ypatingieji požymiai": "nenaujas (nefiksuotas)",
+      "Giminiški naujažodžiai": "intelektuomenė",
+      "Papildoma informacija": "šis terminas yra V. Dagio, A. Klupšaitės, A. Žandario žodynėlyje „Informatika ir kompiuterinė įranga“ (Vilnius, 1993).",
+      "Pateikta": "2025-07-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "mokslas, tiriantis dirbtinį (rečiau – natūralų) intelektą, mąstymo ir duomenų generavimo modelius.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "DI",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Knygoje nagrinėjamos temos apima paieškos algoritmus, loginį ir tikimybinį žinių užrašymo būdus, planavimo algoritmus, mašininio mokymo metodus, genetinius algoritmus, dinaminio programavimo metodiką ir kt. Knygos tikslas - uždavinio forma iliustruoti intelektikos srities algoritmus, imituojant jų veikimą.",
+          "Šaltinis": "ebooks.vdu.lt. Gailius Raškinis. Intelektika: uždaviniai ir jų sprendimo būdai. Vytauto Didžiojo universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2007",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pirmajame žodynėlio leidime terminas computer science nelaikomas termino informatics sinonimu ir apibrėžiamas taip: kompiuterių mokslas „bendras pavadinimas disciplinų grupės, kurios tyrinėja įvairius kompiuterių taikymo ir kūrimo aspektus: programavimą, taikomąją matematiką, programavimo kalbas ir operacines sistemas, kompiuterinę intelektiką“ IKĮ 1993 16–17 [...].",
+          "Šaltinis": "Diana Šilobritaitė. Informatikos ir kompiuterių įrangos. žodynėlių terminijos skirtybės. – Terminologija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2010",
+          "Kita metrika": "nr. 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Seminaras 2017 gegužės 5 d. 13 val. C547 a. Dr. Aleksandro Pleskačiausko seminaras \"Apie Intelektiką per vieną valandą\".",
+          "Šaltinis": "biofizika.gf.vu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2017",
+          "Kita metrika": "gegužė.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Lietuviško vadovėlio apie DI autorėms teko nelengva užduotis: skaitytoją supažindinti su DI elementais ir suteikti pagrindinių intelektikos metodų žinių taip, kad būtų ir naudinga, ir patrauklu skaityti tiek studentams, tiek įvairių sričių atstovams.",
+          "Šaltinis": "Agnė Paulauskaitė-Tarasevičienė, Kristina Šutienė. Intelektikos pagrindai. Kauno teccnologijos universitetas: Technologija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2022",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
