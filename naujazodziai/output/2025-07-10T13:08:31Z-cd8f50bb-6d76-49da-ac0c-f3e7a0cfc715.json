@@ -1,0 +1,40 @@
+{
+  "uuid": "cd8f50bb-6d76-49da-ac0c-f3e7a0cfc715",
+  "header": "humanizatorius",
+  "publishedDate": 1752152911564,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "humanizãtorius",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, plg. humanizer.",
+      "Giminiški naujažodžiai": "humanizuoti",
+      "Pateikta": "2025-07-10"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuterio programa, kuri dirbtinio intelekto sugeneruotą tekstą paverčia į natūralų, atrodantį kaip sukurtą žmogaus.",
+      "Vartojimo sritys": "kalbotyra, kompiuterija",
+      "Sąsajos": "humanizuoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kita vertus, AI teksto humanizatorius rašo humanizuotą tekstą, kuris skamba natūraliai ir tikroviškai.Humanizatorius AIyra specialus įrankis, sukurtas naudojant pažangius algoritmus ir mašininį mokymąsi, kurie veikia konvertuojant tekstą. Taikant rankinį teksto tobulinimo metodą, dirbtinio intelekto sukurti tekstai reikalauja daug pastangų, tačiau Text Humanizer taiko žmogaus raginimą ir pateikia išvestį per kelias sekundes be pastangų.",
+          "Šaltinis": "cudekai.com [svetainė versta mašininiu būdu].",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Mūsų humanizatorius padaro AI parašytą tekstą skambantį tikroviškai, tarsi jį būtų parašęs žmogus. Mes ne tik keičiame žodžius, bet ir atkuriame kiekvieną sakinį, išlaikydami prasmę ir padarydami jį lengviau skaitomą. Mes teikiame perrašymo įrankį be apribojimų, be registracijos ir be mokesčių, padarydami parafrazavimą (perfrazavimą) prieinamą bet kuria kalba.",
+          "Šaltinis": "neuralwriter.com [svetainė versta mašininiu būdu].",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
