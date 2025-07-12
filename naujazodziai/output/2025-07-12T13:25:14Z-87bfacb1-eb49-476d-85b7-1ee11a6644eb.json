@@ -1,0 +1,55 @@
+{
+  "uuid": "87bfacb1-eb49-476d-85b7-1ee11a6644eb",
+  "header": "rietuvas",
+  "publishedDate": 1752326714795,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "rietùvas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. reach truck.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-07-03).",
+      "Pateikta": "2025-07-12"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "specialus sandėlio krautuvas, su kuriuo dirbama siaurose vietose arba keliant krovinius į aukštas lentynas.",
+      "Vartojimo sritys": "technika",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Šį mėnesį Vokietijoje, Ašafenburgo mieste įvyks jau 15-osios Stapler Cup varžybos, kuriose susirungs krautuvų vairuotojai iš 17 šalių, tokių kaip: Kinija, Vokietija, Estija, Suomija, Prancūzija, Latvija. [...]Rungtys kiekvienais metais – skirtingos, reikalaujančios iš operatorių kantrybės, susikaupimo, loginio mąstymo ir tikslumo. Rungtys apgalvojamos taip, kad jas būtų galima atlikti su įvairiais krautuvais – tiek šakiniais, tiek su aukštuminiais rietuvais.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "09 10.",
+          "Pavyzdį pateikė": "Gita (2025-07-03)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Valstybės įmonė Ignalinos atominė elektrinė vykdo tarptautinį pirkimą „Šakinio krautuvo, rietuvo, elektrinio palečių vežimėlio bei žirklinio keltuvo pirkimas”.",
+          "Šaltinis": "verslolink.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "02 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Ieškome aukštuminio rietuvo vairuotojų Jonavoje!",
+          "Šaltinis": "facebook.com (grupės „Jonavos turgelis“ paskyra).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "09 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Trumpas pirkimo aprašymas Lietuvos kariuomenės Depų tarnyba (toliau – Pirkėjas) numato įsigyti elektrinį rietuvą (toliau – rietuvas). Rietuvas bus naudojamas europadėklų krovimo darbams atlikti sandėlio viduje (siauruose stelažų koridoriuose į didelio aukščio stelažus ir iš jų).",
+          "Šaltinis": "mercell.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "0429.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
