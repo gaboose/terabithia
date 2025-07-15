@@ -1,0 +1,66 @@
+{
+  "uuid": "6eb215b5-be84-491b-942d-95b069b1f682",
+  "header": "boltininkas, -ė",
+  "publishedDate": 1752484309637,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "bòltininkas, bòltininkė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, < „Bolt“ (tarptautinė estų sukurta transporto paslaugų bendrovė) < anglų k. to bolt „bėgti, lėkti“; bolt „žaibas“.",
+      "Giminiški naujažodžiai": "boltauti; boltinti; boltistas, -ė; boltuoti",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2024-07-16).",
+      "Pateikta": "2025-07-14"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dirbti pavežėju arba kurjeriu pavėžėjimo paslaugų platformoje „Bolt“.",
+      "Vartojimo sritys": "transportas, verslas",
+      "Sąsajos": "boltauti; boltinti; boltuoti",
+      "Kiti variantai": "boltistas, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Tai lietuvis gi moka lietuviškai ir nuėjęs į polikliniką susišnekės. O tie visi tūkstančiai juodadarbių, woltininkų ir boltininkų, koks procentas mokosi lietuvių kalbą? Koks procentas ruošiasi likti gyventi? Reikia pradėti rimtas integracijos programas su kalbos mokymu. Visų pirma kalbinė integracija, tai yra pagrindas.",
+          "Šaltinis": "miestai.net/forumas",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2022",
+          "Kita metrika": "08 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Eilinis vilnietiškasis penktadienio vakaras. Laisvės paleistais plaukais šoku į boltą ir lekiu džiaugtis. Savim, moderniuoju Vilnium, daugumos demokratija ir taip sunkiai iškovota laisve vartoti kraftinį alų žalia elektra apšviestam bare, kur visais esminiais klausimais tvyro absoliutus sutarimas. Planą džiaugtis kiek apkartina perdaug kalbėti linkęs boltininkas Tomas. Nors algoritmas išrinko prekę lietuvišką – šįkart nepataikė.",
+          "Šaltinis": "gpb.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "03 31.",
+          "Pavyzdį pateikė": "Gita (2024-07-16)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Lietuviškai nekalbantys Boltininkai kelia daugiau problemų.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "12 23.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Sveiki Boltininkai, atidirbau pirmą savaitę, noriu paklaust dirbančių pensininku, kokiu mokesčių reikės mokėti valstybėi? Ar kaip jaunuoliams ar yra kažkokiu nuolaidų?",
+          "Šaltinis": "facebook.com (paskyra „Bolt Vairuotojai“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "07 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Daug boltininkų tiesiog pakeitė veiklos būdą t.y. vietoj iškvietimų skambučiu, papildomai ima iškvietimus ir per programėles, viską pakišdami po Taxi veikla. O kadangi visos platformos duoda detalias ataskaitas, taksiorui deklaruot mokesčius ženkliai paprasčiau.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "vasaris.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
