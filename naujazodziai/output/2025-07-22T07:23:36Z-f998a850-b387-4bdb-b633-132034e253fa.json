@@ -1,0 +1,56 @@
+{
+  "uuid": "f998a850-b387-4bdb-b633-132034e253fa",
+  "header": "skenas",
+  "publishedDate": 1753169016833,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "skènas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, scan.",
+      "Giminiški naujažodžiai": "skenuoklis; skenuotė; skenuotojas, -a",
+      "Pateikta": "2025-07-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "skenuojant gautas vaizdas.",
+      "Vartojimo sritys": "kompiuterija",
+      "Kiti variantai": "skenuotė",
+      "Sąsajos": "skenuoklis; skenuotojas, -a",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Atkuriame detales pagal pavyzdinį objektą, brėžinius arba 3D skeną.",
+          "Šaltinis": "3dbaltic.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Dalinuosi dažniausiai užduodamais klausimais apie mano perdirbto popieriaus gamybą, naudojimą ir savybes [...].Norėčiau pabrėžti, kad fonuose maniškis perdirbtas popierius už kurio max kokybės skenus dėkinga [...] Jei norėtumėte įsigyti šių skaitmeninių skenų savo naudojimui, rašykite, susiderinsime.",
+          "Šaltinis": "facebook.com (paskyra „Akimirkų Gaudyklė“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "03 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Skaitmeninis dantų skenas „3Shape“ 50 €.",
+          "Šaltinis": "sypsnis.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kaina sutartinė (atsiųskite dokumento nuotrauką/skeną įvertinimui).",
+          "Šaltinis": "translatica.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
