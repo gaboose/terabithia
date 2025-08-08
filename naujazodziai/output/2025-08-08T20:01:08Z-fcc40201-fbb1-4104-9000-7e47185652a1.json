@@ -1,0 +1,52 @@
+{
+  "uuid": "fcc40201-fbb1-4104-9000-7e47185652a1",
+  "header": "brokolinara",
+  "publishedDate": 1754683268329,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "brokolinarà",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < brokolis + karbonara („itališkas makaronų patiekalas su padažu iš kiaušinių, kietojo sūrio ir šoninės“).",
+      "Ypatingieji požymiai": "autorinis, kontaminacinis darinys",
+      "Giminiški naujažodžiai": "karbonara",
+      "Pateikta": "2025-08-08"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "iš brokolių su priedais gaminamas padažas makaronams.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "padažai",
+      "Sąsajos": "karbonara",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pasta brokolinara (pagal Beatą) [antraštė]Kitaip tariant – makaronai su brokolių padažu. Be galo greit pagaminamas ir skanus patiekalas, kurį aptikau naujoje Beatos daržovių knygoje.",
+          "Šaltinis": "skanestai.wordpress.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2014",
+          "Kita metrika": "05 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kai pagaminu vakarienę šeimai, tai pati pamaldžiai ir džiaugsmingai sėdu prie stalo, ir valgau visokias lazanijas bei pastą brokolinarą (jos receptas yra mano „Daržovių knygoje“) nesiskųsdama…",
+          "Šaltinis": "beatosvirtuve.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2014",
+          "Kita metrika": "vasaris.",
+          "Naujažodį pavartojo": "Beata Nicholson",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "[...] rašydamą tą knygą išradau tokį patiekalą – pasta brokolinara, kitaip tariant, atsirėmiau į populiariąją itališką carbonara, tik padariau ją be šoninės ir su brokoliu.",
+          "Šaltinis": "beatosvirtuve.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2016",
+          "Kita metrika": "sausis.",
+          "Naujažodį pavartojo": "Beata Nicholson",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
