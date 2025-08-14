@@ -1,0 +1,39 @@
+{
+  "uuid": "0248e509-d5f6-4d91-9d80-c7571beaba20",
+  "header": "hik",
+  "publishedDate": 1755178453088,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "hi̇̀k",
+      "Rūšis": "neklasifikuotas žodis",
+      "Žodžio klasė": "neklasifikuota",
+      "Kalbos dalis": "ištiktukas",
+      "Kilmė": "lietuvių",
+      "Ypatingieji požymiai": "pavienis",
+      "Pateikta": "2025-08-14"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "garsažodis žagsulio sukeliamam garsui nusakyti.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Žagsėti imama tada, kai diafragma pradeda nevalingai susitraukinėti. Jūsų balso stygos greitai atsidaro ir užsidaro po kiekvieno diafragmos susitraukimo, ir taip atsiranda visiems žinomas žagsėjimo garsas „hik“.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "07 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Žagsulys – tai spazminiai ir pasikartojantys diafragmos susitraukimai, sukeliantys staigų oro iškvėpimą ir balso stygų vibraciją. Susitraukus diafragmai, užsiveria balso stygos, ir mes išgirstame žagsuliui būdingą „hik“ garsą“, – pasakoja vaistininkė E. Ramaškienė.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "08 14.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
