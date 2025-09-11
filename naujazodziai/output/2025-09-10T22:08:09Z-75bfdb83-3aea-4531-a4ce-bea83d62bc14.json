@@ -1,0 +1,51 @@
+{
+  "uuid": "75bfdb83-3aea-4531-a4ce-bea83d62bc14",
+  "header": "klankeris",
+  "publishedDate": 1757542089636,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "klánkeris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "klenker; klankas; clankeris.",
+      "Kilmė": "anglų, clanker.",
+      "Ypatingieji požymiai": "vartosenoje itin retas",
+      "Pateikta": "2025-09-11"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "žodis panašiems į žmogų robotams (droidams) įžeidžiamai (kone rasistiškai) pavadinti.",
+      "Vartojimo sritys": "kompiuterija",
+      "Funkciniai atspalviai": "slengas",
+      "Ekspresiniai atspalviai": "niekinamasis",
+      "Sąsajos": "droidas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Mane labiausiai pradžiuginęs vasaros memas (mažos nesąmonės, ką žmonės sugalvoja per vasarą,kai nieko neveikia), yra žodis klenker. Visi robotai, kurie važinėja mūsų gatvėmis, visi robotai štai turi naują keiksmažodį, kuriuo galima juos įžeidinėti.",
+          "Šaltinis": "youtube.com (kanadalas „Du bitai“), Jonas Lekevičius.",
+          "Šaltinio rūšis": "sakytinė laisvoji kalba",
+          "Metai": "2025",
+          "Kita metrika": "08 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "ahaha, pagaliau supratau, kodel zmones komentuoja ta clanka. Vis svarsciau, ka cia reiskia sis terminas Aciu uz paaiskinima.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "08 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Rimta bėda tai. Tarp artimų jau yra tų kurie negalvoja patys. Įsijungia chatgpt ir grynai klausia “ką reiškia kai šitas žmogus daro tokį dalyką” ir 100% tiki tuom ką clankeris pasako.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "rugpjūtis.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
