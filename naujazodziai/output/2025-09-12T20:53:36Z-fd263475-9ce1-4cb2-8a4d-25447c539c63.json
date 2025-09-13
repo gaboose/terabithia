@@ -1,0 +1,57 @@
+{
+  "uuid": "fd263475-9ce1-4cb2-8a4d-25447c539c63",
+  "header": "medžioklėtvarka",
+  "publishedDate": 1757710416719,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "medžioklė́tvarka",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "erdvėtvarka; kalbotvarka; krantotvarka; medžioklėtyra; medžiotžudys, -ė; paveldotvarka; valdžiatvarka; vandentvarka",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-09-11).",
+      "Pateikta": "2025-09-12",
+      "Atnaujinta": "2025-09-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "medžioklės reguliavimui skirtų norminių teisės aktų ir juos vykdančių institucijų veiklos sistema; šios srities veikla.",
+      "Vartojimo sritys": "aplinka, teisė (teisėtvarka)",
+      "Sąsajos": "medžioklėtyra",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "1. Tvirtinu Medžioklėtvarkos projektų rengimo, derinimo, teikimo tvirtinti ir tvirtinimo tvarkos aprašą (pridedama).2. Pavedu Aplinkos ministerijos Gamtos apsaugos departamentui organizuoti ir koordinuoti medžioklėtvarkos projektų rengimą bei teikti paraiškas Aplinkos apsaugos rėmimo programos lėšų panaudojimo tarybai dėl medžioklėtvarkos projektų rengimo finansavimo Aplinkos apsaugos rėmimo programos lėšomis.",
+          "Šaltinis": "e-tar.lt. Lietuvos Respublikos aplinkos ministro įsakymas „Dėl medžioklėtvarkos projektų rengimo, derinimo, teikimo tvirtinti ir tvirtinimo tvarkos aprašo patvirtinimo“ Nr. D1-162.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2005",
+          "Kita metrika": "03 31.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Trečiame kurse susipažino su šviesaus atminimo doc. dr. Kęstučiu Pėteliu, kuris dėstė medžioklėtvarkos dalykus. „Man pasisekė, nes nuo pirmų dienų jis turėjo ant manęs akį. Jam patiko, kad buvau baigęs vadinamuosius Girionis, mokėjau medžiojamųjų žvėrių apskaitas atlikti ir kitus darbus. 2006 m. universitetas laimėjo konkursą atlikti medžioklėtvarką Lietuvoje ir Kęstutis mane pakvietė darbuotis Medžioklėtvarkos grupėje.“",
+          "Šaltinis": "medzioklezurnalas.lt, aut. Rasa Vaitkevičiūtė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "09 21.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "8-tajame žurnalo “Medžioklė“ straipsnyje buvo rašoma ir apie elninių žvėrių vertinimą atsižvelgiant į konkrečiame medžioklės plotų vienete gyvenančią populiaciją. Dažniausiai medžioklės ploto vienetas yra per mažas, kad jį būtų galima išskirti į atskirą vienetą. Elninių žvėrių rajonavimas arba atskiros elninių žvėrių rajonų ribos buvo išskirtos atliekant 2006-2010 m. medžioklėtvarką, tik deja tai buvo atlikta apie 45% Lietuvos teritorijos.",
+          "Šaltinis": "miske.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2022",
+          "Kita metrika": "03 31.",
+          "Pavyzdį pateikė": "Gita (2025-09-11)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "[...] svarbesnis klausimas – Medžioklėtvarkos projektas, kuris turėjo būti sudaromas ne rečiau kaip kartą per 10 metų, paskui privalomumo neliko. Medžioklėtvarkos projektas reikalingas dokumentas, todėl siūlytų jį padaryti privalomą ir papildyti duomenimis (skaičiais) dėl minimalių, maksimalių laukinių gyvūnų populiacijos dydžių ir normų. Medžioklėtvarkos projektą derinti su miško, žemės savininkais ir naudotojais, komisija, vertinančia laukinių gyvūnų padarytą žalą. Šie klausimai nepelnytai nustumti į šoną.",
+          "Šaltinis": "am.lrv.lt. Medžioklės tvarkymo konsultacinės tarybos posėdžio protokolas Nr. D4-169.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2025",
+          "Kita metrika": "06 13.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
