@@ -1,0 +1,42 @@
+{
+  "uuid": "1a40a10b-4eba-4ef8-a221-faca91a1a7d8",
+  "header": "šavarminė",
+  "publishedDate": 1757917475103,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "šavárminė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "arabų, lietuvių k. padaryta iš šavarma < anglų k. perraša shawarma.",
+      "Giminiški naujažodžiai": "šavarma",
+      "Pateikta": "2025-09-15"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "užkandinė, kur prekiaujama šavarmomis.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "užkandžiai",
+      "Sąsajos": "šavarma",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Viskas, einu pusryčiauti. Šavarmos (pagerinto kebabo varianto) nematyti, o jei ir matyti tai nė viena šavarminė dar nedirba, todėl būti mano draugu McDonald's šį rytą dar gan ankstyvą.",
+          "Šaltinis": "donatokelyje.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2018",
+          "Kita metrika": "12 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Prie turgaus rytietiška šavarminė – galima gauti baklavos ir arbatos iš turkiškų stiklinių – stiprios lyg lyg alkoholis.",
+          "Šaltinis": "Šiaurės Atėnai",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "09 05.",
+          "Naujažodį pavartojo": "Giedrė Kazlauskaitė",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
