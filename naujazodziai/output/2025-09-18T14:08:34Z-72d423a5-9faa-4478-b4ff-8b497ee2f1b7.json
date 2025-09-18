@@ -1,0 +1,40 @@
+{
+  "uuid": "72d423a5-9faa-4478-b4ff-8b497ee2f1b7",
+  "header": "chromavimas",
+  "publishedDate": 1758204514127,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "chromãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, plg. chroming.",
+      "Giminiški naujažodžiai": "chromingas",
+      "Papildoma informacija": "DLKŽ 6e straipsnyje chromuoti yra dvi reikšmės: „1. metalo dengimas plonu chromo sluoksniu; 2. odos apdorojimas chromo druskomis“.",
+      "Pateikta": "2025-09-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "internete plintantis sveikatai ir gyvybei pavojingas iššūkis svaigintis įkvepiamomis nuodingomis medžiagomis (ypač turinčiomis chromo).",
+      "Vartojimo sritys": "el. komunikacija, medicina (sveikata)",
+      "Kiti variantai": "chromingas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Ji sakė: „Niekada anksčiau nebuvau girdėjusi apie „chromavimą“. Vėliau išgirdau apie tai, kad žmonės tai darė ir mirė arba jiems pavyko išsikapstyti.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "04 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Trylikametis berniukas buvo rastas negyvas tarp dvylikos aerozolio balionėlių. Vaiko netekusi šeima iš Jungtinės Karalystės įspėjo apie socialiniuose tinkluose plintantį mirtiną „chromavimo“ („chroming“) iššūkį.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 12.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
