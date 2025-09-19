@@ -1,0 +1,48 @@
+{
+  "uuid": "f0b242ca-c6a4-4bbf-bfd3-0a6bb36dd3fe",
+  "header": "teilgeitingas",
+  "publishedDate": 1757849961865,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "tei̇̃lgeitingas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, tailgating.",
+      "Pateikta": "2025-09-14"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pavojingas važiavimas įkandin („įsisegus į uodegą“) minimaliu atstumu nuo priekyje važiuojančios transporto priemonės.",
+      "Vartojimo sritys": "transportas",
+      "Kodifikacija": "neteiktina",
+      "Varianto statusas": "nenorminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "– Labai jau retas 150 varo prilipęs per 3 metrus nuo priekyje esančio. – Vokietijoje \"tailgating'as\" labai stipriai baudziamas.",
+          "Šaltinis": "miestai.net",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2019",
+          "Kita metrika": "01 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Motociklininkas nuo pat pirmos sekundės įkyriai pažeidinėjo taisykles. Už tokį tailgating'ą tiek Vokietijoj, tiek Prancūzijoj tiek Šveicarijoj net nemirktelėjęs policinikas išrašytų baudą.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2021",
+          "Kita metrika": "04 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "tailgating'as (saugaus atstumo nesilaikymas) yra kur kas didesnė kasdienė ir užknisanti problema, tik jos magiškai nei policija, nei žurnalistai nemato.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "08 10.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
