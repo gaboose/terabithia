@@ -1,0 +1,111 @@
+{
+  "uuid": "9ec6ce51-31d6-4d21-b293-68a096c56404",
+  "header": "tempomatas",
+  "publishedDate": 1758617398101,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "tempomãtas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, tempomate; dar plg. cruise control.",
+      "Duomenų pateikėjai": "pirmasis apie naujažodį pranešė duomenyno lankytojas (2023-12-11).",
+      "Pateikta": "2025-09-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "įtaisas, palaikantis pastovų transporto priemonės greitį.",
+      "Vartojimo sritys": "transportas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Brolis per skelbimus nusipirko tempomatą ir įsidėjo į savo bemwą. Vakar važiavau užmiesty, tai jausmas labai malonus paliko, kai atleidęs gazą sau važiuoji nustatytu greičiu, į kalniuką paspaudžia, nuo kalniuko atleidžia.. :blush: Spidometro rodyklė kaip įkalta ^_^ Tai va, net įdomu pasidarė, ar ant 405-to kas nors tokį turi daikčiuką? Kaip veikia? Gal net kas nors bandė savo jėgomis įsidėti?",
+          "Šaltinis": "peugeot-klubas.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2003",
+          "Kita metrika": "04 20.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Taigi vaziuoji isijungi tempomato mygtuka ir tarkim esant 100 km/h greiciui spustelni rankenele i virsu arba i apacia ir masina vaziuoja nustatytu greiciu. Jei greitis per didelis arba per mazas palenkus ja i virsu galima padidinti greiti ir ir atvirksciai. Dabar tarkim teko pristabdyti (paspaudus stabdzius tempomatas atsirubilina o atminty liko ivestas 100 km/h) ir greitis 80 o norim gryzti prie 100. Spustelnam rankenele i virsu ir masina klusniai vaziuoja jau 100 km/h greiciu.",
+          "Šaltinis": "citrina.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2005",
+          "Kita metrika": "07 12.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Pirmieji adaptyvūs tempomatai, kurie galėjo palaikyti saugų atstumą iki priekyje važiuojančio automobilio, pasirodė dar 1999 m. Tuomet septintosios kartos S klasės „Mercedes-Benz“ modelis buvo komplektuojamas su Vokietijos bendrovės „A.D.C.“ sukurta sistema, kuri sujungė tempomatą su radaru. Maždaug po pusmečio 7 serijos BMW debiutavo analogiška „Robert Bosch“ sistema. Dabar „A.D.C.“ priklauso „Continental“ bendrovei.",
+          "Šaltinis": "autotyrimai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2007",
+          "Kita metrika": "06 01.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Nors tikrieji autopilotai vis dar kūrimo ir tobulinimo fazėje, tačiau kai kurie sprendimai jau prieinami senokai. Pavyzdžiui, pirmieji adaptyvūs tempomatai, kurie galėjo palaikyti saugų atstumą iki priekyje važiuojančio automobilio, pasirodė dar 1999 m. Tuomet septintosios kartos S klasės „Mercedes-Benz“ modelis buvo komplektuojamas su Vokietijos bendrovės „A.D.C.“ sukurta sistema, kuri sujungė tempomatą su radaru. Maždaug po pusmečio 7 serijos BMW debiutavo analogiška „Robert Bosch“ sistema.",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2010",
+          "Kita metrika": "05 05.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "[...] Daug automobilių, pavyzdžiui, „Lexus“ ar „Volvo“ modeliai, turi aktyvų tempomatą, kuris neleidžia priartėti prie priešais važiuojančio automobilio. Jei pasivejate lėčiau važiuojantį automobilį, į jį neatsitrenksite. Kliūčiai pasitraukus sistema vėl sugrįš prie Jūsų pasirinkto greičio.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "10 27.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Tempomatas (arba autopilotas) ypatingai praverčia ilgų kelionių metu, o pastaraisiais metais išpopuliarėjusi jo atmaina, vadinamasis „aktyvus tempomatas“, ženkliai prisideda prie eismo saugumo. Daug gamintojų jau gali pasiūlyti tokį funkcionalumą, kai automobilis laikosi saugaus atstumo iki priešais važiuojančios transporto priemonės. Jeigu važiuojama pasitelkus tempomatą ir priešais važiuojantis vairuotojas staigiai pradėjo stabdyti, „aktyvus tempomatas“ nedelsiant sureaguoja ir pradeda daryti tą patį – taip išvengiama ne vienos avarinės situacijos ir netgi eismo įvykių.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "10 28.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Tokio tobulinimo pavyzdžiais galėtų būti vairavimą lengvinančios elektroninės sistemos, kurių veikimas yra paremtas sąveika su stabdžių sistema. Iš pastaruoju metu įdiegtų patobulinimų galime paminėti aktyvųjį tempomatą (angl. Cruise control), avarinio stabdymo sistemą arba transporto priemonės išlaikymo nuolydyje sistemą, kurios palengvina vairuotojo darbą.",
+          "Šaltinis": "motofocus.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2015",
+          "Kita metrika": "11 25.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "Sutrumpinimas ACC reiškia adaptyvinis tempomatas. Adaptyviniu jis vadinamas todėl, kad automatiškai pritaiko automobilio greitį prie eismo srauto. Automobilis su šiuo prietaisu greitėja ir stabdo taip pat, kaip priekyje važiuojantys kiti eismo dalyviai. Svarbiausia ACC tempomato dalis – išmanusis radaras, kurio „akis“ nuolat stebi priekyje važiuojančio automobilio greitį ir matuoja atstumą iki jo, tuo pat metu palaikydamas nustatytą saugią distanciją tarp dviejų automobilių.",
+          "Šaltinis": "autobild.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2016",
+          "Kita metrika": "07 21.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "9-as pavyzdys": {
+          "Pavyzdys": "Nors Mercedes-Benz 123-iosios serijos automobiliuose naudojami dviejų tipų tempomatai, visi jie veikia važiuojant didesniu kaip 40 km/h greičiu. Nepatartina naudoti tempomatą esant sunkioms eismo sąlygoms (pvz. blogom meteorologinėms sąlygoms, kai intensyvus eismas ir t.t.).",
+          "Šaltinis": "c123.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Kita metrika": "03 13.",
+          "Pavyzdį pateikė": "duomenyno lankytojas (2023-12-11)."
+        },
+        "10-as pavyzdys": {
+          "Pavyzdys": "Mėlynos spalvos kontrolinės lemputės atlieka išskirtinai informacinę funkciją. Pavyzdžiui, tai gali būti pranešimas apie įjungtą posūkių signalą – rodyklės į kairę arba į dešinę, įjungtas ilgąsias šviesas rodo žibintas ir iš jo į priekį sklindanti šviesa, apie įjungtą tempomatą signalizuoja maža rodyklė, nukreipta į spidometrą. Šios kategorijos pranešimai neturi kelti streso.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "03 02.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        },
+        "11-as pavyzdys": {
+          "Pavyzdys": "Ieškau rekomendacijų, kur kalibruoti autopiloto radarą (distroniką, acc, tempomatą ir t.t)",
+          "Šaltinis": "facebook.com; aut. Aurelija Narutavičiūtė.",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "04 17.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-08)."
+        }
+      }
+    }
+  }
+}
