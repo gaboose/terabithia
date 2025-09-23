@@ -1,0 +1,46 @@
+{
+  "uuid": "f6c68149-0540-4f71-b9a3-edded28a6270",
+  "header": "įvestis",
+  "publishedDate": 1758658435368,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "įvesti̇̀s",
+      "Kirčiuotė": "3a",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. input.",
+      "Pateikta": "2025-09-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "įvedamieji skaitmeniniai duomenys.",
+      "Vartojimo sritys": "kompiuterija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Įvestis – tai duomenų arba informacijos pateikimo kompiuterio sistemai ar programai procesas. Tai pirmasis duomenų apdorojimo proceso žingsnis. Įvestis gali būti pateikta įvairiais būdais, įskaitant rankinę įvestį, pvz., rašant klaviatūra< /a> arba automatinė įvestis, pvz., brūkšninio kodo nuskaitymas. Įvestis naudojama duomenims kurti, keisti arba ištrinti kompiuterinėje sistemoje.",
+          "Šaltinis": "idx.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "12 19.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-06)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "– Manau, Bleikas buvo nužudytas ne šiaip sau, – spyriojausi. – Dykumoje gyvenom vieni. Bet panorėjęs bet kas galėjo pasekti Bleiką iki namų. – Ne, negalėjo. – Ir vėl beveik išgirdau, kaip Karsonas papurtė galvą. – Tai neįmanoma. Mažiausiai keturiasdešimt mylių kelias veda per plynę. Manot, jis nebūtų pastebėjęs iš paskos sekančio automobilio? – Na, tai kas nors galėjo patikrinti jo navigaciją, – pasakiau. – Jis naudojosi ja dirbdamas. O jei kas nors patikrino įvestis? Ir atsekė maršrutą?",
+          "Šaltinis": "Cate Quinn. Juodosios našlės. Vilnius: Baltos lankos. Iš anglų k. vertė Viktorija Uzėlaitė.",
+          "Šaltinio rūšis": "verstinis meninis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "p. 345.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-18)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Duomenų įvesties formatų valdymas įvesties šablonais Galite padėti žmonėms tinkamai įvesti duomenis į „Access“ kompiuterio versijos duomenų bazę pateikdami laukų, kuriuose yra visada tam tikru būdu formatuojamų duomenų, įvesties šablonus. Pvz., galite naudoti įvesties kaukę norėdami būti tikri, kad žmonės tinkamai įves suformatuotus telefono numerius į telefono numerio lauką. [...] Įvesties šablonas – tai simbolių eilutė, nurodanti leistinų įvesties reikšmių formatą. Įvesties šablonus galite naudoti lentelės laukuose, užklausos laukuose ir formų bei ataskaitų valdikliuose.",
+          "Šaltinis": "support.microsoft.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "birželis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-06)."
+        }
+      }
+    }
+  }
+}
