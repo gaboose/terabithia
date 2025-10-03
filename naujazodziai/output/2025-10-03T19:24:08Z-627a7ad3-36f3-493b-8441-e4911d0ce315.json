@@ -1,0 +1,49 @@
+{
+  "uuid": "627a7ad3-36f3-493b-8441-e4911d0ce315",
+  "header": "viapas",
+  "publishedDate": 1759519448795,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "viãpas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "vijapas.",
+      "Kilmė": "lietuvių, < VIAP „viešuosius interesus atitinkančios paslaugos“.",
+      "Pateikta": "2025-10-03"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "viešuosius interesus atitinkančios paslaugos.",
+      "Vartojimo sritys": "verslas",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Kiti variantai": "VIAP",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kalbant apie vėjo jėgaines, per 12 metų jos visiškai atsiperka ir VIAP paramos joms niekas neduoda, tiesiog yra įsipareigojimas supirkti gaminamą elektrą esama rinkos kaina, o per kiek metų atsipirks VAE? nežinai? kaip gali žinoti, kai nežinai kiek kainuos pats projektas :)Kainos, ir viapas yra http://www.regula.lt puslapyje, jei labai įdomu, gali pasiieškoti skaičių [...].",
+          "Šaltinis": "topzone.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2012",
+          "Kita metrika": "10 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "VIAP-o esmė nėra tokia nesuvokiama: tai lėšos, kurios sukaupiamos iš vartotojų mokėjimų už elektros energiją ir paskirstomos elektros energijos gamintojams, kuriems, Vyriausybės vertinimu, tokios paramos reikia. Ilgą laiką po ministerijos sparnu priglausti ir toli nuo visuomenės akių buvę VIAP-o reikalai niekam nekliuvo, tačiau praėjusiais metais apie juos imta plačiau kalbėti, nes, siekiant daugiau skaidrumo ir viešumo, VIAP teikimo, jo lėšų administravimo tvarkas imta tvirtinti Vyriausybėje. Dabar vijapas tapo garsus dar ir tuo, kad pateko į pirmąsias politinių karų linijas. Naujoji Vyriausybė paskelbė, kad energetikos sektoriuje rado blogą padėtį – visos bėdos čia siejamos su VIAP surinkimu, administravimu, galimu lėšų pervedimu į užsienį.",
+          "Šaltinis": "delfi.lt; aut. Kęstutis Škiudas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "01 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Nemokamai gyventojai niekada negaus. Viskas per biržą ir tiekėjo kainomis. O jei kaina sumažės koks viapas ar kitas š brangs.",
+          "Šaltinis": "anyksta.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "01 04.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
