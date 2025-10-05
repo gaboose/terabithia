@@ -1,0 +1,40 @@
+{
+  "uuid": "fb4c8a5e-01a1-4836-95dc-5f8ea7106712",
+  "header": "meteopriklausomas, -a",
+  "publishedDate": 1759693095228,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "meteopriklaũsomas, meteopriklaũsoma",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių, plg. anglų k. meteo dependent.",
+      "Giminiški naujažodžiai": "meteojautrus, -i; meteopatas, -ė; meteopatija; meteopatinis, -ė; meteorolabilus, -i; meteorostabilus, -i",
+      "Pateikta": "2025-10-05"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris jautriai reaguoja į orų kaitą.",
+      "Vartojimo sritys": "aplinka, medicina (sveikata)",
+      "Sąsajos": "meteojautrus, -i; meteopatinis, -ė; meteorolabilus, -i; meteorostabilus, -i",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Blogos oro sąlygos. Gal tai ir neįtikėtinai skamba, tačiau daugelis vaikų yra meteopriklausomi, ypač pastaruoju metu, ir tai daro įtakos jų apetitui.",
+          "Šaltinis": "mamyciuklubas.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2015",
+          "Kita metrika": "04 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Magnetinio lauko svyravimams susilpnėjus iki 4 balų, jie turėtų likti juntami tik itin jautrioms meteopriklausomoms asmenybėms ar silpnos sveikatos ir imuniteto žmonėms. Jie gali skųstis prastesniu apetitu, nemiga, greitesniu nuovargiu. Visiškai sveiki žmonės šiomis dienomis neturėtų susidurti su jokiais savijautos pakitimais.",
+          "Šaltinis": "alfa.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "10 04.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
