@@ -1,0 +1,56 @@
+{
+  "uuid": "3154f378-3b37-4f7f-8ee4-96beff4c287f",
+  "header": "kibicas",
+  "publishedDate": 1760355469279,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ki̇̀bicas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lenkų, kibic.",
+      "Pateikta": "2025-10-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kokios nors sporto šakos lenkų sirgalius, aistruolis.",
+      "Vartojimo sritys": "sportas",
+      "Semantiniai požymiai": "sirgaliai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Į sostinę šį ketvirtadienį žaisti UEFA rungtynių su Vilniaus „Žalgiriu“ atvykstantys Poznanės „Lech“ klubo sirgaliai yra vieni aršiausių šioje šalyje. Klubo aistruoliai, arba, kaip lenkai juos vadina, kibicai, yra puikiai organizuota nusikalstama grupuotė: turi savo iždą, koordinatorius, smogikus, kovos su policija taktiką.",
+          "Šaltinis": "alfa.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "07 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Lenkų futbolo „kibicai“ grįžta į Šiaulius [antraštė] Nors neramumų rizika žaidžiant su lenkų klubais yra didesnė, vien Lenkijos „kibicų“ pasirodymas muštynių negarantuoja. Kone kasmet lenkai kerta mūsų šalį keliaudami į savo klubų Europos taurių mačus Šiaurėje. Apie juos vėliau primena tik lipdukais nuklijuoti stulpai degalinėse.",
+          "Šaltinis": "delfi.lt, aut. Jokūnas Plytnikas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "06 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Po visko, nakčia pajudėjus Lietuvos link, mūsų autobuse sėdėjusiam ultrų vadui pradėjo plaukti SMS’ai. Maždaug, sustokit truputį pavažiavę laukuose. Pasiūlymai išsiaiškinti santykius. Surengti kautynes, tarptautinį snukiadaužį. Mūsų autobusą lydėjo žvalgų BMW. Kažkokiais kanalais buvo sužinota, kad pakrūmėje mūsų laukia Molodojus su savo sėbrais. Plius mikroautobusas (eksprorusiškų, dabar – licvinistų) Minsko „Dinamo“ ultrų. Ir vienas autobusiukas kibicų iš kažkurio Lenkijos miestelio.",
+          "Šaltinis": "zurnalasmetai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "nr. 11.",
+          "Naujažodį pavartojo": "Donatas Petrošius",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "15min aiškinosi, kaip vertinti lenkų „kibicų“ elgesį – tiek Rasų kapinėse, tiek ir agresyvią žinutę savo šalies premjerui D.Tuskui. [...]Tuo metu Lietuvos konservatorių lyderis Laurynas Kasčiūnas, kuris aktyviai palaiko tiek Lietuvos rinktinę, tiek Vilniaus „Žalgirį“, sakė neigiamai vertinantis tokį lenkų „kibicų“ veiksmą.Tiesa, pasak jo, žinant Lenkijos fanų judėjimų politines pažiūras, toks elgesys yra natūralus.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "10 13.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
