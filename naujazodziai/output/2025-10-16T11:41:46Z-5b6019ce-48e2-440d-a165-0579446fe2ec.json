@@ -1,0 +1,40 @@
+{
+  "uuid": "5b6019ce-48e2-440d-a165-0579446fe2ec",
+  "header": "procentuotė",
+  "publishedDate": 1760614906499,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "procentuõtė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Pateikta": "2025-10-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "procentinė sudėtis; procentų pasiskirstymas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "planuotė4",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "„Tiesiog keistai viskas atrodė, nes biudžetą formavome tikrai ne vieną mėnesį ir tai yra sudėtingas, darbui imlus procesas. Ir man atrodo, kad procentuotė buvo iš anksto aiški, kiek yra skiriama gynybai“, – ketvirtadienį Seime žurnalistams sakė I. Ruginienė. [...žiuojuosi, kad ir kaip būtų sunku, bet pavyko skirti nemažą sumą, procentuotę būtent mūsų krašto apsaugai“, – pridūrė ji.",
+          "Šaltinis": "lrt.lt (ELTA).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "10 26.",
+          "Naujažodį pavartojo": "Inga Ruginienė",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pagal kliento užsakymą galime gaminti įvairios procentuotės pieno ir išrūgų miltus su augalinės ir gyvulinės kilmės riebalais.",
+          "Šaltinis": "laktopolis.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "spalis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
