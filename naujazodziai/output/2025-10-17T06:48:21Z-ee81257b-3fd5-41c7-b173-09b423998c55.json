@@ -1,0 +1,56 @@
+{
+  "uuid": "ee81257b-3fd5-41c7-b173-09b423998c55",
+  "header": "multiomika",
+  "publishedDate": 1760683701977,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "multiòmika",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, multiomics, multi-omics.",
+      "Giminiški naujažodžiai": "genomika; konektomika; omika",
+      "Pateikta": "2025-10-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "biologinės analizės metodas, siejantis kelias omikos šakas.",
+      "Vartojimo sritys": "technologijos",
+      "Sąsajos": "omika",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "„Atrandi Biosciences“ – pirmieji pasaulyje, kuriantys pusiau pralaidžių kapsulių technologiją, kuri leidžia vykdyti didelio masto vienos ląstelės multiomikos tyrimus. Įmonės patentuoti sprendimai supaprastina sudėtingus eksperimentinius procesus ir paspartina biologinius atradimus.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "02 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "VU GMC mokslininkai pabrėžia, kad akademiniai tyrimai sudaro stiprų pagrindą inovacijoms, bet jų komercinė sėkmė priklauso nuo biotechnologijų ekosistemos brandos. „Didžioji dalis mūsų laboratorijos darbų šiuo metu remiasi SPC technologijos taikymu tiriant pavienes ląsteles ir plėtojant multiomikos metodus. Ar šie tyrimai prives prie naujų išradimų – parodys laikas. Tačiau jau dabar aišku, kad kai kurios mūsų doktorantų plėtojamos temos turi didelį komercinį potencialą“, – teigia prof. L. Mažutis.",
+          "Šaltinis": "gmc.vu.lt, aut. dr. Greta Leonavičienė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "02 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Pirmąkart išgirdus terminą multiomika, jį suprasti ne taip jau ir lengva. Iš esmės, tai būdas pažinti mūsų organizmus analizuojant ne tik pavienius fragmentus, bet ir skirtingų lygių informaciją. Multiomikos mokslininkė dr. Ingrida Olendraitė pateikia pavyzdį: nors salotą mėsainyje rasti galima, iš jos spręsti apie patiekalą būtų sunku, nes trūktų daug svarbios informacijos. Su laidos pašnekove kalbame apie multiomikų pavyzdžius ir prasmę.",
+          "Šaltinis": "lrt.lt, aut. Karolina Panto.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Multiomikos technologijos vis labiau keičia astmos – sudėtingos ir heterogeninės lėtinės kvėpavimo takų ligos – supratimą ir gydymo būdus.",
+          "Šaltinis": "Andrius Januškevičius, Kęstutis Malakauskas. Multiomika – astmos tyrimų ateitis. – Pulmonologija ir alergologija. 2025.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2025",
+          "Kita metrika": "t. 9, nr. 2.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
