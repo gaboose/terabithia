@@ -1,0 +1,47 @@
+{
+  "uuid": "5a02d870-bbdf-4130-84ab-2db1a2c7103b",
+  "header": "savipilda",
+  "publishedDate": 1762203893569,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "savi̇̀pilda",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Rita U. (2025-10-24).",
+      "Pateikta": "2025-11-03"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "anketinių duomenų rinkimo būdas, kai klausimyną pildo patys anketuojamieji.",
+      "Vartojimo sritys": "bendroji vartosena, mokslas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Standartinis klausimynas buvo pildomas pačių gyventojų jų namuose. Savipilda turi teigiamų ir neigiamų pusių. Jei klausimas nepakankamai aiškus, į jį paprastai neatsakoma. [...]Be to, savipilda sudaro sąlygas respondentams atviriau atsakyti į klausimus, ypač susijusius su žalingais įpročiais.",
+          "Šaltinis": "portalcris.lsmuni.lt, Vilma Kriaučionienė. Lietuvos gyventojų mitybos ir jos pokyčių vertinimas, atsižvelgiant į socialinius veiksnius. Daktaro disertacija. Kaunas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2005",
+          "Kita metrika": "p. 80.",
+          "Pavyzdį pateikė": "Rita U. (2025-10-24)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Dėl pakankamai jautrios tyrimo temos, siekiant sumažinti tyrimo dalyvių baimę atsiskleisti, respondentai klausimynus pildė savipildos būdu.",
+          "Šaltinis": "Šarūnas Sabaliauskas. Kauno miesto „X“ poliklinikos pacientų požiūris į storosios žarnos vėžio ankstyvosios diagnostikos programą. Magistro diplominis darbas. Kaunas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2018",
+          "Kita metrika": "p. 31.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Europos socialinį tyrimą (EST) įgyvendinanti VDU mokslininkų komanda gegužės 14 d. 13 val. kviečia į metodologinį seminarą „Ar savipilda gali pakeisti tiesioginius interviu socialiniuose tyrimuose?“. Seminaro metu rinkos tyrimų bendrovės UAB „Eurotela“ atstovai [...] pasidalins per paskutinius dvejus metus įgyvendintų trijų socialinių tyrimų – PIAAC, EST, LIST – patirtimi. Aptars imties ir „lauko“ darbo rodiklius, respondentų pasiekiamumo problemas, atrankos metodikas, „lauko“ darbo kontrolės mechanizmus, ypatingą dėmesį skirdami eksperimentams su savipildos metodu.",
+          "Šaltinis": "vdu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "04 29.",
+          "Pavyzdį pateikė": "Rita U. (2025-10-24)."
+        }
+      }
+    }
+  }
+}
