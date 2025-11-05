@@ -1,0 +1,62 @@
+{
+  "uuid": "283f3913-aabb-40fb-98ef-d3f171be3bac",
+  "header": "metakognicija",
+  "publishedDate": 1762333262589,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "metakogni̇̀cija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, metacognition.",
+      "Pateikta": "2025-11-05"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "gebėjimas stebėti savo mąstymą iš šalies ir jį reguliuoti, suvokiant šio proceso modelius.",
+      "Vartojimo sritys": "psichologija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Metakognicija yra gebėjimas mąstyti apie savo mąstymą ir kitų mintis. Jeilio psichologė ir mokslininkė bei tyrimo autorė Laurie Santos sako, kad metakognicija ilgai buvo laikoma bruožu, būdingu tik žmonėms.Bet ar kiti gyvūnai tai atpažįsta? Ankstesni tyrimai parodė, kad gyvūnai gali pažinti savo dvejojimą, tačiau šiuose tyrimuose pasirinkimui jiems buvo skiriamas daug ilgesnis laiko tarpas.Kita tyrimo autorė, Harvardo universiteto evoliucijos biologė Alexandra Rosati, sako, kad tai skiriasi nuo to, ką matome žmonėse. Anot jos, mokslininkai norėjo išsiaiškinti, ar beždžionės imsis metakognicijos nedelsdamos, kai tik susidurs su problema.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "08 08.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Metakognicijos instrukcijų įtaka kariūnų studijų rezultatams [tyrimo aprašymas] Kariūnai per informatikos kursą suskaidyti į dvi lygiagrečias grupes. Viena grupė kurso pradžioje gavo žinių apie metakogniciją (tiriamoji grupė), visa kita sutapo su kontroline grupe. Duomenys pateikia kariūnų visų atsiskaitymų rezultatus.",
+          "Šaltinis": "midas.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "10 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Ši studijų knyga parengta, įgyvendinant projektą „Judėjimas ir metakognicija: naujas būdas suprasti fizinio aktyvumo ir pažintinių procesų sąsajas“ (SRF-KT-2020-1-0002).",
+          "Šaltinis": "lnb.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "02 01.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kateryna Harbarets, VDU Švietimo vadybos magistrantūros studijų II kurso studentė, savo pranešimu tęsė metakognicijos, mokymosi ir generatyvinio dirbtinio intelekto sąsajų klausimą, pristatydama savo atliekamo magistrantūros baigiamojo darbo tyrimą. Šio tyrimo rezultatai atskleidžia, kaip studentai, naudodami generatyvinį dirbtinį intelektą savo mokymesi, formuoja savo supratimą apie GenDI technologijas ir jų naudojimą.",
+          "Šaltinis": "studyonline.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "03 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Metakognicija yra Ir tokioje būsenoje klausti savęs: „Kaip aš priimu šį sprendimą? Kokias prielaidas darau?“ „NeuroTraining Lab“ tyrimų duomenimis, vadovai, gebantys sąmoningai pereiti į tokį stebėtojo režimą, 30 proc. rečiau daro impulsyvius sprendimus.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "11 05.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
