@@ -1,0 +1,56 @@
+{
+  "uuid": "960b79d9-cfad-463b-9a2a-3c949b51f6f9",
+  "header": "biudžetavimas",
+  "publishedDate": 1762806950704,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "biudžetãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < biudžetuoti.",
+      "Giminiški naujažodžiai": "biudžetuoti; didžiabiudžetis, -ė (būdv.); mažabiudžetis, -ė (būdv.); subiudžetuoti",
+      "Pateikta": "2025-11-10"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "biudžeto planavimas, sudarymas ir tvarkymas; veiklai reikalingų dalykų apskaičiavimas ir įvertinimas.",
+      "Vartojimo sritys": "administravimas, verslas",
+      "Sąsajos": "biudžetuoti; subiudžetuoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Biudžetavimas – tai išanksto rengiamas bendrijos finansinis planas, jame numatomi mokesčiai, galimos išlaidos, pateikiama pinigų paskirstymo metodika. Bendrijos pirmininkui parengus finansinį planą ir jį patvirtinus bendrijos susirinkime, tas planas galios visus metus iki kol bus pakeistas.",
+          "Šaltinis": "bendrijukonsultavimas.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2017",
+          "Kita metrika": "03 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Mokymų dieną daug laiko skirsite biudžetavimui, todėl verta turėti kompiuterį su įdiegta „Excel“ programa.",
+          "Šaltinis": "infolex.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "09 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kiekvienai organizacijai, kuri savo veikloje vykdo finansines operacijas, ar tai būtų verslo įmonė ar viešoji įstaiga, biudžetavimas gali būti geru įrankiu valdyti savo procesus. Todėl į biudžetavimą (biudžeto planavimą, įgyvendinimo stebėseną, kontrolę) nereikėtų žiūrėti tik kaip į lentelių su skaičiais rinkinio parengimą. Į tai reikėtų žvelgti per savo veiklos procesų susidėstymą, kur turime aiškius atsakymus, kodėl tai darome, kaip darome ir kaip tai įvertiname savo turimais ištekliais.",
+          "Šaltinis": "lss.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "07 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Biudžetavimas, bent jau paprastas, ir fakto kaip mums sekasi lyginimas su planu, kurį mes buvome užsibrėžę, yra labai reikalingi kiekvienam verslui. Svarbus ir pasilyginimas su rinka, konkurentais – kaip jiems sekasi, nes tada mes matome, ar mes geriau važiuojame, ar blogiau, arba kiek vietos mums dar liko pasitempti, kad galėtume pasiekti rodiklius, kuriuos diktuoja rinka“, – aiškina specialistė.",
+          "Šaltinis": "delfi.lt, aut. Akvilė Bružinskaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "05 14.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
