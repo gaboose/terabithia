@@ -1,0 +1,64 @@
+{
+  "uuid": "369c63b8-d0d0-4237-a6c0-03cee8636163",
+  "header": "atlanka",
+  "publishedDate": 1764666669662,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "atlankà",
+      "Kirčiuotė": "3b",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Papildoma informacija": "LKŽe yra tokios reikšmės: 1. drabužio, audeklo atlenkimas; 2. nebetilpę į skietą metmenys, audžiant atgal vyniojami, atmatas; 3. atlenkta ir prie žemės prismeigta medžio ar krūmo šakelė, kad iš jos išaugtų naujas augalas; 4. du besiribojantys knygos ar laikraščio puslapiai, skirti kuriai nors temai išdėstyti; 5. atlankymas (t. y. aplankymas).",
+      "Duomenų pateikėjai": "pirmoji apie nają reikšmę pranešė Gita (205-12-02).",
+      "Pateikta": "2025-12-02",
+      "Atnaujinta": "2025-12-03"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kelio ruožas, kuriuo eismas nukreipiamas nuo pagrindinės trasos, kai daroma apylanka ar atšaka, leidžianti automobiliams laikinai ar nuolat važiuoti kitu maršrutu.",
+      "Vartojimo sritys": "transportas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Vienas svarbiausių veiksnių, trukdančių gatvių eismui, yra nuolatinės visuomeninio transporto stotelės. Jos gali būti įrengtos specialioje visuomeniniam transportui skirtoje gatvės juostoje, bendroje kraštinėje eismo juostoje arba gatvės praplatinime (toliau jis vadinamas atlanka). [...] Projektuojant atlankos geometrinius elementus remiamasi bendraisiais transporto eismo modeliais, bet neatsižvelgiama į transporto priemonių gabaritus ir jų galimybes manevruoti.",
+          "Šaltinis": "journals.vilniustech.lt, A. Rimkus. Visuomeninio transporto stotelių racionalių geometrinių formų nustatymas. – Statyba.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "1999",
+          "Kita metrika": "t. 5(2).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "77.4. jeigu apsauginiai barjerai atlenkiami 1:20 (išimtiniu atveju 1:12), pakreipiant atlanką į šoną išorėn, tai L2 ilgis gali būti sumažintas (žr. 4 lentelę). Šiuo atveju apsauginių barjerų, išdėstytų lygiagrečiai su važiuojamąja dalimi, ilgis prieš pavojingos vietos pradžią dviejų važiuojamųjų dalių keliuose turi būti ne trumpesnis kaip 15 m, o vienos važiuojamosios dalies keliuose – ne trumpesnis kaip 10 m [...].",
+          "Šaltinis": "Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos generalinio direktoriaus įsakymas Nr. V-8 „Dėl automobilių kelių transporto priemonių apsauginių atitvarų sistemų projektavimo taisyklių KPT TAS 09 patvirtinimo“.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2010",
+          "Kita metrika": "01 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Teigiama, jog vertinant realią situaciją (neanalizuojat galimų transporto srautų iš galbūt atsirasiančio išorinio uosto) didžiausias efektas būtų pasiektas įrengiant atlanką nuo P. Lideikio gatvės, apie 100-150 metrų ilgio greitėjimo juostą Herkaus Manto gatvėje pietų kryptimi, papildomas juostas kiekvienoje gatvėje ties sankryža ir pastačius naujus šviesoforus.",
+          "Šaltinis": "atviraklaipeda.lt, aut. Martynas Vainorius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "12 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Žeimių g. šiaurės rytinėje pusėje atlankoje esanti autobusų sustojimo aikštelė perkeliama į Aušros g. prie mokyklos teritorijos. Naujai projektuojamoje autobusų stovėjimo aikštelėje numatomas suoliukas su šiukšliadėže, galinė autobusų stotelėje numatoma nauja keleivių laukimo stoginė su integruotu suoliuku.",
+          "Šaltinis": "siauliuraj.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Kita metrika": "06 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Be to, planuojama atsisakyti nesaugių eismo sprendimų, tokių kaip šviesoforinė sankryža iš Ozo gatvės į Ukmergės gatvės jungiamojo kelio bei nereguliuojamas kairysis posūkis. Jie bus panaikinti, o visa sankryža bus rekonstruota taip, kad joje atsirastų trūkstamos „dobilo tipo“ atlankos ir žiedinės sankryžos. Šie pakeitimai turėtų pagerinti eismo pralaidumą, mažinti spūstis bei eismo įvykių tikimybę.",
+          "Šaltinis": "alfa.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "04 07.",
+          "Pavyzdį pateikė": "Gita (2025-12-02)."
+        }
+      }
+    }
+  }
+}
