@@ -1,0 +1,63 @@
+{
+  "uuid": "67f6afe8-6d1a-4743-85f5-1c23d29f4048",
+  "header": "telemedicina",
+  "publishedDate": 1765621840321,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "telemedicinà",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, telemedicine.",
+      "Giminiški naujažodžiai": "teledildonika; telekomas; telematika",
+      "Pateikta": "2025-12-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "nuotoliu, telekomunikacijos priemonėmis, teikiamos medicinos paslaugos (konsultacijos).",
+      "Vartojimo sritys": "medicina (sveikata), technologijos",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "1. Telemedicinos paslaugų teikimo tvarkos aprašas (toliau – Aprašas) nustato telemedicinos paslaugų teikimo Lietuvos nacionalinės sveikatos sistemos įstaigoms reikalavimus, šių paslaugų teikimo tvarką ir jų išlaidų apmokėjimą. Įstaigos, teikiančios telemedicinos paslaugas, privalo vadovautis šiuo Aprašu.",
+          "Šaltinis": "infolex.lt, Lietuvos Respublikos sveikatos apsaugos ministro įsakymas „Dėl telemedicinos paslaugų teikimo tvarkos aprašo patvirtinimo“ Nr. V-116.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2014",
+          "Kita metrika": "01 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Sveikatos apsaugos ministro Aurelijaus Verygos teigimu, šiuo metu vyksta parengiamieji darbai, projektai teikiami derinti visuomenei ir suinteresuotoms institucijoms. „Užsienio šalyse telemedicina – populiari, pasiteisinusi ir naudinga, nes suteikia galimybę medikams operatyviau keistis svarbia informacija apie pacientus, konsultuotis priimant sprendimus dėl gydymo. Natūralu, kad Lietuva irgi turi žengti su naujovėmis ir išnaudoti pažangiausias technologijas sveikatos sektoriuje. Tad pirmiausia telemedicina startuos teikiant skubiąją pagalbą. Vėliau spręsime, kokiose srityse būtų galima plėtoti šias paslaugas. Svetur tai populiaru ir teikiant paslaugas vaikams, gydant insultą, stebint lėtinius pacientus namuose, teikiant psichiatrijos ir intensyvios terapijos paslaugas“, – sako ministras.",
+          "Šaltinis": "rvul.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "01 16.",
+          "Naujažodį pavartojo": "Aurelijus Veryga",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Ne naujiena, kad vis daugiau technologijų veržiasi į sveikatos priežiūros sritį ir turbūt daugeliui yra girdėtas terminas telemedicina, tačiau ne visiems aišku, kas tai yra ir kaip tai veikia. Visų pirma, telemedicina – tai sveikatos priežiūros teikimas ir palaikymas naudojant komunikacijos technologijas ir elektroninę informaciją, kai dalyvius skiria atstumas. Tai gali būti įprasti skambučiai, elektroniniai laiškai, mobiliosiosios aplikacijos, vaizdo skambučiai bei įvairūs nešiojamieji prietaisai, kaip antai, žiedai ar laikrodžiai, kurie fiksuoja sveikatos duomenis. Telemedicinos paslaugos gali būti teikiamos tiek sinchroniniu, tiek asinchroniniu būdu. Prireikus nuotolinės sveikatos priežiūros paslaugos realiuoju laiku, su pacientu gali būti bendraujama telefonu ar vaizdo skambučiu, o nesant poreikio skubiai atsakyti su pacientu gali būti susisiekiama po keleto dienų, tarkim, elektroniniu paštu.",
+          "Šaltinis": "visuomenessveikata.hi.lt, aut. Gailė Damulevičiūtė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "10 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Nuo šiol Priėmimo–skubiosios pagalbos skyriuje dirbantys gydytojai galės realiu laiku konsultuotis su Santaros klinikų specialistais, pasitelkdami modernias vaizdo, garso ir medicininės įrangos priemones. Tai leis greičiau nustatyti diagnozes, priimti sprendimus dėl gydymo ar, esant poreikiui, dėl paciento pervežimo į aukštesnio lygio ligoninę. [...] Prieš daugiau nei metus mūsų SPS įdiegta Telemedicinos konsultacijų su Respublikinės Vilniaus universitetinės ligoninės (RVUL) kolegomis sistema leido iš esmės pakeisti buvusią praktiką ir ženkliai sumažinti pervežamų pacientų skaičius, kartu užtikrinant jiems geriausią įmanomą gydymą arčiau namų.",
+          "Šaltinis": "druskligonine.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "08 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Nuotolinės konsultacijos – tai telemedicinos forma, leidžianti gydytojams keistis medicinine informacija su savo pacientais siekiant pagerinti jų sveikatos būklę esant skirtingose vietose. Tokių konsultacijų modelio ištakos siekia XX a. devintąjį dešimtmetį, tačiau plėtros pikas fiksuotas COVID-19 pandemijos metu.",
+          "Šaltinis": "lrytas.lt, aut. Eglė Šilinskaitė-Puškorė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "12 13.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
