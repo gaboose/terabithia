@@ -1,0 +1,38 @@
+{
+  "uuid": "6f086084-427b-402d-b7d1-cdea64440bdf",
+  "header": "mikrokredencialas",
+  "publishedDate": 1765712053269,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "mikrokredenciãlas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, microcredential.",
+      "Pateikta": "2025-12-14"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "mokymo įstaigos išduodama pažyma apie baigtus mažos trukmės mokymo programos kursus.",
+      "Vartojimo sritys": "švietimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Sparčiai kintant darbo rinkos poreikiams, vis daugiau dėmesio skiriama lanksčiam ir tikslingam kompetencijų tobulinimui. Mikrokredencialai tampa reikšminga priemone, leidžiančia įgyti konkrečius įgūdžius per trumpą, struktūruotą mokymosi laikotarpį. Pagal Europos Sąjungos Tarybos 2022 m. rekomendaciją mikrokredencialas apibrėžiamas kaip besimokančiojo įgytų mokymosi rezultatų įrašas, pasiektas per trumpą mokymosi patirtį. Šie mokymosi rezultatai yra įvertinti pagal skaidrius standartus. Mikrokredencialas išduodamas laikantis sutartų standartų, yra perkeliamas, dalijamas ir gali būti derinamas su didesniais kredencialais ar kvalifikacijomis. Rekomendacijoje taip pat nustatyti bendrieji principai, skirti užtikrinti mikrokredencialų kokybę, skaidrumą ir pripažinimą visoje Europos Sąjungoje, apibrėžiami jų standartiniai elementai bei sąsajos su formaliojo ir neformaliojo mokymosi sistemomis.Lietuvoje mikrokredencialų diegimas yra ankstyvoje stadijoje – nors kai kurios aukštosios mokyklos jau siūlo trumpalaikius mokymus pagal šį modelį, nacionalinis teisinis reglamentavimas dar nėra išsamiai išvystytas.",
+          "Šaltinis": "smpf.lrv.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "06 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "3.7.5. Sukurti ir įgyvendinti mikrokredencialų (mažos trukmės mokymo programų) sistemos veikimo ir kokybės užtikrinimo reglamentavimą, sudarantį sąlygas kaupti ir pripažinti įgytų kompetencijų rezultatus.",
+          "Šaltinis": "lrv.lt, Dvidešimtosios Lietuvos Respublikos Vyriausybės programos nuostatų įgyvendinimo planas.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2025",
+          "Kita metrika": "12 10.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
