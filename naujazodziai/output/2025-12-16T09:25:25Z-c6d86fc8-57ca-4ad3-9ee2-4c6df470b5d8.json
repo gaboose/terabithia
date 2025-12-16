@@ -1,0 +1,67 @@
+{
+  "uuid": "c6d86fc8-57ca-4ad3-9ee2-4c6df470b5d8",
+  "header": "sportadienis",
+  "publishedDate": 1765877125039,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sportãdienis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "bėgadienis; kamuoliadienis; kinadienis; moksladienis; nesportadienis; pyragadienis; pirkiniadienis; poilsiadienis; pramogadienis; sirgadienis; sofadienis; sveikadienis; švaradienis; tinginiadienis; tvarkadienis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Urtė Kucevičiūtė (2025-10-20).",
+      "Pateikta": "2025-12-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "sportui, sportinei veiklai skirta diena.",
+      "Vartojimo sritys": "laisvalaikis, sportas",
+      "Semantiniai požymiai": "sporto organizavimas",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Sąsajos": "bėgadienis; kamuoliadienis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kovo 23 d. (sekmadienį) Lietuvos vaikų ir jaunimo centre (Konstitucijos per. 25, Vilnius) rengiamas „Sportadienis“ – atviras ir draugiškas renginys, kuriame vaikai ir jaunuoliai, galės išbandyti įvairias sporto veiklas.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "03 20.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Šių­me­tis Jau­ni­mo klu­bo spor­ta­die­nis, anot A. Žu­kaus­kie­nės, taip pat bu­vo la­bai vy­kęs. Ap­mau­du tik tai, kad, pa­sak jos, be pa­čių klu­bo na­rių dau­giau no­rin­čių­jų spor­tuo­ti taip ir neat­si­ra­do.",
+          "Šaltinis": "skrastas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "07 02.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Baigėsi projektas „Sekmadienis – sportadienis“, kurio metu tiek pavieniai tėveliai, tiek su vaikais sportuodavo su treneriu. Šis projektas suteikė galimybę judėti su profesionalo pagalba, išmokti naujų sporto judesių bei sužinoti kaip taisyklingai atlikti pratimus.",
+          "Šaltinis": "kazalgiris.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "01 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Besibaigiant kovo mėnesiui, „Purieniukai“ su savo šeimos nariais įgyvendino vaikų ir jaunimo olimpinio ugdymo projekto „Olimpinė karta“ veiklą ir sudalyvavo Sportadienyje „Sportuoja visi – maži ir dideli“.",
+          "Šaltinis": "gruzdziudarzelis.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "03 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Mėgaukitės vandens ir pirčių malonumais, judėkite grupinėse treniruotėse ar išbandykite treniruoklių salę. Paverskite savo penktadienį sportadieniu su mumis!",
+          "Šaltinis": "impuls.lt/blogas",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2023",
+          "Kita metrika": "11 21.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
