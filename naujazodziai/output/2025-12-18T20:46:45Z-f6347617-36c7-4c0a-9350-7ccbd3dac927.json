@@ -1,0 +1,89 @@
+{
+  "uuid": "f6347617-36c7-4c0a-9350-7ccbd3dac927",
+  "header": "turistautojas, -a",
+  "publishedDate": 1766090805102,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "turistáutojas, turistáutoja",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Papildoma informacija": "LKŽe yra tik veiksmažodis turistauti „keliauti turizmo tikslais“.",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kas turistauja, keliauja kaip turistas.",
+      "Vartojimo sritys": "laisvalaikis, visuomenė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Mūsų ekipaže buvo net trys vairuoti galintys turistautojai, tad, nuolat pasikeisdami, įveikę vingiuotus Lenkijos šunkelius, migdančius Vokietijos greitkelius ir lopinėlį keistosios Belgijos, meilės miestu tituluojamą Paryžių pasiekėme per mažiau nei 24 val.",
+          "Šaltinis": "15min.lt; aut. Tomas Grigalevičius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2009",
+          "Kita metrika": "03 16.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Keliautojų biblija“ dažnai pavadinamos turistinės „Lonely planet“ knygos jau senokai įgijo keliautojų pasitikėjimą visame pasaulyje. Populiarusis vienišų keliauninkų ir turistautojų gidas nepraleidžia progos užkariauti ir išmaniųjų telefonų ekranus. Tai leidžia interaktyvią, labai koncentruotą informaciją apie daugybę didžiausių pasaulio miestų turėti savo kišenėje.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "08 16.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Laužas – vienas maloniausių stovyklavimo elementų, bet kad jį uždegtumėte sklandžiai, teks šiuo tuo pasirūpinti. Kirvukas ir pjūkliukas – ištikimi turistautojo įrankiai, padėsiantys sušilti ir nemirti iš bado.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "05 25.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Griežlė. Paukštis, kurio beveik niekas nematė, bet apie ją prikurta gražių dainelių, todėl turbūt yra gera. Jos nepatinka poilsiautojams, turistautojams, nes visą naktį garsiai (labai garsiai) prašo varškės ir palapinėse neįmanoma užmigti.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "07 27.",
+          "Naujažodį pavartojo": "Marius Čepulis",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Skaičiuojama 20 metų, kai ši unikali Lietuvos vietovė yra įtraukta į UNESCO pasaulio paveldo sąrašą. Žinia apie unikalų kraštą pasklidusi po pasaulį ir daugeliui turistautojų yra tarsi vizitinė kortelė renkantis atostogų kryptis.",
+          "Šaltinis": "15min.lt; aut. Jurgita Andriejauskaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "12 01.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "„Pats esu aktyvus turistautojas, renkuosi aktyvų laisvalaikį, daug keliauju – kasmet labai kruopščiai atrenku „Norfos“ prekių asortimentą. Žinomų prekių ženklų, kaip kad specializuotose parduotuvėse, mūsų asortimente nerasite, bet kokybės ir kainos santykiu mes pelnytai didžiuojamės. [...]“, – apie savo darbo kasdienybę atviravo G.Banevičius.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "05 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "O pabaigai – apie komfortą Palangoje: pamirškite laikus, kai tualeto reikėjo su žiburiu ieškoti, traukti burtus, kas saugos daiktus, o kas eis išsimaudyti ar prašyti į jūsų krepšį akį užmesti nepažįstamo, bet iš veido, regis, patikimo turistautojo šalia. Viskas keičiasi iš esmės: jei vis dar kopų pakrūmes ar pačią jūrą verčiate tualetu, tai – jau jūsų tingėjimo, o ne tualetų stokos klausimas.",
+          "Šaltinis": "delfi.lt; aut. Justina Asakavičiūtė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "07 06.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "„Oi ne, mums čia labai fainai ir kiekvienais metais atvažiuojam. Visada smagu sugrįžti kaip turistautojai. Man tai labai smagus renginys, juk kiekvienais metais lenktynės buvo viena iš smagiausių vasaros švenčių Palangoje“, – užtikrintai sakė Natalija.",
+          "Šaltinis": "zmones.15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "07 20.",
+          "Naujažodį pavartojo": "Natalija Bunkė",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-26)."
+        }
+      }
+    }
+  }
+}

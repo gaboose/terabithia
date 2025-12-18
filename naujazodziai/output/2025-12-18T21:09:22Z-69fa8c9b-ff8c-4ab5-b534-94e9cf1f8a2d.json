@@ -1,0 +1,63 @@
+{
+  "uuid": "69fa8c9b-ff8c-4ab5-b534-94e9cf1f8a2d",
+  "header": "kelrodis",
+  "publishedDate": 1766092162467,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "kélrodis",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "balažinkelis; geležinkelynas; katkelis; kelioninės; kelių erelis; kelių gaidelis; kelių višta; meškelionė; pasakelionė; žmogkelis; žvyrkelizacija",
+      "Papildoma informacija": "DLKŽ6e yra dvi reikšmės: „1. kelio krypties rodyklė; 2. prk. kas rodo veikimo kryptį“.",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "strateginis dokumentas, įvertinantis kokios nors veiklos srities būklę, raidos tendencijas ir numatantis tolesnes plėtros kryptis bei perspektyvas.",
+      "Vartojimo sritys": "administravimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Paskelbtas Lietuvos informacinių ir ryšių technologijų kelrodis: ekspertai indikavo, ko reikia proveržiui [antraštė] Lietuvos informacinių ir ryšių technologijų (IRT) sektorius turi didelį potencialą augti, o siekiant jį realizuoti svarbu investuoti į šalies inovacijų ekosistemos vystymą. Tai akcentuojama Lietuvos IRT ekosistemos dalyvių kartu su Inovacijų agentūros ekspertais išgrynintose IRT sektoriaus kelrodžio rekomendacijose. [...] Kelrodyje pažymimas ir Lietuvos finansinių technologijų (FinTech) bei blokų grandinių sektoriaus potencialas, kurį užtikrina ekosistemos gyvybingumas ir branda.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "12 14.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Susipažinkite su Lietuvos statybos sektoriaus kompetencijų ugdymo iki 2030 metų Kelrodžiu [antraštė] Kviečiame susipažinti su „BuildUpSkillsLT2030“ projekto komandos ir daugiau kaip 100 rinkos dalyvių parengto Lietuvos statybos sektoriaus ateities kompetencijų ugdymo iki 2030 m. Kelrodžio įgyvendinimo priemonių planu. [...] Kelrodis bei veiksmų planas parengtas atsižvelgiant į nuolatos besikeičiančius statybos sektoriaus kvalifikacijos ir kompetencijų poreikius bei nuolat keliamus naujus ir ambicingus tikslus. [...] Rinkos dalyviai kviečiami pritarti Kelrodyje suformuotam priemonių planui ir prisijungti prie šio plano įgyvendinimo.",
+          "Šaltinis": "ssva.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "03 25.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Lietuvos mokslo taryba pristato Lietuvos mokslinių tyrimų infrastruktūros kelrodį [antraštė] Lietuvos mokslo taryba (LMT) pristato ketvirtąjį Lietuvos mokslinių tyrimų infrastruktūrų (MTI) kelrodį – kas ketverius metus atnaujinamą strateginį dokumentą, kuriame apžvelgiama dabartinė šių infrastruktūrų padėtis, įvertinamos tarptautinės MTI vystymosi tendencijos bei mūsų šalies MTI plėtros perspektyvos. Lietuvos MTI kelrodyje numatomos strateginės infrastruktūrų raidos kryptys, ilgalaikiai mokslinių tyrimų infrastruktūrų politikos ir vystymosi prioritetai bei galimybės dalyvauti tarptautiniuose MTI tinkluose ir organizacijose. Pirmasis Lietuvos MTI kelrodis parengtas 2011 metais.",
+          "Šaltinis": "lmt.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "gruodis.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Pristatytas ES Konkurencingumo kelrodis: kryptis gera, bet dabar svarbiausia greitis [antraštė] Sausio 29 d. Europos Komisija pristatė Konkurencingumo kelrodį – pirmąją svarbią šios kadencijos iniciatyvą, kuria siekiama suteikti strateginį pagrindą Komisijos darbui. [...] Pernai rudenį M. Draghi skelbtoje ataskaitoje buvo nustatyti trys pertvarkos privalomieji pagrindai konkurencingumui didinti, o Kelrodyje išdėstytas požiūris ir atrinktos pavyzdinės priemonės, kaip įgyvendinti kiekvieną iš šių privalomųjų pagrindų: [...].",
+          "Šaltinis": "lpk.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "01 30.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Saugumo ir gynybos strateginis kelrodis Strateginiame kelrodyje pateikiamos gairės ir bendra vizija, kaip iki 2030 m. sustiprinti ES saugumo ir gynybos politiką.",
+          "Šaltinis": "consilium.europa.eu",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "vasaris (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-02-13)."
+        }
+      }
+    }
+  }
+}

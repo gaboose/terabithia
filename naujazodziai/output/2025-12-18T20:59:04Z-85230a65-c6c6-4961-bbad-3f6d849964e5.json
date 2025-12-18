@@ -1,0 +1,63 @@
+{
+  "uuid": "85230a65-c6c6-4961-bbad-3f6d849964e5",
+  "header": "analitika",
+  "publishedDate": 1766091544583,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "anali̇̀tika",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, analytics.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-04-11).",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "duomenų analizė, pastaruoju metu paprastai atliekama taikant kompiuterinius modelius.",
+      "Vartojimo sritys": "kompiuterija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Duomenų analitika: nuo ko pradėti ir kaip sau padėti personalo sprendimuose [antraštė] Pirmoji duomenų analitikos fazė yra duomenų patikimumas ir sistemingas jų rinkimas bei fiksavimas. Tad, reikėtų pradėti nuo aiškių taisyklių kur, kaip, bei kokie įmonės duomenys kaupiami ir kas juos gali naudoti. [...] Dažniausi iššūkiai duomenų analitikoje yra susiję su duomenų kokybe ir patikimumu, gebėjimu juos laikyti saugiai ir užtikrinti privatumą.",
+          "Šaltinis": "vz.lt; aut. Eligijus Kajieta.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "10 17.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-05-24)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Į duomenų analitiką pasukusi Svetlana: „Pradėjau mažais žingsniukais, o šiandien esu ten, kur noriu būti“ [antraštė] – Kuo jus patraukė duomenų analitika ir kodėl nusprendėte pasukti būtent į tokią sritį? – Tai nebuvo mano pirma pažintis su duomenų analitika ir IT mokslais, todėl norėjosi nerti giliau, išmokti daugiau. Pastebėjau, kad darbas su duomenimis man yra artimesnis ir suteikia daugiau malonumo, nei prieš tai buvęs. Vienu momentu supratau, kad turint daugiau žinių, galėčiau turėti daugiau galimybių ir įdomesnių projektų, tada ir pradėjau domėtis duomenų analitikos kursais. Tiesa, rinkausi iš kelių mokyklų ir jų siūlomų programų, ėjau į seminarus ir nagrinėjau jų mokymų sritis.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "02 05.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-05-24)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Pasak Vilniaus Gedimino technikos universiteto (VGTU) Verslo vadybos fakulteto Ekonomikos inžinerijos katedros vedėjos prof. dr. Daivos Jurevičienės, tokios technologijos, kaip dirbtinis intelektas, didieji duomenys, debesų kompiuterija, daiktų internetas, jau kurį laiką daro stiprią įtaką ir ekonomikos bei verslo sritims. „Pastaruoju metu nemažas dėmesys skiriamas dirbtinio intelekto pritaikymui analitikoje, su kuria susiduria visos industrijos, turinčios bet kokių sąsajų su duomenimis. Tačiau yra keletas jos sričių, kurios negali būti automatizuotos, kurioms vis tiek reikia „žmogiško prisilietimo“. Viena iš tokių yra ir verslo analitika“, – sako ji.",
+          "Šaltinis": "vz.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "04 30.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-05-24)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Naudojant duomenų analitiką galima sukurti skaitmeninį įmonės Versalį [antraštė] Jau dabar penkios didžiausios technologijų kompanijos generuoja arti 900 milijardų dolerių pajamų – o tai prilygsta tokių šalių kaip Nyderlandai ar Saudo Arabija bendrajam vidaus produktui. Šie pokyčiai verčia atidžiau pažiūrėti į šių kompanijų sėkmės strategijas, kuriamas remiantis pažangiausiais duomenų analitikos metodais. [...] Duomenų analitikos poreikis, ypač išryškėjęs pandemijos laikotarpiu, kai verslai įvairiuose sektoriuose turėjo persiorientuoti į skaitmeninę erdvę, tik didės, nes didėja duomenų, kuriuos reikia apdoroti, kiekis.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "09 16.",
+          "Pavyzdį pateikė": "Gita (2025-04-11)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Didžiųjų duomenų rinkimas, valdymas, analizė – viena sparčiausiai pastaraisiais metais pasaulyje augančių verslo sričių. Jos plėtrą itin paspartino pandemija, skatinusi skaitmenizuoti ir į internetą perkelti dar daugiau paslaugų. Tai perspektyvi sritis tiek sėkmingam verslo vystymui, tiek karjerai, todėl viešųjų duomenų rinkimo internete paslaugas teikiančios duomenų analitikos komandos vadovas dalinasi, kokie įgūdžiai ir savybės reikalingi būsimiems specialistams ir kur juos įgyti.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "11 10.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-05-24)."
+        }
+      }
+    }
+  }
+}

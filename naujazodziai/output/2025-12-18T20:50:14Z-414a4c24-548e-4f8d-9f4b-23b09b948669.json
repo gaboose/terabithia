@@ -1,0 +1,49 @@
+{
+  "uuid": "414a4c24-548e-4f8d-9f4b-23b09b948669",
+  "header": "skambiuteris",
+  "publishedDate": 1766091014749,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "skambiùteris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < skambinti + kompiuteris.",
+      "Ypatingieji požymiai": "kontaminacinis darinys",
+      "Giminiški naujažodžiai": "skambintuvas",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "telefonijos paslauga – galimybė iš kompiuterio per internetą skambinti į užsienį, taip pat naudotis tarpmiestiniu ryšiu Lietuvoje.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "skambintuvas1; skambintuvas2",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Internetinės telefonijos paslaugas \"Lietuvos telekomo\" vardu teikianti UAB \"Voicecom\" pasiūlė naudotis \"Skambiuteriu\" - tai galimybė iš kompiuterio per internetą skambinti į užsienį, taip pat naudotis tarpmiestiniu ryšiu Lietuvoje.Šiuo metu \"Skambiuteriu\" galima skambinti į fiksuotą ar mobilųjį telefoną 25 užsienio šalyse. Viena minutė pokalbio su užsieniu vidutiniškai kainuoja apie 1 Lt, priklausomai nuo šalies, į kurią skambinama. Skambučiams į kitus Lietuvos miestus taikomas mokėjimo už \"Lietuvos telekomo\" tarpmiestinio ryšio paslaugą tarifas.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2002",
+          "Kita metrika": "09 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Interneto telefonijos paslaugas teikianti bendrovė pristatė naują paslaugą – galimybę iš kompiuterio per internetą skambinti į fiksuoto ir mobiliojo ryšio linijas užsienyje bei fiksuoto ryšio linijas Lietuvoje. „Skambiuterio“ vartotojai […].",
+          "Šaltinis": "Lietuvos rytas",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2002",
+          "Kita metrika": "09 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Internetinės telefonijos paslaugas teikianti bendrovė Voicecom praėjusią savaitę oficialiai pristatė naujas galimybes skambinti į užsienį iš kompiuterio. Skambiuterio pavadinimą gavusi paslauga vartotojams leidžia neišeinant iš namų ar biuro užsisakyti, sumokėti ir kalbėti su viena iš 25 užsienio šalių. Voicecom vadovų teigimu, Skambiuteris yra pirmoji Lietuvoje interneto telefonijos paslauga, kuri apima ne tik balso perdavimo paslaugas, bet ir atsiskaitymą už jas internetu.",
+          "Šaltinis": "m.kauno.diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2008",
+          "Kita metrika": "05 13.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
