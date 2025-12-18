@@ -1,0 +1,48 @@
+{
+  "uuid": "21fdebdc-502e-47ff-bc7d-337bc3f27ad1",
+  "header": "čeburekininkas, -ė",
+  "publishedDate": 1766094141517,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "čeburèkininkas, čeburèkininkė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < čeburekas (iš tiurkų kalbų).",
+      "Giminiški naujažodžiai": "čeburekinė",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "čeburekų gamintojas, pardavėjas.",
+      "Vartojimo sritys": "verslas",
+      "Sąsajos": "čeburekinė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Daugiausiai rūpesčių vadinamieji čeburekininkai kelia Palangos paplūdimiuose. Pliaže gulintys poilsiautojai priversti klausytis vienas po kito sekančių šaukinių: „Karšti čeburekai. Šaltas alus“.",
+          "Šaltinis": "kauno.diena.lt, aut. Milda Skiriutė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2009",
+          "Kita metrika": "08 20.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Čeburekininkų sostine tituluojamoje Palangoje prekeiviai poilsiautojams siūlo įsigyti ir cepelinų su varške ar mėsa, o viską pagardinti spirgučių padažu.",
+          "Šaltinis": "Vilniaus diena",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2010",
+          "Kita metrika": "07 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "[...] suvalgius iš paplūdimio prekeivių įsigytų maisto gaminių gali atsitikti taip, kad vartotojas tiesiog „nusipirks“ sugadintą sveikatą, o už tai niekas neatsakys, nes pardavėjas dirba nelegaliai. [...] Kad taip nenutiktų, Palangos paplūdimiuose dirba ir „čeburekininkus“ gaudo policija.",
+          "Šaltinis": "delfi.lt (iš „Valstiečių laikraščio“).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2010",
+          "Kita metrika": "07 14.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
