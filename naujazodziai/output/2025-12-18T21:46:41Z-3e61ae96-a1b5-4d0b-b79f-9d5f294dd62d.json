@@ -1,0 +1,61 @@
+{
+  "uuid": "3e61ae96-a1b5-4d0b-b79f-9d5f294dd62d",
+  "header": "panelis",
+  "publishedDate": 1766094401475,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "panèlis",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, panel 1 reikšmė: „specialistų grupė, viešai aptarianti aktualų klausimą; viešos diskusijos“.",
+      "Giminiški naujažodžiai": "panelė; panelinis, -ė (būdv.); panelistas, -ė",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "vieša ekspertų diskusija.",
+      "Pastabos vartotojams": "bendrinėje lietuvių kalboje vietoj šio skolinio siūloma vartoti junginį (vieša) ekspertų diskusija.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Kodifikacija": "neteiktina",
+      "Varianto statusas": "nenorminis",
+      "Sąsajos": "panelė1; panelinis, -ė (būdv.); panelistas, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Migracijos funkcijų pertvarkos metinių proga Migracijos departamentas kartu su Vidaus reikalų ministerija š. m. liepos 1 d. surengė panelio diskusiją, skirtą aptarti Lietuvos migracijos politikos ateitį. Joje dalyvavo atsakingi Vidaus reikalų ministerijos, kitų institucijų tarnautojai, Migracijos departamento darbuotojai ir įstaigos partneriai – atstovai iš Socialinės apsaugos ir darbo ministerijos, Valstybės sienos apsaugos tarnybos, Valstybinės darbo inspekcijos, kt.",
+          "Šaltinis": "migracija.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "07 02.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Viena iš šių dienų renginio programos dalių buvo diskusijų panelis „Literatūrinis Vilnius: nepamirštamas Česlovo Milošo, Vislavos Šimborskos ir Tomo Venclovos susitikimas“. Susirinkusieji turėjo galimybę išklausyti iškilių literatų ir kultūros žinovų pokalbį. Dalyvavo prof. Tomas Venclova – lietuvių poetas, esė rašytojas ir Č. Milošo bičiulis, bei prof. Michał Rusinek – buvęs Vislavos Šimborskos sekretorius, taip pat žinomas literatūros populiarintojas. Panelį moderavo Walenty Wojniłło (wilnoteka.lt). Diskusija priminė nepamirštamą Milošo, Šimborskos ir Venclovos susitikimą 2010 metais Vilniuje.",
+          "Šaltinis": "vrsa.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "11 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Įkvepiančią paskaitą apie savo kelią iki Nobelio premijos ir po jos prof. Richard J. Roberts pabaigė pakviesdamas atsisukti į moteris mokslininkes. Skaidrėje - jo rekomenduotos knygos ir filmai. O po ja - po paskaitos susirinkęs diskusijos panelis. VU dar turi kur tobulėti.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "09 03.",
+          "Naujažodį pavartojo": "Urtė Neniškytė",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Panelyje dalyvavo Lenkijos ir Ukrainos organizacijų atstovai kurie dalinosi praktine patirtimi kaip kurti gebėjimus humanitarinės pagalbos organizacijoms efektyviai veikti (pvz. Lenkijos NVO yra netgi sukūrę tikslines magistro lygmens studijas), o aš iš savo pusės apžvelgiau tą komplikuotą santykį ar konfliktą tarp entuziazmo padėti, kuris buvo ryškus tiek COVID 19, tiek atsinaujinusio karo Ukrainoje metu, ir to kad humanitarinei pagalbai teikti reikia struktūros ten kur entuziazmas neveikia. Laurynas Šedvydis 2025 09 05",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "09 05.",
+          "Naujažodį pavartojo": "Laurynas Šedvydis",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
