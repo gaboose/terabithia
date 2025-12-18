@@ -1,0 +1,47 @@
+{
+  "uuid": "6ca1b62b-43bd-4bdb-bdc7-d387c8bf1d42",
+  "header": "mūdlas",
+  "publishedDate": 1766097095220,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "mū́dlas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "moodl’as; moodlas.",
+      "Kilmė": "anglų, „Moodle“.",
+      "Pateikta": "2025-12-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "nuotolinio mokymo platforma „Moodle“.",
+      "Vartojimo sritys": "švietimas, technologijos",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Išorinio vertinimo ekspertų rekomendacijos paskatino pažangesnių technologijų taikymą: „Tiek duomenų bazės yra įdiegtos, tiek prieinamumas pačios bibliotekos, tiek atsirado moodle‘as naujas, nauja informacinė sistema – tai yra tokie kardinalūs pokyčiai, kurių nebuvo iki šiol.“ [...] Įdiegtos naujos studentų konsultavimo formos: „Mes, pavyzdžiui, įsivedėm va dalyką po ekspertų, kada yra nurodytos valandos, kada dėstytojas budi, ir tada <...> nemokamai gali konsultuotis ir visa kita, ir lygiai taip pat pradėjom tą elektroninę erdvę naudoti, vat „Google Classroom“ yra tokia būtent, kaip moodlas tokia forma.“",
+          "Šaltinis": "Kaip išorinis vertinimas paveikė aukštąsias mokyklas? Parengė Jolanta Urbanovič. MOSTA.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2018",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Bet ačiū tau, Covide, kad apie mokyklos skaitmenizavimą Lietuvoje pagaliau pradedam galvoti garsiau. Tik va klausimas kaip? Kad reikia sudėti į internetą popierinių vadovėlių pdf? Nupirkti kažkiek kompiuterių ir apmokyti mokytojus įsijungti mūdlą, kad mokiniai ten sumestų ranka rašytų rašinių nuotraukas?",
+          "Šaltinis": "lrt.lt; aut. Loreta Vaicekauskienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "03 23.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-11)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Tėvai mini, kad mokytojos greitai pastebėjo, kad mokantys nuotoliniu būdu, vaikai nėra pilnai įsitraukė į mokymąsi ir dažnai užsiima pašalinėmis veiklomis „ <...> labai greitai suprato, kur paaugliai pradeda apgaudinėti mokytojus, labai greitai išleido vidines taisykles. <...> Tada jau ir jiems nuleido viską, tas, kad privalomos pamokos, kad per pamokas nevalgom, nesusirašinėjam papildomai čiatuose. <...> [mokytojai] paskui atsekdavo, kad jie mūdle susirašinėja vienas su kitu pamokų metu, tai žodžiu kita mokytoja buvo atsakinga už tai, kad jie eitų į pamoką ir dalyvautų, nes jie tarsi žiūri į kompiuterį, tarsi viskas gerai, bet kai jų paklausi, jie pasimeta ir nebežino ir pusė dalyko nebegirdi.",
+          "Šaltinis": "Mokinių tėvų apklausa. Iš: Marija Laminceva. Mokinių akademinės veiklos pokyčiai nuotolinio ugdymo metu: vaikų, tėvų ir mokytojų perspektyva. Magistro darbas. Vilniaus universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2022",
+          "Kita metrika": "p. 40.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
