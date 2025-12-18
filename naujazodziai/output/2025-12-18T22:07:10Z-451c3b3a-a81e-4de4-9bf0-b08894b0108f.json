@@ -1,0 +1,47 @@
+{
+  "uuid": "451c3b3a-a81e-4de4-9bf0-b08894b0108f",
+  "header": "iškviestuvas",
+  "publishedDate": 1766095630808,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "iškviestùvas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "iškvieta",
+      "Pateikta": "2025-12-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "programėlė, leidžianti telefonu išsikviesti taksi, balsu bendraujant su lietuviškai šnekančiu automatiniu operatoriumi (robotu).",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "iškvieta; skambintuvas2; tartuvas2",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Taksi iškviestuvas – skambučių centrui skirta programinė įranga, leidžianti telefonu išsikviesti taksi, balsu bendraujant su lietuviškai šnekančiu automatiniu operatoriumi (robotu).",
+          "Šaltinis": "raštija.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2015",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Projekto tyrėjų grupė sukurs šešias paslaugas: humanoidinio roboto valdytuvą, ugdantį vaikų gebėjimus priimti sprendimus; skambintuvą, kuris leis balsu valdyti kontaktus mobiliajame telefone; taksi iškviestuvą balsu; mobilųjį šnekos sintezatorių akliesiems, skaitantį tekstus lietuviškai per mobiliuosius telefonus; interneto naujienų skaitytuvą, balsu skaitantį vartotojo pasirinktas naujienas iš interneto, ir nedidelės apimties tarpkalbinį lietuvių–kinų kalbų komunikatorių. Projektu LIEPA-2 siekiama, kad sintezatoriaus technologija, jau naudojama keliuose didžiuosiuose naujienų portaluose, būtų išmanesnė",
+          "Šaltinis": "delfi.lt, aut. Tomas Riklius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "10 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„Novian Systems“ prisidėjo kuriant interneto naujienų skaitytuvą, skambintuvą, tarpkalbinį komunikatorių (lietuvių-kinų kalbų), taksi iškviestuvą balsu lietuvių kalba. Šiam tikslui bendrovė koordinavo aplikacijų parengimo darbus, sukūrė sprendimo architektūrą bei užtikrino kokybišką sukurtų aplikacijų veikimą.",
+          "Šaltinis": "novian.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-04-25)."
+        }
+      }
+    }
+  }
+}

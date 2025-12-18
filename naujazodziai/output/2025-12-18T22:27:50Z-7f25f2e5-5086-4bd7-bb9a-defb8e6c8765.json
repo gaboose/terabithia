@@ -1,0 +1,72 @@
+{
+  "uuid": "7f25f2e5-5086-4bd7-bb9a-defb8e6c8765",
+  "header": "sukabeliuoti",
+  "publishedDate": 1766096870787,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sukabeliúoti , sukabeliúoja, sukabeliãvo",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "kabeliavimas; kabeliuoti",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2024-07-30).",
+      "Pateikta": "2025-12-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "nutiesti, pakloti kabelį.",
+      "Vartojimo sritys": "technika",
+      "Sąsajos": "kabeliuoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "„Taip, norint išvengti stichijos reikia visą tinklą „sukabeliuoti“ (el. perdavimo oru linijas pakeisti kabeliais – aut. pat.), o tai išeina 100 tūkst. kv. kilometrų. To negalime sau leisti, tad pirmiausia keisime ten, kur labiausia reikia“, – sakė LESTO Elektros tinklo tarnybos direktorius Virgilijus Žukauskas.",
+          "Šaltinis": "alfa.lt; aut. Mindaugas Linkaitis.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "01 06.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Šiemet planuojame sukabeliuoti maždaug 2700 kilometrų, tai mums yra prioritetinis dalykas, nes mes matome, kad mūsų klientai, visuomenė yra kuo toliau, tuo mažiau pakantūs elektros tiekimo sutrikimams, ilgiems atstatymo terminams, tai mes negalime į tai nesiorientuoti. Iki 2025 metų mes norime požeminėmis linijomis turėti apie 40 proc. tinklo.",
+          "Šaltinis": "15min.lt (BNS); aut. Artūras Ketlerius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "02 06.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Me­ras pa­aiš­ki­no, jog įmo­nė „Eso“ tik iš ket­vir­to kar­to nu­pir­ko ran­go­vus, ku­rie su­ka­be­lia­vo elektros tin­klus. Ka­dan­gi šie dar­bai už­si­tę­sė, ne­bu­vo ga­li­ma klo­ti ša­li­gat­vių.",
+          "Šaltinis": "pzinios.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "10 10.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "„Reikia integraliai planuoti ir padaryti kelis dalykus. Vien sukabeliuoti (vietoje oro linijų padaryti požeminius kabelius – ELTA) tinklą, kur yra 80 tūkst. kilometrų oro linijų, reikštų 2,5 mlrd. eurų investicijų. Tai nėra pats racionaliausias sprendimas. Esame suplanavę ir ilgalaikį viešą investicijų planą paskelbę teikti prioritetą miškingoms vietovėms, požeminius kabelius nutiesti 11 tūkst. kilometrų“, – sakė ESO vadovas.",
+          "Šaltinis": "delfi.lt (ELTA), aut. Kornelija Mykolaitytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "02 01.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "„[...] Pastaruoju metu ESO nekeičia (nedidina) elektros tinklų apsaugos zonų, tik tose elektros linijose, kuriose per artimiausius 5 metus neplanuojama oro linijų sukabeliuoti po žeme, „LiDAR“ skenavimo technologijos pagalba nustatė elektros tinklams pavojų keliančius medžius. Atsižvelgus į „LiDAR“ skenavimo rezultatus, ESO darbuotojai fiziškai patikrino elektros oro liniją ir ryškiais dažais žymėjo pavojingus medžius“, – pasakojo R. Juodkienė.",
+          "Šaltinis": "tv3.lt; aut. Vilija Mačiulskytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "04 14.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-08)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "ESO anksčiau skelbė, kad norint sukabeliuoti visas oro linijas, reikėtų apie 2,5 mlrd. eurų. Pasak K. Jauniškio, tai nebūtų racionalu.",
+          "Šaltinis": "lrt.lt; aut. Edgaras Savickas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "07 30.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2024-07-30)."
+        }
+      }
+    }
+  }
+}

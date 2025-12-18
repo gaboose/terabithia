@@ -1,0 +1,81 @@
+{
+  "uuid": "9ec7a5b4-7e4e-4fb1-8b2b-9311e29c001b",
+  "header": "mytas",
+  "publishedDate": 1766095719231,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "mỹtas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, meet.",
+      "Pateikta": "2025-12-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "neoficialus, pramoginio pobūdžio susitikimas.",
+      "Vartojimo sritys": "laisvalaikis",
+      "Kodifikacija": "neteiktina",
+      "Funkciniai atspalviai": "žargonybė",
+      "Varianto statusas": "nenorminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pagaliau išsipagiriojome po nerealaus Elektronika.lt myto :) Galėtų tokie mytai vykti ir dažniau … Nu bet gero turi būti ne per daug …",
+          "Šaltinis": "blog.elektronika.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2006",
+          "Kita metrika": "08 20.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-11)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Margarita buvo to interneto forumo narė nuo pat jo atsiradimo dienos. Būdama senbuvė traukdavo per dantį naujokus, užduodančius „kvailus klausimus“, rengdavo susitikimus, vadinamus „mytais“, ir pati juose mielai dalyvaudavo.",
+          "Šaltinis": "Laima",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2007",
+          "Kita metrika": "nr. 9.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "labs, Renata :) ko nebeateini į mytą?",
+          "Šaltinis": "fotokudra.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2009",
+          "Kita metrika": "04 15.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-11)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Brangioji, šio šeštadienio mytui apranga nesvarbi, ruošk ekskursinę programą po sostinės senamiestį. Girdėjau ten kažkur labai jauki blyninė yra.",
+          "Šaltinis": "tax.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2009",
+          "Kita metrika": "08 26.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-11)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Sveiki, kada ir kur snd mytas? :)",
+          "Šaltinis": "audiklubas.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2013",
+          "Kita metrika": "02 28.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-06-11)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Jei bus mytas iskart pries myta einam su boxo pirstinem pora raundu su didziausiais priesais. Tada imtyniu pora raundu.",
+          "Šaltinis": "banga.tv3.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2014",
+          "Kita metrika": "lapkritis",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Tai kada tas mytas? Man reik darbus planuotis Cha cha Cha cha.",
+          "Šaltinis": "banga.tv3.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2016",
+          "Kita metrika": "balandis.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

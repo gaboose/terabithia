@@ -1,0 +1,64 @@
+{
+  "uuid": "46f489f0-824a-4660-88bd-bfe5027e56ba",
+  "header": "metodika",
+  "publishedDate": 1766096191261,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "metòdika",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "neklasifikuota, plg. anglų k. metodology.",
+      "Papildoma informacija": "TŽŽ (2001) yra dvi reikšmės: „1. ped. mokslo šaka, tirianti įv. dėstomųjų dalykų mokymą; 2. būdų, taisyklių visuma kokiam nors darbui gerai atlikti“.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2024-12-02).",
+      "Pateikta": "2025-12-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dokumento, kuriame išdėstyti kokio nors dalyko atlikimo būdai ir taisyklės, pavadinimas.",
+      "Vartojimo sritys": "administravimas",
+      "Sąsajos": "gairės; paprogramė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "1. T v i r t i n u Skaičiuojamųjų elektros apkrovų nustatymo metodiką (pridedama). [...] 1. Skaičiuojamųjų elektros apkrovų nustatymo metodika (toliau – Metodika) nustato reikalavimus gyvenamosios paskirties, visuomeninės paskirties ir sodybos pastatų ar jų grupių bei patalpų vidinės elektros instaliacijos (toliau – vidinė instaliacija) ir skirstomųjų tinklų skaičiuojamosioms elektros apkrovoms apskaičiuoti.",
+          "Šaltinis": "e-seimas.lrs.lt; įsakymas „Dėl skaičiuojamųjų elektros apkrovų nustatymo metodikos patvirtinimo“.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2014",
+          "Kita metrika": "12 11.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-26)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "2021 m. lapkričio 3 d. Viešųjų pirkimų tarnybos direktoriaus įsakymu patvirtinta nauja Tiekėjų kvalifikacijos reikalavimų nustatymo metodika (toliau – Metodika), kurios redakcija turi įsigalioti 2021 m. gruodžio 1 d. Iki šios redakcijos Metodikos pradėtos pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis atliekamas, pagal sukurtą dinaminę pirkimo sistemą pirkimai atliekami pagal iki Metodikos įsigaliojimo galiojusias nuostatas.",
+          "Šaltinis": "delfi.lt; aut. Žydrūnė Biliūnaitė-Zubavičė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "11 15.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-26)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kainodaros taisyklių nustatymo metodikos pakeitimas [antraštė] 2022 m. liepos 1 d. įsigalioja Kainodaros taisyklių nustatymo metodikos (toliau – Kainodaros metodika), patvirtintos Viešųjų pirkimų tarnybos direktoriaus 2017 m. birželio 28 d. įsakymu Nr. 1S-95 „Dėl Kainodaros taisyklių nustatymo metodikos patvirtinimo“ pakeitimai, kurie buvo patvirtinti Viešųjų pirkimų tarybos direktoriaus 2022 m gegužės 18 d. įsakymu Nr. 1S-102.",
+          "Šaltinis": "vpt.lrv.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "06 03.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-26)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "2023 m. gruodžio 31 d. įsigaliojo teisingumo ministrės Ewelinos Dobrowolskos patvirtinta nauja notarų skaičiaus nustatymo metodika, kuria siekiama nustatyti optimalų notarų skaičių Lietuvoje. Taip pat buvo panaikintas nuo 2007 m. galiojęs, objektyviais duomenimis nepagrįstas įsakymas dėl maksimalaus notarų skaičiaus Lietuvoje nustatymo.",
+          "Šaltinis": "jonavoszinios.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "01 02.",
+          "Pavyzdį pateikė": "Gita (2024-12-02)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Atnaujinama miško kirtimų normos nustatymo metodika [antraštė] Aplinkos ministerija parengė ir teikia derinti Pagrindinių miško kirtimų normos nustatymo metodikos projektą, kuriuo siūloma laikantis aplinkosaugos reikalavimų, sudarant sąlygas miškų atsinaujinimui užtikrinti tvarų ir subalansuotą miško išteklių naudojimą.",
+          "Šaltinis": "am.lrv.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "11 28.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2025-01-26)."
+        }
+      }
+    }
+  }
+}
