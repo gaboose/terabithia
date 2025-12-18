@@ -1,0 +1,43 @@
+{
+  "uuid": "f1d4f25e-f4b0-4218-8f9c-9e1eb6997dcf",
+  "header": "skinkėras",
+  "publishedDate": 1766055974294,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "skinkė́ras",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, skin care.",
+      "Giminiški naujažodžiai": "skinfluenceris, -ė",
+      "Papildoma informacija": "pirmoji apie naujažodį pranešė duomenyno lankytoja (2025-12-17).",
+      "Pateikta": "2025-12-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "odos priežiūra.",
+      "Vartojimo sritys": "gyvenimo būdas (stilius)",
+      "Kodifikacija": "neteiktina",
+      "Funkciniai atspalviai": "žargonybė",
+      "Varianto statusas": "nenorminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Laukiu vakaro, kai galėsiu daryti savo skinkėrą.",
+          "Šaltinis": "tiktok.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "05 08.",
+          "Pavyzdį pateikė": "duomenyno lankytoja (2025-12-17)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "[Refrigerator(...): ] Gal žinot ar yra lietuviškas skincare subreddit? Ačiū.[piguskebabai: ] Supermamų forumas lygtais persikėlė į Facebook, tai ten mėgink užduotį skinkėro kvesčionus.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "kovas.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
