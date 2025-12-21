@@ -1,0 +1,87 @@
+{
+  "uuid": "a895c6df-7b1c-4032-b0a8-97dc37d685f5",
+  "header": "biožymuo",
+  "publishedDate": 1766341417978,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "biožymuõ",
+      "Kirčiuotė": "3b",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. biomarker.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-07-22).",
+      "Pateikta": "2025-12-21"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "natūraliai susidariusi molekulė, genas ar savybė, pagal kuriuos galima identifikuoti konkretų patologinį ar fiziologinį procesą, ligą ir pan.",
+      "Vartojimo sritys": "biologija, medicina (sveikata)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "„Sukurtos metodologijos ir analizės įrankiai yra universalūs. Jie gali būti pritaikomi biožymenims įvairiuose audiniuose vertinti, integruojami su įvairiais mikroskopinio vaizdo analizės įrankiais. Sukaupėme neįkainojamą patirtį mikroskopinio vaizdo analitikos srityje. Matome plačias plėtros ir taikymo perspektyvas“, – teigė Vilniaus universiteto Medicinos fakulteto Patologijos, teismo medicinos ir farmakologijos katedros profesorius, šio projekto vadovas Arvydas Laurinavičius.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "12 21.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Šiuolaikinis vėžio gydymas kelia naujus reikalavimus audinių patologijos tyrimų tikslumui, atkartojamumui bei gaunamos informacijos išsamumui. Molekulinių biožymenų tyrimai vėžio audiniuose vis dažniau pasitelkiami parenkant taikininę terapiją bei numatant tolimesnę ligos eigą, tačiau jų erdvinis pasiskirstymas vėžio audinyje gali būti netolygus (heterogeniškas). [...] Pasinaudodami naujomis galimybėmis, kurias teikia skaitmeninės patologijos technologijos, tyrėjai sukūrė unikalias vėžio audinio heterogeniškumo vertinimo metodologijas. Erdvinių biožymenų raiškos aspektų vertinimui pritaikytas šešiakampės gardelės (medaus korio) principas, matematiškai apdorojant mikroskopinio vaizdo analizės rezultatus ir generuojant išsamų biožymens raiškos rodiklių rinkinį.",
+          "Šaltinis": "delfi.lt; parengė Giedrė Armalytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "01 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Lėtinio nuovargio sindromas yra tikras: mokslininkai aptiko ligą išduodančius biožymenis [antraštė] Mokslas iki šiol nebuvo įrodęs lėtinio nuovargio sindromo ligos egzistavimo. Tačiau dabar tai keičiasi – Stanfordo universiteto mokslininkai atrado biožymenį, kuris padės kraujo tyrimu tiksliai diagnozuoti lėtinį nuovargį.",
+          "Šaltinis": "lrt.lt (iš: technologijos.lt)",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "05 22.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "„[...] Širdies ir kraujagyslių ligos, kiek žinome, dažniau yra ne paveldimos, o stipriai priklausančios nuo mūsų gyvenimo būdo. Šis biožymuo – mikroRNR – tuo ir žavus, kad tyrimuose galima pamatyti vienokias reikšmes, o žmogui pakeitus gyvenimo būdą, pavyzdžiui, pradėjus daugiau judėti, sveikiau maitintis, pakankamai išsimiegoti, metus rūkyti ar įvedus kitą pokytį, galime pamatyti visai kitokius tyrimų įverčius. Galima stebėti pokytį, nes mikroRNR reaguoja į įvairius aplinkos veiksnius“, – aiškina gydytoja A. Šatrauskienė.",
+          "Šaltinis": "santa.lt​",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "01 16.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Medicinos ir sveikatos mokslų srityse įvertinti Rūta Navakauskienė, Dalius Navakauskas, Veronika Viktorija Borutinskaitė, Dalius Matuzevičius už darbų ciklą „Epigenetiniai ir genetiniai biožymenys ligų diagnostikai ir individualizuotai terapijai: mechanizmų tyrimas, metodų kūrimas ir pritaikymo sritys (2009–2023)“, taip pat Skaidrė Supronienė ir Gražina Kadžienė už darbų ciklą „Javų varpų fuzariozės sukėlėjų populiacijos pokyčiai ir ekologinis paplitimas kintančio klimato ir agropriemonių poveikyje (2009–2023)“.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "02 06.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Vilniaus universiteto (VU) Medicinos fakulteto tyrėjų komanda atlieka tyrimą, kurio tikslas – atrasti kraujyje specifinius biožymenis, ateityje padėsiančius identifikuoti žmones, linkusius į savižudybę, kad būtų galima jiems laiku suteikti reikiamą pagalbą.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "02 26.",
+          "Pavyzdį pateikė": "Gita (2025-07-22)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Lietuvoje išbandomas biožymenų kraujyje tyrimas leis identifikuoti vieną itin socialiai pažeidžiamą asmenų grupę: kam to reikia ir kaip tai veiks? [antraštė] Vilniaus universiteto (VU) Medicinos fakulteto tyrėjų komanda atlieka tyrimą, kurio tikslas – atrasti kraujyje specifinius biožymenis, ateityje padėsiančius identifikuoti žmones, linkusius į savižudybę, kad būtų galima jiems laiku suteikti reikiamą pagalbą.",
+          "Šaltinis": "delfi.lt; parengė Rusnė Valatkaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "02 26.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "Biožymuo ST2 – tai širdies ir kraujagyslių sistemos žymuo. Šis tyrimas naudojamas širdies ir kraujagyslių ligų diagnostikoje. Jis gali būti svarbus diagnozuojant širdies nepakankamumą ar kitas kardiovaskulines problemas. ST2 receptoriai yra baltymai, esantys širdies bei kitų audinių ląstelėse, kurie aktyvuojami esant įvairioms situacijoms, pvz.: uždegimo ar audinių pažeidimo metu. Aktyvuoti ST2 receptoriai skatina biožymens ST2 susiformavimo procesus. Biožymens ST2 padidėjimas gali rodyti – širdies nepakankamumą, širdies raumens pažeidimus, uždegiminius procesus.",
+          "Šaltinis": "medtest.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "rugpjūtis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-21)."
+        }
+      }
+    }
+  }
+}
