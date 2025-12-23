@@ -1,0 +1,39 @@
+{
+  "uuid": "0a48ffb3-fabc-4c90-8d38-6cd43eec4e25",
+  "header": "pastiserija",
+  "publishedDate": 1766474914541,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pastisèrija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "katalonų, pastisseria.",
+      "Pateikta": "2025-12-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "konditerijos gaminių parduotuvė-kavinė.",
+      "Vartojimo sritys": "verslas",
+      "Sąsajos": "braserija; bulanžerija; dželaterija; fokačerija; fruterija; šokolaterija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Gyvendama Barselonoje galiu nuolat lepintis tradiciniais ir moderniais konditerijos gaminiais, kurių čia gali rasti kuo įvairiausių. Savaitgaliais dažnai išsiruošiame pasivaikščioti ir kokioje nors pastiserijoje (kat. pastisseria – konditerijos gaminių parduotuvė-kavinė) paskanaujame ko nors nauja.",
+          "Šaltinis": "Small planet. Skrydžio žurnalas.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2014",
+          "Kita metrika": "rugsėjis–lapkritis.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pačioje senamiesčio širdyje, Borno rajone (kat. Born), greta Šv. Marijos jūreivių globėjos bažnyčios (kat. Esglesia Santa Maria del Mar) rasite ir „Bubo“ pastiseriją (kat. pastiseria – konditerijos gaminių parduotuvė-kavinė), ir tokio pat pavadinimo restoraną. Pastarasis nuo aplinkinių maitinimo įstaigų ne itin skiriasi, tačiau pastiserija tikrai patrauks akį. Jos modernus, minimalistinis interjeras labiau primena juvelyrikos nei konditerijos parduotuvę.",
+          "Šaltinis": "Small planet. Skrydžio žurnalas.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2015",
+          "Kita metrika": "kovas–gegužė.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
