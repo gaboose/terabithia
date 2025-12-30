@@ -1,0 +1,58 @@
+{
+  "uuid": "a8ee0fae-4bda-4898-9bb7-cf4d92644921",
+  "header": "faktualumas",
+  "publishedDate": 1767118304461,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "faktualùmas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. factuality.",
+      "Giminiški naujažodžiai": "defaktualizacija; faktiena; faktofagas; faktoidas; faktokrapštinis, -ė (būdv.); faktualus, -i",
+      "Pateikta": "2025-12-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "buvimas pagrįstam faktais; tikrovės, faktų atitikimas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "faktų čekeris, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Vertėjas pabrėžė, kad Heideggerio mąstyme fakticiškumas ir faktiškumas yra priešingi dalykai. Patį fakticiškumą vertėjas paaiškino kaip labai kompleksišką ir sudėtingą sąvoką, kuri reiškia nuolatos daromą gyvybę, nuolatinį įėjimą į faktualumą, buvimą.",
+          "Šaltinis": "aplinkkeliai.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2010",
+          "Kita metrika": "12 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Čia galima matyti pasislėpusią Quentino Meillassoux faktualumo principo veikseną, kurios tikslas yra absoliutizacijos deabsoliutizacija (Meillassoux 2008). Spekuliatyviajame materializme šiuo principu siekiama deabsoliutizuoti koreliaciją kaip subjektinės nuostatos pirmumą legitimuojantį apibrėžimą.",
+          "Šaltinis": "zurnalai.vu.lt, Adas Diržys. Sąmonės apibrėžimų formulavimas metodologiniu realizmo pagrindu. –Problemos.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2022",
+          "Kita metrika": "t. 101; p. 42–51.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Hipotetinė liberalė jos galvoje jau buvo pateikusį ją piktinantį atsakymą, todėl išvados turėjo būti pasakomos nepriklausomai nuo pasisakymo tikrovės ar faktualumo.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "10 06.",
+          "Naujažodį pavartojo": "Paulius Gritėnas",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-08-04)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Reikia pripažinti, kad net ir akademiniame lauke kritinio mąstymo samprata dažnai susiaurinama iki gebėjimo atskirti teiginių teisingumą ar faktualumą.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "06 01.",
+          "Naujažodį pavartojo": "Paulius Gritėnas",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

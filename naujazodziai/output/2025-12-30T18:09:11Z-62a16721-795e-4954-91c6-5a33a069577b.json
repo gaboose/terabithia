@@ -1,0 +1,67 @@
+{
+  "uuid": "62a16721-795e-4954-91c6-5a33a069577b",
+  "header": "temperatūra",
+  "publishedDate": 1767118151269,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "temperatūrà",
+      "Kirčiuotė": "2",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Pateikta": "2025-12-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "perkeltine reikšme – nuotaika, nusiteikimas, atmosfera.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Sąsajos": "chemija; vaibas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Prezidentas siūlo politikams gerbti vienas kitą ir peržengti asmeninius interesus. „Seimas turės daugybę įstatymų projektų, kuriuos reikės svarstyti, ginčytis ir spręsti vienaip ar kitaip. Tačiau visa tai, be jokios abejonės, turi vykti ne kokioje isteriškoje politinėje atmosferoje, o kalbantis, argumentuojant ir gerbiant vienas kitą. Susidaro įspūdis, kad pastaruoju metu politinė temperatūra kaista. Retorika ir metaforos, kurias politikai naudoja, tampa vis labiau įžeidžiančios. [...] Taip nedaroma, turi būti tam tikra pagarba vienas kitam, kad galėtume siekti tam tikrų tikslų. O tam reikia peržengti siaurus asmeninius ar partinius interesus“, – LRT radijui teigė G. Nausėda.",
+          "Šaltinis": "delfi.lt; aut. Pailina Levickytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "01 09.",
+          "Naujažodį pavartojo": "Gitanas Nausėda",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Teigiama, kad R. Bradbury knygos pavadinimą pasirinko tam, kad iliustruotų pagrindinę nagrinėjamą problemą – cenzūrą. 451 laipsnis pagal Farenheitą esą yra temperatūra, kurioje užsiliepsnoja popierius. Tačiau šis skaičius simbolizuoja ir temperatūrą, kurioje įsiliepsnoja kultūriniai karai.",
+          "Šaltinis": "vilniusinstitute.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "12 05.",
+          "Naujažodį pavartojo": "Donatas Puslys",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kasčiūnas apie rusų pranešimus dėl jūrinių sienų keitimo: bandymas pamatuoti temperatūrą [antraštė] Anot jo, NATO narėmis tapus Suomijai ir Švedijai, o Baltijos jūrai tapus vidine NATO jūra, regione keičiasi „galios balansas“. „Mano įsitikinimu, tai yra bandymas pamatuoti temperatūrą, – Palangoje žurnalistams trečiadienį sakė A. Kasčiūnas. – Tam tikros geopolitinės konvulsijos.“",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "05 22.",
+          "Naujažodį pavartojo": "Laurynas Kasčiūnas",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Politinė temperatūra Lietuvoje įkaito iki raudonumo, nes laiko vis mažėja, o suformuoti Vyriausybės niekaip nepavyksta. Šantažu ir blefu kaltinamas „Nemuno aušros“ lyderis Remigijus Žemaitaitis atkirto, jog pats patiria mobingą, ir nupiešė tris realius scenarijus, kas bus toliau.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "09 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "M. Sinkevičius pakvietė S. Skvernelį „pasimatuoti temperatūrą“ ir pasikalbėti „tiesiai šviesiai“.",
+          "Šaltinis": "facebook.com (paskyra „Lrytas.lt“).",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "rugsėjis.",
+          "Naujažodį pavartojo": "Mindaugas Sinkevičius",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

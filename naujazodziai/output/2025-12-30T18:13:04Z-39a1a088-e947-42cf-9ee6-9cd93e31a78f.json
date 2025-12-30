@@ -1,0 +1,47 @@
+{
+  "uuid": "39a1a088-e947-42cf-9ee6-9cd93e31a78f",
+  "header": "faktualus, -i",
+  "publishedDate": 1767118384222,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "faktualùs, faktuali̇̀",
+      "Kirčiuotė": "4",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "anglų, factual.",
+      "Giminiški naujažodžiai": "defaktualizacija; faktiena; faktofagas; faktoidas; faktokrapštinis, -ė (būdv.); faktualumas",
+      "Pateikta": "2025-12-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris atitinka faktus, tikrovę; pagrįstas faktais; faktinis; tikroviškas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "faktų čekeris, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Koks istoriškai faktualus faktas! Kokios tikybos atamaną-šėtoną buvo išsirinkę dažniausiai stačiatikiai ukrainiečių kazokai - nepaaiškinta.",
+          "Šaltinis": "paliokas.blogspot.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2014",
+          "Kita metrika": "05 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Turint omenyje tai, kad didžioji dalis romų bendruomenės šiuo metu apskritai kovoja dėl didesnio reprezentacijos kiekio, nenuostabu, kad šią parodą jie priėmė teigiamai. Jos faktualus ir akademiškas tonas bei siekis romus reprezentuoti ne tik karo ar represijų kontekste, o pavaizduojant ir esminius romų kultūros bruožus, buvo matomas kaip didelis žingsnis kultūrinės atminties sukūrimo link.",
+          "Šaltinis": "Jokūbas Jonas Proškevičius. Romų tautos reprezentacija Lietuvos istoriniame naratyve: atminties vietų analizė. Bakalauro darbas. Vilniaus universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2023",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Sky News epizodiškai daro interviu su prof Michael Clarke - gera analizė Ukrainos situacijos. LBC pati stotis daug š, bet laidos su James O'Brien labai geros ir blaivios (realiai turbūt nešališkiausia ir labiausiai faktuali JK naujienoms).",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "rugsėjis.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
