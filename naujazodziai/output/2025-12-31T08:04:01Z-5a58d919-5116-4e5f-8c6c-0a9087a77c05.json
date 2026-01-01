@@ -1,0 +1,50 @@
+{
+  "uuid": "5a58d919-5116-4e5f-8c6c-0a9087a77c05",
+  "header": "slopas",
+  "publishedDate": 1767168241839,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "slòpas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, slop; AI slop.",
+      "Pateikta": "2025-12-31",
+      "Atnaujinta": "2026-01-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "primityvus dirbtinio intelekto sugeneruotas turinys.",
+      "Vartojimo sritys": "kompiuterija, technologijos",
+      "Kodifikacija": "neteiktina",
+      "Varianto statusas": "nenorminis",
+      "Sąsajos": "DI; haliucinacija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[...] esminė taisyklė menui, turėtų būti, kad jam nėra nei taisyklės, nei apibrėžimo - kol tai yra autentiška ir unikalu. Šiaip, šiais DI laikais, tokių vat taisyklių prisiminimas ir dėjimas jų į tiktokus, netruks save nuneikti, kai visas slopas turės tik aukštus ir žemus horizontus.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "12 31.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "AI slopas jau naudojamas ir LRT.lt straipsniuose [temos pavadinimas]Pristatoma jog tai kažkieno padaryta nuotrauka, bet atidžiau pažiūrėjus matosi kad tai tiesiog AI generuotas paveikslėlis.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "rugpjūtis.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kur bepažiūrėsi internete visur AI slopas. Net LRT straipsnius jau užmačiau AI redaguotos su debiliškom logikos klaidom paliktom. Net šitam reddite kas antras postas AI rašytas, nes jūs tinginiai jau tingit patys net sakinį parašyti. Visi influenceriai jau postina AI slopą.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "rugsėjis.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
