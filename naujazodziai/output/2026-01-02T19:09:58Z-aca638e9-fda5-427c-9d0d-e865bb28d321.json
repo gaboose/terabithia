@@ -1,0 +1,38 @@
+{
+  "uuid": "aca638e9-fda5-427c-9d0d-e865bb28d321",
+  "header": "dormancija",
+  "publishedDate": 1767380998464,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dormáncija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, dormancy < lotynų k. dormio – „miegu“.",
+      "Pateikta": "2026-01-02"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "laikina neaktyvi gyvų organizmų būsena, leidžianti išgyventi nepalankų laikotarpį (pavyzdžiui, žiemą, sausrą ir pan.).",
+      "Vartojimo sritys": "biologija, zoologija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Purple shamrock, dar vadinamas klaidinguoju dobilu, išsiskiria tamsiai violetiniais lapais, kurie beveik primena juodą spalvą. [...]Auginimo laikotarpiu rekomenduojama palaistyti augalą kiekvieną kartą, kai viršutinis dirvos sluoksnis pradžiūsta. Dormancijos metu, kuri dažniausiai būna vasarą, vandens reikia mažiau – tada užtenka sudrėkinti dirvą kas 2–3 savaites, kad ji visiškai neišdžiūtų.",
+          "Šaltinis": "tobulasbustas.lt, aut. Lina Jasiūnaitė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "10 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Įdomus paradoksas: medžiams iš tikrųjų reikia šaltos žiemos. Perėjimui nuo endodormancijos (gilaus miego) į ekodormanciją (paviršutinį miegą) reikia, kad pumpurai būtų veikiami tam tikro kiekio šalčio, o šilumos kaupimasis ekodormantiškuose pumpuruose yra būtinas sėkmingam perėjimui nuo dormancijos į aktyvų augimą.",
+          "Šaltinis": "derlingas.lt, aut. ūkininkas Paulius.",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2025",
+          "Kita metrika": "12 31.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
