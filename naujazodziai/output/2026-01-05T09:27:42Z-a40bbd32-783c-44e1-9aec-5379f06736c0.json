@@ -1,0 +1,46 @@
+{
+  "uuid": "a40bbd32-783c-44e1-9aec-5379f06736c0",
+  "header": "dropoutinti",
+  "publishedDate": 1767605262696,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Formos variantai": "dropout'inti.",
+      "Kilmė": "anglų, to drop out.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė duomenyno lankytoja (2026-01-04).",
+      "Pateikta": "2026-01-05"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "mesti mokslus ar studijas.",
+      "Pastabos vartotojams": "pagal tarimą adaptuoto varianto vartosenoje kol kas neaptikta.",
+      "Vartojimo sritys": "švietimas",
+      "Funkciniai atspalviai": "žargonybė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[...] Iki bankomato aš judu dažniau, negu į šūlę, ha Žvengiame su plug'u, nes dropoutinti pasiūlė [...].",
+          "Šaltinis": "genius.com, atlikėjo Lil Skar dainos „Zip Freestyle” tekstas.",
+          "Šaltinio rūšis": "originalus meninis tekstas",
+          "Metai": "2023",
+          "Kita metrika": "04 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Žinau tiek, kad studentas gali dropout'int per pirmą semestrą, jei nepatiko dalykas. Tokiu atveju pinigai yra grąžinami, bet gal priklauso nuo universiteto, tai patarčiau taip pat pasiskambinti į administraciją ir pasiteirauti.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "duomenyno lankytoja (2026-01-04)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Ar yra cia tokiu zmoniu kurie 12klaseje dropoutino, kaip jums gyvenasi? [...]Tevai knysa prota pastoviai kad pabaigciau 12 kad verslus kazkokius kurt ar perimti, ar tikrai bus i bloga nauda jei nebaigsiu 12 ir tiesiog dropoutinsiu.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
