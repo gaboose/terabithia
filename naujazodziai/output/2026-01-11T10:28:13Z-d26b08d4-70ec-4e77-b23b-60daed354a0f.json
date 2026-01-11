@@ -1,0 +1,40 @@
+{
+  "uuid": "d26b08d4-70ec-4e77-b23b-60daed354a0f",
+  "header": "gaujinis, -ė (būdv.)",
+  "publishedDate": 1768127293904,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "gauji̇̀nis, gauji̇̀nė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "gaujinis, -ė (dktv.)",
+      "Pateikta": "2026-01-11"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris susijęs su gauja; priklausantis gaujai (ir kompiuteriniuose žaidimuose).",
+      "Vartojimo sritys": "el. komunikacija, subkultūros, teisė (teisėtvarka)",
+      "Sąsajos": "gaujinis, -ė (dktv.)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dėl LSV bazės iš dalies pritarčiau, kadangi tikrai atvažiavus, tiesiog nėra kur vietos ten šaudytis prie pačio hood'o, kadangi ar gaujinės mašinos ar kokia tvora ir pnš., galėtų iš dalies gražint tą seną GS bazę, porą dalykų atnaujint ir viskas būtų kaip ir gerai dėl to.",
+          "Šaltinis": "las-venturas.lt/forumas",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2017",
+          "Kita metrika": "02 08.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Panašu, kad komandą tikrai valdo gaujinė – mafijinė struktūra ir šitas [...] tikrai klaidų nepripažins ir pats iš posto neišeis.",
+          "Šaltinis": "archyvas.zalgiris.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2022",
+          "Kita metrika": "05 28.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
