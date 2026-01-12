@@ -1,0 +1,43 @@
+{
+  "uuid": "4667b979-da39-4ed1-bf19-71f373f17ea5",
+  "header": "laisvažodis, -ė (dktv.)",
+  "publishedDate": 1768235278701,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "laisvažõdis, laisvažõdė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "baisžodis; bjauražodis; blogažodis; brūkšniažodis; dūzgiažodis; frazažodis; geražodis; skausmažodis; šlamštažodis; žargonžodis",
+      "Pateikta": "2026-01-12"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kultūrininkų ir žurnalistų išjudinto protesto prieš kėsinimąsi į žiniasklaidos laisvę, su šūkiais „Už laisvą žodį“, „Šalin rankas nuo laisvo žodžio!“ dalyvis.",
+      "Vartojimo sritys": "visuomenė",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Ekspresiniai atspalviai": "ironiškasis",
+      "Sąsajos": "kultūrveibinai; šalinrankietis, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Laisvažodžiai kultūrveibinai siautėja kuo toliau, tuo aršiau...",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "12 18.",
+          "Naujažodį pavartojo": "Tomas Baranauskas",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Laisvažodžiai atjunginėja kitaminčius: interneto tiekėjai ėmėsi cenzūros.",
+          "Šaltinis": "youtube.com (kanalas „OpTV“).",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "12 23.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
