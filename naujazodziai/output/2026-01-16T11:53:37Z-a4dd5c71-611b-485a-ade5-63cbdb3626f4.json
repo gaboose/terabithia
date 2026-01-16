@@ -1,0 +1,72 @@
+{
+  "uuid": "a4dd5c71-611b-485a-ade5-63cbdb3626f4",
+  "header": "viroidas",
+  "publishedDate": 1768564417234,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "viròidas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintas junginys",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, viroid.",
+      "Ypatingieji požymiai": "nenaujas (nefiksuotas)",
+      "Giminiški naujažodžiai": "virucidinis, -ė; virusinis, -ė (būdv.); virusnešys, -ė; virusofobas, -ė; virusologas, -ė; virusologika",
+      "Pateikta": "2026-01-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "maža žiedinė infekcinė RNR molekulė.",
+      "Vartojimo sritys": "biologija, medicina (sveikata)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Save replikuojančios RNR atrastos gamtoje jau senokai - tai viroidai. Jos nekoduoja jokių baltymų, o pasidaugina naudodamos šeimininko ląstelės fermentą.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2013",
+          "Kita metrika": "01 16.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Lyginant su 2016 m. duomenimis, šiais metais krovinių patikrinta 14,4 proc. mažiau. Tarnybos Fitosanitarinių tyrimų laboratorijai per šešis mėnesius buvo pateikta beveik 1000 mėginių,. Laboratorijoje tiriama ar juose yra augalams, augaliniams produktams ir kitiems susijusiems objektams kenksmingų bakterijų, grybų, nematodų, virusų, viroidų, piktžolių, vabzdžių ir erkių.",
+          "Šaltinis": "manoukis.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "08 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Mano logikai artimesnis yra antras variantas, bet aš to nevadinčiau koevoliucija. Labiau tikėtina, kad virusai su mūsų ląstelėmis egzistavo kaip vieni nuo kitų neatskiriama sistema. Paprasčiausi virusai yra – tiesiog infekcinė RNR, sutinkama augaluose. Tokie „virusai“ vadinami viroidais. RNR molekulė gali nešti ir genetinę informaciją apie save, ir tuo pačiu katalizuoti tam tikras reakcijas. Tokie RNR „fermentai“ vadinami ribozimais. Manoma, kad pirmosios gyvybės makromolekulės galėjo būti būtent tokios RNR.",
+          "Šaltinis": "15min.lt, aut. Zigmantas Žitkus.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "12 31.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Karantininiais kenkėjais laikomi tie augalus pažeidžiantys organizmai (vabzdžiai, nematodai, bakterijos, grybai, virusai, viroidai ir kt.), kurių Lietuvoje nėra arba tik ribotose teritorijose, tačiau jie gali išplisti.",
+          "Šaltinis": "vatzum.lrv.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "03 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Viroidai yra mažos žiedinės RNR molekulės. Nustatyta, kad jie pirmiausia užkrečia augalus – pavyzdžiui, bulves. Viroidai skiriasi nuo didesnių RNR pagrindu sudarytų virusų keliais aspektais. Pirma, jie yra pliki, be apsauginio baltyminio apvalkalo, kurį virusai naudoja savo genetinei medžiagai laikyti. Antra, jie nekoduoja baltymų. Įprastai virusai koduoja baltymus dėl savo išorinių apvalkalų ir tam tikrų fermentų, reikalingų dauginimuisi, o viroidai šiuos fermentus pasisavina iš savo nešiotojų.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "02 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Anksčiau paprasčiausia gyvybės forma buvo laikomi virusai, kol 1971 m. buvo atrasta, kad bulvių gumbų ligą sukelia dar paprastesni infekciniai agentai, pavadinti viroidais, turintys vos 300 RNR simbolių. Marcos De la Peña pažymi, kad iki 2023 m. buvo žinoma tik apie 50 viroidų rūšių augaluose ir gyvūnuose, kol tarptautinė komanda, kurioje dalyvavo ir jis pats, atrado dar 20 tūkst. jų tipų.",
+          "Šaltinis": "lsveikata.lt, aut. Rasa Kasperavičiūtė-Martusevičienė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "11 11.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
