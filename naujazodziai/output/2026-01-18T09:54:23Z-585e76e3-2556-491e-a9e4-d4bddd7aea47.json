@@ -1,0 +1,42 @@
+{
+  "uuid": "585e76e3-2556-491e-a9e4-d4bddd7aea47",
+  "header": "PAV",
+  "publishedDate": 1768730063671,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai sukurta santrumpa",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "lietuvių, < poveikio aplinkai vertinimas.",
+      "Pateikta": "2026-01-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "administracinė procedūra – ūkinės veiklos poveikio aplinkai vertinimas.",
+      "Vartojimo sritys": "administravimas, aplinka",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Informacija apie parengtą poveikio aplinkai vertinimo (PAV) programą [antraštė]PAV subjektai, kurie nagrinėja PAV dokumentus ir pagal kompetenciją teikia išvadas: Vilniaus miesto savivaldybės administracija; Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos Vilniaus departamentas; Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Vilniaus priešgaisrinė gelbėjimo valdyba; Kultūros paveldo departamentas prie Kultūros ministerijos Vilniaus skyrius.",
+          "Šaltinis": "vilnius.lt",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2021",
+          "Kita metrika": "12 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "UAB „Grigeo Tissue“ planuojamos ūkinės veiklos plėtrai parengta poveikio aplinkai vertinimo (PAV) programa.Parengta PAV programa bus pateikta atsakingoms institucijoms vertinimui. Gavus jų pritarimą, bus pradėta rengti poveikio aplinkai vertinimo ataskaita, kurioje bus išsamiai įvertintas galimas planuojamos ūkinės veiklos poveikis aplinkai.",
+          "Šaltinis": "grigeo.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Nors pernai sostinės centre Nerimi jau ėmė plaukioti du elektriniai laivai, atsirado keletas prieplaukų jiems, Vilnius nestokoja ambicijų miesto teritorijoje dar labiau įveiklinti upę. Savivaldybė sako, kad šiuo metu nėra konkrečiai apsisprendusi dėl darbų Neryje, bet neatmetama, kad upė gali būti gilinama. Nagrinėjant tokią galimybę ketinama atlikti poveikio aplinkai vertinimą (PAV).Vandens keliai ir natūralių upių likimas – pastaruoju metu karšta tema Lietuvoje. Ypač po to, kai aplinkosaugininkai dėl Vidaus vandens kelių direkcijos (VVKD) atliktų darbų Nemune apskaičiavo beveik 8 milijonų eurų žalą. VVKD ginasi, kad atliko tik upės valymą, o aplinkosaugininkai teigia, kad upė buvo pagilinta, todėl prieš tai buvo būtina atlikti PAV.",
+          "Šaltinis": "lrt.lt, aut. Marius Monkevičius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "01 17.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
