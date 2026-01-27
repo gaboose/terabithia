@@ -1,0 +1,56 @@
+{
+  "uuid": "2983276e-1d39-42b7-b0f1-efb73b722dc5",
+  "header": "aušyklė",
+  "publishedDate": 1769423364716,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "aušỹklė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-01-21).",
+      "Pateikta": "2026-01-26",
+      "Atnaujinta": "2026-01-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "aušinimo įrenginys.",
+      "Vartojimo sritys": "technika, technologijos",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "(57) Išradimo tikslas - efektyviai panaudoti šildymo / šaldymo įrenginius gaminant šilumą ir šaltį tuo pat metu. Šis tikslas yra pasiekiamas, sistemoje panaudojant tiek šilumą, tiek ir šaltį tuo pačiu metu, panaudojant iš šaldymo sistemos grąžinamą šilumą, o taip pat naudojant pasyvų šaltį, t. y. iš lauko kontūro paimamą šaltį, kai nereikalingas šilumos siurblio darbas. Taip pat galima naudoti pasyvų šaltį iš oro, kai per šaldymo įrenginio aušyklę pratekantis skystis atšaldomas, lauke esant pakankamai žemai oro temperatūrai.",
+          "Šaltinis": "Lietuvos Respublikos valstybinio patentų biuro oficialus biuletenis. Išradimai. Vilnius.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2016",
+          "Kita metrika": "11 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "A. Šuopys pamini ir kitą inovaciją – upės vandens panaudojimą pastatui šildyti ir vėsinti. Pašnekovas primena, pavyzdžiui, vėsinimui naudojamų tradicinių aušyklių technologiją – vasarą, esant aukštai, apie +30 ˚C, temperatūrai, tradicinės aušyklės, paėmusios iš išorės karštą orą, jį atšaldo ir tiekia į patalpas, jas vėsina. Šiuo atveju imamas upės vanduo, kurio temperatūra vasarą nepakyla per 20 ˚C, taigi, jį beveik visu vasaros periodu galima naudoti iš karto, nereikia papildomai atvėsinti. Tai taip pat Skandinavijoje naudojama technologija, kuri tokio dydžio pastatams Lietuvoje dar nebuvusi pritaikyta. Naujojo didmiesčio vizija.",
+          "Šaltinis": "sa.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2018",
+          "Kita metrika": "02 17.",
+          "Pavyzdį pateikė": "Gita (2026-01-21)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Atidirbtas rapsų aliejus bus atvežamas cisternomis prie iškrovimo-pakrovimo posto ir specialia įrangą, kartu su vamzdžių sistema, žaliavos bus perkraunamos į žaliavų atsistovėjimo talpas. Jeigu žaliavos bus geros kokybės, toliau jos keliaus į aliejaus pirminio perdirbimo pastatą, kur išdėstytas trikantėris (skirtas žaliavų perdirbimui) ir aušyklė (atvėsina gamybinius įrenginius).",
+          "Šaltinis": "ve.lt, aut. Vaiva Makarauskaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "04 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Lietuvos Nacionalinis dramos teatras pradeda naują veiklos etapą [antraštė]Pagal pateiktus projektinius skaičiavimus „NIT“ parinko ir LNDT projektui tiekė pasaulyje pripažinto, patikimo, labai kokybiškos oro kondicionavimo ir šaldymo įrangos gamintojo „Aermec“ (Italija) aušyklę „WDR“, vandeniu aušinamą šaldymo mašiną „NXW“, užtikrinančią žemą triukšmo lygį, ir modernius ventiliatorinius konvektorius „FCZ“ bei „FCL“.",
+          "Šaltinis": "structum.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Kita metrika": "11 03.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
