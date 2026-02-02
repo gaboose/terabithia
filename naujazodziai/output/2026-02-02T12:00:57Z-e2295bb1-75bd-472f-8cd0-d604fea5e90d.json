@@ -1,0 +1,51 @@
+{
+  "uuid": "e2295bb1-75bd-472f-8cd0-d604fea5e90d",
+  "header": "dranikas",
+  "publishedDate": 1770033657322,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "drãnikas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "dgs. draniki.",
+      "Kilmė": "baltarusių, дранікі (dgs.), anglų k. perraša draniki (dgs.).",
+      "Pateikta": "2026-02-02"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "baltarusiškas tarkuotų bulvių blynas.",
+      "Pastabos vartotojams": "skolinys įteisintas Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2025-11-28).",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "patiekalai",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Baltarusiški \"dranikai\"Įdarui skirtus grybus nuplaukite ir 3-4 val. mirkykite šaltame vandenyje. Tada juos dar kartą nuplaukite, vėl užpilkite vandeniu ir virkite apie valandą. Išvirusius grybus smulkiai supjaustykite ir sumaišykite su susmulkintu pakepintu svogūnu, įberkite druskos. Bulves stambiai sutarkuokite. [...] Rankomis suformuokite \"dranikus\". Kepkite įkaitintoje keptuvėje su aliejumi. Iškepusius blynus sudėkite ant popierinių rankšluoščių, kad sugertų riebalų perteklių. Patiekite su grietine. 2016",
+          "Šaltinis": "skanus.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2016",
+          "Kita metrika": "(ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Dranikai – taip baltarusiškai vadinami tarkuotų bulvių blynai. Istoriškai šis patiekalas buvo plačiai paplitęs tarp žydų, gyvenusių Lietuvos Didžiosios Kunigaikštytės teritorijoje. Jį valgydavo per Chanuką, žydų pergalės prieš užkariautojus graikus šventę, kuri švenčiama aštuonias dienas.",
+          "Šaltinis": "verslimama.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2019",
+          "Kita metrika": "01 21.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Draniki yra vienas populiariausių baltarusių virtuvės patiekalų. Tačiau lenkai mano, kad jų receptas yra tinkamesnis ir skanesnis nei baltarusiškas. Kuo skiriasi šios dranikų rūšys?Pirma, baltarusiški dranikai ruošiami iš žalių bulvių, geriausia jaunų. Lenkiški naudojami su virtomis šakniavaisinėmis daržovėmis.Antra, baltarusiškas variantas ruošiamas nededant miltų. Yra receptų, kaip gaminti bulvinius dranikus net be kiaušinių. Lenkijoje draniki gaminami pridedant abiejų ingredientų.",
+          "Šaltinis": "gardusreceptai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "sausis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
