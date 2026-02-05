@@ -1,0 +1,42 @@
+{
+  "uuid": "d3d69909-f002-41c6-9b1a-5227b8c04439",
+  "header": "remtinys, -ė",
+  "publishedDate": 1770232274105,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "remtinỹs, remtinė̃",
+      "Kirčiuotė": "3b",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < remti.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Rita U. (2026-02-04).",
+      "Pateikta": "2026-02-04",
+      "Atnaujinta": "2026-02-05"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kas gauna (piniginę) paramą, yra remiamas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Ekspresiniai atspalviai": "juokaujamasis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Esam remtiniai, seni ar dar neseni. Yra ir jaunų remtinių.",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "10 08.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Visų laikų serialas prasidėjo, sezonų skaičius neribotas. Kaip skurdžiausias niekieno remtinys be baimės teistumo stebėsiu armagediecą.",
+          "Šaltinis": "facebook.com, Andrius Merkevičius.",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "02 04.",
+          "Pavyzdį pateikė": "Rita U. (2026-02-04)."
+        }
+      }
+    }
+  }
+}
