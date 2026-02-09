@@ -1,0 +1,65 @@
+{
+  "uuid": "a8f596ad-e4bc-4f5f-a242-1844cca98023",
+  "header": "tinklinimasis",
+  "publishedDate": 1770617462667,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "tiñklinimasis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < tinklintis.",
+      "Giminiški naujažodžiai": "bendratinklis, -ė (dktv.); irštvatinklis; įsitinklinti; įtinklinti; sociatinklis; tinkladėžė; tinkladraugis, -ė; tinklakalbė; tinklalaidė; tinklalapis; tinklaraštis; tinklas; tinklasklaida; tinklaveika; tinklavietė; tinklažmogis; tinklintis; tinklinukas; tinklišius; žiniatinklis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-02-05).",
+      "Pateikta": "2026-02-09"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "jungimasis į tinklus; ryšių mezgimas.",
+      "Vartojimo sritys": "administravimas, verslas",
+      "Sąsajos": "tinklas; tinklaveika; tinklintis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[Renginio] Tikslai: alaus kultūros plėtojimas, ryšių užmezgimas (tinklinimasis), tarporganizacinis bendravimas, apsikeitimas informacija, tendencijų apžvalga ir pristatymas, poreikių identifikavimas bei analizė, “brainstormingas”, naujų veiklos krypčių numatymas [...].",
+          "Šaltinis": "tikrasalus.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2011",
+          "Kita metrika": "09 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Kaunas – vienintelė savivaldybė Lietuvoje, turinti startuoliams skirtą programą. Ši programa pakeitė savo pobūdį. Nuo šiol bus finansuojamos ne atskiros, pavienės idėjos, o lėšos nukreipiamos į aksceleravimą ir tinklinimąsi. Kitaip tariant, tiek lėšos bus naudojamos efektyviau, tiek programos dalyviai galės pasinaudoti išplėstomis galimybėmis“, – teigė Kauno vicemeras Simonas Kairys.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "09 15.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Jaunimo savanoriška tarnyba (JST) susideda iš tarnystės bendruomenei ir asmeninio ugdymo(si) – būtent į tai ir yra orientuota mūsų veikla.Mokymų metu buvo:1. Aptariami bendri SVO veiklos kokybės standartai.2. Išgryninta savanorių palydėjimo koncepcija savanoriškos veiklos metu.[...]5. Aptariama mokymosi savanorystėje į(si)vertinimo metodika.6. Įvertinta SVO organizacijų tinklinimosi prasmė ir struktūra.",
+          "Šaltinis": "nibd.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2018",
+          "Kita metrika": "11 30.",
+          "Pavyzdį pateikė": "Gita (2026-02-05)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Šių metų lapkričio 16 d. Kauno ark. Šv. Jono Krikštytojo pastoracijos centre vyko mokymai darbuotojams, dirbantiems projekte „PRIIMK: integrali pagalba asmenims integruojantis į darbo rinką“. Projektą įgyvendina Kauno arkivyskupijos Caritas ir Lietuvos Caritas, projektas finansuojamas Europos socialinio fondo lėšomis. Mokymų tema – „Komandinis darbas organizacijoje ir tinklinimasis“. Mokymuose dalyvavo projekte dirbantys socialiniai darbuotojai ir užimtumo specialistai, kurie padeda atskirtyje esantiems žmonėms grįžti į visuomenės gyvenimą, gauti socialinę pagalbą, įsitraukti į savanorišką veiklą, pradėti mokytis profesijos ar dirbti.",
+          "Šaltinis": "kaunas.caritas.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2019",
+          "Kita metrika": "11 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Be to, renginio metu vienos „i2i Baltic“ grupės dalyviai atrado panašumų tarp vystomų verslo idėjų ir norą kartu vystyti naują, partneryste pagrįstą idėją. Šis pavyzdys demonstruoja dar vieną „i2i Baltic“ naudą dalyviams – bendraminčių tinklinimosi galią vienoje startuolių ekosistemoje.",
+          "Šaltinis": "lietuva.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Kita metrika": "12 03.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
