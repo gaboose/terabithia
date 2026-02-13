@@ -1,0 +1,64 @@
+{
+  "uuid": "19977535-7fbc-481f-ad11-7b1389628d18",
+  "header": "skeletonininkas, -ė",
+  "publishedDate": 1770979396426,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "skeletònininkas, skeletònininkė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < skeletonas < graikų k. skeleton „griaučiai“.",
+      "Giminiški naujažodžiai": "egzoskeletas",
+      "Pateikta": "2026-02-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "skeletono (greitojo važiavimo rogutėmis nuo kalnų specialia trasa) sportininkas.",
+      "Vartojimo sritys": "sportas",
+      "Semantiniai požymiai": "sportininkai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Rusijos skeletonininkės dėl medalių kovoja nesąžiningai? Tokią versiją iškėlė Australijos skeletono komanda, pateikusi skundą, kad Sočio olimpinių žaidynių šeimininkai treniruojasi slaptoje bazėje.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "02 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Latvijos skeletonininkas Emīls Indriksons Pasaulio taurės etape Siguldoje užėmė 12-ąją vietą, nepaisant stipraus starto, nes prastas antrasis nusileidimas neleido jam patekti į TOP10.",
+          "Šaltinis": "nemeluosiu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "12 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Palaikome Ukrainos skeletonininką Vladyslavą Heraskevyčių, pašalintą iš žiemos olimpinių žaidynių dėl šalmo su Rusijos nužudytų Ukrainos sportininkų atvaizdais. „Žuvusių Ukrainos sportininkų atminimas nėra pažeidimas. Šalmas rodo veidus, o ne šūkius.",
+          "Šaltinis": "facebook.com (Užsienio reikalų ministerijos paskyra).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "01 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kitaip nei rogučių sporte, skeletonininkai trasa leidžiasi ant pilvo – veidu į priekį.",
+          "Šaltinis": "facebook.com (LRT paskyra).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "01 31.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Ukrainos skeletonininkas Sporto arbitražo teisme ginčija sprendimą jį pašalinti iš Milano olimpinių žaidynių [antraštė]Skeletonininkas buvo pašalintas iš varžybų dėl ginčo, susijusio su jo šalmu, ant kurio pavaizduoti per karą su Rusija žuvę sportininkai ir kurį jis norėjo dėvėti per varžybas.",
+          "Šaltinis": "alfa.lt (ELTA).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "02 13.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
