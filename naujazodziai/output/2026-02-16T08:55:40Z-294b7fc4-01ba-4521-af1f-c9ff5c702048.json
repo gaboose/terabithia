@@ -1,0 +1,41 @@
+{
+  "uuid": "294b7fc4-01ba-4521-af1f-c9ff5c702048",
+  "header": "promptinimas",
+  "publishedDate": 1771232140718,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pròmptinimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, lietuvių k. promptinti < promptas < anglų k. ﻿prompt﻿.",
+      "Giminiški naujažodžiai": "promptas; promptografija; teleprompteris",
+      "Pateikta": "2026-02-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "užklausų ar nurodymų pateikimas generatyvinio dirbtinio intelekto programai.",
+      "Vartojimo sritys": "kompiuterija, technologijos",
+      "Funkciniai atspalviai": "žargonybė",
+      "Sąsajos": "DI; promptas; promptografija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kūrybiškiems žmonėms atsiveria naujos galimybės išbandyti save ir pasiūlyti pasauliui anksčiau nematytas paslaugas – paveikslėlių generavimo, promptinimo (įvesčių DI įrankiams rašymo) ir kitas\", sako vienas iš šių metų Nacionalinio kultūros forumo pranešėjų, mokslo ir technologijų populiarintojas bei DI entuziastas Lukas Keraitis.",
+          "Šaltinis": "instagram.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "04 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„VU šiais metais siūlo AI promptinimo bakalaurą. Rimtai. Normalus, 4 metų bakalauras. Paruošti „generatyvinio dirbtinio intelekto (DI) užklausų (angl. prompts) valdymo inžinierius“. KETURIŲ METŲ bakalauras apie tai, kaip rašyti chatbotui. Dar greičiausiai ir su valstybės finansuojamom vietom“, – svarstė vaikinas.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "02 16.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
