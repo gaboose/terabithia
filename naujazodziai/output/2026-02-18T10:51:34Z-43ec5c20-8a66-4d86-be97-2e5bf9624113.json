@@ -1,0 +1,60 @@
+{
+  "uuid": "43ec5c20-8a66-4d86-be97-2e5bf9624113",
+  "header": "dirbtelektas",
+  "publishedDate": 1771411894589,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dirbtelèktas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < dirbtinis + intelektas.",
+      "Ypatingieji požymiai": "kontaminacinis darinys",
+      "Giminiški naujažodžiai": "dirbtinaintelektininkas, -ė; intelektika; intelektuomenė",
+      "Pateikta": "2026-02-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dirbtinis intelektas – didžiaisiais kalbos modeliais grį̇̃stos generatyvinės skaitmeninės technologijos.",
+      "Vartojimo sritys": "kompiuterija, technologijos",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Kiti variantai": "DI",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dažnai mokymuose šią figūrą rodydavau kaip pavyzdį, kaip padaryti tekstą įtaigesniu. Ir perspėdavau, kad nereikia persistengti, nes kas per daug, tas nesveika. Tiek kulinarijoje, tiek literatūroje. Kaip ir reikėjo tikėtis, atsirado autorius, kuris nuolat persūdo. Žinoma, tai yra ChatGPT. Ir ne tik jis, bet kuris kitas LLM arba dirbtelektas nuolat nusideda šiuo požiūriu.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "09 29.",
+          "Naujažodį pavartojo": "Aidas Puklevičius",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Liko savaitė iki Kalėdų, o aš niekaip nesugalvoju, kas didžiausias šių metų Grinčas. Net kreipiausi į draugą Dirbtelektą. Anas siūlo ir Seimą, ir eglutės heiterius ir dar šį bei tą, bet ne tas vaibas. Vis labiau galvoju nominuot orą, nes tokio apsirūkiusio oro kaip pastaruoju metu per Kalėdas mažiausiai noriu.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "12 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Nuosekliai sekame renginio sklaidos socialiniuose tinkluose planą ir sukūrėme išskirtinį videoklipą kuriame kviečiame potencialius klientus pirkti bilietus į mūsų ketvirtadienio koncertą @downtownforest. Net pasitelkėme dirbtelektą pirmą kartą! Dabar tai jau tikrai ateis žmonių.",
+          "Šaltinis": "facebook.com (paskyra „Arklio galia“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Vis dar ginčijamasi, dėl kokių priežasčių AI ima haliucinuoti, kas sudaro maždaug penktadalį atsakymų į įvairiausius klausimus. Neseniai iškelta nauja versija, kad, atseit, dirbtelektas pradeda pūsti vėjus tada, kai su juo bendraujama pernelyg mandagiai.",
+          "Šaltinis": "tapinas.substack.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2026",
+          "Kita metrika": "01 24",
+          "Naujažodį pavartojo": "Aidas Puklevičius",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
