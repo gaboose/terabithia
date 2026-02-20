@@ -1,0 +1,40 @@
+{
+  "uuid": "07cb8207-8ff1-46d1-8342-3aa87ebd696b",
+  "header": "kulomjė",
+  "publishedDate": 1771574513886,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "kulomjė̃",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "kulomje; kulomjeras.",
+      "Kilmė": "prancūzų, Coulommiers.",
+      "Pateikta": "2026-02-20"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "minkštas gelsvas prancūziškas karvių pieno sūris su baltųjų pelėsių plutele.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "sūriai",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Baigiami rengti peržiūrėti standartai čederio sūriui (C-1), danbo sūriui (C-3), edamo (C-4), gouda (C-5), havarti (C-6), samsiu (C-7), ementalio (C-9), „Tilžės“ (C-11), „Saint-Paulin“ (C-13), provolonės (C-15), kotedžo (C-16), kulomje (C-18), grietininio (C-31), kamambero (C-33), brie (C-34) sūrių standartų projektai ir naujai parengto standarto mocarelos sūriui projektas.",
+          "Šaltinis": "Marija Paserpskienė. Pieno produktų reglamentavimo tendencijos. – Maisto chemija ir technologija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2007",
+          "Kita metrika": "t. 41(1), p. 66.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Iš sūrių rekomenduojamas kulomjeras (minkštas sūris, panašus į bri). Desertas – keptas ekologiškas obuolys.",
+          "Šaltinis": "Pamela Druckerman. Vaikų auklėjimas pagal prancūzus. Iš anglų k. vertė Margarita Bautrėnienė. Alma littera.",
+          "Šaltinio rūšis": "įvairūs spaudiniai",
+          "Metai": "2013",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
