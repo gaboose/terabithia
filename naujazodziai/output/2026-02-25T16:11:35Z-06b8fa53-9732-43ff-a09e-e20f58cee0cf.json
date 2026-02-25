@@ -1,0 +1,50 @@
+{
+  "uuid": "06b8fa53-9732-43ff-a09e-e20f58cee0cf",
+  "header": "vaizdaklastė",
+  "publishedDate": 1772035895029,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vaizdãklastė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. deepfake „vaizdo klastotė“.",
+      "Giminiški naujažodžiai": "klastuomenė; vaizdadėžė; vaizdadiskis; vaizdakaita; vaizdakalbė; vaizdaknygė; vaizdalapis; vaizdaraštis",
+      "Pateikta": "2026-02-25"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "skaitmeninio statiško vaizdo arba vaizdo įrašo klastotė, taikant dirbtiniu intelektu grįstas technologijas.",
+      "Pastabos vartotojams": "vietoj skolinio dypfeikas (anglų k. deepfake) veiksmui pavadinti VLKK Konsultacjų banke siūlomi kasdienei vartosenai nepatogūs žodžių junginiai sintetinė vaizdakaita, išmanusis vaizdo klastojimas, sintetinis vaizdo klastojimas, sintetinė vaizdo sankaita; veiksmo rezultatui pavadinti siūlomi atitikmenys išmanioji vaizdo klastotė, sintetinė vaizdo klastotė; vartosenoje nereti pažodiniai vertiniai gilioji klastotė, gilusis padirbinys; vienažodis atitikmuo naujadaras vaizdãklastė, Naujažodžių duomenyne pasiūlytas dar 2024 m., pamažu pradeda plisti.",
+      "Vartojimo sritys": "technologijos",
+      "Kiti variantai": "dypfeikas [nenorminis]; gilioji klastotė; vaizdakaita [norminis]",
+      "Sąsajos": "DI",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Vaizdo klastotės – arba vaizdaklastės – atima iš moterų jų pačių kūnų kontrolę, nes net ir iš paprastos nuotraukos gali būti sukuriami įvairiausi nebūti dalykai.",
+          "Šaltinis": "facebook.com (paskyra „Moterų informacijos centras“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "11 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Deepfake“ verčiamas kaip „gilioji klastotė“ ar „išmanusis vaizdo klastojimas“, „vaizdo klastotė“, bet siūloma vartoti tiesiog „vaizdaklastė“.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "01 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„Be sutikimo sukurtos seksualinės moterų ir vaikų vaizdaklastės yra smurtinė, nepriimtina žeminimo forma“, – pirmadienį pareiškė EK vicepirmininkė Henna Virkkunen.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "01 26.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
