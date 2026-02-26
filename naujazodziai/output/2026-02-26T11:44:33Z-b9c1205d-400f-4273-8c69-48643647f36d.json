@@ -1,0 +1,55 @@
+{
+  "uuid": "b9c1205d-400f-4273-8c69-48643647f36d",
+  "header": "hi-fi",
+  "publishedDate": 1772106273522,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai skolinta keliažodė citata",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "neklasifikuota",
+      "Kilmė": "anglų, HiFi; Hi-Fi < high fidelity „aukšta kokybė“.",
+      "Papildoma informacija": "skolinys Hi-Fi, hi-fi „tiksliosios atkurties (priemonė, sistema)“ yra K. V. Paulausko „Aiškinamajame kompiuterijos terminų žodyne“ (Vilnius, 2000).",
+      "Pateikta": "2026-02-26"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "aukšta įrenginio, kuriuo atkuriamas įrašytas garsas, kokybė (tikslioji atkurtis).",
+      "Vartojimo sritys": "elektrotechnika",
+      "Kiti variantai": "haifajus",
+      "Sąsajos": "lo-fi",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dažnai nurodomas 20–20 000 Hz stiprintuvo atkuriamųjų dažnių diapazonas. Atrodytų, to visiškai pakanka, nes mes „vis tiek negirdime už šito diapazono ribų“. Tai yra viena didžiausių Hi-Fi industrijos nesąmonių. Oro vibracijos, kurių dažniai žemesni negu 15 Hz, kelia labai stiprius (deja, neigiamus) jausmus.",
+          "Šaltinis": "delfi.lt (iš žurnalo „Studio“), aut. Artašes Gazarian.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2008",
+          "Kita metrika": "12 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "1925 metais įkurta bendrovė jau ryžosi permainoms. Jos labiausiai pastebimos žvelgiant į pakitusį „Bang & Olufsen” gaminių dizainą. „Dirbame tiems, kurie dizainą ir kokybę vertina labiau nei kainą”, – taip save reklamavo bendrovė 1968 m. „Bang & Olufsen”, kaip joks kitas „Hi-Fi” sistemų ir komponentų gamintojas, siekė ir tebesiekia išskirtinio dizaino.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "08 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Moderni „Hi-Fi“ ir „High End“ garso atkūrimo įrangos rinka itin konkurencinga. Siekdami pritraukti klientus, gamintojai griebiasi įvairių būdų: inovatyvių technologijų diegimo, unikalaus išorės bei vidaus dizaino ar netgi įžūlaus, klaidinančio marketingo.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "11 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Muzikos kokybės mėgėjams svarbu žinoti, kad Hi-Fi įrenginiai ir lossless garso formatai leidžia klausytis muzikos be kokybės praradimų.",
+          "Šaltinis": "autogarsas.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2025",
+          "Kita metrika": "09 05.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
