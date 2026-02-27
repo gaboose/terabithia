@@ -1,0 +1,57 @@
+{
+  "uuid": "17f9f34e-3b20-47fb-a35e-4454533989ad",
+  "header": "neurotoksinis, -ė",
+  "publishedDate": 1772179229819,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "neurotòksinis, neurotòksinė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "anglų, neurotoxic.",
+      "Giminiški naujažodžiai": "neurotoksinas; neurotoksiškas, -a; neurotoksiškumas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-01-22).",
+      "Pateikta": "2026-02-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "turintis neigiamą poveikį nervų sistemos struktūrai ir funkcijoms.",
+      "Vartojimo sritys": "medicina (sveikata)",
+      "Sąsajos": "neurotoksinas; neurotoksiškas, -a; neurotoksiškumas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Švinas dažniausiai naudojamas akumuliatoriuose ir gali sudaryti net iki 80 proc. jų svorio. Ši medžiaga kaupiasi žmogaus organizme – kauluose, kepenyse, inkstuose, kaulų čiulpuose ir kt., pažeidžia nervų sistemas, kraujo gamybos bei virškinimo funkcijas. Dažnai žala organizmui pastebima tik po kelių dešimčių metų. Ypač jautrūs švino poveikiui yra vaikai – net labai mažos šios medžiagos dozės sukelia neurotoksinius efektus, pasireiškiančius protinio vystymosi sulėtėjimu.",
+          "Šaltinis": "epa.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2013",
+          "Kita metrika": "05 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "[...] alkoholis yra neurotoksinė ir neurouždegiminė medžiaga, kuri pažeidžia kepenis ir inkstus. Taip pat padidina žarnyno pralaidumą, todėl toksinai patenka į kraują, naikina žarnyno mikrobiomą. Šitaip alkoholis paveikia imuninę sistemą ir galiausiai sukelia uždegimines ligas: artritą, diabetą, širdies ligas, hepatitą, ūminį pankreatitą ir kt.",
+          "Šaltinis": "romosskanumai.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2022",
+          "Kita metrika": "08 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Sudėtinga smegenų chemija tampa vis jautresnė ir gali sustiprinti neurotoksinį alkoholio poveikį taip, kaip niekada anksčiau nesate patyrę. [...]Jūsų senstantys neuronų tinklai yra labiau pažeidžiami dėl daugelio fiziologinių mechanizmų. Neuronų membranos tampa mažiau atsparios, todėl sumažėja jų gebėjimas atlaikyti žalingą alkoholio poveikį. Neurotransmiterių sistemos palaipsniui sutrinka, todėl sustiprėja neurotoksinė alkoholio sąveika.",
+          "Šaltinis": "smlpc.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "01 08.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "JAV vakarinė Jutos valstija tapo pirmąja uždraudusia fluoruoti viešai tiekiamą geriamąjį vandenį. Fluoridas JAV vandens sistemose pradėtas naudoti 1945 m., tuomet labai sumažėjo vaikų ėduonies atvejų, o suaugusieji rečiau netekdavo dantų. Ligų kontrolės ir profilaktikos centras tai vadina vienu didžiausių XX amžiaus visuomenės sveikatos pasiekimų. Dėl galimo neurotoksinio fluorido poveikio kilo ginčų.",
+          "Šaltinis": "ziniuradijas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 02.",
+          "Pavyzdį pateikė": "Gita (2026-01-22)."
+        }
+      }
+    }
+  }
+}

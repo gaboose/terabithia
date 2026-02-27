@@ -1,0 +1,66 @@
+{
+  "uuid": "39240f05-a2f0-4ab4-8704-d0041425f914",
+  "header": "neurotoksiškumas",
+  "publishedDate": 1772181730404,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "neurotoksiškùmas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, neurotoxicity.",
+      "Giminiški naujažodžiai": "detoksas; neurotoksinas; neurotoksinis, -ė; neurotoksiškas, -a; toksiškas, -a; toksiškumas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-01-22).",
+      "Pateikta": "2026-02-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "būsena, kai pažeidžiamos nervų sistemos funkcijos arba struktūra; ypatybė, sukelianti tokias pažaidas.",
+      "Vartojimo sritys": "medicina (sveikata)",
+      "Sąsajos": "detoksas1; neurotoksinas; neurotoksinis, -ė; neurotoksiškas, -a; toksiškas, -a; toksiškumas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "8.13.2. Neurotoksiškumas, įskaitant neurotoksinį poveikį vystymuisi— Tinkamiausia bandomųjų gyvūnų rūšis – žiurkės, nebent kai pagrindžiama, kad kitos gyvūnų rūšys yra tinkamesnės — Uždelsto neurotoksiškumo bandymams tinkamiausia gyvūnų rūšis – suaugusios vištos— Nustačius anticholinesterazinį poveikį, reikėtų apsvarstyti galimybę atlikti atsako į reaktyvinančias medžiagas tyrimą.",
+          "Šaltinis": "Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012 2012 m. gegužės 22 d. dėl biocidinių produktų tiekimo rinkai ir jų naudojimo. Europos Sąjungos oficialusis leidinys.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2012",
+          "Kita metrika": "06 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Tenka susidurti net su jaunais žmonėmis, kurie jau turi priklausomybę nuo alaus. Dažniausiai jų alkoholizmas mišrus – alų jie maišo su stipriaisiais gėrimais. Beje, egzistuoja teorijos, kad alų gerti sveika. Taip, alus turi vitamino B, kitų mikroelementų, bet tokios kalbos – tik savęs pateisinimas. Vertinant visuomenės mastais, žala daug kartų didesnė. Tie, kurie vartoja daug alaus, rizikuoja turėti įvairių sveikatos sutrikimų: kepenų, širdies, kasos, vystosi neurotoksiškumas, atsiranda rizika susirgti vėžiu. Taigi vargu ar galima kalbėti apie naudą“ - sakė medikas.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "06 06.",
+          "Naujažodį pavartojo": "Inga Saukienė",
+          "Pavyzdį pateikė": "Gita (2026-01-22)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Būklė pagerėjo dešimtą parą po metotreksato infuzijos, ūminės limfoblastinės leukemijos gydymas tęstas pagal protokolą, metoreksato neurotoksiškumas nebepasikartojo. Šiuo atveju didelių dozių metotrek­sato sukeltas grįžtamas poūmis centrinės nervų sistemos pažeidimas diagnozuotas nustačius būdingus galvos smegenų magnetinio rezonaso tomografijos FLAIR ir DWI sekų pakitimus.",
+          "Šaltinis": "zurnalas.llmd.lt, Monika Draučiūnaitė, Viktorija Semaškienė, Irina Adomaitienė, Goda Vaitkevičienė. Metotreksato sukeltas centrinės nervų sistemos neurotoksiškumas gydant ūminę limfoblastinę leukemiją: klinikinis atvejis ir literatūros apžvalga. – Laboratorinė medicina",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2018",
+          "Kita metrika": "t. 20(1), p. 26–30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Vilčių teikia ir kitokius nanomodelius panaudojantys in vitro eksperimentų rezultatai. Pavyzdžiui, polietilenglikoliu stabilizuotos nanomicelės slopina Aβ agregacijos procesą ir mažina neurotoksiškumą.",
+          "Šaltinis": "lrytas.lt, aut. Jovita Gružaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "04 20.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Pastaruoju metu didelį susirūpinimą kelia žuvų ir jūrų gėrybių užterštumas gyvsidabriu. Nustatyta, kad jis lengvai kaupiasi organizme ir gali sukelti neurotoksiškumą bei vaikų raidos problemų.",
+          "Šaltinis": "priekavos.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "10 06.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

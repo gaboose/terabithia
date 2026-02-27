@@ -1,0 +1,66 @@
+{
+  "uuid": "af8fc824-5cae-4816-bc2b-d524e4f103a9",
+  "header": "neurotoksiškas, -a",
+  "publishedDate": 1772172146752,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "neurotòksiškas, neurotòksiška",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "anglų, < neurotoxic.",
+      "Giminiški naujažodžiai": "detoksas; neurotoksinas; neurotoksinis, -ė; neurotoksiškumas; toksiškas, -a; toksiškumas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-01-22).",
+      "Pateikta": "2026-02-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "turintis neigiamą poveikį nervų sistemos struktūrai ir funkcijoms.",
+      "Vartojimo sritys": "medicina (sveikata)",
+      "Sąsajos": "detoksas1; neurotoksinas; neurotoksinis, -ė; neurotoksiškumas; toksiškas, -a",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Neseniai atlikti tyrimai parodė, kad maisto papildai ir medicininės paskirties produktai yra ne tik neveiksmingi, neefektyvūs, bet gali kelti pavojų sveikatai dėl juose aptiktų neurotoksiškų medžiagų. Tai paaiškėjo Vokietijos mokslininkams ištyrus 27 JAV vartojamus preparatus su ginkmedžio, Ginkgo biloba, ekstraktu.",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2008",
+          "Kita metrika": "05 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Parabenai (butilo, metilo, etilo, propilo, izobutilo) randami kone visur – kremuose, šampūnuose ir t. t. Šie konservantai lengvai prasiskverbia į organizmą per odą ir ardo endokrininę sistemą, sukelia alergiją. Fenoksietanolis, dažnai naudojamas kaip pakaitalas parabenams, ne mažiau kenksmingas: naudojant jį ilgą laiką pastebimas dirginimas, ši medžiaga yra neurotoksiška, alergizuojanti.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "02 28.",
+          "Naujažodį pavartojo": "Inga Saukienė",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Mokslininkai įsitikinę, kad akrilamidas žmonėms yra neurotoksiškas, t.y. gali paveikti nervų sistemą. Tiksli priežastis vis dar nėra iki galo išaiškinta, tačiau viena iš teorijų yra ta, jog akrilamidas pažeidžia nervų ląstelių struktūrinius baltymus arba gali slopinti priešuždegimines sistemas, saugančias nervų ląsteles nuo pažeidimų.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "03 22.",
+          "Pavyzdį pateikė": "Gita (2026-01-22)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Dr. Love'as pridūrė, kad kava yra viena iš kultūrų, kurios Jungtinėse Amerikos Valstijose dažniausiai purškiamos pesticidais, o šie chemikalai gali būti neurotoksiški.",
+          "Šaltinis": "ve.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "07 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Šis neurotoksiškas baltymas naudojamas medicinoje įvairiais tikslais, tačiau dauguma jį žino iš kosmetikos srities. Didelį botulino injekcijų populiarumą sukėlė pasaulinio lygio žvaigždės, kurios jo pagalba mažino atsiradusias ryškesnes raukšles.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "05 02.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
