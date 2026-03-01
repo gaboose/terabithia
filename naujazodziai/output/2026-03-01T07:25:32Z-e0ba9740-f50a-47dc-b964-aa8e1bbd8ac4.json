@@ -1,0 +1,39 @@
+{
+  "uuid": "e0ba9740-f50a-47dc-b964-aa8e1bbd8ac4",
+  "header": "žaidybinti",
+  "publishedDate": 1772349932456,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "žaidýbinti, žaidýbina, žaidýbino",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių, plg. anglų k. to gamify.",
+      "Giminiški naujažodžiai": "sužaidybinimas; sužaidybinti; žaidybinimas",
+      "Pateikta": "2026-03-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "naudoti kompiuterinių žaidimų mąstymo logiką ir modelius nežaidybinėse srityse (švietimo ir mokymo sistemoje, prekyboje ir pan.).",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "sužaidybinimas; sužaidybinti; žaidybinimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Didesnių sužaidybinimų 2 informantas nenaudoja. 1 ir 3 informantai, teigę, jog sužaidybina ekskursijas priduria, jog tai priklauso nuo ekskursijos tipo, trukmės, biudžeto ir kitų priežasčių. 4 informantas teigė, jog bando sužaidybinti ekskursijas užduodant klausimus ar pakviečiant savanorį. Jam rodyti nuotrauką bei banknotą ir pranešti užduotį - surasti panašumų. Kartais ekskursijų pabaigoje dovanoti prizus. Galima teigti, jog visi gidai bent kažkiek su žaidybina ekskursijas - vieni mažiau, kiti daugiau. To priežtastimi galima įvardinti ekskursantų grupes, ekskursijos tipus, gido patirtį.",
+          "Šaltinis": "Vestina Kulėšaitė. Ekskursijų rengimo ir vedimo metodikos pokyčių analizė. Profesinio bakalauro baigiamasis darbas. Klaipėdos valstybinė kolegija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2018",
+          "Kita metrika": "p. 42.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Nykių darbų pasaulyje, žinoma, yra ir daugiau. Ir pasaulis šiaip jau seniai turi receptą – receptą, kurį šiaip jau yra atradę vaikai. Tas receptas – žaidimas. Ir ilgai gėdijęsi bet ko, kas vaikiška, ﻿suaugusieji ﻿XXI a. pagaliau atsitokėjo ir ėmė visokias gyvenimo nykumas žaidybinti (angl. gamify).",
+          "Šaltinis": "lrytas.lt, aut. Adomas Rutkauskas",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "04 24.",
+          "Pavyzdį pateikė": "Gita (2026-02-24)."
+        }
+      }
+    }
+  }
+}
