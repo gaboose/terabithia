@@ -1,0 +1,39 @@
+{
+  "uuid": "d5a6655e-1c3e-4d62-8886-77e453253012",
+  "header": "krituliodara",
+  "publishedDate": 1772440362068,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "krituliódara",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "kalbodara; klimatodara; kritulingas, -a; kritulys; neurorinkodara; projektodara; rinkodara; rūšiadara; vardodara; ženklodara",
+      "Pateikta": "2026-03-02"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kritulių susidarymas.",
+      "Vartojimo sritys": "aplinka",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dangus kiek pragiedrėja – prasideda pasyvioji vasaros musono fazė, kurios metu paviršius vėl palaipsniui šyla. Tuo metu aktyvios krituliodaros zona pasislenka vis giliau į sausumą. Tokios musoninio aktyvumo fazės vietovėje kartojasi kas 15–20 dienų.",
+          "Šaltinis": "hkk.gf.vu.lt; Egidijus Rimkus Meteorologijos įvadas.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2011",
+          "Kita metrika": "p. 90.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-29)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "700 hPa izobarinis aukštis pasirinktas dėl to, kad geriausiai reprezentuoja vidurinės troposferos cirkuliaciją ir yra sinoptinės klimatologijos praktikoje rekomenduojamas analizuojant krituliodarą lemiančius atmosferos cirkuliacijos procesus [...].",
+          "Šaltinis": "Karolina Grinevič, Arūnas Bukantis. Gausių kritulių Lietuvos upių baseinų rajonuose tikimybė ir juos lemiančių atmosferos cirkuliacijos procesų tipizacija. – Geografija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2011",
+          "Kita metrika": "t. 47; p. 89.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
