@@ -1,0 +1,55 @@
+{
+  "uuid": "aa086331-d553-40dd-8c93-b070c5aff459",
+  "header": "kursingas",
+  "publishedDate": 1772637047480,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "kùrsingas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, coursing.",
+      "Pateikta": "2026-03-04"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "šunų sporto rūšis – kiškių medžioklę imituojantis bėgimas.",
+      "Pastabos vartotojams": "siūlomas lietuviškas atitikmuo – (šunų) vytynės.",
+      "Vartojimo sritys": "gyvūnų priežiūra",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kursingas: šuoliais paskui masalą [antraštė]Pamirškite visa, ką girdėjote apie žiaurias, neetiškas, gyvūnus išnaudojančias šunų lenktynes. Jos gali būti – ir būna – kitokios. Kai manęs pašaipiai klausia, tai ką jau čia tokio galima nuveikti su tokiu menku šunimi kaip levretė, pavartau akis ir atsidūstu: akivaizdu, kad žmogus nėra matęs nei kurtų lenktynių, nei kursingo. [...]Daug dirbau rengdama kursingo taisykles – bendra jų ašis yra pateikiama FCI (Fédération Cynologique Internationale), tačiau konkrečiai kiekviena šalis taisykles kažkiek adaptuojasi sau. Lietuvos atveju siekiame, kad taisyklės būtų vienodos kaip mūsų kaimynų – estų ir latvių kursinge.",
+          "Šaltinis": "blog.koposnamai.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2013",
+          "Kita metrika": "03 21.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Rugpjūčio 16 d. sudalyvavom kursingo varžybose, kuriuos rengė Lietuvos kurtu savininku klubas. Pasigirti kaip ir nėra kuo – Krysia nusivijusi masalą – plastikinių juostų ryšulį – kone už 100m persijungė į praktiškai palei žemę skridusius tokius mažus paukščiukus, matėm kaip bandė pagauti tą paukštį, tada prisiminė apie „liurą“ ir žvalgėsi jo, bet tas jau su antru šuniu seniausiai „pabėgo“, tai ir grįžo pas mane „sportininkė“… ir kažkodėl kursinge antro šanso neduodama, tad gavo nulį balų ir tuo jos pasirodymas tądien baigėsi.",
+          "Šaltinis": "stabmeldys.net",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2014",
+          "Kita metrika": "08 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Sveiki, mes dar žali šioje temoje, bet įdomu, kada Vilniuje artimiausias kursingas, kuriame bus galima išsilaikyti pirmą kartą licenciją?:)",
+          "Šaltinis": "facebook.com (paskyra „Lure Coursing in Lithuania“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "02 11.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Šis sportas – apie aistrą, meilę ir susižavėjimą kurtais, sako kursingu* besidomintys arba su savo augintiniais dalyvaujantys varžybose. [...] „Netikro jauko medžioklės, imituojančios zuikio bėgimą trasoje, ilgis gali būti nuo keturių šimtų metrų iki kilometro. Kartais prie plastikinio jauko prikabinamas triušio kailiukas, kad labiau domintų šunis, bet kai bėgikus užvaldo adrenalinas, nereikia jokių kailiukų, – šuo mato jauką ir tenori vieno – jį pavyti!“, – save azartišku žmogumi laikanti Roberta prisipažįsta, jog vis randa veiklų, kurios ją „pakrauna“ ir „iškrauna“.*Kursingas (Coursing, anglų k.) – kiškių medžioklę imituojantis šunų bėgimas.",
+          "Šaltinis": "kinologija.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "kovas (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
