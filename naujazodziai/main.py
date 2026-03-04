@@ -53,8 +53,12 @@ def main():
                 if not client:
                     client = atproto.Client()
                     client.login(BLUESKY_LOGIN, BLUESKY_PASSWORD)
-                client.send_post(text)
-                print(f'Posted {irasas['header']} to Bluesky')
+                try:
+                    client.send_post(text)
+                    print(f'Posted {irasas['header']} to Bluesky')
+                except Exception as e:
+                    print(f"Failed to post {irasas['header']} to Bluesky: {e}")
+                    continue
 
             repo.save_to_file(contents, filename)
 

@@ -1,0 +1,48 @@
+{
+  "uuid": "f6794c5b-c1c1-4e5d-ac06-8af34d686200",
+  "header": "geolokalizuotas, -a",
+  "publishedDate": 1772436393304,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "geolokalizúotas, geolokalizúota",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "dalyvis",
+      "Kilmė": "anglų, geolocalized.",
+      "Giminiški naujažodžiai": "geolobiavimas; geolokacija; geolokalizuoti",
+      "Pateikta": "2026-03-02"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris priskirtas konkrečiai geografinei (fizinei) vietovei ar su ja susietas (kalbant apie skaitmeninius duomenis, turinį ar įrenginius).",
+      "Vartojimo sritys": "aplinka, technologijos",
+      "Sąsajos": "geolokacija; geolokalizuoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Kijevas pasidalijo filmuota medžiaga, kurioje, regis, matyti smūgis priešlėktuvinės gynybos sistemai. JAV įsikūręs analitinis centras Karo tyrimų institutas (ISW) apibūdino, kad filmuota medžiaga geolokalizuota į rytus nuo Kursko miesto Rylsko. Šiuo metu Ukrainos kontroliuojama Kursko teritorija yra į pietryčius nuo gyvenvietės.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "09 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Cantine Riunite“ dėka ūkininkai gali lengvai registruoti atliktus apdorojimus, pranešti apie visas pasėlių problemas ar anomalijas ir centralizuotai tvarkyti SQNPI dokumentus, užtikrindami, kad būtų laikomasi taisyklių. Programėlė taip pat leidžia turėti aiškų ir geolokalizuotą įmonės vaizdą su interaktyviais žemėlapiais, kurie palengvina informacijos konsultavimą [...].",
+          "Šaltinis": "play.google.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "rugpjūtis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Pirmadienį paskelbtame CNN geolokalizuotame vaizdo įraše matyti, kad virš Kuveito, netoli Jungtinių Valstijų oro pajėgų bazės, sudužo naikintuvas.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 02.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

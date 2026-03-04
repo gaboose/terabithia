@@ -1,0 +1,37 @@
+{
+  "uuid": "18f54875-3804-4847-bdf9-aabf3b26d852",
+  "header": "geolokalizuoti",
+  "publishedDate": 1772536377216,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "geolokalizúoti, geolokalizúoja, geolokalizãvo",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "anglų, to geolocalize.",
+      "Giminiški naujažodžiai": "geolobiavimas; geolokacija; geolokalizuotas, -a",
+      "Pateikta": "2026-03-03"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "priskirti konkrečiai geografinei (fizinei) vietovei ar su ja susieti (kalbant apie skaitmeninius duomenis, turinį ar įrenginius).",
+      "Vartojimo sritys": "aplinka, technologijos",
+      "Sąsajos": "geolokacija; geolokalizuotas, -a",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Antroje darbo dalyje supažindinama su metodologine darbo eiga. Itin svarbu gautus duomenis tinkamai paruošti tolimesnei analizei. Darbo metu naudojamus duomenis sudaro: Lietuvos Policijos Departamento užregistruotų įvykių 2016 m. duomenų bazė, Vilniaus miesto savivaldybės licencijų skyriaus išduota duomenų bazė, kurią sudaro Vilniaus mieste esančių alkoholiu turinčių teisę prekiauti vietų sąrašas. Atrinkus tinkamas nusikalstamas veikas bei esamas licencijas, jas reikėjo geolokalizuoti. Geolokalizavus duomenis, tolimesnei tyrimo eigai pasinaudota Lietuvos Statistikos Departamento Vilniaus miesto gardelių tinklas, kurio pagrindu perkelti į gardelių tinklą.",
+          "Šaltinis": "Lukas Tubutis. Nusikalstamų veikų ir alkoholio pardavimo vietų teritorinio sąryšio kartografinė analizė Vilniaus mieste. Magistro baigiamasis darbas. Vilniaus universiteto Kartografijos centras.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2018",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kitame tyrimo etape, geolokalizavus erdvėje nekintamus objektus (laiptus, platformas ir pan.) bei naudojant erozijos objektų – nuošliaužų ir išgraužų nuotraukose pažymėjimus, šie objektai buvo geolokalizuoti bei taip sukurta GIS duomenų bazė.",
+          "Šaltinis": "Jūros ir krantų tyrimai. Konferencijos medžiaga. Klaipėdos universiteto Jūros tyrimų institutas, 2024, gegužės 15–17 d.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
