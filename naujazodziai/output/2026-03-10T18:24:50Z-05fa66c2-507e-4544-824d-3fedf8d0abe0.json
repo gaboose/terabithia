@@ -1,0 +1,62 @@
+{
+  "uuid": "05fa66c2-507e-4544-824d-3fedf8d0abe0",
+  "header": "neurotransmiteris",
+  "publishedDate": 1773167090876,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "neurotransmi̇̀teris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, neurotransmitter.",
+      "Pateikta": "2026-03-10"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "cheminis mediatorius, kuris perduoda elektrinius signalus iš vieno neurono į kitą.",
+      "Vartojimo sritys": "mokslas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Ji sukūrė testą, kuriuo galima išsiaiškinti, kuris partneris/ė jums, tikėtina, labiausiai tiktų; taip pat svetainę Chemistry.com, kurioje ir pasiūlomi labiausiai tinkami partneriai pagal šio testo rezultatus. O testas pagrįstas lytinių hormonų (testosterono ir estrogeno) bei neurotransmiterių (dopamino ir serotonino) veikla.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "04 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tarpas tarp vieno neurono aksono galo ir kito neurono dendritų yra vadinamas sinapse. Neuronas, kuris perduoda signalą, turi krepšelį, pilną cheminių medžiagų, vadinamų neurotransmiteriais. Kai neuronas turi perduoti signalą, tas krepšelis, pilnas cheminių medžiagų, priartėja prie terminalo krašto, atsidaro, o tuomet visos viduje esančios cheminės medžiagos – neurotransmiteriai – patenka į sinapsę. Kai šios medžiagos yra sinapsės erdvėje, jos reaguoja su receptoriumi – baltymu, kuris priima signalą ant jį gaunančiojo neurono dalies.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "10 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„Alkoholis paveikia neurotransmiterius – chemines medžiagas, atsakingas už informacijos perdavimą tarp smegenų ląstelių. Gausiai vartojant sutrinka GABA ir dopamino veikla, o nervų ląstelėse didėjant šių neurotransmiterių receptorių kiekiui, susiformuoja alkoholio priklausomybė – alkoholizmas“, – sako dr. R.Dirvanskienė.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "09 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Mūsų smegenys – neįtikėtinai sudėtingas organas, atsakingas už viską, ką darome, pradedant kvėpavimu ir baigiant sudėtingų problemų sprendimu. Šio organo veiklos pagrindas – neuronų, specializuotų ląstelių, tinklas. Neuronai tarpusavyje komunikuoja per sinapses, mažyčius tarpus tarp ląstelių, naudodami chemines medžiagas, vadinamas neurotransmiteriais (arba neuromediatoriais).",
+          "Šaltinis": "sveikime.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "04 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "[...] mikroorganizmai dalyvauja neurotransmiterių gamyboje, taigi pakankamas skaidulų kiekis gali būti siejamas su mažesne depresijos rizika, stabilesne nuotaika, mažesniu nerimu.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 04.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
