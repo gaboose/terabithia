@@ -1,0 +1,48 @@
+{
+  "uuid": "f5d8b640-a545-4dc0-b938-c34cc3ee9736",
+  "header": "neurosiuntiklis",
+  "publishedDate": 1773254365137,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "neurosiunti̇̀klis",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. neurotransmitter.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2019-03-26).",
+      "Pateikta": "2026-03-11"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "cheminis mediatorius, kuris perduoda elektrinius signalus iš vieno neurono į kitą.",
+      "Vartojimo sritys": "chemija, medicina (sveikata)",
+      "Kiti variantai": "neuronešiklis; neurotransmiteris",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Glutamatas yra labai svarbus centrinės nervų sistemos neurosiuntiklis. Glutamatas nervinio impulso signalą per sinapsę perduoda molekulei taikiniui - glutamato receptoriui. Kai prie receptoriaus prisijungia neurosiuntiklio molekulės, pasikeičia nervinės ląstelės membranos elektrinis potencialas, kuris neuronais sklinda toliau.",
+          "Šaltinis": "zurnalas.llmd.lt, Sofija Sasnauskienė, Regina Firantienė, Regina Emužytė, Valerija Jablonskienė. Glutamato metabolizmas: biocheminiai ir fiziologiniai aspektai. – Laboratorinė medicina.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2013",
+          "Kita metrika": "t. 15, Nr. 3, p. 155–163.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Leidykla „Briedis“ pristato serijos „Sveikatos enciklopedija“ naujieną – dr. Martino Blaserio knygą „Nykstantys mikrobai“. [...] Šie neuronai, sudarantys enterinę nervų sistemą, reguliariai sąveikauja su žarnyno mikrobais. Sąveikų yra daugybė. Vienas įdomesnių šios sąveikos aspektų yra tai, kad žarnyno ląstelėse yra neurosiuntiklį serotoniną gaminančių ląstelių, o šis neurosiuntiklis susijęs su mokymosi, nuotaikų ir miego procesų reguliavimu bei kitomis funkcijomis.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "06 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Norėdamas išsiaiškinti, kas čia įvyko C.Lowry pasinaudojo laboratorinėmis pelėmis. Pagal jo hipotezę imuninis organizmo atsakas į bakteriją paskatina smegenis gaminti serotoniną. Ši molekulė yra neurosiuntiklis (tarp nervinių ląstelių) ir jo žemi lygiai organizme sukelia depresiją.",
+          "Šaltinis": "manosveikata.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2019",
+          "Kita metrika": "kovas (ne vėliau).",
+          "Pavyzdį pateikė": "Gita (2019-03-26)."
+        }
+      }
+    }
+  }
+}
