@@ -1,0 +1,48 @@
+{
+  "uuid": "8ad02d45-07ba-4c98-b015-0372b9476f86",
+  "header": "perimtis",
+  "publishedDate": 1773255493160,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "périmtis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < perimti; plg. anglų k. intercept; wilful interception; eavesdropping.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-03-09).",
+      "Pateikta": "2026-03-11",
+      "Atnaujinta": "2026-03-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuterijoje – dažniausiai neteisėtas skaitmeninių duomenų užvaldymas.",
+      "Vartojimo sritys": "kompiuterija, teisė (teisėtvarka)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "3 straipsnis. Neteisėta perimtisKiekviena Šalis priima tokius teisės aktus ir kitas priemones, kurių gali prireikti pagal jos vidaus teisę nustatyti baudžiamajai atsakomybei už sąmoningą ir neteisėtą neviešo kompiuterinių duomenų perdavimo į kompiuterinę sistemą, iš jos ir jos viduje perimtį techninėmis priemonėmis, taip pat už elektromagnetinės emisijos iš kompiuterinės sistemos, perduodančios tokius kompiuterinius duomenis, perimtį. Šalis gali reikalauti, kad toks nusikaltimas būtų padarytas turint nesąžiningą ketinimą arba susijęs su kompiuterine sistema, sujungta su kita kompiuterine sistema.",
+          "Šaltinis": "e-tar.lt, Konvencija dėl elektroninių nusikaltimų.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2001",
+          "Kita metrika": "11 23.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kita pavojinga veika – neteisėta perimtis. Konvencijos 3 straipsnyje nurodyta, kad „kiekviena Šalis priima tokius teisės aktus ir kitas priemones, kurių gali prireikti pagal jos vidaus teisę nustatyti baudžiamajai atsakomybei už sąmoningą ir neteisėtą neviešo kompiuterinių duomenų perdavimo į kompiuterinę sistemą, iš jos ir jos viduje perimtį techninėmis priemonėmis, taip pat už elektromagnetinės emisijos iš kompiuteri- nės sistemos, perduodančios tokius kompiuterinius duomenis, perimtį.",
+          "Šaltinis": "Darius Štitilis, Paulius Pakutinskas, Marius Laurinaitis, Inga Dauparaitė. Tapatybės vagystė elektroninėje erdvėje: socialiniai, elektroninio verslo ir teisinio reguliavimo aspektai. Mykolo Romerio universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2011",
+          "Kita metrika": "p. 140.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Dabar pasiūlyta į kontroliuojamų prekių sąrašą įtraukti tam tikras e. stebėjimo priemones, pavyzdžiui, mobiliųjų telefonų perimties, įsilaužimo, kietųjų diskų atkūrimo ar slaptažodžių apėjimo programinę įrangą. Tačiau duomenų šifravimo technologijos neturėtų būti kontroliuojamos, nes jos svarbios sklandžiai žmogaus teisių aktyvistų veiklai, mano EP.",
+          "Šaltinis": "vz.lt, aut. Liucija Zubrutė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "01 17.",
+          "Pavyzdį pateikė": "Gita (2026-03-09)."
+        }
+      }
+    }
+  }
+}
