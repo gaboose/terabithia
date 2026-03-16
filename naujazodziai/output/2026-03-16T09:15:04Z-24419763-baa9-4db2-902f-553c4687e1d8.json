@@ -1,0 +1,72 @@
+{
+  "uuid": "24419763-baa9-4db2-902f-553c4687e1d8",
+  "header": "biomarkeris",
+  "publishedDate": 1773652504215,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "biomárkeris",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, biomarker.",
+      "Pateikta": "2026-03-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "natūraliai susidariusi molekulė, genas ar savybė, pagal kuriuos galima identifikuoti konkretų patologinį ar fiziologinį procesą, ligą ir pan.",
+      "Pastabos vartotojams": "vartotinas lietuviškas atitikmuo biožymuo.",
+      "Vartojimo sritys": "biologija, medicina (sveikata)",
+      "Kiti variantai": "biožymuo",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Taigi ryšys tarp rainelės požymių ir vėlesnių asmenybės bruožų atsirandąs dar motinos pilve. Dabar Larsonas ketina rezultatus patikrinti studijoje, kurioje dalyvaus dvyniai. Ar žmogaus rai­nelė iš tiesų gali tapti asmenybės tyrinėjimų biomarkeriu, jis kol kas pasakyti negali.",
+          "Šaltinis": "Respublika (priedas „Julius / Brigita“).",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2009",
+          "Kita metrika": "09 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Proteinas HSP70 yra biomarkeris, parodantis, kad organizme gali būti prasidėjęs prostatos, storosios žarnos, stemplės, plaučių bei smegenų vėžys.",
+          "Šaltinis": "bernardinai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2012",
+          "Kita metrika": "11 13.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-12)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kita problema – daugelis sukurtų vaistų negali pasiekti savo molekulinio taikinio, t.y. patekti į specifinį smegenų regioną, drauge neprarandant veiksmingumo. [...] Be to, mes neturime ir patikimų diagnostinių žymenų (biomarkerių), kurie leistų anksti diagnozuoti neurodegeneracines ligas. Šiandien, šios ligos dažniausiai diagnozuojamos, pasireiškus klinikiniams simptomams, kai liga jau būna stipriai pažengusi ir dauguma nervinių ląstelių žuvę negrįžtamai. Tačiau žinome, kad daugeliui neurodegeneracinių ligų yra būdingas ilgas, keletą metų trunkantis, prodrominis periodas. Todėl mokslininkai deda vis daugiau pastangų surasti tokį biomarkerį, kuris indikuotų ligos pradžią.",
+          "Šaltinis": "lrt.lt; aut. Jovita Gružaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "05 03.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-12)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Tyrimo metu biologiniam amžiui nustatyti buvo naudojama daugiau nei trisdešimt skirtingų kraujo biomarkerių, o daugelio dalyvių, vartojančių daug itin apdoroto maisto, biologinis amžius buvo didesnis nei chronologinis. [...] Remdamiesi jų kraujo biomarkeriais, tyrėjai galėjo įvertinti, kiek dalyviai vartoja itin apdoroto maisto – maisto produktų, pagamintų iš įprastai virtuvėje nenaudojamų medžiagų (pvz., hidrolizuotų baltymų, maltodekstrinų, hidrintų riebalų).",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "11 25.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-12)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Tyrėjai 35 metus stebėjo dalyvių sveikatą ir analizavo biomarkerius – gliukozės, cholesterolio ir kitų medžiagų kiekį. Iš visų tyrimo dalyvių 2,7 %, t. y. 1224 žmonės, sulaukė 100 metų. Be to, 85 % ilgaamžių buvo moterys. Tyrimo rezultatai parodė, kad, pradedant 65 metų amžiumi, žmonių, kurie vėliau sulaukė 100 metų, ir tų, kuriems tai nepavyko, biomarkerių skirtumas.",
+          "Šaltinis": "delfi.lt (iš: „Vakarų ekspresas“).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "12 30.",
+          "Pavyzdį pateikė": "Gita (2026-01-16)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Biomarkeriai – tai įvairūs biologiniai rodikliai, kurie gali būti naudojami norint įvertinti organizmo būklę ar atsaką į ligą, gydymą ar aplinkos veiksnius. Biomarkeriai apima daug įvairių molekulių, tokių kaip DNR, baltymai, genų ekspresija ir kt. Jie gali būti naudojami tiek diagnostikai, tiek ligos prognozės vertinimui ir gydymo stebėjimui.",
+          "Šaltinis": "priesvezi.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "08 05.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-12)."
+        }
+      }
+    }
+  }
+}
