@@ -1,0 +1,40 @@
+{
+  "uuid": "9038b7e8-0de6-4711-8653-9910f7db3d7f",
+  "header": "savireplikacija",
+  "publishedDate": 1773909012994,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "savireplikãcija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. self-replication.",
+      "Papildoma informacija": "TŽŽ (2001) yra tik replikacija „organizmo genet. medžiagos (nukleorūgščių, genų, chromosomų) savaiminis dvigubėjimas“.",
+      "Pateikta": "2026-03-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "savaiminė replikacija – identiškos arba panašios į save sistemos kopijos sukūrimas.",
+      "Vartojimo sritys": "technologijos",
+      "Sąsajos": "DI",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "DI sistemos taip pat užsiima savireplikacija – platina savo kopijas į kitus įrenginius ir taip tampa sunkiau kontroliuojama. Instituto atlikti testai parodė, kad du pažangiausi DI modeliai pasiekė daugiau nei 60 proc. sėkmės rodiklį. Vis dėlto blogiausias scenarijus, anot instituto, realybėje yra mažai tikėtinas, nes bet koks savireplikacijos bandymas „tikriausiai nepavyks realiomis sąlygomis“.",
+          "Šaltinis": "alfa.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "01 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Dirbtinio intelekto modeliai gali kurti savo kopijas, kaip Agentas Smitas iš filmo „Matrica“. Naujas tyrimas pademonstravo, kad dideli kalbos modeliai (DKM) gali daugintis ne tik pagal tiesioginį nurodymą, bet ir ekstremaliose situacijose, pavyzdžiui, esant spaudimui ar grėsmei būti išjungtiems. Daugiau nei pusė iš 21 išbandytų DKM parodė polinkį į spontanišką savireplikaciją. Tai kelia riziką diegiant dirbtinį intelektą realiose situacijose. Ankstesniuose darbuose daugiausia buvo tirta, ar DI gali kopijuoti save, jei jam tiesiogiai įsakoma tai daryti. Tačiau naujojo tyrimo autoriai teigia, kad toks požiūris neatsižvelgia į pagrindinį pavojų – spontanišką kopijavimą, kurį sukelia realistiškos darbo sąlygos.",
+          "Šaltinis": "infa.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "11 13.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-18)."
+        }
+      }
+    }
+  }
+}
