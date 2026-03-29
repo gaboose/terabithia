@@ -1,0 +1,45 @@
+{
+  "uuid": "22306a9e-ab12-4869-b854-217fb5a99c7f",
+  "header": "retroreflektometras",
+  "publishedDate": 1774778680673,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "retroreflektomètras",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, retroreflectometer.",
+      "Pateikta": "2026-03-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "šviesos atspindžio parametrų matavimo įrenginys.",
+      "Vartojimo sritys": "technologijos",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pusdienį trukę matavimai danišku kompanijoje „Delta“ pagamintu retroreflektometru, švelniai tariant, šokiravo. Didžioji dalis į mūsų rankas patekusių daiktų neatitiko pačių minimaliausių reikalavimų ir atspindėjo dvigubai, keturgubai ar netgi 400 kartų mažiau šviesos.",
+          "Šaltinis": "delfi.lt (žurnalas „Transportas“); aut. Renaldas Gabartas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2010",
+          "Kita metrika": "06 03.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-29)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Pavojingiausia nešioti dovanų gautą atšvaitą, nes dauguma jų – įvežtiniai iš Kinijos“, – sakė P.Saplys ir pakvietė „Lietuvos ryto“ žurnalistą atlikti eksperimentą. Įmonė turi sertifikuotą danų bendrovės „Delta Light & Optics“ pagamintą retroreflektometrą. Juo išmatuojama, kiek šviesos atspindi kiekvienas daiktas.",
+          "Šaltinis": "Lietuvos rytas",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2012",
+          "Kita metrika": "02 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Eismo saugai – pirmasis Baltijos šalyse retroreflektometras [antraštė] Susisiekimo ministerijos reguliavimo sričiai priskirtoje bendrovėje „Problematika“ pristatytas modernus, pažangiose pasaulio šalyse neseniai pradėtas naudoti mobilus prietaisas retroreflektometras LTL-M. Tai kelių horizontaliojo ženklinimo matavimo įrenginys, kuris parodo pažymėtos kelio linijos atspindį tamsiuoju paros metu. Atspindžio parametrų matavimas leis išsamiau ir tiksliau kontroliuoti saugiam eismui didelės įtakos turintį faktorių – kelių linijų dažymo kokybę.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "08 08.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
