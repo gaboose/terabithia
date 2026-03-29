@@ -1,0 +1,63 @@
+{
+  "uuid": "aa53544d-7a11-4a33-b17c-f2bc6dc4f5b9",
+  "header": "remiksinis, -ė (būdv.)",
+  "publishedDate": 1774772590338,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "remiksi̇̀nis, remiksi̇̀nė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių, < remiksas < anglų k. remix.",
+      "Giminiški naujažodžiai": "remiksas; remiksingas; remiksuoti",
+      "Pateikta": "2026-03-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "susijęs su rekmiksu (muzikos kūrinio perdirbimu).",
+      "Vartojimo sritys": "muzika",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Muzikos firma [...] išleido trečią dainininkės [...] albumą [...]. Jame – 10 niekur neskelbtų dainų bei dvi remiksinės versijos.",
+          "Šaltinis": "Lietuvos aidas",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "1998",
+          "Kita metrika": "07 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Grupė žada į dienos šviesą ištraukti dainas, kurios buvo sugrotos galbūt tik vieną kartą per visą kolektyvo gyvavimo istoriją. Vienu iš išskirtinų akcentų planuojamas albumo “Gatvės Lyga” remiksinių dainų gyvas atlikimas.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "02 07.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-09-04)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "kaip pradėjo kabint šita remiksinė daina :D",
+          "Šaltinis": "supermama.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2020",
+          "Kita metrika": "02 04.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-09-04)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Tai remiksinis atlikėjo albumas, išleistas 1997 m. gegužės 20 d. [...].",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "04 13.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-09-04)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Atlikėja, aktorė Jennifer Lopez pasirodė naujai išleistame remiksiniame muzikiniame vaizdo klipe „Can't Get Enough“, kuriame dainuoja duetu su reperiu Latto.",
+          "Šaltinis": "moteris.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "01 31.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-09-04)."
+        }
+      }
+    }
+  }
+}
