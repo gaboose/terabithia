@@ -1,0 +1,70 @@
+{
+  "uuid": "91c8e635-c445-4bbd-9770-496022362dc0",
+  "header": "vedlys",
+  "publishedDate": 1774773778860,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vedlỹs",
+      "Kirčiuotė": "4",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. wizard.",
+      "Giminiški naujažodžiai": "vedlystė",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-09-22).",
+      "Pateikta": "2026-03-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "interaktyvus, žingsnis po žingsnio veikiantis pagalbinis įrankis, kuris sistemos vartotoją nukreipia į galutinį tikslą.",
+      "Vartojimo sritys": "kompiuterija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Žodžių darybos vedlys (ŽDV) Šis Žodžių darybos vedlys skirtas supažindinti su lietuvių kalbos žodžių (daiktavardžių) darybos dėsningumais. Tai kalbos technologijų sprendinys, kuris padeda kalbos vartotojams pasirinkti tinkamiausius darybos būdus ir priemones norimiems žodžiams susikurti ir taip įvardinti į lietuvių kalbą ateinančias naujas sąvokas ir reiškinius.",
+          "Šaltinis": "ekalba.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-10)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kviečiame naudotis KURSUOK platformos vedliais (atnaujinta 10 01) [antraštė] Mokymo paslaugų teikėjus ir dalyvius - norinčius mokytis KURSUOK platformoje - kviečiame naudotis paruoštais išsamiais vedliais. Juose žingsnis po žingsnio paaiškinama, kaip prisijungti prie platformos ir naviguoti Individualių mokymosi paskyrų (IMP) informacinėje sistemoje. Mokymo dalyviams skirtame vedlyje vizualiai pateikiama visa jiems aktuali informacija: kaip prisijungti prie asmens paskyros, kokios yra pagrindinės paskyros skiltys, kas juose atvaizduojama. Paaiškinama, kaip rinktis mokymus ir jų finansavimą, kokiu būdu vyksta registracija bei kaip sėkmingai pasirašyti mokymosi sutartį.",
+          "Šaltinis": "kursuok.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "07 31.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-10)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Valstybinė mokesčių inspekcija (VMI) informuoja, kad nuo rugsėjo 1 d. visi akcizų mokesčio mokėtojai deklaraciją teiks vedlio principu. Vedlyje duomenys iš VMI Akcizų informacinės sistemos ir kita turima informacija yra automatiškai perkelta į deklaraciją, todėl pusei klientų papildomai nieko pildyti nereikės, rašoma VMI pranešime žiniasklaidai.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "09 22.",
+          "Pavyzdį pateikė": "Gita (2025-09-22)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Jūs esate projekto svetainėje „Vedlys“. Projekte dalyvaujančios mokyklos ir projekto savivaldybėse koordinatoriai gali prisijungti su jiems skirtu slaptažodžiu, kurį suteikia projekto vykdytojas – Nacionalinė švietimo agentūra.",
+          "Šaltinis": "vedlys.smm.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "gruodis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-10)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Paramos žemės ūkiui priemonių pasirinkimo vedlys [antraštė] Paramos pasirinkimo vedlys yra išskirtinis tuo, kad pirmasis Lietuvoje automatizuotai sujungia ūkininko pateiktą informaciją su erdviniais duomenimis, tiksliai parinkdamas tinkamus laukus ir pateikdamas individualizuotas dalyvavimo paramos priemonėse galimybes.",
+          "Šaltinis": "skaitmeninisknygnesys.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "gruodis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-10)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "VMI rekomendacijos, ką daryti susidūrus su interneto naršyklių iššokančių langų (pop-up) problema, kai norima prisijungti prie Elektroninio deklaravimo sistemos (EDS) pajamų deklaravimo ar paramos skyrimo vedlių. [...] Tai naršomoje svetainėje automatiškai (be papildomo leidimo) pasirodantys langai, kurių pagrindu veikia ne tik reklamos, bet ir kai kurios reikalingos bei naudingos sistemos, pavyzdžiui EDS pajamų deklaravimo vedlys.",
+          "Šaltinis": "vmi.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "gruodis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-12-10)."
+        }
+      }
+    }
+  }
+}

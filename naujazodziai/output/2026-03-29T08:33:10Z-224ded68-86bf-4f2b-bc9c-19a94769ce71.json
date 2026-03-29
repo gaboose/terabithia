@@ -1,0 +1,89 @@
+{
+  "uuid": "224ded68-86bf-4f2b-bc9c-19a94769ce71",
+  "header": "dvibutis, -ė (būdv.)",
+  "publishedDate": 1774773190704,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dvibùtis, dvibùtė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "debutizacija; dvibutis, -ė (dktv.)",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2025-04-16).",
+      "Pateikta": "2026-03-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuriame yra įrengti du butai (apie pastatą).",
+      "Vartojimo sritys": "statyba",
+      "Sąsajos": "dvibutis, -ė (dktv.)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Vienbučių ar dvibučių namų tapimas daugiabučiais – viena kurortinių miestelių problemų. Tai vienas veiksnių, kodėl vietiniams gyventojams ar poilsiautojams tenka susidurti ne tik su klausimu, kur pasistatyti automobilį, bet ir kęsti automobiliais nusėtų pakelių vaizdą. Aplinkos ministerijos Teritorijų planavimo, urbanistikos ir architektūros departamento direktorius Marius Narmontas pasakojo, kad buvo ieškoma sprendimo, kaip pažaboti vienbučių ar dvibučių virsmą daugiabučiais ar bent jau išspręsti dėl to kylančias problemas. Nutarta, jog vienbučiams ir daugiabučiams, kaip ir kitiems pastatams, privalu įvesti automobilių stovėjimo vietų reikalavimus.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "11 12.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Valstybinė vartotojų teisių apsaugos tarnyba (VVTAT) gavo Valstybinės teritorijų planavimo ir statybos inspekcijos persiųstą anoniminį pranešimą dėl Šarkuvos gatvėje Vilniuje vietoje dvibučių namų statomų daugiabučių. Inspekcija VVTAT informavo, kad nurodytais adresais pagal parengtus projektus išduoti leidimai dvibučių statybai.",
+          "Šaltinis": "delfi.lt (ELTA)",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "01 02.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Vienbučių – dvibučių namų projektas Kaune „Pandos namai“",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "06 18.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Lietuvos priemiesčiuose pastarąjį dešimtmetį itin išpopuliarėjo dvibučiai pastatai. NT vystytojams jie leidžia plėtoti ir parduoti kelis turtinius vienetus mažesniame sklype, o pirkėjams - sutaupyti. Visgi tokiame name pardavus tik vieną butą iš dviejų, jo pirkėjai gali tapti sudėtingų procesų įkaitais.",
+          "Šaltinis": "ve.lt; aut. Alina Velykienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "04 14.",
+          "Pavyzdį pateikė": "Gita (2025-04-16)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Kaip teigiama prokuratūros pranešime, viešąjį interesą ginantis prokuroras pareiškime teismui nurodė, kad Vilniaus miesto savivaldybės priimtu įsakymu „Dėl teritorijos prie Meškeriotojų gatvės formavimo ir pertvarkymo projekto tvirtinimo“ buvo sudaryta situacija, kai teritorija, kurioje faktiškai yra valstybinės reikšmės miško, buvo suprojektuota kaip kitos paskirties žemės sklypai, skirti vienbučiams ir dvibučiams gyvenamiesiems namams statyti.",
+          "Šaltinis": "lnk.lt (ELTA)",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "06 04.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "PARDUODAMAS NEBAIGTOS STATYBOS 130 kv.m. dvibutis gyvenamasis namas Riešėje.",
+          "Šaltinis": "capital.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Rengiamas vienas dvibučio namo projektas.",
+          "Šaltinis": "ekspertai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "Parduodu neįrengtą dvibutį gyvenamą namą.",
+          "Šaltinis": "skelbiu.vip",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-07-30)."
+        }
+      }
+    }
+  }
+}

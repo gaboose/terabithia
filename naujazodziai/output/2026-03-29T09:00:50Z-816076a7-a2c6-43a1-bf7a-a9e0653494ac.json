@@ -1,0 +1,32 @@
+{
+  "uuid": "816076a7-a2c6-43a1-bf7a-a9e0653494ac",
+  "header": "viršraštė",
+  "publishedDate": 1774774850892,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vir̃šraštė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. header.",
+      "Giminiški naujažodžiai": "poraštė; šlamštraštė",
+      "Pateikta": "2026-03-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "puslapinė antraštė – techninis struktūrinis teksto elementas, informacinė antraštinė puslapio dalis.",
+      "Pastabos vartotojams": "galimas skolinio hèderis atitikmuo.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "hedlainas",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "O, gera mintis, reikia pasidaryti viršraštę.",
+        "Šaltinis": "pokalbis.",
+        "Šaltinio rūšis": "sakytinė laisvoji kalba",
+        "Metai": "2014",
+        "Kita metrika": "11 17.",
+        "Naujažodį pavartojo": "Vilmantas Pupkis",
+        "Pavyzdį pateikė": "Rita M."
+      }
+    }
+  }
+}
