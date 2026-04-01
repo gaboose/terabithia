@@ -1,0 +1,57 @@
+{
+  "uuid": "c254e73a-8adf-4933-b84a-2d4bb3d90bfb",
+  "header": "dienolaipsnis",
+  "publishedDate": 1775022682477,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dienólaipsnis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "dienvaizdis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2026-03-25).",
+      "Pateikta": "2026-04-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "tam tikro laikotarpio ilgumo (pavyzdžiui, paros) ir šaltumo matas, kuriuo remiantis lyginamas skirtingų laikotarpių energijos suvartojimas šildymui, kai šaltumas reiškia pastatų vidaus ir lauko temperatūrų skirtumą.",
+      "Vartojimo sritys": "administravimas, fizika",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "LŠTA taip pat pateikia vadinamųjų dienolaipsnių statistiką. Šis rodiklis – tai išorės ir pastatų vidaus temperatūrų skirtumas, padaugintas iš laikotarpio, kuris yra skaičiuojamas, dienų skaičiaus. Pernai lapkritį dienolaipsnių rodiklis Vilniuje buvo 420,2, Kaune – 420, Panevėžyje – 441. Šiemet laipsniu šaltesnis lapkritis dienolaipsnių rodiklį Vilniuje padidino net iki 450. Kaune, kur mėnuo buvo 0,5 laipsnio šaltesnis, jis išaugo iki 435, o šiek tiek šiltesniu lapkričiu džiaugtis galėjusiame Panevėžyje – sumažėjo iki 423.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2011",
+          "Kita metrika": "12 20.",
+          "Naujažodį pavartojo": "Šarūnas Černiauskas",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "18. [...] Duomenis pateikia šilumos tiekėjas ir (ar) namo bendrojo naudojimo objektų valdytojas. Taip pat nurodomos namo šiluminės energijos sąnaudos patalpų šildymui kWh/metus ir kWh/m2 namo naudingojo ploto/metus. Nustatomas paskutiniųjų trejų metų šildymo sezonų vidutinis dienolaipsnių skaičius ir apskaičiuojamas šiluminės energijos sąnaudos vienam dienolaipsniui.“",
+          "Šaltinis": "e-tar.lt, Lietuvos Respublikos aplinkos ministro įsakymas „Dėl Lietuvos Respublikos aplinkos ministro 2009 m. lapkričio 10 d. įsakymo Nr. D1-677 „Dėl daugiabučio namo atnaujinimo (modernizavimo) projekto rengimo tvarkos aprašo patvirtinimo“ pakeitimo“.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2013",
+          "Kita metrika": "06 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kas yra dienolaipsniai? [antraštė] Dienolaipsnis yra tam tikro periodo ilgumo ir šaltumo matas, kuris naudojamas techniniuose skaičiavimuose lyginant skirtingų periodų energijos suvartojimą šildymui.",
+          "Šaltinis": "krantai.blogspot.com, Antanas Algimantas Miškinis.",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2017",
+          "Kita metrika": "02 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Dienolaipsniai yra tam tikro periodo ilgumo ir šaltumo matas, kuris naudojamas techniniuose skaičiavimuose lyginant skirtingų periodų energijos suvartojimą šildymui. Norėdami išsiaiškinti, kiek reikia šilumos vienu ar kitu laikotarpiu, naudojame dienolaipsnius. Dienolaipsniai paskaičiuojami laikotarpio trukmę, matuojamą paromis, dauginant iš vidutinių patalpos ir lauko oro temperatūrų skirtumo.",
+          "Šaltinis": "lsta.lt/klimato-salygos, Lietuvos šilumos tiekėjų asociacija.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "kovas (ne vėliau).",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2026-03-25)."
+        }
+      }
+    }
+  }
+}
