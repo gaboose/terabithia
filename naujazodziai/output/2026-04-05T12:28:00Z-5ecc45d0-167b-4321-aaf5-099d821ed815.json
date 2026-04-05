@@ -1,0 +1,41 @@
+{
+  "uuid": "5ecc45d0-167b-4321-aaf5-099d821ed815",
+  "header": "sotukas",
+  "publishedDate": 1775392080356,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sotùkas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Ypatingieji požymiai": "autorinis",
+      "Papildoma informacija": "sotukai atsirado 2021 m.",
+      "Pateikta": "2026-04-05"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "sotus sveikuoliškas rutuliuko formos skanėstas iš natūralių produktų – džiovintų vaisių, uogų miltelių, sėklų, riešutų ir pan.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "užkandžiai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Šiandien įmonė jau yra paaugusi – šeimai priklausančiame ceche Kelmėje dirba dvi darbuotojos. Jos per mėnesį pagamina apie 800 kg sotukų, kurie iškeliauja į partnerių parduotuves visoje Lietuvoje. [...] Veiklos pradžioje klientams buvo siūlomi penkių rūšių sotukai, o dabar – jau devyni skoniai.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Vienoje dėžutėje rasite visų gaminamų 9 rūšių sotukų rinkinį: goji abrikosuose, šalavijus datulėse, pluoštines kanapes datulėse, vingrūnę abrikosuose ir serbentus tarp abrikosų su datulėmis, avietes ir baobabus tarp datulių, šaltalankius ir svarainius tarp abrikosų, mačią ir anakardžius datulėse bei bruknes ir peruvinę pipirnę (macą) migdoluose. [...]Sotukai gimė iš poreikio pagaminti šeimai saugų, sveikatai palankų ir skanų užkandį, todėl skoniai ir vertė išgaunami naudojant natūralius augalinius produktus, o ne pakaitalus ar maistinius priedus.﻿",
+          "Šaltinis": "sotukai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
