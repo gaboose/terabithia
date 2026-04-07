@@ -1,0 +1,57 @@
+{
+  "uuid": "ee5c8988-7f17-4e39-a131-1dafdaade629",
+  "header": "daugiaveikiškumas",
+  "publishedDate": 1775545043013,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "daugiaveikiškùmas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. multitasking.",
+      "Giminiški naujažodžiai": "bendraveika; daugiaveika; greitaveika; išveika; įveika; neveika; sąveikus, -i",
+      "Pateikta": "2026-04-07"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "gebėjimas vienu metu atlikti kelis veiksmus ar užduotis arba per labai trumpą laiką pereiti nuo vienos veiklos prie kitos.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Kiti variantai": "daugiaveika [norminis (pagrindinis)]; daugiaveikliškumas [norminis (lygiavertis)]",
+      "Sąsajos": "bendraveika; multitaskeris, -ė; multitaskingas; multitaskinimas; multitaskinis, -ė (būdv.); multitaskinti; multitaskintojas, -a; unitaskingas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Aš po kurio laiko supratau, kad užteks čia dykynėti, reikia kažką daryti, pvz., sutvarkyti virtuvę ir duoti darbo skalbimo mašinai. Taigi nusileidau ir vienu metu pradėjau iš karto du darbus: pasidaryti arbatos (ūpui pakelti), kimšti rūbus į skalbimo mašiną. Tada supratau, kad baigėsi skalbimo priemonė, taigi vidury viso daugiaveikiškumo atsitiesiau ir jau buvau beeinanti surasti po laiptais gamyklinio dydžio skalbimo skysčio butelio [...].",
+          "Šaltinis": "beatosvirtuve.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2010",
+          "Kita metrika": "09 20.",
+          "Naujažodį pavartojo": "Beata Nicholson",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Klipinis mąstymas ir daugiaveikiškumas. [skyrelio antraštė]Z karta – daugiaveikiškumo meistrai. Jie gali vienu metu žiūrėti serialą, bendrauti žinutėmis ir ruošti namų darbus. Tačiau dėl tokio „klipinio“ mąstymo jiems gali būti sunku susikoncentruoti į vieną užduotį. Juk greitis negarantuoja kokybės.",
+          "Šaltinis": "zinauviska.lt, aut. Stefaniia Dushkevich.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "10 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Šiandien jauni žmonės auga pasaulyje, kuris pilnas skaitmeninių dirgiklių – todėl Z kartos atstovų dėmesio koncentracija dažnai būna trumpesnė. Dėl to jie linkę daryti kelis dalykus vienu metu, net jei toks daugiaveikiškumas ne visada duoda geriausius rezultatus [...].",
+          "Šaltinis": "Aušrinė Balkaitytė. Lietuvos trenerių ir sportininkų tarpasmeniniai santykiai laipiojimo sporte. [Magistro baigiamasis darbas]. Kaunas, Vytauto Didžiojo universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2025",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Vidurinis amžius dažnai sutampa su didžiausiu kognityviniu ir emociniu krūviu: vadovavimu, atsakomybe, nuolatiniu budrumu, įvairiais globos ir rūpybos vaidmenimis. Prefrontalinė žievė – smegenų sritis, atsakinga už planavimą, sprendimų priėmimą ir impulsų kontrolę – turi dirbti intensyviau, kad pasiektume tą patį rezultatą.﻿Psichinis „daugiaveikiškumas“ vargina ne mažiau nei fizinis darbas. Todėl keturiasdešimtieji taip dažnai ir jaučiasi alinantys: biologinis efektyvumas ima svyruoti būtent tuo metu, kai gyvenimo reikalavimai yra didžiausi.",
+          "Šaltinis": "laikas.lt, aut. Karolis Vaickus.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "02 18.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
