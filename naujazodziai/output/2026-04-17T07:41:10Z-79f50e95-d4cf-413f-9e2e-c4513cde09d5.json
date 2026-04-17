@@ -1,0 +1,30 @@
+{
+  "uuid": "79f50e95-d4cf-413f-9e2e-c4513cde09d5",
+  "header": "farmakopasas",
+  "publishedDate": 1776411670190,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "farmakopãsas",
+      "Kirčiuotė": "4",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, pharmacopassport.",
+      "Giminiški naujažodžiai": "farmakogenomika",
+      "Pateikta": "2026-04-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dokumentas, kuriame pateikiami medicininiai duomenys apie asmens vartojamus vaistus, alergijas jiems ir pan.",
+      "Vartojimo sritys": "medicina (sveikata)",
+      "Sąsajos": "galimybių pasas; galimybpasis, -ė",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "[...] tai kainuotų apie 500 eurų. Beje, yra daug šalių – tiek Estija, tiek Slovėnija – kuriose nemažai šalies gyventojų turi farmakopasus – duomenis, kaip jie metabolizuoja vienus ar kitus vaistus.",
+        "Šaltinis": "15min.lt",
+        "Šaltinio rūšis": "internetinė žiniasklaida",
+        "Metai": "2026",
+        "Kita metrika": "04 16.",
+        "Pavyzdį pateikė": "Rita M."
+      }
+    }
+  }
+}

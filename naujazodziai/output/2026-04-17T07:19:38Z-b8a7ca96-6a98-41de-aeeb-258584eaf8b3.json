@@ -1,0 +1,48 @@
+{
+  "uuid": "b8a7ca96-6a98-41de-aeeb-258584eaf8b3",
+  "header": "farmakogenomika",
+  "publishedDate": 1776410378904,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "farmakogenòmika",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, ﻿p﻿harmacogenomics.",
+      "Giminiški naujažodžiai": "farmakopasas; genomika",
+      "Pateikta": "2026-04-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "mokslo šaka, tirianti, kaip unikalus žmogaus genetinis kodas veikia jo reakciją į vaistus, turint tikslą individualizuoti gydymą.",
+      "Vartojimo sritys": "biologija, medicina (sveikata)",
+      "Sąsajos": "genomika",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Farmakogenomikos vaidmuo modernioje psichiatrijoje [antraštė]Tinkamas psichotropinių vaistų parinkimas psichikos ligomis sergantiems pacientams neretai yra problemiškas. Sunku nuspėti būsimą vaisto klinikinį poveikį, atsakyti į klausimą, kodėl vienam pacientui vaistas yra veiksmingas, o kitam pacientui, sergančiam ta pačia liga, jis veikia prastai. Straipsnyje aptariama, kaip farmakogenominiai tyrimai gali padėti optimizuoti psichofarmakoterapiją, mažinti tiesiogines ir netiesiogines psichikos ligų išlaidas, gerinti psichinėmis ligomis sergančių pacientų gyvenimo kokybę.",
+          "Šaltinis": "Kostas Matuzevičius, Arūnas Germanavičius, Deimantė Ūsaitė. Farmakogenomikos vaidmuo modernioje psichiatrijoje. – Laboratorinė medicina.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2014",
+          "Kita metrika": "t. 16 (3) p. 125–133.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tobulėjant genetikos mokslui ir molekulinei biologijai, paaiškėjo, jog genetiniai ypatumai reikšmingai nulemia gydymo vaistais efektyvumą – vaistų ir genų sąsajai tirti pradėtas vartoti terminas farmakogenomika. Farmakogenomika yra šiuolaikinis mokslas, kuris remiasi genetikos mokslo žiniomis ir leidžia paaiškinti kodėl tas pats vaistas skirtingus žmones veikia nevienodai. Priklausomai nuo paciento genetinių ypatumų vaistas gali būti kliniškai efektyvus, gali neveikti, arba gali net pakenkti. Genetiniai ypatumai nulemia kaip vaistas patenka į organizmą, kaip efektyviai šis vaistas pasiekia savo taikinį, kurį turi paveikti, bei kaip efektyviai šis vaistas yra pašalinamas iš organizmo.",
+          "Šaltinis": "lsmu.lt, Vacis Tatarūnas. Farmakogenomika: galimybės ir perspektyvos. 17-oji Lietuvos jaunųjų mokslininkų konferencija „BIOATEITIS: gamtos ir gyvybės mokslų perspektyvos“. Pranešimo tezės.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "11 21.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "[...] tų sričių yra labai daug. Viena tokių – farmakogenomika. Kai mes iš paciento genomo informacijos galime pasakyti, kad šio konkretaus vaisto būtent jam reikia didesnės dozės nei bet kam kitam. O gal kaip tik mažesnės. Ir tai jau yra daroma.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 16.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "2f9b1a49-ae31-4643-bac1-732d3f7f8ea9",
+  "header": "kriaukliavimas",
+  "publishedDate": 1776407598046,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "kriaukliãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < kriaukliauti < kriauklė.",
+      "Giminiški naujažodžiai": "kriaukliauti",
+      "Pateikta": "2026-04-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kriauklių rinkimas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "kriaukliauti; sraigiavimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dar viena kūrybinės grupės narių konkuravimo sritis – kriaukliavimas. Toks terminas šiam darbui prigijo Besaro saloje.",
+          "Šaltinis": "Lietuvos rytas",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2001",
+          "Kita metrika": "06 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "- Kriaukliavimas - trumpalaikė aistra?- Čia - ne aistra. Tai dariau iš reikalo. Aš ne medžioju, ne žvejoju, o grybauju. Malaizijoje grybų neradau, todėl pradėjau kriaukliauti. Labai patiko atvykti tiesiai į salą, kai nereikėjo skubėti ir kitą dieną lėkti namo.",
+          "Šaltinis": "diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2008",
+          "Kita metrika": "05 13.",
+          "Naujažodį pavartojo": "Vytautas Kernagis",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
