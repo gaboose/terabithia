@@ -1,0 +1,56 @@
+{
+  "uuid": "4cb31a1f-3558-49ba-a7b1-36017f96bdbb",
+  "header": "porcijavimas",
+  "publishedDate": 1776880717586,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "porcijãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < porcijuoti < porcija < lotynų k. portio „dalis“.",
+      "Giminiški naujažodžiai": "porcijuoti; porcijuotojas, -a",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-01-20).",
+      "Pateikta": "2026-04-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "maisto skirstymas į porcijas.",
+      "Vartojimo sritys": "maistas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Šių dienų mityba – ne karo laikų, kai visi receptai, produktai buvo sukurti tik sotumui patenkinti. Šiais laikais reikia rinktis kokybišką maistą, porcijavimą, vertingų maistinių medžiagų gavimą kiekvieno valgymo metu, maisto pritaikymą pagal kiekvieno žmogaus individualius poreikius.",
+          "Šaltinis": "bernardinai.lt; aut. Raminta Bogušienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "07 12.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-03-06)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kauno klinikose pacientų maitinimo procesas atnaujintas 2018 metais, kai buvo baigta Ligonių maitinimo skyriaus rekonstrukcija. Įdiegtos naujos technologijos leidžia ne tik efektyviau ruošti maistą, bet ir tinkamai jį porcijuoti bei pristatyti pacientams. [...] D. Sokolovienė pabrėžia, kad kiekviename žingsnyje – nuo žaliavos iki patiekimo – būtina užtikrinti aukščiausią kokybę. „Tinkama porcijavimo proceso kontrolė, siekiant išvengti dietų sumaišymo, tinkamas inventoriaus naudojimas ir darbuotojų mokymai yra būtini norint užtikrinti pacientų saugą“, – sako ji.",
+          "Šaltinis": "kaunoklinikos.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "09 11.",
+          "Pavyzdį pateikė": "Gita (2026-01-20)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„[...] Rengiant planą, numatomos visos būtinos operacijos: prekių priėmimas, sandėliavimas tinkamomis sąlygomis, produktų paruošimas gamybai, terminis apdorojimas, porcijavimas, pateikimas klientui, virtuvės inventoriaus ir salės indų plovimas, atliekų rūšiavimas bei šalinimas ir kt. [...]“, – sako G. Ruginytė.",
+          "Šaltinis": "audores.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "kovas (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-03-06)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Šis ledų porcijavimo šaukštas iš Hendi Kitchen Line serijos yra pagamintas iš aukštos kokybės aliuminio. Jo ilga rankena užpildyta aliejumi, kuris šildomas rankos šiluma, leidžiant lengviau formuoti ir porcijuoti ledus.",
+          "Šaltinis": "pigu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "kovas (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-03-06)."
+        }
+      }
+    }
+  }
+}

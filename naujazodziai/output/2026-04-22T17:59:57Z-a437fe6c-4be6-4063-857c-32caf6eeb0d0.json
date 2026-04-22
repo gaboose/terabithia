@@ -1,0 +1,55 @@
+{
+  "uuid": "a437fe6c-4be6-4063-857c-32caf6eeb0d0",
+  "header": "porcijuotojas, -a",
+  "publishedDate": 1776880797619,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "porcijúotojas, porcijúotoja",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < porcijuoti < porcija < lotynų k. portio „dalis“.",
+      "Giminiški naujažodžiai": "porcijavimas; porcijuoti",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-01-20).",
+      "Pateikta": "2026-04-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kas skirsto maistą į porcijas.",
+      "Vartojimo sritys": "maistas, visuomenė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Įdiegta programa, kurios pagalba yra suskaičiuojamas porcijų skaičius pagal skyrius, dietas ir atspausdinamas čekis su šia informacija. Tai svarbu tiek maisto porcijuotojams, kurie turi žinoti, kokius patiekalus dėti ant padėklo, tiek skyrių darbuotojams, kurie išdalina padėklus su maistu pacientams (skirtingas maistas ant padėklų pagal dietas).",
+          "Šaltinis": "kaunoklinikos.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-03-06)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Maisto išdavėjas(-a) poligone, Kazlų Rūdoje!!! Priimtume maisto porcijuotoją, kurio atsakomybėje būtų: Pagaminto maisto porcijavimas bei išdavimas Darbo vietos švaros palaikymas [...]",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "10 27.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-03-06)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Ieškomi maisto porcijuotojai-kasininkai Santariškių g., Vilniuje. Darbo pobūdis - darbas su kasa, klientų aptarnavimas, atleidimo linijos priežiūra ir tvarkos palaikymas.",
+          "Šaltinis": "skelbiu.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "gegužė.",
+          "Pavyzdį pateikė": "Gita (2026-01-20)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Virėja(-as) - porcijuotoja Seimo kavinėje.",
+          "Šaltinis": "dirba.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "kovas (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-03-06)."
+        }
+      }
+    }
+  }
+}
