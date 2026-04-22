@@ -1,0 +1,30 @@
+{
+  "uuid": "4c2ac379-84d1-4c12-b081-3f768977de64",
+  "header": "promptologija",
+  "publishedDate": 1776868537960,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "promptològija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, promptology.",
+      "Giminiški naujažodžiai": "promptas; promptinimas; promptografija",
+      "Pateikta": "2026-04-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "užklausų generatyviniam dirbtiniam intelektui inžinerija.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "DI; dirbtelektas; promptas; promptinimas",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "Generatyvinis DI reaguoja į bet kokią užklausą, todėl norint gauti vertingą ir kokybišką atsakymą, būtina gebėti formuluoti tikslius klausimus. Šiame kontekste vadinamoji „promptologija“ – arba užklausų inžinerija – tampa ne tik nauja, bet ir esmine kompetencijų sritimi, padedančia naviguoti sudėtingame informacijos pasaulyje.",
+        "Šaltinis": "15min.lt",
+        "Šaltinio rūšis": "internetinė žiniasklaida",
+        "Metai": "2025",
+        "Kita metrika": "06 10.",
+        "Pavyzdį pateikė": "Rita M."
+      }
+    }
+  }
+}
