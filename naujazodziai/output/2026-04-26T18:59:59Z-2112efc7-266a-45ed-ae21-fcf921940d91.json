@@ -1,0 +1,55 @@
+{
+  "uuid": "2112efc7-266a-45ed-ae21-fcf921940d91",
+  "header": "darninimas",
+  "publishedDate": 1777229999747,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dar̃ninimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "darninti; darnuva",
+      "Pateikta": "2026-04-26"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "darnos siekimas, kūrimas.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "darninti; darnuva",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Konstatuojamosios dalies 18 punkte primenama, kad Mašinų direktyva grindžiama reguliavimo metodu, vadinamu Naujuoju požiūriu į techninį darninimą ir standartus.",
+          "Šaltinis": "Mašinų direktyvos 2006/42/EB taikymo vadovas. 2 leid.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2010",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Keturiose diskusijų grupėse bus svarstomi probleminiai aplinkos, transporto, energetikos, finansų ir bankų terminijos klausimai, terminijos darninimo būdai ir procesai, daug dėmesio bus skiriama kalbos ir terminologijos technologijoms. Konferencijos darbą apibendrins Valstybinės lietuvių kalbos komisijos pirmininkė doc. dr. Daiva Vaišnienė.",
+          "Šaltinis": "bernardinai.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "06 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Po pietų konferencija tęsė darbą keturiose diskusijų grupėse: buvo svarstomi probleminiai aplinkos, transporto, energetikos, finansų ir bankų terminijos klausimai, terminijos darninimo būdai ir procesai, daug dėmesio buvo skirta kalbos ir terminologijos technologijoms.",
+          "Šaltinis": "vlkk.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2013",
+          "Kita metrika": "07 15.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Tinkamai sutvarkyta ir standartizuota srities terminija grindžiamos visos informacijos sistemos, o jų kokybę dažnai lemia tinkamai pasirinkti terminologijos šaltiniai. Specialiųjų žodynų, tezaurų, ontologijų bei kitų terminografijos įrankių kūrimas ir darninimas visada buvo svarbus ir neprarado savo reikšmės aukštos pridėtinės vertės intelektinių žinių ekonomikoje.",
+          "Šaltinis": "Nijolė Bliūdžiuvienė. Terminologinių duomenų tvarkybos modelis: bibliotekininkystės, informacijos ir knygotyros terminų žodynas. – Knygotyra.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2021",
+          "Kita metrika": "t. 77, p. 306–330.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
