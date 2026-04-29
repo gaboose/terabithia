@@ -1,0 +1,65 @@
+{
+  "uuid": "c59cc44e-e581-495e-be74-67b574fb042d",
+  "header": "elektrobusas",
+  "publishedDate": 1777442785742,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "elektrobùsas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, electrobus; electric bus.",
+      "Giminiški naujažodžiai": "akvabusas; ateobusas; bibliobusas; knygiabusas; kraujobusas; miniautobusas; papabusas; pasobusas; skiepobusas; sveikatobusas; šydlobusas; velobusas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-04-20).",
+      "Pateikta": "2026-04-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "elektra varomas autobusas.",
+      "Vartojimo sritys": "transportas",
+      "Sąsajos": "elektrosunkvežimis; elektrosunkvežis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Lietuvoje pagamintas elektrobusas rieda puikiai, bet yra brangus [antraštė] „Tai - puikus autobusas: patogus keleiviams, ekonomiškas ir visiškai neteršia aplinkos. Tačiau kol kas mums toks autobusas neįperkamas, nes kainuoja apie milijoną litų“, - taip apie šiuo metu Šiauliuose išbandomą mūsų šalyje pagamintą elektrobusą atsiliepė Šiaulių įmonės „Busturas“ technikos direktorius Silvas Gedaminskas.",
+          "Šaltinis": "lrytas.lt, aut. Ričardas Vitkus.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "02 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Avia Solutions Group“ (ASG) priklausanti antžeminio orlaivių ir keleivių aptarnavimo bei aviacinio kuro pildymo tiekėja UAB „Baltic Ground Services“ (BGS) įsigijo pirmąjį elektros energija varomą autobusą.Specialiai oro uostams skirtą elektrobusą įmonei pateikė Kinijos komercinių transporto priemonių gamintojo „Yutong“ atstovas – tai pačiai, verslininko Gedimino Žiemelio kontroliuojamai ASG priklausanti bendrovė „Busnex“.",
+          "Šaltinis": "vz.lt, aut. Linas Butkus.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "08 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Dvi savaites intensyviausiais miesto viešojo transporto maršrutais važiuos naujas „MAN Lion‘s City E“ elektrobusas. Tai jau penktasis gamintojas, kuris Kaunui siūlo pabandyti vien elektra varomą autobusą. Tikimasi, kad šis gamintojas patenkins miesto lūkesčius.",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "10 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Pirmieji tokį elektrobusą nuo šeštadienio jau gali išbandyti 30-ojo maršruto keleiviai. Netrukus „King Long“ ims vežti ir į Palangą 31-uoju maršrutu.",
+          "Šaltinis": "atviraklaipeda.lt, aut. Martynas Vainorius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "07 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Siekdama gerinti susisiekimą kaimiškose vietovėse, Lazdijų savivaldybė vykdo specialų gyventojų pavėžėjimo projektą – elektrobusais nuo durų iki durų nemokamai perveža gyventojus. Lazdijų savivaldybės pavėžėjimo modelį perima ir Panevėžio regionas.",
+          "Šaltinis": "lrt.lt, aut. Rūta Ribačiauskienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 19.",
+          "Pavyzdį pateikė": "Gita (2026-04-20)."
+        }
+      }
+    }
+  }
+}
