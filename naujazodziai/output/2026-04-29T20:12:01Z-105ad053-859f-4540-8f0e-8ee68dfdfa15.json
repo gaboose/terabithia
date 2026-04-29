@@ -1,0 +1,56 @@
+{
+  "uuid": "105ad053-859f-4540-8f0e-8ee68dfdfa15",
+  "header": "hiberneitinti",
+  "publishedDate": 1777493521809,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "hibernei̇̃tinti, hibernei̇̃tina, hibernei̇̃tino",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "veiksmažodis",
+      "Formos variantai": "hibernatinti; hibernate'inti.",
+      "Kilmė": "anglų, to hibernate.",
+      "Giminiški naujažodžiai": "hibernuoti",
+      "Papildoma informacija": "„Lietuviškojoje tarybinėje enciklopedijoje“ (1978, t. 4) yra tik daiktavardis hibernãcija (lot. hibernatio „žiemojimas“) „hipodermijos sukėlimas neuropleginiais preparatais, blokuojančiais neuroendokrininius termoregiliacijos mechanizmus; anestezijos metodas; Praktikuojama chirurgijoje“.",
+      "Pateikta": "2026-04-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuteryje nustatyti energijos taupymo būseną, kuri išsaugo atidarytus dokumentus ir veikiančias programas kietajame diske.",
+      "Vartojimo sritys": "kompiuterija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Nei BIOSas, nei dar kas nors. Viskas labai paprasta: kompas tavo nebuvo išjungtas, buvo tik standby režime ir tikriausiai nebuvo laidas prijungtas. Prie power (ar kaip ten jie) nustatymų control panel'yje windowsuose turėtų būti uždėta, kad jei kompas neįjungtas į el. tinklą, jis pats po kažkiek minučių hibernate'ins. Kadangi kompas nešijungtas (standy režimas visvien ima bateriją), jis po nustatyto laiko įsijungė ir nuėjo miegoti (hibernate). Po to, kai įjungei kompą, pamatei tai, ką bet kas mato po hibernate'o - resuming windows...",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2010",
+          "Kita metrika": "08 11.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "kai isjungi, patikrink ar nedega nei viena lempute, nes bent pas mane yra taip jei spaudi Start Meniu -> Isjungimo ikona, kompiuteris issijungia, bet yra vienas bet ”keeps your session in memory and puts the computer in a low-power state so that you can quickly resume working” tai ne tas pats kas log off, bet manau tokiu atveju kompas vistiek gali siusti updeitus, hiberneitinti ir visa kita kas jam sauna i galva.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2010",
+          "Kita metrika": "08 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Nelabai suprantu kurių velnių shut downint tuos windowsus kiekvieną kartą. Hibernatini ir viskas. Įjungi, jokių krovimų, jokių metro. Atsiduri ten kur buvai. Aš net naršyklės neišjungiu dažnai. Įsijungi ir vikas kaip buvo.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2013",
+          "Kita metrika": "04 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Sugalvojome, kad reikia hiberneitinti, o ne iš jungti programų. Tada nereiks uždarinėti ir vėl atidarinėti. Bet ryte rado kompiuterį įjungta ir visos programos buvo išjungtos. Prarastas vienos dienos darbas. Pasirodo, windows iš hibernacijos naktį patys įsijungia, patikrina atnaujinimus ir jei jų yra perkrauna kompiuterį.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2016",
+          "Kita metrika": "11 27.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
