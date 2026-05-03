@@ -1,0 +1,65 @@
+{
+  "uuid": "a24ee3be-e112-4ced-9f47-fdc5dc9e8b3a",
+  "header": "stuburinis, -ė (būdv.)",
+  "publishedDate": 1777818576329,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "stuburi̇̀nis, stuburi̇̀nė",
+      "Kirčiuotė": "2",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "stuburystė",
+      "Papildoma informacija": "LKŽe yra tik pagrindinės reikšmės: „1. turintis stuburą; 2. turintis storesnę pagrindinę ašį (stuburinė šaknis)“.",
+      "Pateikta": "2026-05-03"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pamatinis, tvirtas, atraminis.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Sąsajos": "stuburystė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Seimo LSDP frakcijos nariai Justinas Karosas ir Vytenis Povilas Andriukaitis trečiadienį Seime vykusioje spaudos konferencijoje kalbėjo apie „duobes“ Lietuvos užsienio politikoje. J.Karoso teigimu, viena svarbiausių - užsienio politikos strategijos nebuvimas. \"Kad ir kaip būtų keista, per 20 valstybės gyvavimo metų mes neturime tęstinės užsienio politikos strategijos. Ji maždaug stichiškai plėtojasi, reaguojant į įvairius konkrečius dalykus, pasikeičiančias situacijas, bet stuburinio užsienio politikos orientyro mes, deja, iki šiol neturime. Būtent dėl to dažnas yra mėtymasis ir, svarbiausia, standartų keitimas\", - tvirtino parlamentaras.",
+          "Šaltinis": "lrts.lt, Seimo LSDP frakcijos informacija.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2012",
+          "Kita metrika": "(ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Graudu ir didinga, kai “nueinantys” (mat beviltiškiausiai tvirtą, stuburinę, tautinės savivokos mąstyseną išbarstę, iššvaistę …”pravaikščioję” – ir nenusiminę), įsivardyt drįsta.",
+          "Šaltinis": "alkas.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2017",
+          "Kita metrika": "gegužė.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„Mane liūdina situacija, jog Klaipėda neturi stuburinės nuomonės ir pataikauja Vyriausybės priimtam Uosto bendrajam planui. Miesto BP yra tik tarnavimas. Gaila, kad niekas nebando Uosto bendrojo plano kvestionuoti tiek teisme, tiek Konstituciniame Teisme. Tad ši taryba, tvirtindama Klaipėdos BP, tiesiog pataikauja Uosto bendrajam planui. [...] Matau, jog Klaipėda ištuštės pakankamai greitai“, – ir prognozavo, ir į miesto tarybos narius kreipėsi A. Ektis.",
+          "Šaltinis": "atviraklaipeda.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "09 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "LSDP rinkimus laimėjo, tad premjeras turi būti jų žmogus, kitaip susikompromituos kaip partija - taps mazgotė... Sinkevičių visa šeima yra gera ir Jonavos gyventojai stuburinį merą dievina visa šia žodžio prasme {būtų šaunus premjeras} ir pratęstų kovą dėl iššvaistytų pinigų...",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "08 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Politika jau pavirtusi tokiomis technologijomis, nebeliko politinio diskurso, ir visas tas politinis diskursas nueina į pakraštes. Ir visoje šitoje situacijoje labai svarbu yra Tėvynės sąjunga, nes Tėvynės sąjunga yra viena iš stuburinių Lietuvos politinių jėgų. Ta, į kurią remiasi Lietuvos politinis laukas, vienaip ar kitaip“, – vertino konservatorius.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "05 03.",
+          "Naujažodį pavartojo": "Matas Maldeikis",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
