@@ -1,0 +1,72 @@
+{
+  "uuid": "ff3864b3-33a3-495a-a1f6-d1a90817522b",
+  "header": "hiberneitas",
+  "publishedDate": 1778665072903,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "hibernei̇̃tas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, hibernate.",
+      "Giminiški naujažodžiai": "hiberneitinti; hibernuoti",
+      "Pateikta": "2026-05-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuterio energijos taupymo būsena, kuri išsaugo atidarytus dokumentus ir veikiančias programas kietajame diske, o tada visiškai išjungia kompiuterį.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "hiberneitinti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Hmm... dėl atminties vaidmens. Tarkime besapnį miegą prilyginam sąmonės \"hiberneitui\", o mirtį - sąmonės \"shutdown'ui\". Kam tuomet prilygintumėte \"užkrovimo\" atminties praradimą \"hibernate\" režime?",
+          "Šaltinis": "skeptikas.org",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2004",
+          "Kita metrika": "09 11.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-05-08)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kaip padaryti, kad po logout'o arba hiberneito admino accountas neprašytų passw?",
+          "Šaltinis": "newsgroups.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2010",
+          "Kita metrika": "11 01.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Sugedo hiberneitas.",
+          "Šaltinis": "newsgroups.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2012",
+          "Kita metrika": "02 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Win8 shutdownas tuom ir geras, kad tai pusiau hibnerneitas, t.y. iš RAM išsaugoma tik dalis info. Tai padeda užsikrauti greičiau nei WIN7 prisikelt iš pilno hiberneito. Aišku tai yra visgi išjungimas, tai visos aplikacijos užsidaro. kas nori, hibernate funkciją galima įjungti ir ant Win8.",
+          "Šaltinis": "technologijos.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2013",
+          "Kita metrika": "04 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Tai dar ne viskas - vietoj šutdauno pasidarė hiberneitas :(",
+          "Šaltinis": "news.rkm.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2020",
+          "Kita metrika": "08 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Esu nustates PC pabudimą 8:00. Žiemą viskas buvo gerai, o vasarą pradėjo pabusti 9:00. Priežastis - win 11 regionas buvo nustatytas neteisingai ir laikrodis rodė 8:00. Bet aš nesuprantu - biose tai einamasis ir pabudimo laikas yra teisingas, prie ko čia windozė? Ir išjungimas yra pilnas, ne kox hiberneitas, nors ir tai neturėtų turėti įtakos.",
+          "Šaltinis": "newsgroups.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "05 20.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
