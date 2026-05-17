@@ -1,0 +1,90 @@
+{
+  "uuid": "2cdcfa48-5a0b-4976-9ee6-b847054a6f50",
+  "header": "perėmėjas, -a",
+  "publishedDate": 1779022484559,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pérėmėjas, pérėmėja",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. interceptor (drone).",
+      "Giminiški naujažodžiai": "perėmimas; perimtis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-03-09).",
+      "Pateikta": "2026-05-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "gynybinis lėktuvas ar dronas priešo orlaiviams perimti (sustabdyti arba sunaikinti).",
+      "Vartojimo sritys": "karyba",
+      "Sąsajos": "bepilotis (dktv.); dronas1",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Lietuvos kaimyninės šalies įmonė sukūrė ekonomišką dronų perėmėją [antraštė]Lenkijos kovos su dronais technologijų bendrovė „Advanced Protection Systems“ (APS) sukūrė naują autonominį droną perėmėją, skirtą neutralizuoti bepiločius orlaivius (UAV) tiesioginio susidūrimo būdu, skelbia defence-blog.com.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "09 26.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jis pažymėjo, jog anksčiau buvo įprasta, kad ukrainiečių dronai-perėmėjai numušdavo priešo dronus virš savo teritorijos arba vadinamojoje pilkojoje zonoje, geriausiu atveju – poros kilometrų gilumoje rusų kontroliuojamoje teritorijoje. Tačiau dabar tai tapo greičiau išimtimi, o tipiška situacija yra Rusijos dronų perėmimas giliai Rusijos užnugaryje.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "06 07.",
+          "Pavyzdį pateikė": "Gita (2026-03-09)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Pamatykite: Putino apsauginis nufilmuotas besinešantis droną-perėmėją [antraštė] S.Beskrestnovo paskelbtame vaizdo įraše fone matyti V.Putinas, spaudžiantis rankas paradinių būrių vadams, o priešakyje – vyras kostiumu ir rankine, kuri iš dalies uždengia daiktą, panašų į droną. „FPV-perėmėjas Putino apsaugoje“, – parašė S.Beskrestnovas.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "07 29.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Aktyvaus perėmimo principas – parinkti ekonomiškai ir technologiškai efektyviausią priemonę prieš besiartinantį taikinį. Specializuoti dronai-perėmėjai tampa perspektyviausia ir efektyviausia technologija prieš kamikadzes ar jų spiečių. Aplink didmiesčius bei kritinius objektus papildomai veikia mobilios ugnies grupės, greitai perdislokuojamos į tikėtinus atakos dronų oro koridorius ir užpildančios spragas, kur stacionarios gynybos sistemos nebūtų racionalios.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "09 25.",
+          "Naujažodį pavartojo": "Dainius Kreivys",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Praėjusią savaitę Ukrainoje viešėjęs R. Kaunas pasakojo, kad ir ten vadinamieji „dronų perėmėjai“ iki šiol yra valdomi pilotų. „Jeigu atskrenda 100 „šahedų“, reiškia, reikia bent 100 pilotų, nes tik paskutinius pusantro kilometro perėmėjas geba „užrakinti“ taikinį ir jau pats atlieka savo veiksmą, bet iki taikinio reikia nuvesti. Klausimas – kodėl taip yra? Todėl, kad šiandien Ukraina dar tik kuria technologiją, paremtą dirbtiniu intelektu, kuri galėtų patį interceptorių [droną perėmėją – LRT.lt] nuvesti iki pat taikinio“, – sakė jis.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 31.",
+          "Naujažodį pavartojo": "Edmundas Jakilaitis",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Ukrainos ginkluotųjų pajėgų bepiločių sistemų pajėgos pranešė, kad jų kariai pirmą kartą rusišką „Shahed“ droną sunaikino droną-perėmėją paleidę iš nuotoliu valdomo bepiločio jūrinio drono. [...] „Tai žymi naują jūrinių ir oro bepiločių pajėgumų integracijos lygį. Bepiločių antvandeninių platformų naudojimas dronams-perėmėjams paleisti išplečia oro gynybos galimybes ir sukuria papildomą apsaugos sluoksnį Ukrainos miestams“, – teigė USF, paskelbdamos vaizdo įrašų fragmentus, kuriuose, kaip teigiama, matomas paleidimas ir perėmimas.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 22.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Ukraina pertvarkė lengvąjį turbopropelerinį lėktuvą „Antonov An-28“ į ore skraidančią dronų perėmimo platformą, apginkluodama jį dronais perėmėjais, skirtais medžioti ore skrendančius Rusijos tolimųjų nuotolių vienkartinius puolamuosius dronus „Shahed“.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 24.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "Kyjivas yra nusiuntęs dešimtis karinių specialistų ir dronų perėmėjų į kelias regiono šalis, kuriose jie buvo panaudoti atskriejantiems Irano dronams numušti. Ukraina savo priešdroninę gynybą vadina geriausia pasaulyje.",
+          "Šaltinis": "kauno.diena.lt (BNS).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 24.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-26)."
+        }
+      }
+    }
+  }
+}

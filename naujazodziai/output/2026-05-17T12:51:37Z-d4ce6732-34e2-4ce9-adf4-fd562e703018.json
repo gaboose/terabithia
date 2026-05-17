@@ -1,0 +1,81 @@
+{
+  "uuid": "d4ce6732-34e2-4ce9-adf4-fd562e703018",
+  "header": "perėmimas",
+  "publishedDate": 1779022297354,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pérėmimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. interception.",
+      "Giminiški naujažodžiai": "perėmėjas, -a; perimtis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-03-09).",
+      "Pateikta": "2026-05-17"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "priešo orlaivio sustabdymas arba sunaikinimas gynybiniu lėktuvu ar dronu.",
+      "Vartojimo sritys": "karyba",
+      "Sąsajos": "bepilotis (dktv.); dronas1",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Jis pažymėjo, jog anksčiau buvo įprasta, kad ukrainiečių dronai-perėmėjai numušdavo priešo dronus virš savo teritorijos arba vadinamojoje pilkojoje zonoje, geriausiu atveju – poros kilometrų gilumoje rusų kontroliuojamoje teritorijoje. Tačiau dabar tai tapo greičiau išimtimi, o tipiška situacija yra Rusijos dronų perėmimas giliai Rusijos užnugaryje.",
+          "Šaltinis": "15min.lt (BNS).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "06 07.",
+          "Pavyzdį pateikė": "Gita (2026-03-09)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Antrasis sluoksnis – aktyvus kinetinis perėmimas. Aktyvaus perėmimo principas – parinkti ekonomiškai ir technologiškai efektyviausią priemonę prieš besiartinantį taikinį. Specializuoti dronai-perėmėjai tampa perspektyviausia ir efektyviausia technologija prieš kamikadzes ar jų spiečių. Aplink didmiesčius bei kritinius objektus papildomai veikia mobilios ugnies grupės, greitai perdislokuojamos į tikėtinus atakos dronų oro koridorius ir užpildančios spragas, kur stacionarios gynybos sistemos nebūtų racionalios.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "09 25.",
+          "Naujažodį pavartojo": "Dainius Kreivys",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "– [...] Viskas turi būt paviešinama nedelsiant, kad žmonės pamatytų, ką jie [Rusija] daro, turime turėti užfiksuotus vaizdo įrašus, kad galėtume parodyti, kaip blogai jie elgiasi. O tada reikia griežtos reakcijos. Nes šie incidentai nesieskaluos iki branduolinio karo, kaip galbūt galėjo įvykti Šaltojo karo metu. Jei jie stumia, mes turime stumti atgal ir proporciškai. Šios dėlionės dalies mums ir trūksta. Turime gerų dalykų, kaip [orlaivių] perėmimai, stebėjimas, laisvas judėjimas ir pan.",
+          "Šaltinis": "lrt.lt; aut. Andrius Balčiūnas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "10 27.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Latvija dislokuos autonomines dronų perėmimo sistemas: sprendimai ir efektyvūs, ir pigesni [antraštė] Latvijos gynybos pajėgos planuoja artimiausiais mėnesiais dislokuoti autonomines dronų perėmimo sistemas. Jos turėtų padėti saugoti rytinę šalies sieną. Latvijoje, bendradarbiaujant su estais, sukurta sistema, skirta dronams ar kitiems oro taikiniams perimti ir tai daryti savarankiškai.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "11 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "JAV armija į Artimuosius Rytus išsiuntė 10 000 dronų-perėmėjų, sukurtų Ukrainoje. Apie tai rašo „Bloomberg“, remdamasis JAV armijos sekretoriumi Danu Driscollu. [...] Anksčiau Ukrainos pusė siūlė Amerikos partneriams technologijas Irano „Shahed“ dronų perėmimui.",
+          "Šaltinis": "ve.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 14.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Naujas ginklas prieš „Shahed“: kaip veikia „P1-SUN“ dronai-perėmėjai? [antraštė] Išskirtinis „SkyFall“ sistemos bruožas yra jos patentuota valdymo sistema, leidžianti nuotoliniu būdu valdyti droną. Dėka šios technologijos operatorius gali valdyti perėmimo procesą praktiškai iš bet kurios pasaulio vietos, kurioje yra interneto ryšys.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 28.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Pažymima, kad kalbama apie „Sky Map“ valdymo sistemą, kurią Ukrainos kariuomenė aktyviai naudoja prieš dronus, konkrečiai iranietiško modelio \"Shahedus“ – jiems atpažinti ir koordinuoti jų perėmimą.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 22.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        }
+      }
+    }
+  }
+}
