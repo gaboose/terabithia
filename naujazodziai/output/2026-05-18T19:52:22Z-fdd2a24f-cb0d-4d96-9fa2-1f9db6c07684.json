@@ -1,0 +1,63 @@
+{
+  "uuid": "fdd2a24f-cb0d-4d96-9fa2-1f9db6c07684",
+  "header": "perimti",
+  "publishedDate": 1779133942962,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "périmti, périma, pérėmė",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių, plg. anglų k. to intercept.",
+      "Giminiški naujažodžiai": "perėmėjas, -a; perėmimas; perimtis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-03-09).",
+      "Pateikta": "2026-05-18"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "sustabdyti arba sunaikinti priešo orlaivį gynybiniu lėktuvu ar dronu.",
+      "Vartojimo sritys": "karyba",
+      "Sąsajos": "bepilotis (dktv.); dronas1",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Neaišku, ar susidūrimas buvo nelaimingas atsitikimas, ar tyčinis, tačiau abi pusės sutinka, kad Rusijos orlaiviai bandė perimti droną. [...] Rusija kaip visada pateikė savo įvykių versiją. Šalies gynybos ministerija pareiškė, kad JAV dronas skrido netoli Rusijos sienos ir įsibrovė į teritoriją, kurią rusų valdžia paskelbė draudžiama. Ji teigė, kad Rusijos kariuomenė pakėlė naikintuvus, kad perimtų JAV droną.",
+          "Šaltinis": "vz.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "03 15.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Papečkys apie Bulgarijoje rastą droną: tai galėjo būti ir perimtas ukrainiečių bepilotis [antraštė] „Yra tokia tikimybė, kad Rusija perimtą ukrainiečių droną bepilotį <...> galėtų panaudoti prieš NATO valstybes mėgindami sukelti tam tikrą nepasitikėjimą Ukraina“, – LRT TELEVIZIJOS laidai „Svarbi valanda“ sako E. Papečkys. Analitikas priduria, kad nors kol kas žvalgybos pareigūnai dar nepranešė apie atvejus, kai Ukrainos dronus perima Rusija, tačiau tai teoriškai yra įmanoma pasitelkiant specialias radioelektronines priemones.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "09 18.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Pasieniečiai perėmė droną su baltarusiškomis cigaretėmis [antraštė] Dronų blokavimo įrangą panaudoję VSAT pareigūnai sėkmingai perėmė skraidyklės valdymą ir priverstinai ją su kroviniu nutupdė.",
+          "Šaltinis": "lnk.lt (ELTA).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "04 05.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Saudo Arabija perėmė bepiločius orlaivius, skridusius vieno rytinio naftos telkinio link, o Jungtiniai Arabų Emyratai (JAE) bei Kuveitas pranešė apie raketų atakas. Bahreine kaukė pavojaus sirenos.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 09.",
+          "Pavyzdį pateikė": "Gita (2026-03-09)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "„OSIRIS UEB-1“ gali pasiekti iki 315 km/val. greitį, kad persekiotų ir perimtų didelio greičio oro taikinius. [...] Ryženka taip pat pabrėžė, kad toks dronas yra labai efektyvi priemonė perimti didelius kiekius priešo dronų.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 25.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        }
+      }
+    }
+  }
+}
