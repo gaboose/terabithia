@@ -1,0 +1,48 @@
+{
+  "uuid": "e2c8188d-01e2-4ddc-90f6-d16ad0f0ac7e",
+  "header": "prepaidinis, -ė",
+  "publishedDate": 1779798169209,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "prepáidinis, prepáidinė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "anglų, < prepaid.",
+      "Giminiški naujažodžiai": "prepaidas",
+      "Pateikta": "2026-05-26"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "susijęs su prepaidu (išankstinio mokėjimo kortele).",
+      "Vartojimo sritys": "technologijos",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Bitės tinkle. Į planą yra įskaičiuota tik išvardinti: 100sms + 100mb. Dažniausiai renkasi šį planą telefonams, kurie priiminėja tik įeinančius skambučius, signalizacijoms, vartams, automobilių navigacijoms (kam pakanka 100 sms ir 100 Mb duomenų) - arba ima šį planą tie, kas nori \"pasaugoti\" numerį, bet nenori žaisti su \"prepaidiniais\" planais, nes šis planas - pats pigiausias pas mus mažmenoje.",
+          "Šaltinis": "uzdarbis.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2021",
+          "Kita metrika": "08 10.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jūs neteisus. Visi, kuriuos atvesite, bus be sutarties - prepaidiniai.",
+          "Šaltinis": "uzdarbis.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "06 27.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Prieš keletą dienų Ignotas Adomavičius skambino man tiesioginiame eteryje Janutienės laidoje. Neprisiskambino, nes į panaudotą prepaidą bandė priskambinti - liepė nusipirkti naują prepaidinę kortelę ir perskambinti jam.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "03 15.",
+          "Naujažodį pavartojo": "Karolis Žukauskas",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-04-27)."
+        }
+      }
+    }
+  }
+}
