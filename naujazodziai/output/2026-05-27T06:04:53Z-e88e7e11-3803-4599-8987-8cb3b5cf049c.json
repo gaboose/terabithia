@@ -1,0 +1,69 @@
+{
+  "uuid": "e88e7e11-3803-4599-8987-8cb3b5cf049c",
+  "header": "etinis hakeris",
+  "publishedDate": 1779861893481,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ètinis hãkeris",
+      "Rūšis": "naujai sukurtas junginys",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "lietuvių, plg. ethical hacker.",
+      "Pateikta": "2026-05-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kibernetinės saugos specialistas, teisėtai ieškantis spragų IT sistemose.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "hakeris; programišiauti; programišystė; programišius, -ė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Nuo to laiko atsirado daug naujų rinkos žaidėjų, kuriuos galime įvardinti kriminaliniais veikėjais, tačiau jie ypatingi tuo, kad yra itin sofistikuoti. Didžioji dalis jų turbūt yra iš tamsiojo interneto, kuriame, numanoma, yra daug rusų kilmės hakerių – ne etinių hakerių (taip vadinami hakeriai, kurie įsilaužia į sistemas ieškodami spragų ir taip norėdami padidinti saugumą internete – red. pastaba), o juodųjų hakerių, kurie bando įsilaužti į mūsų sistemas ir mus šantažuoti.",
+          "Šaltinis": "delfi.lt, aut. Jūratė Žuolytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "11 16.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pasak ESET saugumo evangelisto Tony Anscombe, apie išmaniesiems pastatams kylančias grėsmes turėtume kalbėti ne būsimuoju, o jau esamuoju laiku. „Gerieji, vadinamieji etiniai, hakeriai išbandė galimybes perimti išmaniųjų pastatų valdymą, pavyzdžiui, IBM komanda „X-Force“ sugebėjo perimti pastato valdymo sistemą, net patys „Google“ darbuotojai įrodė, kad jų durų apsaugos sistemos yra pažeidžiamos“, – komentuoja T.Anscombe.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "08 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Tesla atvejai: net kelis kartus etiniai hakeriai įrodė, kad galima įsilaužti į „Tesla“ sistemas. 2020 m. Kinijos tyrėjai iš „Keen Labs“ parodė, kaip galima nuotoliniu būdu atrakinti automobilio dureles, mirksėti šviesomis, stabdyti ar net valdyti vairo pasukimą.",
+          "Šaltinis": "automotodrive.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "11 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Etiniai hakeriai ne tik testuoja sistemas. Kartais jie gaudo scamus.",
+          "Šaltinis": "facebook.com, Artur Lebedenko.",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "03 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "„Vertiname etinių hakerių indėlį į kibernetinį saugumą ir glaudžiai bendradarbiaujame su atsakingomis institucijomis, kad užtikrintume aukščiausią duomenų apsaugos lygį“, – komentavo U. Jankauskas. Pašnekovas nurodė, kad galimas pažeidžiamumas buvo prieinamas tik tam tikras specifines technines žinias turintiems specialistams, ne plačiajai visuomenei.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "04 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Etinis hakeris: kaip gali būti panaudoti nutekėję duomenys ir kur slypi didžiausia spraga [antraštė] Kadangi kalbintas ekspertas pats tikrina įvairių sistemų saugumą ir kur yra pažeidžiamiausios vietos, jis teigia, kad spragų įmonėse ar net valstybinėse institucijos vis dar yra daug. Paminėtos ir kelios dažniausios. [...]Etinio, vadinamojo „gerojo“ hakerio teigimu, ateityje panašių atakų gali dar padaugėti, todėl valstybinės institucijos ir verslai turėtų daugiau dėmesio skirti duomenų apsaugai.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "05 27.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
