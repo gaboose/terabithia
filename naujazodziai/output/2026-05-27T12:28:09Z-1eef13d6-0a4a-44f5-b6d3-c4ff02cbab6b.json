@@ -1,0 +1,67 @@
+{
+  "uuid": "1eef13d6-0a4a-44f5-b6d3-c4ff02cbab6b",
+  "header": "savipatikra",
+  "publishedDate": 1779884889297,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "savipatikrà",
+      "Kirčiuotė": "3b",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "savitikra",
+      "Pateikta": "2026-05-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "savitikra – savo paties atliekamas fizinės būklės, įvairios veiklos, duomenų apie save ir pan. patikrinimas, kontrolė.",
+      "Pastabos vartotojams": "bendrinėje lietuvių kalboje esama polinkio daryti daiktavardžius iš įvardinio dėmens savi- ir nepriešdėlinės formos, todėl teiktinas variantas savitikra.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Kodifikacija": "nekodifikuota",
+      "Varianto statusas": "nenorminis",
+      "Kiti variantai": "savitikra [norminis]",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Atitikties ES direktyvoje 94/ 62/ EB numatytiems reikalavimams patikra Lietuvos įmonėse turi būti atliekama laikantis savideklaracijos ir savipatikros principų.",
+          "Šaltinis": "eimin.lrv.lt. Galimybių studija, analizuojanti esamą situaciją Lietuvoje [...], vertinant rinkai tiekiamų pakuočių atitiktį [...].",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2013",
+          "Kita metrika": "p. 42.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Iniciatyvos tikslas – supažindinti vyresniųjų klasių mokinius su onkologinių ligų prevencija, savipatikra ir ankstyvaisiais ligos požymiais.",
+          "Šaltinis": "rytogimnazija.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "03 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Savipatikra – tai ne testas ir ne diagnozė. Tai tylus, kasdienis dialogas su savo kūnu, padedantis pastebėti pokyčius [...].",
+          "Šaltinis": "facebook.com (paskyra „Bella Lietuva“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "01 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "„Tai, kad prie Registrų centro prisijungta per nauduotojų paskyras, reiškia, kad visos paskyros, kuriomis buvo prisijungta ar institucijos, iš kurių buvo prisijungta su šiomis paskyromis, irgi gali būti sukompromituotos. Ir tai reiškia, kad ne vien Registrų centras turėtų atlikti auditą ar savipatikrą, bet ir institucijos, kurių darbuotojų paskyros buvo sukompromituotos. O tai reiškia, kad turime visą sukompromituotą tiekimo grandinę su skirtingais įeigos taškais“, – problemos mastą apibūdino Š.Grigaliūnas.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "05 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Jei įspėjamoji ABS lemputė užsidega savipatikros metu arba važiuojant, kreipkitės į NISSAN atstovą arba techninės priežiūros specialistus, kad jie patikrintų automobilį.",
+          "Šaltinis": "nissan.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "gegužė (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
