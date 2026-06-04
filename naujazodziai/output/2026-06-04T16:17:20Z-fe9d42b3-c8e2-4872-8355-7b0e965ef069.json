@@ -1,0 +1,40 @@
+{
+  "uuid": "fe9d42b3-c8e2-4872-8355-7b0e965ef069",
+  "header": "gapinti",
+  "publishedDate": 1780589840859,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys [hibridas]",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "anglų, to gape.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2026-04-22).",
+      "Pateikta": "2026-06-04"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "daryti pertrauką karjeroje.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Kodifikacija": "neteiktina",
+      "Funkciniai atspalviai": "žargonybė",
+      "Varianto statusas": "nenorminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[...] LMT konkurso „Mokslo mikrofonas“ laureatė, kvietė \"pasimatuoti\" karjeros pertrauką - \"gap year\". Ji paliko visus su saldžia svajone, jog \"gap year\" galima \"gapinti\" ne tik po mokyklos, bet ir vėlesniuose karjeros etapuose.",
+          "Šaltinis": "linkedin.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "(ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-05-20)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "[...] „davai po dvylikos gapinam ir varom mocu per Australiją?“ [...]",
+          "Šaltinis": "Justinas Žilinskas. Tylenė. Lietuvos rašytojų sąjungos leidykla.",
+          "Šaltinio rūšis": "originalus meninis tekstas",
+          "Metai": "2026",
+          "Kita metrika": "p. 33.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2026-04-22)."
+        }
+      }
+    }
+  }
+}
