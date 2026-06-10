@@ -1,0 +1,58 @@
+{
+  "uuid": "364abfcd-610f-43ea-88bb-6691f0688cdd",
+  "header": "ekomanipuliavimas",
+  "publishedDate": 1781072648850,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ekomanipuliãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. greenwashing.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-06-07).",
+      "Pateikta": "2026-06-10"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "apgaulingas susirūpinimo aplinkos apsauga demonstravimas, siekiant politinių tikslų ar pasipelnymo.",
+      "Vartojimo sritys": "aplinka, verslas",
+      "Funkciniai atspalviai": "oficialusis stilius",
+      "Kiti variantai": "grynvošingas [nenorminis]; žaliasis smegenų plovimas; žaliaskalbystė",
+      "Sąsajos": "grynpysas; žalėti; žaliasmegenis, -ė (dktv.); žalinimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Šiandien Europos Komisija pasiūlė atnaujinti ES vartotojų apsaugos taisykles, kad suteiktų vartotojams daugiau galių dalyvauti žaliojoje pertvarkoje. Atnaujintomis taisyklėmis bus užtikrinama, kad pirkdami gaminius vartotojai galėtų remtis reikiama informacija ir priimtų aplinkai palankius sprendimus. Vartotojai turės teisę žinoti, kokia numatyta gaminio veikimo trukmė ir kaip prireikus jį pataisyti. Be to, taisyklėmis bus sustiprinta vartotojų apsauga nuo nepatikimų ar melagingų ekologiškumo teiginių ir bus uždraustas ekomanipuliavimas (angl. greenwashing) bei vartotojų klaidinimas dėl gaminių patvarumo.",
+          "Šaltinis": "lithuania.representation.ec.europa.eu",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "03 30.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Didėjanti su tvarumu susijusių produktų paklausa ir pasiūla bei besikeičiantis reguliavimas sudaro palankias sąlygas produktų ekomanipuliavimo (angl. greenwashing) rizikai kilti. Geresnis ekomanipuliavimo supratimas prisidėtų prie politikos ir priežiūros formavimo. Šiuo tikslu Europos priežiūros institucijos (EPI) (Europos bankininkystės institucija, Europos vertybinių popierių ir rinkų institucija, Europos draudimo ir profesinių pensijų institucija) paskelbė kvietimą.",
+          "Šaltinis": "lb.lt (Lietuvos bankas).",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2022",
+          "Kita metrika": "12 01.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Šių metų konferencijos tema itin aktuali, nes ekomanipuliavimas (greenwashing) kelia rimtų iššūkių organizacijoms, siekiančioms tikrojo tvarumo. Klaidingi tvarumo teiginiai ne tik kenkia įmonės ar organizacijos reputacijai, bet ir mažina klientų bei partnerių pasitikėjimą. Taigi, ypač svarbu suprasti ekomanipuliavimo esmę ir rizikas.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "12 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kartu su didėjančiu tvarumo ataskaitų populiarumu, atsirado ir ekomanipuliavimo (angl. greenwashing) grėsmė. Ekomanipuliavimas apibrėžiamas įvairiai: tai gali būti manipuliavimas informacija, dalinis ar selektyvus duomenų pateikimas, neatitikimas tarp esminių ir simbolinių veiksmų, klaidinanti rinkodara, „kosmetinė“ komunikacija arba atotrūkis tarp atskleistos informacijos ataskaitose ir faktinių įmonės rezultatų.Ekomanipuliavimas klaidina visuomenę ir iškraipo rinkos mechanizmus, nes įmonės, iš tiesų investuojančios į tvarias iniciatyvas, gali prarasti konkurencinį pranašumą prieš tas įmones, kurios tik imituoja tvarią veiklą. Be to, ekomanipuliavimas sukelia reputacinę, teisinę ir finansinę riziką bei žalą. Todėl ekomanipuliavimo praktikų nustatymas ir viešinimas yra būtinas siekiant apsaugoti vartotojus, užtikrinti rinkos skaidrumą ir skatinti tikrąjį tvarumą.",
+          "Šaltinis": "delfi.lt (VDU inf.).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "12 17.",
+          "Pavyzdį pateikė": "Gita (2026-06-07)."
+        }
+      }
+    }
+  }
+}
