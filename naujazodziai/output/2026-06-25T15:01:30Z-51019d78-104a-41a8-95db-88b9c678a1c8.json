@@ -1,0 +1,56 @@
+{
+  "uuid": "51019d78-104a-41a8-95db-88b9c678a1c8",
+  "header": "chašlama",
+  "publishedDate": 1782399690289,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "chašlamà",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "armėnų, anglų k. perraša chashlama, khashlama.",
+      "Pateikta": "2026-06-25"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kaukazietiška tiršta sriuba iš avienos ar jautienos ir įvairių daržovių.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "sriubos",
+      "Sąsajos": "kazanas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Chašlama yra sodri tiršta sriuba/troškinys, kurioje derinama mėsa ir daržovės. Standartiškai naudojama aviena/ėriena, bet ir jautiena puikiai tiks. Pagrindinės taisyklės yra mėsa ant kauliuko, šviežios daržovės ir gausi kompanija. Puikiai tinka iškylai gamtoje, žvejybai ir t.t. nes gaminimas yra labai paprastas ir nereikalauja daug priežiūros.",
+          "Šaltinis": "vblog.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2019",
+          "Kita metrika": "06 02.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Chašlama kazane – vienas paprasčiausių, bet kartu ir išraiškingiausių Kaukazo virtuvės patiekalų. Jo pagrindą sudaro mėsa, daržovės, alus bei lėtas troškinimas. Rezultatas – minkšta, sultinga mėsa ir aromatingas sultinys, kuriuo norisi mėgautis kartu su šviežia duona. [...]Likus maždaug 10–15 minučių iki pabaigos, pabarstykite chašlamą kalendra.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "10 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Tiršta armėniška sriuba chašlama – kitą dieną skonis dar geresnis [antraštė]Kaune gyvenanti armėnų tautybės maisto tinklaraštininkė Armenuhi (trumpai – Armi) Mkrtchyan dalijasi itin gardžios armėniškos sriubos chašlama receptu. Paragavusieji sako negalintys pamiršti šios tirštos sriubos skonio. [...] Ir tikina: kitą dieną ši sriuba dar skanesnė.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "06 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Vienas iš tokių, mane maloniai nustebinusių, patiekalų yra chašlama (ჰაშლამა). Su šiuo patiekalu yra toks įdomus paradoksas, kad jis yra ir Armėnijoje ir Skartvele. Ir labiau žinoma armėniška chašlamos versija, mat rezultatas primena troškinį, gal net savotišką ragu versiją. Tuo tarpu kartvelų chašlama yra sriuba, verdama iš avienos arba jautienos. Tai nesudėtingas, bet labai įdomus patiekalas.",
+          "Šaltinis": "valgiai.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2026",
+          "Kita metrika": "birželis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
