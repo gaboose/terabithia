@@ -1,0 +1,39 @@
+{
+  "uuid": "dd327e2f-0a1a-41aa-b6f0-06c7f7f2004a",
+  "header": "takija",
+  "publishedDate": 1782733190379,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "takijà",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "arabų, anglų k. perraša taqiyah.",
+      "Pateikta": "2026-06-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "nedidelė apvali musulmonų vyrų dėvima kepurėlė.",
+      "Vartojimo sritys": "gyvenimo būdas (stilius), kitų kraštų realijos",
+      "Semantiniai požymiai": "aprangos priedai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pamaldos trunka visai neilgai, apie 20 minučių. Iš pirmo žvilgsnio jos išsiskiria harmonija, visi besimeldžiantieji yra susikaupę maldai, atrodo tarytum panirę į transą. Pasibaigus pamaldoms ne vienas žmogus prieina ir mandagiai pasiteirauja, kas mane paskatino apsilankyti musulmonų pamaldose. Pirmojo vizito proga Vilniaus musulmonų bendruomenė man padovanojo takiją (vyrišką musulmonų kepuraitę) ir Koraną.",
+          "Šaltinis": "bernardinai.lt, aut. Adas Viliušis.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "07 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Takija – musulmonų vyrų maldos metu dėvima kepurėlė. Eidami į penktadienio maldą musulmonai vyrai taip pat kartais vilki tuniką.",
+          "Šaltinis": "Bendradarbiavimas su neapykantos nusikaltimų pažeidžiamomis bendruomenėmis. Praktinis vadovas teisėsaugos pareigūnams. Vilnius.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2020",
+          "Kita metrika": "p. 26.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
