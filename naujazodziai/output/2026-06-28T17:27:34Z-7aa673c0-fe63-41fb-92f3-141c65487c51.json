@@ -1,0 +1,41 @@
+{
+  "uuid": "7aa673c0-fe63-41fb-92f3-141c65487c51",
+  "header": "įsprogis",
+  "publishedDate": 1782667654809,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "į̇́sprogis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < įsprogti; plg. anglų k. implosion < lotynų k. implosio „įmušimas“.",
+      "Duomenų pateikėjai": "pirmasis apie naujažodį pranešė Elijas (2026-06-27).",
+      "Pateikta": "2026-06-28",
+      "Atnaujinta": "2026-06-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "į objekto vidų nukreiptas staigus plyšimas, sutrūkimas (priešingas objekto sprogimui į išorę); sprogimas į vidų.",
+      "Vartojimo sritys": "fizika",
+      "Kiti variantai": "implozija",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dažnai pastatų stabilumu besirūpinantys inžinieriai nustato racionaliausią pastato šalinimo būdą ir, kol vyksta griovimo darbai, prie greta esančių pastatų pritvirtina seismografus, matuojančius patiriamų smūgių stiprumą. Kartais geriausias sprendimas yra įsprogis (vidinis sprogimas), tačiau tokie sprogimai sudėtingi – dažnai tenka rengtis ne vieną mėnesį ir sumažinti pastatą, kad jis nuvirstų per kelias sekundes, kai įvyksta sprogimas. [...]Pastato viduje prie išorinių statinio sienų pritvirtinamos vielos, kad sprogimo metu sienos nekristų į šalis, nes pastatas sprogdinamas ne į išorę. Įvyksta vidinis sprogimas, t. y. konstrukcija įgriūva į vidų. Dėl sunkio jėgos ir valdomųjų sprogimų pastato centras įgriūva vertikaliai, o statinio šonai įtraukiami į vidų. Visos pastato dalys lieka vienoje vietoje, todėl šį metodą galima taikyti net ir tuomet, kai statinys yra tankiai gyvenamame rajone.",
+          "Šaltinis": "vz.lt (iš: „Iliustruotasis mokslas“), aut. Agnė Kriščiukaitytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2014",
+          "Kita metrika": "12 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Suslėgtas skystis arba dujos staiga išleidžiamos; šalia esančiam asmeniui suduodamas smūgis; arba dėl gaminio įsprogio pasklinda skriejančių objektų.",
+          "Šaltinis": "Žaislų saugos direktyva 2009/48/EB. Europos Komisija.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2016",
+          "Kita metrika": "02 22.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
