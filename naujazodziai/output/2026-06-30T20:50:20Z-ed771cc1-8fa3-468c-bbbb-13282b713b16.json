@@ -1,0 +1,29 @@
+{
+  "uuid": "ed771cc1-8fa3-468c-bbbb-13282b713b16",
+  "header": "vaikadieniai",
+  "publishedDate": 1782852620818,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vaikãdieniai",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Pateikta": "2026-06-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "vaiko priežiūros laikotarpis (motinystės atostogos).",
+      "Vartojimo sritys": "buitis",
+      "Sąsajos": "vaikadienis2",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "Vaiko priežiūros laikotarpis, vadinamosios motinystės atostogos, vieniems asocijuojasi su maloniais mažylio priežiūros rūpesčiais, o kiti sako, kad „atostogomis“ šio laikotarpio vadinti nederėtų, mat jokiu poilsiu čia net iš tolo nekvepia – veikiau darbu, kuris neturi fiksuotų valandų. Užsimota pakeisti ir patį pavadinimą. [...] LRT bendradarbis Estijoje Vaidas Matulaitis taip pat teigė, kad Estijoje teisiškai tokio tipo atostogos yra klasifikuojamos kaip tėvystės atostogos, vaiko priežiūros atostogos, įvaikintojo atostogos, tėvo atostogos, mamos atostogos. „Kalbant apie terminiją, kaip bendrasis apibūdinimas neretai sakoma „vaikų dienos“ (vaikadieniai). Tai jei vienu žodžiu – vaikadieniai“, – įvardijo jis.",
+        "Šaltinis": "lrt.lt; aut. Gabrielė Jankienė.",
+        "Šaltinio rūšis": "internetinė žiniasklaida",
+        "Metai": "2025",
+        "Kita metrika": "11 14.",
+        "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-11-14)."
+      }
+    }
+  }
+}
