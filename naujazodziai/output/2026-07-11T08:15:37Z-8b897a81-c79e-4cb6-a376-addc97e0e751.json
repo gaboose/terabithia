@@ -1,0 +1,57 @@
+{
+  "uuid": "8b897a81-c79e-4cb6-a376-addc97e0e751",
+  "header": "ultraperdirbtas, -a",
+  "publishedDate": 1783757737890,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ultrapérdirbtas, ultrapérdirbta",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "būdvardis",
+      "Formos variantai": "ultra perdirbtas, -a.",
+      "Kilmė": "anglų, ultra-processed.",
+      "Pateikta": "2026-07-11"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris sukurtas pramoniniu būdu (apie maistą), turi daug dirbtinių priedų (emulsiklių, skonio stipriklių, saldiklių, kvapiųjų medžiagų ir kt.) ir yra nepalankus sveikatai.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "įvairūs produktai",
+      "Sąsajos": "fastfūdas; greitmaistis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Naujausi neurologiniai tyrimai atskleidžia ryšį tarp mitybos ir pažinimo funkcijų silpnėjimo. Vis daugiau įrodymų rodo, kad keturios konkrečios maisto produktų kategorijos gali kelti didelį pavojų smegenų sveikatai. Dirbtiniai saldikliai, ultraperdirbti maisto produktai, jūros gėrybės, kuriose yra daug gyvsidabrio, ir rafinuoti angliavandeniai turi matomą neigiamą poveikį nervų funkcijai. Šis poveikis gali būti įvairus – nuo laikino protinės veiklos sulėtėjimo iki galimo ilgalaikio smegenų pažeidimo, susijusio su demencija.",
+          "Šaltinis": "smlpc.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "08 11.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "San Franciskas paduoda į teismą ultra perdirbtų maisto produktų gamintojus, kurių produkcija, pasak sveikatos ekspertų, per kelis perteklinio vartojimo dešimtmečius lėmė, kad milijonai amerikiečių dabar yra nutukę, antradienį pranešė miesto valdžia.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "12 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Tam tikros maisto grupės ypač stipriai veikia mikrobiomos pusiausvyrą. Dažniausiai pasitaikantys pasirinkimai, galintys sukelti nepageidaujamą poveikį: Ultra perdirbti produktai (pusgaminiai, užkandžiai, saldumynai) Keptas ir daug riebalų turintis maistas Perdirbta mėsa (dešros, rūkyti gaminiai) [...].",
+          "Šaltinis": "mlaikas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "03 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Gali būti, kad perskaitę infekcinių ligų gydytojo ir molekulinės virusologijos mokslų daktaro Chriso von Tullikeno knygą „Ultraperdirbti žmonės“ iš maisto prekių parduotuvės išeisite... tuščiomis.",
+          "Šaltinis": "alfa.lt (iš: iQ), aut. Agnė Žemaitytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "07 11.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
