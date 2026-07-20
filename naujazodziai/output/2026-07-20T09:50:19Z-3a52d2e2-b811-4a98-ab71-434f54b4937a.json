@@ -1,0 +1,42 @@
+{
+  "uuid": "3a52d2e2-b811-4a98-ab71-434f54b4937a",
+  "header": "burida",
+  "publishedDate": 1784541019470,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "buridà",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "italų, buridda.",
+      "Pateikta": "2026-07-20"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "tiršta itališka jūros gėrybių sriuba (troškinys).",
+      "Pastabos vartotojams": "skolinys įteisintas rekomendaciniame Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2019-12-19).",
+      "Vartojimo sritys": "kitų kraštų realijos, maistas",
+      "Semantiniai požymiai": "sriubos",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Mėgstamiausias gėrimas ir valgis - Raudonas vynas. Château Mayne Vieil Cuvee Alienor Fronsac A.C. O iš valgių - nuostabiosios buridos.",
+          "Šaltinis": "straipsniai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2009",
+          "Kita metrika": "06 17.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pasivaikščiojus verta pasėdėti lauko kavinukėj, atsigerti espreso arba kapučino kavos, taip pat pietums paragauti vieno iš nacionalinių patiekalų („buridos“ – žuvis, marinuota graikinių riešutų ir česnakų padaže, „sa frogila“ – grūdų dydžio pasta žuvies sriuboje, „panadas“ – pyragėliai su daržovėmis ir unguriais).",
+          "Šaltinis": "anonsas.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2019",
+          "Kita metrika": "07 23.",
+          "Pavyzdį pateikė": "Irutė Raišutienė (2020-09-28)."
+        }
+      }
+    }
+  }
+}
