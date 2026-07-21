@@ -1,0 +1,68 @@
+{
+  "uuid": "8f2ecfac-8ac6-4b6b-a2bd-0bd6c2821d4d",
+  "header": "DVD",
+  "publishedDate": 1784666438371,
+  "details": {
+    "Bendroji informacija": {
+      "Rūšis": "naujai skolinta santrumpa",
+      "Kalbos dalis": "nėra",
+      "Kilmė": "anglų, DVD < digital versatile disc; digital video disc.",
+      "Pateikta": "2026-07-21"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "optinė laikmena – skaitmeninis vaizdo diskas vaizdui, garsui, kompiuterinėms programoms įrašyti.",
+      "Vartojimo sritys": "kompiuterija",
+      "Sąsajos": "vaizdadiskis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Iš šių dviejų prekeivių pareigūnai paėmė neteisėtai atgamintą 131 universalųjį skaitmeninį diską (DVD) ir 269 kompaktinius diskus.",
+          "Šaltinis": "Lietuvos rytas",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2005",
+          "Kita metrika": "04 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Saulėtekyje esančioje skaitykloje studentai galės naudotis dvylika kompiuterių, internetu, DVD leistuvu, žiūrėti televizorių, skaityti žurnalus, laikraščius, elektroninius leidinius bei savo atsineštas knygas.",
+          "Šaltinis": "Lietuvos rytas",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2007",
+          "Kita metrika": "05 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„Į šį festivalį labai sunku patekti, tačiau mes buvome pakviesti dėl to, kad prieš kelerius metus su trio esame išleidę DVD, kuris gerai žinomas pasaulyje“.",
+          "Šaltinis": "Respublika (priedas „Julius“).",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2007",
+          "Kita metrika": "07 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "XXa. žiniasklaidos raida rodo, kad plečiantis masinės informacijos priemonių ratui, jos suranda savo nišą rinkoje ir vartotojus. Radijo iki šiol neužgožė vėliau atsiradusi televizija, o kino nesužlugdė DVD video formatas.",
+          "Šaltinis": "delfi.lt; aut. Mindaugas Bajarūnas, Robertas Narmontas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2012",
+          "Kita metrika": "06 01.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "„Įprastinės optinės laikmenos, tokios kaip DVD, saugo skaitmeninę informaciją įrašant taškus vieno ar daugiau sluoksnių plastiko diskuose, taip panaudojant tris erdvės matmenis. Mes įrodėme, kad duomenims koduoti gali būti panaudoti du papildomi optiniai parametrai“, – aiškino R.Drevinskas.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "02 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "[…] pagrobti penkis maždaug 1000 litų kainuojančius DVD (skaitmeninio vaizdo) grotuvus ir tuo pačiu keliu pasprukti.",
+          "Šaltinis": "Respublika",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "04 09.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
