@@ -1,0 +1,74 @@
+{
+  "uuid": "c03e8a63-1986-4e94-8941-8e02120751ae",
+  "header": "fokusuotis",
+  "publishedDate": 1784670787925,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "fokusúotis, fokusúojasi, fokusãvosi",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių, < fokusas < lotynų k. focus „židinys“.",
+      "Ypatingieji požymiai": "nenaujas (nefiksuotas)",
+      "Giminiški naujažodžiai": "fokusas",
+      "Papildoma informacija": "TŽŽ (2001) yra tik nesangrąžinė forma fokusuoti viena iš reikšmių – „kreipti, telkti, koncentruoti dėmesį į ką nors“; sangrąžinė forma aptikta laikraštyje „Europos lietuvis“ (1993), pavartota Aleksandro Šidlausko: Kaimas niekuomet neslėgė savo tautos nepilnavertiška kultūra. Jis ne tiktai maitino ir rengė, bet sąmoningai ir nesąmoningai iš rankų į rankas perdavinėjo dvasios išlikties genus, kuriuose fokusavosi doros nuostatos, estetinės jausenos, pasaulėvokos sampratos.",
+      "Duomenų pateikėjai": "pirmoji apie sangrąžinę formą pranešė pirmoji Gita (2024-03-20).",
+      "Pateikta": "2026-07-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "telktis, susitelkti į ką; sutelkti dėmesį į ką; nusitaikyti į ką.",
+      "Vartojimo sritys": "bendroji vartosena",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Duomenų hakatono (angl. Datathon) dalyviai visą parą kiekvienas prie savo kompiuterio fokusavosi į konkrečią verslo sritį – sukčiavimų tyrimą žalose. Komandos kūrė seklį robotą, kuris moka atpažinti sukčiavimų schemas bei mokė dirbtinį intelektą atpažinti „padailintas“ nuotraukas.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "11 25.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ta proga pasirinkta aktuali ir opi mados pasaulio tema – tvarumas. Visos kolekcijos vienaip ar kitaip atliepė taršos mažinimo temą. Vieni ženklai fokusavosi į ekologišką, tvarią pakuotę, gamybą be atliekų, kiti didesnį dėmesį kreipė rinkdamiesi tvarias, antrines ar perdirbtas medžiagas bei lėtos mados principus.",
+          "Šaltinis": "moteris.lt, aut. Justė Kubilinskaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2022",
+          "Kita metrika": "10 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Visgi V. Čmilytė-Nielsen sakė, kad svarbiausia kalbant apie krašto apsaugos reikalus diskutuoti, „kaip veiksmingiausiai pasirengti esančioms grėsmėms, būsimoms grėsmėms“.Ji pabrėžė, kad Rusija tęsia karą prieš Ukrainą, o Baltarusijos autoritarinio lyderio Aliaksandro Lukašenkos režimas tampa vis labiau nenuspėjamas, į šalį persikeliant samdinių grupei „Wagner“.„Lietuva turėtų į tai fokusuotis, o ne į ministro feisbuko įrašus“, – teigė Seimo pirmininkė.",
+          "Šaltinis": "lrt.lt (BNS), aut. Saulius Jakučionis.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "08 02.",
+          "Pavyzdį pateikė": "Gita (2024-03-20)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Toksiški žmonės visada fokusuojasi į jūsų emocinę reakciją, o ne į atsakomybę, kaip išspręsti esmę.",
+          "Šaltinis": "facebook.com (paskyra „Gyvenimo kontrastai“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "06 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Iš šešių festivalyje patirtų darbų, pusė kūrinių paliko erdvę kurti laisvas asociacijas; likę trys – priešingai, fokusavosi ties labai konkrečiomis temomis ir klausimais, kūrė aiškias spektaklių taisykles ir savitus pasaulius.",
+          "Šaltinis": "menufaktura.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "08 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Toliau turime, aišku, fokusuotis į Sausumos pajėgas. Ukrainoje lygiai taip pat matome, kaip daugybė brigadų laiko priešą fronte ir dronai padeda jį naikinti, stumti kai kuriais atvejais atgal. Tad mūsų Sausumos pajėgos lygiai taip pat turi būti pakankamai stiprios. Tai reiškia – ir oro erdvė, ir sausuma.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "06 23.",
+          "Naujažodį pavartojo": "Robertas Kaunas",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

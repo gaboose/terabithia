@@ -1,0 +1,55 @@
+{
+  "uuid": "83d30c6b-f68d-4236-9517-7a24c3a449fb",
+  "header": "ikisimptomis, -ė (būdv.)",
+  "publishedDate": 1784670844687,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ikisimptòmis, ikisimptòmė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2020-12-04).",
+      "Pateikta": "2026-07-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris dar neturi ligos simptomų; kuriam dar nebūdingi ligos simptomai.",
+      "Vartojimo sritys": "medicina (sveikata)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Klastingoji koronaviruso pusė: ką žinome apie užkrato plitimą nuo besimptomių ir ikisimptomių atvejų [antraštė] PSO tyrimo išvadose nurodoma, kad 75 proc. Kinijos piliečių, iš pradžių priskirtų besimptomių atvejų kategorijai, vėliau pajuto ligos simptomus. Vadinasi, faktiškai įprastu ir dažnu reiškiniu reikėtų laikyti užsikrėtimą nuo žmogaus, esančio ikisimptominėje stadijoje. [...] Keletas pastarojo meto tyrimų parodė, kad viruso plitimas per ikisimptomius ir besimptomius atvejus nėra neįprastas reiškinys. [...] Labiausiai nerimą keliantis aspektas, paaiškėję analizuojant viruso sklaidą per ikisimptomės būklės asmenis, yra tas, kad pradinėje ligos stadijoje kyla didžiausia koronaviruso perdavimo grėsmė, o laikas, po kurio pasireiškia simptomai, – vidutiniškai penkios dienos.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "04 11.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-14)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Pasaulio sveikatos organizacijos (PSO) kovos su naujuoju koronavirusu grupės atstovės Maria Van Kerkhove pareiškimas, kad besimptomių nešiotojų koronaviruso perdavimas pasitaiko itin retai, sukėlė sumaištį pasaulyje. Medikai ir mokslininkai ne vieną mėnesį teigė priešingai. Vėliau PSO atstovė teigė, kad buvo neteisingai suprasta, o jos pareiškimas buvo paremtas vos keliais moksliniais tyrimais. Ekspertai sako, kad reikia atskirti besimptomius ir ikisimptomius viruso nešiotojus. Manoma, kad būtent ikisimptomiai nešiotojai didele dalimi prisideda prie viruso plitimo.",
+          "Šaltinis": "naujienos.manodaktaras.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "07 21.",
+          "Pavyzdį pateikė": "Gita (2020-12-04)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Besimptomis ir ikisimptomis koronaviruso plitimas: kuo skiriasi? [antraštė] Besimptomis plitimas – virusą perduoda tie nešiotojai, kuriems iki šiol nepasireiškė ir vėliau nepasireikš jokie simptomai. Tačiau tokie viruso nešiotojai vis tiek gali užkrėsti kitus. Ikisimptomis plitimas – virusą perduoda tie žmonės, kuriems simptomai dar nepasireiškė, bet pasireikš vėliau. Kaip atskirti, ar viruso nešiotojas – besimptomis ar ikisimptomis? Niekaip. Abu viruso nešiotojų tipai jaučiasi normaliai, nors ikisimptomiams nešiotojams simptomai pasireikš vėliau. Tyrimai rodo, kad ikisimptomis plitimas yra dažnesnis už besimptomį.",
+          "Šaltinis": "manodaktaras.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "07 21.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-14)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Vyko diskusijos dėl to, ar žmonės iš tikrųjų gali nejausti simptomų – nešioti virusą, tačiau neturėti jokių ligos požymių. Nes tai nėra tas pats, kas ikisimptomiai atvejai, kai žmogus užsikrėtė virusu, tačiau simptomai dar neatsirando. Pasak M. Gandhi, nėra jokio skirtumo, ar žmogus apskritai nejaučia simptomų, ar dar nepradėjo jų jausti – žala visuomenės sveikatai vis tiek yra ta pati abiem atvejais.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "07 27.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-14)."
+        }
+      }
+    }
+  }
+}
