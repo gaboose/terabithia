@@ -1,0 +1,50 @@
+{
+  "uuid": "8eb20426-09be-43b5-8d7a-48177c1a336e",
+  "header": "kaimovaizdis",
+  "publishedDate": 1784804331254,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "kaimóvaizdis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "autovaizdis; dainovaizdis; dienvaizdis; garsovaizdis; jūrvaizdis; kaimobilis; kvapovaizdis; miestovaizdis; sielovaizdis; šlamštvaizdis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-07-23).",
+      "Pateikta": "2026-07-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kaimo aplinkos vaidas.",
+      "Vartojimo sritys": "aplinka",
+      "Sąsajos": "miestovaizdis1",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Terminas kaimovaizdis išgalvotas šiame tekste per priešpriešą su plačiai vartojamu miestovaizdžio (ne kaip miesto vaizdo, o labiau kaip miesto įvaizdžio) terminu, suteikiant ironišką, nostalgijos konstrukto prasmę.",
+          "Šaltinis": "Julija Reklaitė. Nacionalumo paradoksai. Tapatybės paieška lietuvos architektūroje. – Kūrybos erdvės.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2013",
+          "Kita metrika": "nr. 19, p. 56.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Nagrinėjant kultūrinį kraštovaizdį apibendrintai galima išskirti tris pagrindinius kraštovaizdžio tipus pagal jų antropogenizacijos laipsnį ir pobūdį: miestovaizdį (miestiškąjį kraštovaizdį), kaimovaizdį (kaimiškąjį kraštovaizdį) ir gamtovaizdį (gamtinį kraštovaizdį). Tačiau tokia tipizacija neparodo visos kraštovaizdžio tipų įvairovės, neatspindi komponentų rinkinio ypatumų (reljefo, klimato, augalijos tipo, sukultūrinimo laipsnio ir pan.).",
+          "Šaltinis": "Paulius Kavaliauskas, Margarita Jankauskaitė, Darijus Veteikis, Rasa Šimanauskienė. Lietuvos Respublikos kraštovaizdžio erdvinės struktūros įvairovės ir jos tipų identifikavimo studija. I dalis. Vilniaus universiteto Gamtos mokslų fakulteto Bendrosios geografijos katedra.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2013",
+          "Kita metrika": "p. 72.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Toliau – Skansenas, pirmasis pasaulyje liaudies buities muziejus, kurio idėjos kopiją Rumšiškėse turime ir mes. Vis dėlto palyginimas – ne Skanseno naudai. Skansenų kopijų yra visame pasaulyje, bet nežinau, ar dar yra kur nors rumšiškės su tiek sodybų, miesteliu, dviem bažnyčiomis, malūnu, apžvalgos bokštu, tautiniu restoranu, kavine ir net paplūdimiu prie Kauno marių. Tiesa, vieno dalyko Rumšiškėse pasigedau – dvaro, kuris buvo neatsiejamas nuo visų laikų lietuviško kaimovaizdžio.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "05 09.",
+          "Naujažodį pavartojo": "Tomas Kačerauskas",
+          "Pavyzdį pateikė": "Gita (2026-07-23)."
+        }
+      }
+    }
+  }
+}
