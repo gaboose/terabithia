@@ -1,0 +1,52 @@
+{
+  "uuid": "0f601986-9dad-4ea2-ba74-d71bea0dbe42",
+  "header": "kresčiai",
+  "publishedDate": 1784803036237,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "krèsčiai",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "italų, creste; Creste di Gallo „gaidžio skiauterė“.",
+      "Pateikta": "2026-07-23"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "gaidžio skiauterę primenantys ragelio formos makaronai.",
+      "Pastabos vartotojams": "skolinys įteisintas rekomendaciniame Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2019-12-19) greta lietuviško atitikmens skiauterėlės; adaptuoto rašybos varianto vartosenoje kol kas neaptikta.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "makaronai",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis (lygiavertis)",
+      "Kiti variantai": "skiauterėlės [norminis (lygiavertis)]",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Creste di Gallo su keptais baklažanais [antraštė]Reikia: creste di Gallo makaronų (g. b. kitokie) 1 vid. dydžio baklažano pomidorų skardinės 2 skiltelių česnako [...]",
+          "Šaltinis": "neringa-blogas.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2009",
+          "Kita metrika": "10 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Makaronai su Marinaros padažuSočiam amerikietišku stiliumi ruoštam patiekalui su stambiai pjaustytomis daržovėmis, pavyzdžiui, morkomis ir svogūnais, rekomenduojama rinktis trumpus, bet stambius makaronus, turinčius faktūriškumo (tiks rigatoni, kriauklės formos makaronai ar creste di gallo).",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "04 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "[...] valgytojai iš naujo atras seniai užmirštas itališkos pastos formas (gaidžio skiauteres primenančius creste di gallo, trejus pastaruosius metus tobulintus cascatelli), gardžiuosis senokai negamintais, antram gyvenimui prikeltais „anų laikų“ desertais.",
+          "Šaltinis": "nidosreceptai.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2023",
+          "Kita metrika": "gruodis.",
+          "Naujažodį pavartojo": "Nida Degutienė",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
