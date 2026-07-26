@@ -1,0 +1,75 @@
+{
+  "uuid": "c80d0888-1913-4e6f-974c-0efc2a9f5188",
+  "header": "mochas",
+  "publishedDate": 1785094797531,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "mòchas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "mojo.",
+      "Kilmė": "ispanų, mojo.",
+      "Pateikta": "2026-07-26"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "iš Kanarų salų kilęs aštrus padažas, daromas iš česnakų, paprikų, alyvuogių aliejaus ir įvairių prieskonių.",
+      "Pastabos vartotojams": "skolinys įteisintas rekomendaciniame Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2019-12-19).",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "padažai",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Mojo - tai tradicinis aštrus kubietiškas padažas, naudojamas kaip marinatas, šiltas ar šaltas padažas ar tiesiog tepamas ant sumuštinių... Vietoje sulčių galima naudoti tiesiog balto vyno actą... Šis padažas puikiai tinka su įvairia mėsa, o dažnai patiekiamas ir su bulvėmis... Beje, prieskonius šiam padažui pagardinti galima naudoti pačius įvairiausius - raudonėlį, trintą svogūną, petražoles, salierus, vyną, čiobrelius, cinamoną ir t. t...",
+          "Šaltinis": "sonatinos-receptai.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2007",
+          "Kita metrika": "10 27.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Papas arrugadas, nedidukės bulvės, pasidengusios druskos plutele, yra vienas iš pagrindinių tradicinių kanarų salų virtuvės patiekalų. Vietiniai netgi mėgsta pajuokauti, kad tai tikrų tikriausia “žvaigždė”, kurią galima atrasti, turbūt, kiekviename Tenerifės restoranėlyje. Dažniausiai bulvės yra verdamos jūros vandenyje arba labai labai sūriame vandenyje, vėliau yra nugarinamas visas vanduo ir lupenos dailiai apsidengia druska. Šis kanarų salų patiekalas patiekamas su aštriu žaliuoju arba raudonuoju “mojo” padažu.",
+          "Šaltinis": "cukrinisavinelis.lt",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2014",
+          "Kita metrika": "05 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Bulvės patiekiamos su dviem padažais: raudonuoju „mojo“ su pipirais ir čili pipirais, o taip pat ir žaliuoju „mojo“, paskanintu petražolėmis ar kalendra. Žaliasis padažas tinka prie žuvies patiekalų.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "08 02.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Kanarų tradiciniams patiekalams įtakos turėjo Ispanijos, Afrikos bei Portugalijos virtuvės. Tipiniai patiekalai – iš žuvies ir jūros gėrybių, taip pat labai populiarios virtos bulvės su lupenomis, o užsisakant bet kokį patiekalą, jums bus pasiūlytas Kanarų tradicinis padažas – mojo (skaitoma mocho). Mojo padažai yra kelių rūšių: raudonas tinka bulvytėms ir mėsai, o žalias – žuviai. Mojo padažas susideda iš alyvuogių aliejaus, acto, česnako, o jo spalva priklauso nuo paprikos (raudonas mojo) ir kalendros (žaliasis mojo).",
+          "Šaltinis": "baltictours.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2018",
+          "Kita metrika": "02 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Dar vienas Kubos virtuvės štrichas – vištiena „Mojo“ padaže. Šis padažas Kubos virtuvėje, kiek supratau, naudojamas prie daugelio patiekalų. Jis tinka ir kaip salotų pagardas, ir kaip marinatas, ir kaip priedas prie įvairių patiekalų. [...][...] bent jau padažo pavadinimas tariamas ispaniškai – „Mocho“ [...].",
+          "Šaltinis": "facebook.com (paskyra „Samtis ir Virbalai“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2020",
+          "Kita metrika": "11 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "O pats skaniausias autentiškas dalykas, kurį kol kas čia ragavau ir tikrai gaminsiu Lietuvoje, yra šie padažai – raudonasis mojo rojo iš paprikų ir žaliasis mojo verde iš žolelių. Kanarų salose jie ypatingai populiarūs ir patiekiami su duona ar tradicinėmis su lupena virtomis bulvytėmis. Šie padažai – ypatingai ryškaus skonio ir puikiai dera prie mėsos ar žuvies patiekalų.",
+          "Šaltinis": "antmedineslenteles.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2025",
+          "Kita metrika": "01 30.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
