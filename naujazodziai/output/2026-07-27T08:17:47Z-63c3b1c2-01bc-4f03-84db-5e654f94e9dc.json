@@ -1,0 +1,66 @@
+{
+  "uuid": "63c3b1c2-01bc-4f03-84db-5e654f94e9dc",
+  "header": "išpirktuvė",
+  "publishedDate": 1785140267078,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "išpirktùvė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "išpirktuvės; pirkdienė; pirkligė; viešpirkis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2021-02-12).",
+      "Pateikta": "2026-07-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "parduotuvė, kurioje pigiau išparduodamos užsilikusios (pavyzdžiui, nuo praeito sezono) dažniausiai garsių gamintojų prekės arba prekės gamintojų kainomis.",
+      "Vartojimo sritys": "verslas",
+      "Kiti variantai": "autletas [nenorminis]; išparduotuvė [norminis (pagrindinis)]",
+      "Sąsajos": "išpirktuvės",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "„Perkuknyga.lt“ jungiasi su interneto knygynu „Žmonės Knygos“ ir atnaujinusi išvaizdą nuo šiol veiks kaip knygų išpirktuvė.",
+          "Šaltinis": "vz.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "02 12.",
+          "Pavyzdį pateikė": "Gita (2021-02-12)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Media bitės“ į „15min group“ įlieja žiniasklaidos, fotografijos ir spaudos bei knygų platinimo verslus, valdančius žurnalus „Žmonės“, „Laimė“, „Legendos“, „Ji“, naujienų portalą „zmones.lt“ ir mobiliąją programėlę „Žmonės“, fotoagentūrą „ŽMONĖS Foto“ ir fotoarchyvą „Fotobankas“, taip pat platinimo įmonę „Medipresa“ bei internetinę knygų išpirktuvę „Perkuknyga.lt“.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "04 08.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-18)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Avalynės išpirktuvė",
+          "Šaltinis": "pirk.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-18)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Puikios žinios visiems bičiuliams – Zapyškyje (Kauno r.) duris atvėrė KIKA išpirktuvė. Čia savo augintiniams galite įsigyti pašarų ir kitų prekių gamintojo kainomis. KIKA išpirktuvės asortimentą sudaro žinomų prekės ženklų maistas šunims, katėms, paukščiams, graužikams, taip pat – narvai, žaislai, guoliai ir įvairios kitos augintiniams būtinos priemonės. Puiki kokybė už prieinamą kainą! KIKA išpirktuvės lankytojus kiekvieną dieną džiuginsime ypač didelėmis nuolaidomis ir vertingais pasiūlymais, o pašarų galite įsigyti vos nuo 0,60 Eur už kilogramą!",
+          "Šaltinis": "kika.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-18)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Atsiprašome, kol kas knygų išpirktuvėje „Perkuknyga.lt“ nėra galimybės savarankiškai užsisakyti knygų su pristatymu į užsienį.",
+          "Šaltinis": "perkuknyga.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "balandis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2023-04-18)."
+        }
+      }
+    }
+  }
+}

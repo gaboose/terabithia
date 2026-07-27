@@ -1,0 +1,51 @@
+{
+  "uuid": "2b30a95d-41c9-4b0b-b00e-dc8354907d31",
+  "header": "oruchas",
+  "publishedDate": 1785141148499,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "orùchas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "orujo.",
+      "Kilmė": "ispanų, orujo „vynuogių išspaudas“.",
+      "Pateikta": "2026-07-27"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "išspaudų brendžio rūšis – Ispanijoje iš vynui naudojamų vynuogių likučių gaminamas alkoholinis gėrimas.",
+      "Pastabos vartotojams": "skolinys įteisintas rekomendaciniame Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2019-12-19).",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "gėrimai",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Jų aprašymas atskleidžia apie Madridą daugiau nei atrodytų iš pirmo žvilgsnio, be to, leidžia labiau įsijausti skaitant: „Nuo viso to, nuo žmonių ir pastatų, sklido aštrus kvapas: žolės, vyno, orucho* ir konjako grafinuose, pridegintų riebalų, kuriuose kepė figonai, benzino iš lempų bei vyrų ir moterų prakaito garų mišinys“ [...].*Alkoholinis gėrimas, populiarus šiaurinėje Ispanijos dalyje.",
+          "Šaltinis": "vdu.lt, Gerda Pilipaitytė. Miestas stimpanko romanuose: Madridas Eduardo Vaquerizo „Tamsos šokyje“ ir Vilnius Andriaus Tapino „Vilko valandoje“. Magistro baigiamasis darbas. Kaunas: Vytauto Didžiojo universitetas.",
+          "Šaltinio rūšis": "verstinis meninis tekstas",
+          "Metai": "2019",
+          "Kita metrika": "p. 28.",
+          "Pavyzdį pateikė": "Irutė Raišutienė (2020-11-10)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kad būtų galima gerti, spiritas įvairiais būdais taurinamas. Jo gėrimų įvairovė nuostabi. Iš vynuogių spirito daroma: konjakas, armanjakas, markas, grappa, orucho, metaxa, rakija. Iš vaisių spirito: eaux de vie, kalvadosas, arakas, cherry brandy, kiršas, palinka, slivovica. Iš grūdų ar bulvių spirito: vodka, degtinė, šnapsas, akvavitas, viskis. Iš kitos žaliavos spirito: džinas, romas, tekila, meskalis ir kt.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "lapkritis (ne vėliau).",
+          "Pavyzdį pateikė": "Irutė Raišutienė (2020-11-10)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Žinomi išspaudų brendžiai – kroatų, juodkalniečių ir serbų lozovača (loza), kipriečių zivania, pranc. marc, gruzinų čača, vok. Tresterbrand, gr. tsipouro, italų grappa, portugalų aguardente, isp. orujo.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
