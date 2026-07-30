@@ -1,0 +1,51 @@
+{
+  "uuid": "b2d20145-6505-49e4-81ea-81b34353b1cc",
+  "header": "samsė",
+  "publishedDate": 1785399942806,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sámsė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "samsoe; samso.",
+      "Kilmė": "danų, samsø.",
+      "Papildoma informacija": "yra J. Girčienės, D. Liutkevičienės knygoje „Sūrių pavadinimai. Vartosena. Norma. Žodynėlis“ (2010, p. 153).",
+      "Pateikta": "2026-07-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "puskietis daniškas karvių pieno sūris su akutėmis.",
+      "Pastabos vartotojams": "adaptuotos formos vartosenoje kol kas neaptikta.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "sūriai",
+      "Kodifikacija": "vartotina",
+      "Varianto statusas": "norminis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Sūriai [...]Kurių riebumas ne didesnis kaip 40% masės, o neriebalinės medžiagos vandens masė: [...]Didesnė kaip 47%, bet ne didesnė kaip 72% masės:ProvoloneAsiago, Caciocavallo, Montasio, RagusanoDanbo, Fontal, Fontina, Fynbo, Havarti, Maribo, SamsoGouda [...].",
+          "Šaltinis": "e-seimasx.lrs.lt.Tarpžinybinės kombinuotosios muitų tarifų ir užsienio prekybos statistikos nomenklatūros naudojimo komisijos aktas dėl Lietuvos Respublikos Kombinuotosios muitų tarifų ir užsienio prekybos statistikos nomenklatūros tvirtinimo. Nr. 8/1999.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "1999",
+          "Kita metrika": "12 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Garsiausi daniški sūriai gaminami iš karvių pieno. Tai puskietis „Danbo“ (45 proc. arba perpus mažesnio riebumo), brandintas „Fynbo“, Tilsit tipo brandintas „Havarti“, edamo tipo puskietis „Molbo“ (gaminamas iš nepasterizuoto pieno, 1,5–3 kg blokų, brandinamas nuo 1 iki 5 mėn.), riešutų kvapo „Samsoe“.​",
+          "Šaltinis": "manoukis.lt, aut. Viktoras Trofimišinas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "sausis.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Olandiškų sūrių segmentas yra trečias didžiausias sūrių segmentas po Čedaro ir Pasta Filata sūrių segmentų. Šio segmento tipiniai atstovai yra Gauda ir Edamas, tradiciškai gaminami Olandijoje, bet šiuo metu paplitę visame pasaulyje. Šiam segmentui priskiriami sūriai: Gouda (Olandija), Edam (Olandija), Maasdammer/Leerdammer (Olandija), Samsoe (Danija), Havarti (Danija), Tilsiter (Vokietija), Butterkäse (Vokietija), Wilstermarch (Vokietija), [...].",
+          "Šaltinis": "baltvita.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
