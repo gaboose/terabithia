@@ -1,0 +1,74 @@
+{
+  "uuid": "eca6fc37-6dc3-4a76-833c-742c7655f106",
+  "header": "ajajus",
+  "publishedDate": 1786799143087,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "ajãjus",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. AI [skaitoma: ei ai], lietuvių k. DI „dirbtinis intelektas“.",
+      "Duomenų pateikėjai": "pirmasis apie naujažodį pranešė Orestas Kazlauskas (2026-08-15).",
+      "Pateikta": "2026-08-15"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "dirbtinis intelektas.",
+      "Vartojimo sritys": "technologijos",
+      "Funkciniai atspalviai": "žargonybė",
+      "Kiti variantai": "DI; dirbtelektas; dirbtinprotis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Ajajaus amžiuje įėjimo slenkstis į verslą krenta iki minimumo. Ir čia yra bloga žinia didelėms, lėtoms organizacijoms. Mes vis dar turime išpampusias korporacijas, kurios pardavinėja \"didelius sprendimus už didelius pinigus\". HR, CRM, ERP - dešimtys tūkstančių už sistemas, kurių 70% funkcijų niekada nenaudojamos.",
+          "Šaltinis": "facebook.com, Eimantas Norkūnas.",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "04 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Atėjo laikai, sunkūs. Sudėliojau \"Vilniaus detektyvams\" mįslę. Galvoju - pasiūlysiu Džiapetui, susimaus. Išsprendė. Vadinasi, visa \"protmūšio ant kojų\" koncepcija pakibo ant plauko - jeigu mįslę išsprendžia ajajus, nėra jokios galimybės užtikrinti, kad komandos varžysis tik savo žiniomis. Bet mes dar pakovosim.žilins",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "06 03.",
+          "Naujažodį pavartojo": "Justinas Žilinskas",
+          "Pavyzdį pateikė": "Orestas Kazlauskas (2026-08-15)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Jums keista, kad ajajus \"raso\" visokiais kringeliais? Tai is vaiku piesiniu kitaip neismoko",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "08 10.",
+          "Pavyzdį pateikė": "Orestas Kazlauskas (2026-08-15)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Šiuo metu vyksta viena didžiausių transformacijų žmonijos istorijoje. Kai kompas kartu su elektra vienu metu atsiradęs būtų. AI jau pilnai transformavo programuotojų darbą - nebėra skirtumo ką mokėjai, dabar programavimas vyksta tavo šnekama kalba. [...]Tereikia komandų, kurios supranta kas vyksta, kas tas Ajajus, kaip jis veikia, kaip greitai prisijungti prie duomenų, ką su jais galima padaryti.",
+          "Šaltinis": "facebook.com, Eimantas Norkūnas.",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "08 15.",
+          "Pavyzdį pateikė": "Orestas Kazlauskas (2026-08-15)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Galima prijungt ajajų prie DB taip kad ištrint viską galėtų? Taip pat pageidautina kad hakeriams būtų surinkta ir susisteminta informacija perduodama to pačio LLM pagalba.",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "gegužė.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Ajajus tavo darbo neatims [temos pavadinimas]Nvidia ceo, ponas ajajus himself, interviu leptelėjo ateities tikslus, jie neįtikėtinai godūs - pusė atlyginimo, tai taip pat jaučiasi ai produktuose - prasidėjo ekstremalus enshitificationas - agentic mode’ai tokenus mėnesiui susiurbia per minutes, gpt pradėjo sponsorintus rezultatus kišti ir t.t.diskutavau su draugu kuris per mėnesį sunaudoja 500€ tokenams, aš pats sunaudoju apie 20€ ir tai ne visada, man tai atrodo neadekvačiai daug [...]. 2026 kovas",
+          "Šaltinis": "reddit.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "kovas.",
+          "Pavyzdį pateikė": "Orestas Kazlauskas (2026-08-15)."
+        }
+      }
+    }
+  }
+}
