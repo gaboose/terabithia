@@ -1,0 +1,40 @@
+{
+  "uuid": "4cb889ea-0f11-4325-a8af-64cd2d2770ea",
+  "header": "įleistukas",
+  "publishedDate": 1787039174022,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "įleistùkas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2026-05-20).",
+      "Pateikta": "2026-08-18",
+      "Atnaujinta": "2026-08-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "įtaisas (kortelių, mikroschemų skaitytuvas), kurį aktyvavus atidaromos durys ar užtvara; kortelė tokiam įtaisui atrakinti.",
+      "Vartojimo sritys": "buitis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Petro Vileišio progimnazijoje Užupyje prieš kelias savaites pradėjo veikti elektroninių kortelių, įleidžiančių į mokyklą ir išleidžiančių iš jos, sistema. [...]Sistema skirta vaiko lankomumui kontroliuoti ir tam, kad į mokyklos teritoriją nepatektų kiti asmenys. Tačiau didesnis saugumas drauge atnešė ir tam tikrų nepatogumų. Į dienraštį kreipėsi vieno pradinuko tėvas – skundėsi, kad jo vaikas pametė įleistuką ir dabar negali normaliai įeiti į mokyklą. \"Petro Vileišio progimnazijoje Užupyje įvesta vat tokia tvarka: vaikams reikia turėti, tai yra pirkti, specialias korteles – įleistukus.[...] Tai dabar visiškai neaišku, ką reiks daryti, kai vaikas tą kortelę pametė. Ar naują pirkti, bet jei taip, tai kur?\" – svarstė pradinuko tėvas.",
+          "Šaltinis": "diena.lt, aut. Andrejus Žukovskis.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2012",
+          "Kita metrika": "12 15.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Tačiau atėjus iki nurodytos priedangos vietos – laukė nemalonumas. Durys buvo užrakintos. Daugiabutis turėjo ir antras duris, ant kurių užrašyta „Priedanga“, tačiau šios irgi užrakintos. Nepavyko net patekti ir su specialiu durų įleistuku.",
+          "Šaltinis": "delfi.lt, aut. Jogintė Užusienytė-Četkauskienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "05 20.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2026-05-20)."
+        }
+      }
+    }
+  }
+}
