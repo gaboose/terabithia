@@ -1,0 +1,39 @@
+{
+  "uuid": "1c4b26ee-0b90-42a5-b804-09ed0e80a1de",
+  "header": "požemizacija",
+  "publishedDate": 1787670937703,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "požemizãcija",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Pateikta": "2026-08-25"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "elektros linijų keitimas požeminiais kabeliais.",
+      "Vartojimo sritys": "aplinka, technologijos",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[...] Įtarčiau, kad elektros požemizacija vyksta/vyktų taip pat sėkmingai.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "08 23",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Nebūtų protingiau investuoti mlrd € į elektros tinklų požemizaciją [...]?",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "08 24.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
