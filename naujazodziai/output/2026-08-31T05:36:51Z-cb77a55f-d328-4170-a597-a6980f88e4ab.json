@@ -1,0 +1,40 @@
+{
+  "uuid": "cb77a55f-d328-4170-a597-a6980f88e4ab",
+  "header": "vogas",
+  "publishedDate": 1788154611106,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vògas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, vog < volcano („vulkanas, ugnikalnis“) + smog „smogas“.",
+      "Pateikta": "2026-08-31"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "smogas, susidarantis išsiveržus ugnikalniui.",
+      "Vartojimo sritys": "aplinka",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Lava aprimo, bet virš mūsų salos pakibo pilkas vogo debesis. Vogas - tai vulkaninės kilmės smogas. Vienu metu oras buvo labiau užterštas nei purviniausiuose JAV pramoniuose miestuose. Vienu metu oras mūsų Captain Cook’e buvo blogiausias iš visų JAV. Žmonės išsigando. Vieni kalbėjo, kad šitas vogas mus kankins kelerius metus, kiti - kad pusę metų. Kartais vogo lyg ir nesijautė, o kartais oras tiesiog graužė gerklę, skaudėjo galvą.",
+          "Šaltinis": "vaivarykstaite.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2020",
+          "Kita metrika": "09 22.",
+          "Naujažodį pavartojo": "Vaiva Rykštaitė",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "O tada aš apsigyvenau Havajuose, kur mums iš esmės bet kada gresia: aktyviausio pasaulyje ugnikalnio Kilauėja išsiveržimų sukeltas vogas (vulkaninės kilmės smogas), didžiausio pasaulyje ugnikalnio Mauna Loja išsiveržimai, žemės drebėjimai, cunamiai, staigūs potvyniai, gaisrai ir namus griaunantys uraganai.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "08 29.",
+          "Naujažodį pavartojo": "Vaiva Rykštaitė",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
