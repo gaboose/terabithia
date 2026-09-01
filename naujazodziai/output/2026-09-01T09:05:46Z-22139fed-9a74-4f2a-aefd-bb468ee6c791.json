@@ -1,0 +1,49 @@
+{
+  "uuid": "22139fed-9a74-4f2a-aefd-bb468ee6c791",
+  "header": "užduotynas",
+  "publishedDate": 1788253546044,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "užduotýnas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Ypatingieji požymiai": "nenaujas (nefiksuotas)",
+      "Papildoma informacija": "J. Gailučio (Jono Spudulio su Povilu Matulioniu) parašytas pirmasis lietuviškas aritmetikos uždavinynas vadinosi „Užduotynas“ (paskelbtas 1885 m.).",
+      "Duomenų pateikėjai": "pirmasis (-oji) apie naujažodį pranešė duomenyno lankytojas (-a) (2026-09- 01).",
+      "Pateikta": "2026-09-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "užduočių rinkinys",
+      "Vartojimo sritys": "knygotyra, švietimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Vos atvykęs į šį prie dvaro išaugusį bažnytkaimį, klebonas sukvietė jaunimą ir paprašė padainuoti liaudies dainų. Uždainavo ir pats… Netrukus, pakalbinęs kelis vietinius raštingus žmones, J. Katelė atokiausiuose parapijos kaimuose ėmė steigti slaptąsias mokyklas. Aprūpindavo jas sąsiuviniais, rašymo priemonėmis, pirkdavo vadovėlius iš knygnešių, talkininkams pavesdavo juos perrašinėti, pats gamindavo rašalą. Savo lėšomis išleido užsienyje J. Gailučio parašytą aritmetikos „Užduotyną“ ir nemokamai išdalijo vaikams.",
+          "Šaltinis": "voruta.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "01 13.",
+          "Naujažodį pavartojo": "Libertas Klimka",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Knygų komplektą sudaro trys užduotynai (ikimokyklinio amžiaus vaikui, pradinės mokyklos bei pagrindinės mokyklos mokiniui) ir mokytojo knyga, skirta mokiniams, esamiems ir būsimiems matematikos mokytojams.",
+          "Šaltinis": "knygynas.vu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Pavyzdį pateikė": "duomenyno lankytojas (-a) (2026-09-01)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Prof. dr. Aušra Kazlauskienė, pristatydama „Tvariosios matematikos“ Vaiko užduotyną, pasakojo, kaip knygos turinys apima išdėstymo, išskaidymo, bendrybių, sąryšių, pokyčių ir vaizdavimo fundamentalias idėjas, o pateikti pavyzdžiai leidžia pajausti, kad matematika yra visur.",
+          "Šaltinis": "siauliuraj.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "02 11.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
