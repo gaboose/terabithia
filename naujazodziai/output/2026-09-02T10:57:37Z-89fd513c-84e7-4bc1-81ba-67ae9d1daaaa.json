@@ -1,0 +1,62 @@
+{
+  "uuid": "89fd513c-84e7-4bc1-81ba-67ae9d1daaaa",
+  "header": "joduoti",
+  "publishedDate": 1788346657867,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "jodúoti, jodúoja, jodãvo",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių, < jodas „pilkai juodas kristalinis cheminis elementas (nemetalas)“.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-08-31).",
+      "Pateikta": "2026-09-02"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pridėti, įmaišyti į kokią nors medžiagą ar produktą jodo arba jodo tirpalu apdoroti.",
+      "Vartojimo sritys": "chemija, maistas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Padidėjus jodo suvartojimui padidėja spontaninių skydliaukės autoimuninių pakitimų (tiek antikūnų prie tiroglobuliną, tiek ir antikūnų prieš skydliaukės peroksidazę) ir hipotireozės dažnis jauniems ir vidutinio amžiaus žmonėms. Autoimuninių susirgimų dažnis populiacijoje ilgainiui sumažėja, kai jodo trūkumas pereina prie optimalaus jodo suvartojimo. Viena iš geriausių tokių pokyčių visuomenėje pavyzdžių yra Danija, kurioje privaloma joduoti druską ir duoną.",
+          "Šaltinis": "delfi.lt (iš savaitraščio „Lietuvos sveikata“), aut. Sima Kazarian.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "07 23.",
+          "Pavyzdį pateikė": "Gita (2026-08-31)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tyrimais įrodžius, jog jodo trūkumas yra daugelio ligų priežastis, pasaulyje jau nuo 1920 m. buvo bandoma joduoti vandenį, pieno produktus, duoną, aliejų bei druską. Šalys, pradėjusios kovą su jodo trūkumo sukeltomis ligomis, visuotinai maisto ruošimui naudoja joduotą druską – tai JAV, Šveicarija, Austrija, Italija, Australija ir Naujoji Zelandija.",
+          "Šaltinis": "vaistines.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "02 14.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Joduotoje druskoje – papildomas jodo kiekis. „Natūraliai druską sudaro natrio chloridas. Papildomai druska joduojama“, – paaiškina gydytoja. [...]„Lietuva yra endeminėje zonoje, kurioje trūksta jodo tiek dirvožemyje, tiek vandenyje. Maisto produktuose, kur galėtume tikėtis esant jodo, mes iš tiesų jodo negauname“, – sako L. Paulauskienė.Dėl to priimta strategija druską joduoti. „Tokiu būdu gyventojai gali patenkinti savo mitybos poreikius ir užtikrinti jodo gavimą su maistu“, – nurodo ji.",
+          "Šaltinis": "lrt.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "03 16.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Taip pat verta atsižvelgti į tai, kad daugelyje dirvožemių trūksta jodo, o jodas yra labai svarbus žmonėms [...], nes jodo trūkumas vaikystėje lemia vaiko intelektualinių gebėjimų išsivystymą. Suaugusiems taip pat reikia jodo. Taigi, norėdami nenuryti maisto papildų su jodu, galite tiesiog joduoti savo sklype užaugintus produktus. Mėlynajame tirpale jodo koncentracija minimali, tačiau vis tiek jis palaipsniui kaupiasi gaminyje ir tampa labai naudingas įvairaus amžiaus žmonėms.",
+          "Šaltinis": "info.puiki.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "08 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Joduota druska – tai paprasčiausias ir pigiausias būdas užtikrinti pakankamą jodo kiekį mityboje. Lietuva, kaip ir daugelis šalių, joduoja druską jau dešimtmečius, ir tai labai sumažino jodo trūkumo paplitimą. Pusė arbatinio šaukštelio joduotos druskos suteikia apie 150 mikrogramų jodo.",
+          "Šaltinis": "psvcentras.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "08 27.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
