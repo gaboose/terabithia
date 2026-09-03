@@ -1,0 +1,73 @@
+{
+  "uuid": "f4600ac2-cb45-454e-a603-6d32ae155ad5",
+  "header": "jodavimas",
+  "publishedDate": 1788416425158,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "jodãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < joduoti < jodas.",
+      "Giminiški naujažodžiai": "joduoti",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-09-01).",
+      "Pateikta": "2026-09-03"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pridėjimas, įmaišymas į kokią nors medžiagą ar produktą jodo arba apdorojimas jodo tirpalu.",
+      "Vartojimo sritys": "chemija, maistas, medicina (sveikata)",
+      "Sąsajos": "joduoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Anksčiau atlikti tyrimai parodė, kad tik pajūryje ir keliuose kituose šalies rajonuose jodo yra pakankamai. Todėl Lietuvoje, kaip ir daug kur pasaulyje, aktyviai vykdoma maisto jodavimo programa.",
+          "Šaltinis": "lsveikata.lt, aut. Aigustė Tavoraitė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2015",
+          "Kita metrika": "10 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Nors jodo trūkumo sutrikimų atvejų skaičius pasaulyje sparčiai mažėja dėl valgomosios druskos jodavimo ir kitų prevencijos programų, tačiau viena šeštoji pasaulio populiacijos vis dar priklauso šio sutrikimo rizikos grupei.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "06 23.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Nuo 1993 m. PSO ir UNICEF rekomenduoja universalų druskos jodavimą kaip pagrindinę, saugią, paprastą, pigią ir veiksmingą priemonę, siekiant išvengti jodo trūkumo sukeltų būklių ir jas reguliuoti.",
+          "Šaltinis": "delfi.lt, aut. Gabrielė Grinkaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "07 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Pasaulyje jodo trūkumą ir jo sukeltus negalavimus padeda mažinti valgomosios druskos jodavimas. Tačiau joduotą druską vertėtų naudoti baigiant ruošti patiekalą, nes termiškai apdorojant šis mikroelementas greitai skyla. Bene daugiausia natūralaus jodo turi jūros gėrybės – jūros dumbliai, krevetės, moliuskai, tunas, menkė, lašiša, taip pat kiaušiniai, pieno produktai. Kiek mažiau – džiovintos slyvos, lazdynų riešutai, brokoliai, pupelės, špinatai.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "11 26.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Pasaulyje jodo trūkumą ir jo sukeltus negalavimus padeda mažinti valgomosios druskos jodavimas. Tačiau joduotą druską vertėtų naudoti baigiant ruošti patiekalą, nes termiškai apdorojant šis mikroelementas greitai skyla.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "12 14.",
+          "Pavyzdį pateikė": "Gita (2026-09-01)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Jodo trūkumo profilaktikos priemonės: Dažniau valgyti natūralaus jodo turinčių produktų – jūros žuvų ir jūros gėrybių, jūros kopūstų ir dumblių. Vartoti kokybišką juduotą valgomąją druską vietoje įprastos valgomosios druskos (optimalus jodo kiekis – 20–40 mg jodo 1 kilograme druskos). Atkreipti dėmesį į tai, kuo druska buvo juduota – kalio jodatas (KIO3) yra stabilesnis ir mažiau tirpus, nei kiti jodavimui naudojami komponentai; [...].",
+          "Šaltinis": "kedainiuvsb.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "02 02.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
