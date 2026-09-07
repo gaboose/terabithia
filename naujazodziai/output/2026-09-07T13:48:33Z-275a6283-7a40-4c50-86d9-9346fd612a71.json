@@ -1,0 +1,72 @@
+{
+  "uuid": "275a6283-7a40-4c50-86d9-9346fd612a71",
+  "header": "pakmetis",
+  "publishedDate": 1788788913411,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "pãkmetis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, pack-year.",
+      "Giminiški naujažodžiai": "bomžpakis",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2018-11-27).",
+      "Pateikta": "2026-09-07"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "rūkymo stažo matas – vieni metai, per kuriuos surūkoma po pakelį cigarečių kasdien.",
+      "Vartojimo sritys": "laisvalaikis, medicina (sveikata)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pakmečiai (surūkytų cigarečių pakelių skaičius per dieną, padaugintas iš rūkymo metų).",
+          "Šaltinis": "kauno.diena.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2005",
+          "Kita metrika": "11 16.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2021-04-27)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "„Rūkymo intensyvumas ir su tuo susijusi rizika skaičiuojama vadinamaisiais pakmečiais. Jei žmogus surūko po pakelį cigarečių per dieną ir rūko metus, tai jo rūkymo intensyvumas yra vienas pakmetis, jei dvidešimt metų – dvidešimt pakmečių. Kritinė riba, kai žinkliai padidėja rizika susirgti plaučių liga, kaip tik ir yra dvidešimt pakmečių. Šiais laikais jauni žmonės gan anksti pradeda rūkyti, todėl ta kritinė riba pasiekiama labai anksti – sulaukus vos keturiasdešimties. [...]“, – sako prof. K.Malakauskas.",
+          "Šaltinis": "veidas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "05 27; p. 43–44.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2021-04-27)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Didelės rizikos grupei priskiriami: • 55 metų amžiaus ir vyresni asmenys, kurių rūkymo stažas yra ≥ 30 pakmečių (1 pakmetis – kai surūkoma po 20 cigarečių per dieną kiekvieną dieną per vienerius metus); [...].",
+          "Šaltinis": "chest.lt; Plaučių vėžio diagnostikos ir gydymo gairės (metodinės rekomendacijos).",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2013",
+          "Kita metrika": "p. 52.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2021-04-27)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "– Kokios lėtinės obstrukcinės plaučių ligos priežastys? – Dauguma atvejų tai – ilgalaikio rūkymo sukeliama liga. Netgi yra toks epidemiologinis kriterijus, kuris naudojamas gydytojų ne kaip diagnostinis, bet kaip orientacinis terminas: „pakmečiai“. Laikoma, kad jeigu žmogus rūkė dešimt metų po pakelį cigarečių per dieną arba dvidešimt metų po pusę pakelio – tai bus dešimt pakmečių. Bet klinikinėje praktikoje mes sakome, kad žmogui, kuris yra nuolatinis rūkantysis, rizika susirgti šia liga išauga.",
+          "Šaltinis": "lsveikata.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2015",
+          "Kita metrika": "11 19.",
+          "Pavyzdį pateikė": "Gita (2018-11-27)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Tyrimais JAV nustatyta, kad patikra taikant mažų dozių kompiuterinę tomograﬁją 55–74 m. amžiaus asmenims, rūkantiems pastaruosius 15 metų (≥ 30 pakmečių), sumažino mirtingumą nuo plaučių vėžio dvidešimt procentų. Tačiau Europos Sąjungoje vykdomi klinikiniai tyrimai nėra dar apibendrinti ir šis tyrimas dar nėra taikomas. Deja, dažniausiai onkologinės plaučių ligos aptinkamos jau pažengusios stadijos. Tuomet perspektyvos padėti yra ženkliai prastesnės.",
+          "Šaltinis": "delfi.lt; aut. Aigustė Tavoraitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "11 23.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2021-04-27)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Rūkymas sukelia pasikartojančius bronchų uždegimus, nuolat kartojasi infekcijos, nes sumažėja plaučių apsauga. Beje, kai sakau „aktyviai rūkyti“, tai įprastai skaičiuojama, jog surūkomas 1 cigarečių pakelis per dieną. Netgi yra skaičiuojama tokiais vienetais, kaip „pakmetis“: tai yra vieneri metai, kai kasdien buvo surūkoma po pakelį per dieną. Po 10–20 tokių „pakmečių“, jau yra didelė tikimybė sirgti LOPL.",
+          "Šaltinis": "15min.lt; aut. Jurga Vaičiūtė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "11 24.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė (2021-04-27)."
+        }
+      }
+    }
+  }
+}
