@@ -1,0 +1,72 @@
+{
+  "uuid": "f7a32d03-8a08-42e5-9755-7f7a880095b1",
+  "header": "rašyklė",
+  "publishedDate": 1789463303974,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "rašỹklė",
+      "Kirčiuotė": "2",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Papildoma informacija": "DLKŽ6e yra tik reikšmė „rašiklis“.",
+      "Pateikta": "2026-09-15"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kompiuterinių rengyklių rūšis – programa tekstams rengti (rašyti, redaguoti).",
+      "Vartojimo sritys": "kompiuterija",
+      "Varianto statusas": "norminis",
+      "Sąsajos": "rengyklė; skaičiuoklė3",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Pakete esanti hipertekstų rašyklė gali būti panaudota kaip tiltas tarp teorijos, įgytos mokant informatikos pagrindų ir praktikos, įgyjamos mokant informacijos technologijų.",
+          "Šaltinis": "Lietuvos matematikos rinkinys; aut. Gintautas Grigas, Tatjana Jevsikova.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2002",
+          "Kita metrika": "t. 42; p. 248.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Konkurso tikslas – paskatinti mokinius kūrybiškai pažvelgti į matematiką, rasti ir su tekstų rašykle išreikšti savitas, drąsias, patrauklias matematikos interpretacijas. Konkursas yra skirtas 5–12 klasių mokiniams. Konkurso dalyvių užduotis – sukurti matematinių uždavinių iliustracijas, naudojantis tekstų rašyklėmis („MS Word“, „Open Office Writer“ ir kt.), vien tik iš įvairiausių figūrų.",
+          "Šaltinis": "konarskio.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2017",
+          "Kita metrika": "11 27.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-07-15)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Dažniau naudojamos rengyklės turi atskirus pavadinimus, atspindinčius duomenų apdorojimo būdą: • tekstų rengyklė – rašyklė (nes tekstai rašomi), • lentelių rengyklė – skaičiuoklė (nes nuolat perskaičiuoja lentelių langelių reikšmes), • brėžinių rengyklė – braižyklė ir t. t.",
+          "Šaltinis": "ims.mii.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-07-15)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Rašyklėje randama viskas, ko galima tikėtis iš šiuolaikiškos, visomis priemonėmis aprūpintos tekstų rengyklės arba rašomajam stalui skirto leidybos centro. Programą lengva naudoti ne tik paprastoms užduotims, pavyzdžiui, glaustiems priminimams užsirašyti, bet ir sudėtingoms, pavyzdžiui, rengiant knygas su turiniais, diagramomis ir rodyklėmis. Rašykle sukurtiems tekstams suteikiama puiki išvaizda. [...] Žinoma, rašykle galima skaityti ir senuosius „Microsoft Word“ rašinius, arba saugoti darbus „Word“ forma, pavyzdžiui, siunčiant žmonėms, kuriuos saisto „Microsoft“ programinė įranga. Pradedant laida nr. 3.0, rašykle atverčiamos operacinei sistemai „Mac OS X“ skirtos „Microsoft Office 2007“ arba „Microsoft Office 2008“ bylos (.docx).",
+          "Šaltinis": "openoffice.org",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-07-31)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Nusprendžiu, kad žūtbūt turiu ką nors parašyti. Rašyklėje išjungiu rašybos tikrinimą, kurį laiką žiūriu į tuščiame lape mirksintį kursorių ir pagaliau imuosi rašymo.",
+          "Šaltinis": "lndm.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-07-31)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Visas dieginys „Apache OpenOffice“ leidžia naudoti viena kalba. Dieginys yra visas, nes apima visus programinius modulius (rašyklę, skaičiuoklę, pranešimų rengyklę ir kt.).",
+          "Šaltinis": "openoffice.org",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-07-31)."
+        }
+      }
+    }
+  }
+}
