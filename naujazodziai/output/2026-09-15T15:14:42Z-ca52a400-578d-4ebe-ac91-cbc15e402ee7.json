@@ -1,0 +1,33 @@
+{
+  "uuid": "ca52a400-578d-4ebe-ac91-cbc15e402ee7",
+  "header": "sekretutė",
+  "publishedDate": 1789485282430,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sekretùtė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < sekretorė + prostitutė.",
+      "Ypatingieji požymiai": "pavienis, autorinis, kontaminacinis darinys",
+      "Duomenų pateikėjai": "pirmasis apie naujažodį pranešė Daugirdas Jaruševičius (2026-09-12).",
+      "Pateikta": "2026-09-15"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "viršininko sekretorė, kartu besielgianti su juo kaip prostitutė.",
+      "Vartojimo sritys": "administravimas",
+      "Semantiniai požymiai": "administracinių santykių subjektai",
+      "Funkciniai atspalviai": "laisvasis stilius",
+      "Ekspresiniai atspalviai": "ironiškasis",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "Moterų vieta hierarchijoje griežtai nustatyta ir niekad nesikeičia. Visi turi etatines prostitores ir sekretutes.",
+        "Šaltinis": "Tomas Mylista. Blogos manieros. Alma littera.",
+        "Šaltinio rūšis": "originalus meninis tekstas",
+        "Metai": "2025",
+        "Kita metrika": "p. 278.",
+        "Pavyzdį pateikė": "Daugirdas Jaruševičius (2026-09-12)."
+      }
+    }
+  }
+}
