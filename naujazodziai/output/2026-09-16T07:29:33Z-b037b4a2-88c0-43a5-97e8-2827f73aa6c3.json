@@ -1,0 +1,47 @@
+{
+  "uuid": "b037b4a2-88c0-43a5-97e8-2827f73aa6c3",
+  "header": "gigagamykla",
+  "publishedDate": 1789543773767,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "gigagamyklà",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. gigafactory.",
+      "Giminiški naujažodžiai": "gamyklabutis",
+      "Pateikta": "2026-09-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "milžiniška pramoninė dirbtinio intelekto technologijomis grindžiama gamykla, gaminanti elektromobilių, ličio jonų baterijas, energijos kaupiklius ir pan.",
+      "Vartojimo sritys": "technologijos, verslas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Europos Sąjungai (ES) pristačius žaliąjį pramonės kursą, tarp prioritetinių sričių atsidūrė elektromobilių baterijų ir saulės elektrinių komponentų gamyba. Kol Lietuvoje apie gigagamyklas galima tik pasvajoti, kaimynėje Lenkijoje jau skaičiuojami pritrauktų investicijų viščiukai.",
+          "Šaltinis": "vz.lt, aut. Tautvydas Lukaševičius.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "04 18.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ministerija: Lietuva ir Lenkija kartu kurs Europos dirbtinio intelekto gigagamyklą [antraštė] Ekonomikos ir inovacijų ministerija (EIM) jungiasi prie Europos aukšto našumo kompiuterijos bendrosios įmonės dirbtinio intelekto (DI) gigagamyklų iniciatyvos bei kartu su Lenkijos skaitmeninių reikalų ministerija teikia bendrą pasiūlymą sukurti vienus pažangiausių DI skaičiavimo pajėgumų Europoje. [...] Planuojama, kad pirmosios Europos DI gigagamyklos pradės veikti 2028 m.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "07 08.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Europos Sąjunga (ES) paskelbė konkursą, kurio tikslas atrinkti, kur būtų galima pastatyti iki septynių dirbtinio intelekto (DI) gigagamyklų, siekiant padidinti skaičiavimo pajėgumus, reikalingus pažangiausių modelių kūrimui Senajame žemyne.",
+          "Šaltinis": "vz.lt, aut. Kamilė Gineikaitė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "08 02.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
