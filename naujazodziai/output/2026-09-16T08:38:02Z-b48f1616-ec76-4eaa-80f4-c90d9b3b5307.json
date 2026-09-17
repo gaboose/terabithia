@@ -1,0 +1,30 @@
+{
+  "uuid": "b48f1616-ec76-4eaa-80f4-c90d9b3b5307",
+  "header": "daugiafaktoris, -ė (būdv.)",
+  "publishedDate": 1789547882211,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotė": "nenustatyta",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių, anglų k. multifactorial.",
+      "Pateikta": "2026-09-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "daugiaveiksnis; kuris priklauso nuo daugelio veiksnių (faktorių).",
+      "Vartojimo sritys": "mokslas",
+      "Kiti variantai": "daugiaveiksnis, -ė (būdv.)",
+      "Sąsajos": "vienveiksnis, -ė (būdv.)",
+      "Vartosenos pavyzdžiai": {
+        "Pavyzdys": "M. Pareščius: [...] O dviejų veiksnių autentifikavimą įdiegė ne VRM. VRM gali tik savo darbuotojams įvesti dviejų veiksnių autentifikavimą, kad tai naudojant būtų prisijungiama prie elektroninio pašto, bet duomenys nutekėjo per Registrų centrą. [...]Reikia daugiafaktorės autentifikacijos, nes dviejų priemonių kartais neužtenka. Pamenate, kaip jungdavomės prie elektroninės bankininkystės? Buvo slaptažodžių generatoriai, vėliau atsirado „Smart-ID“, elektroninis parašas ir kitos programėlės. Galvojate, to užtenka? Pinigai ir toliau dingsta iš sąskaitų, nes atsiranda pats bjauriausias faktorius – žmogiškasis.",
+        "Šaltinis": "politika.lt",
+        "Šaltinio rūšis": "įvairi interneto informacija",
+        "Metai": "2026",
+        "Kita metrika": "06 02.",
+        "Naujažodį pavartojo": "Marius Pareščius",
+        "Pavyzdį pateikė": "Rita M."
+      }
+    }
+  }
+}
