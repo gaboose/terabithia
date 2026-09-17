@@ -1,0 +1,55 @@
+{
+  "uuid": "b8d60499-9ef9-49d0-8bac-7c1d17816536",
+  "header": "vienveiksnis, -ė (būdv.)",
+  "publishedDate": 1789549176971,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vienvei̇̃ksnis, vienvei̇̃ksnė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [vertinys]",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių, plg. anglų k. monofactorial.",
+      "Giminiški naujažodžiai": "daugiaveiksnis, -ė (būdv.)",
+      "Pateikta": "2026-09-16"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "kuris priklauso nuo vieno veiksnio ar susijęs su vienu veiksniu.",
+      "Vartojimo sritys": "mokslas",
+      "Sąsajos": "daugiaveiksnis, -ė (būdv.)",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Siekiant nustatyti veiksnius, turėjusius įtakos traumos baigtims, atlikome vienveiksnę logistinę regresinę analizę. Taikydami daugiaveiksnę logistinę regresiją, nustatėme reikšmingiausius veiksnius, prognozuojančius mirtį ir blogas sunkios galvos smegenų traumos baigtis. Į regresijos modelį buvo įtraukti veiksniai, reikšmingai prognozavę mirtį ir blogas ligos baigtis išvykstant iš gydymo įstaigos ir po šešių mėnesių nustatyti vienveiksnėje analizėje.",
+          "Šaltinis": "Dovilė Evalda Grinkevičiūtė. Vaikų sunkios galvos smegenų traumos baigčių prognoziniai veiksniai. Daktaro disertacija. Kauno medicinos universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2008",
+          "Kita metrika": "p. 33.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Požymių skirstiniai lyginti, taikant chi kvadrato kriterijų (𝜒2) ir z testą. Vertinant psichosocialinius darbo aplinkos veiksnių sąsajas su fizine bei psichikos sveikata buvo atlikta vienveiksnė (į modelį įtraukiant po vieną veiksnį) ir daugiaveiksnė (į modelį įtraukiant visus veiksnius) logistinės regresijos analizė [...].",
+          "Šaltinis": "lsmu.lt, Eva Akelytė. Skirtingo tipo mokyklų pedagogų darbo aplinkoje veikiančių psichosocialinių veiksnių, sveikatos nusiskundimų ir subjektyvios sveikatos vertinimo sąsajos. Baigiamasis darbas. Lietuvos sveikatos mokslų universiteto Medicinos akademija.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2025",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Mirtingumo ryšiui su mNUTRIC balu sąsajai įvertinti buvo atlikta vienveiksnė logistinė regresija, pateikiant šansų santykį (OR) su 95% pasikliautinu intervalu (PI). [...] Vienveiksnėje logistinėje regresijoje nustatyta, kad didesnis mNUTRIC balas buvo statistiškai reikšmingai susijęs su ITS mirtingumu.",
+          "Šaltinis": "Marija Mantautė Gudynaitė. ﻿Intensyviosios terapijos pacientų biocheminių žymenų, mitybos būklės ir išeičių ryšiai. ﻿Magistro baigiamasis darbas. Vilniaus universitetas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2026",
+          "Kita metrika": "p. 24, 31.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Osimertinib mesilatas yra trečios kartos EGFR (epidermio augimo faktoriaus receptor) tirozino kinazės inhibitorius, kuris plačiai tiriamas įvairiuose klinikiniuose tyrimuose kaip gydymo metodas nepakankamas ląstelių plaučių vėžiui. Šis vaistas ypač veiksmingas pacientams, turintiems specifines EGFR mutacijas, ir dabar tiriamas tiek kaip vienveiksnis gydymas, tiek kartu su kitais priešvėžiniais vaistais, siekiant pagerinti gydymo rezultatus.",
+          "Šaltinis": "klinikiniai-tyrimai.lt",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2026",
+          "Kita metrika": "rugsėjis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
