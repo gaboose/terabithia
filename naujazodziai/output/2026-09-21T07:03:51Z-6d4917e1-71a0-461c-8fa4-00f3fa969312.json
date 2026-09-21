@@ -1,0 +1,40 @@
+{
+  "uuid": "6d4917e1-71a0-461c-8fa4-00f3fa969312",
+  "header": "asmenybė",
+  "publishedDate": 1789974231975,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "asmenýbė",
+      "Kirčiuotė": "1",
+      "Rūšis": "nauja žodžio reikšmė",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "asmensargis; asmenugda; asmenukė; asmenutė",
+      "Papildoma informacija": "pagrindiniuose žodynuose asmenybė apibrėžiama tik kaip žmogaus įvardijimas, plg. DLKŽ6e „1. žmogus su ryškiais (ppr. teigiamais) vidiniais bruožais; 2. atskiras žmogus, individas“.",
+      "Duomenų pateikėjai": "pirmoji apie naują reikšmę pranešė Gita (2026-09-20).",
+      "Pateikta": "2026-09-21"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "individas, individualus charakteris, temperamentas (kalbant apie gyvūną).",
+      "Vartojimo sritys": "gyvūnų priežiūra",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Straipsnyje analizuojamos mokslinės gyvūnų asmenybės paieškos ir diskusijos, ar gyvūnų elgesio skirtumams aiškinti galime taikyti žmogaus asmenybei aprašyti sukurtas teorijas. Gyvūnų asmenybės tyrimuose naudojamos dvi pagrindinės technikos – grįsta elgesio kodavimu ir grįsta elgesio vertinimu. [...] Atliktų tyrimų analizė rodo, kad, aiškinant gyvūnų asmenybę, daugiausia vilčių teikia asmenybės bruožų teorija. Tolesni tyrimai turėtų padėti patikslinti asmenybės bruožus, būdingus skirtingoms rūšims, o tai padėtų geriau suprasti jų evoliuciją. [...]Pastaruoju metu gyvūnų tyrimuose vis dažniau vartojama sąvoka „gyvūnų asmenybė“. Gyvūnų asmenybė apibūdinama kaip „stabilūs elgesio skirtumai tarp individų, kurie išlieka skirtingu laiku ir skirtinguose kontekstuose“ (Dingemanse, Kazem, Reale, & Wright, 2009, p. 81). Tačiau, nors gyvūnų asmenybės sąvoka ir vartojama nemažos dalies tyrėjų, ji nėra vienintelė. Dažnai vietoj jos vartojamos sąvokos „gyvūnų temperamentas“, „elgesio tipai“ ar „sindromai“ – manoma, jos pasitelkiamos tik siekiant išvengti „asmenybės“ sąvokos.",
+          "Šaltinis": "Antanas Kairys, Audronė Liniauskaitė. Gyvūnų asmenybė ir bruožų teorija. – Psichologija 49.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2014",
+          "Kita metrika": "p. 7–8.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Kai kurių anglų kokerspanielių augintojų nuomone, auksaspalviai šunys pasižymi nervingu charakteriu, tuo tarpu mėlynai kerši, priešingai, yra žymiai geresnio būdo ir pakantesni. Daug metų dėl tokių pastabų žmonės aktyviai ginčijosi – vieni tam pritarė, kiti prieštaravo. Galų gale atliktas tyrimas ir mokslininkai pareiškė, kad spalva gali atspindėti gyvūno asmenybę – bent jau anglų kokerspanielių atveju. Naujausių tyrimų duomenimis, aukso ir rudos spalvos kokerspanieliai pasižymi agresyviausiu elgesiu.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2018",
+          "Kita metrika": "01 10.",
+          "Pavyzdį pateikė": "Gita (2026-09-20)."
+        }
+      }
+    }
+  }
+}
