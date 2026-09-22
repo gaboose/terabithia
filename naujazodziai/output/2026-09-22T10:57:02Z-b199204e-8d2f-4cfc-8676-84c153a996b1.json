@@ -1,0 +1,65 @@
+{
+  "uuid": "b199204e-8d2f-4cfc-8676-84c153a996b1",
+  "header": "kirptuvas",
+  "publishedDate": 1790074622660,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "kirptùvas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "barzdakirpė; įkirpis; kainakirpis; kirpsena; kirptukas",
+      "Pateikta": "2026-09-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "įnagis smulkiems įvairių kūno vietų plaukams apkirpti.",
+      "Vartojimo sritys": "buitis",
+      "Kiti variantai": "kirptukas1 [norminis (pagrindinis)]; kirptukas2 [norminis (pagrindinis)]",
+      "Sąsajos": "barberis; barzdakirpė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Philips barzdos kirptuvo privalumai Įkrovus patobulintą ličio jonų akumuliatorių 1 valandą, užtikrinama 80 minučių barzdos kirptuvo veikimo trukmė. Jei kerpant prireikia daugiau srovės, galite kirptuvą tiesiog prijungti prie elektros tinklo. Šį kirptuvą galima naudoti tiek be laido, tiek prijungtą prie elektros tinklo.",
+          "Šaltinis": "15min.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "04 13.",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-01)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "PHILIPS NT1000 nosies, ausų ir antakių kirptuvas PHILIPS NT1000 serijos nosies kirptuvas patogiai kerpa nosies, ausų ir antakių plaukus. Naujoji „PrecisionTrim“ technologija ir „Protective Guard“ sistema buvo sukurtos siekiant paprastai ir veiksmingai kirpti netraukiant ir netampant plaukų. Šis kirptuvas atsparus vandeniui, tad jį paprasta plauti.",
+          "Šaltinis": "eurokos.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "lapkritis (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2025-11-16)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Šis „viskas viename“ kirptuvas turi 12 įrankių visiems jūsų kirpimo poreikiams patenkinti. Patogiai kirpkite ir formuokite veido plaukus, kirpkite plaukus ir prižiūrėkite kūną. [...] Kirptuvas yra atsparus vandeniui, todėl galite jį patogiai naudoti duše ir lengvai valyti po čiaupu.",
+          "Šaltinis": "philips.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "vasaris (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-01)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Barzdakirpė, barzdaskutė ir kūno plaukų kirptuvas BRAUN XT5200.",
+          "Šaltinis": "ogmina.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "vasaris (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-01)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Elektrinis skustuvas su barzdos kirptuvu.",
+          "Šaltinis": "pigu.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "vasaris (ne vėliau).",
+          "Pavyzdį pateikė": "Agnė Aleksaitė-Davidavičienė (2026-02-01)."
+        }
+      }
+    }
+  }
+}
