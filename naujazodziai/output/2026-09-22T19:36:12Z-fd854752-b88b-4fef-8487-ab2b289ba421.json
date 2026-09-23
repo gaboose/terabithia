@@ -1,0 +1,56 @@
+{
+  "uuid": "fd854752-b88b-4fef-8487-ab2b289ba421",
+  "header": "buteliuoti",
+  "publishedDate": 1790105772414,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "buteliúoti, buteliúoja, buteliãvo",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių, < butelis.",
+      "Giminiški naujažodžiai": "butelianosis, -ė (būdv.); butelizacija",
+      "Papildoma informacija": "LKŽ Papildymų kartotekoje buteliuoti užrašytas reikšme „gerti svaigalus“ (1982).",
+      "Duomenų pateikėjai": "pirmoji apie naują reikšmę pranešė Gita (2026-09-16).",
+      "Pateikta": "2026-09-22"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pilstyti į butelius.",
+      "Vartojimo sritys": "verslas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "[...] Kita karta šaltam apyniavimui nenaudok jokių pagalbininių priemonių. Apynius tiesiai į fermenterį. Tik jei apyniai spurgais, tai daug turėsi vargo buteliuojant. Su granulėmis viskas paprasčiau, bei daugiau aromato.",
+          "Šaltinis": "aludariuforumas.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2014",
+          "Kita metrika": "01 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jis buvo vyno negosiantas - žmogus, kuris pats vynuogių neaugina, bet superka jas iš augintojų ir toliau gamina bei parduoda vyną pats. Kai kurie perka jau pradėjusį fermentuotis ar susifermentavusį vyną/ maišo skirtingų vynuogių vynus į galutinį rezultatą, buteliuoja ir parduoda.",
+          "Šaltinis": "gliugliu.substack.com",
+          "Šaltinio rūšis": "tinklaraštis",
+          "Metai": "2025",
+          "Kita metrika": "11 19.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kada alus paruoštas buteliavimuiSkubėjimas buteliuoti yra viena dažniausių klaidų. Alus turi visiškai baigti fermentaciją, kitaip buteliuose susidarys per didelis slėgis ir rizikuosite gauti „alaus granatas\".",
+          "Šaltinis": "alausdarykla.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "05 29.",
+          "Pavyzdį pateikė": "Gita (2026-09-16)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "4 asmenų šeima Lietuvoje vidutiniškai suvartoja ~244 litrus buteliuoto vandens per metus. Tai reiškia apie 163 standartinio 1.5L dydžio butelius!",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "rugsėjis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
