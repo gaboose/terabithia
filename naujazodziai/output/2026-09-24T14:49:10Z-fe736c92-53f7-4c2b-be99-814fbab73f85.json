@@ -1,0 +1,59 @@
+{
+  "uuid": "fe736c92-53f7-4c2b-be99-814fbab73f85",
+  "header": "rizoniai",
+  "publishedDate": 1790261350811,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "rizòniai",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "risoni.",
+      "Kilmė": "italų, risoni.",
+      "Papildoma informacija": "skolinys įteisintas rekomendaciniame Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2019-12-19).",
+      "Pateikta": "2026-09-24"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "smulkūs, į ryžius panašūs makaronai.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "makaronai",
+      "Kiti variantai": "orzai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Puiki alternatyva tikrajam ryžių variantui. Greitai paruošiamas, kas labai aktualu skubantiems ir užimtiems žmonėms. Šiam patiekalui idealiausiai tinka \"orzo\" arba \"risoni\" makaronai, bet jei tokių nerandate, galite naudoti kitus mažiausius makaroniukus.",
+          "Šaltinis": "lamaistas.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2020",
+          "Kita metrika": "lapkritis (ne vėliau).",
+          "Pavyzdį pateikė": "Irutė Raišutienė (2020-11-12)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jei kalboje tos realijos pavadinimo nėra, renkamasi iš trijų galimų įvardijimo būdų: adaptuojamas skolinys, ieškoma naujadaro, pasirenkamas aprašomasis būdas. Per pastaruosius dešimtmečius Lietuvoje požiūris į šias pasirinkimo galimybes kito. Ypač tai pasakytina apie maisto srities skolinius. Iš pradžių stengtasi prodùktų, patiekalų pavadinimus pateikti aprašomuoju būdu (makaronai buvo lenkti, stori, spiralės formos…), dabar dažniausiai adaptuojama (taljateliai, rizoniai ir kt.).",
+          "Šaltinis": "Gimtoji kalba",
+          "Šaltinio rūšis": "spausdintinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "nr. 5.",
+          "Naujažodį pavartojo": "Vilma Zubaitienė",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Daržovių, rizonių ir kiaušinio sriuba [antraštė] Pridėkite rizonius. Virkite dar 8 minutes.",
+          "Šaltinis": "valgom.lt, Francišekas Baranauskas.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Rizoniai su kreminiu padažu [antraštė] Nedideliame puode užvirinkite vandenį rizoniams. Virkite juos pagal nurodymus, pateiktus ant pakuotės. Per tą laiką paruoškite padažą ir papuošimus. [...] Išvirtus rizonius nusunkite ir sudėkite į keptuvę su padažu. Gerai išmaišykite.",
+          "Šaltinis": "norfareceptai.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "liepa (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
