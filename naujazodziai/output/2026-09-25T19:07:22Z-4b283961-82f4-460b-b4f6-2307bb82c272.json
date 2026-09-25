@@ -1,0 +1,57 @@
+{
+  "uuid": "4b283961-82f4-460b-b4f6-2307bb82c272",
+  "header": "buteliavimas",
+  "publishedDate": 1790363242381,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "buteliãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < buteliuoti.",
+      "Giminiški naujažodžiai": "butelianosis, -ė (būdv.); buteliuoti; butelizacija",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-09-16).",
+      "Pateikta": "2026-09-25"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "pilstymas į butelius.",
+      "Vartojimo sritys": "verslas",
+      "Sąsajos": "buteliuoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Sidro gamybos procesas: [...] Palikite fermentuotis: Uždenkite indą ir leiskite fermentuotis 7-14 dienų, priklausomai nuo norimo skonio. Buteliavimas: Po fermentacijos, perpilkite sidrą į švarius butelius.",
+          "Šaltinis": "facebook.com",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2024",
+          "Kita metrika": "04 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Sveiki, nuo buteliavimo prie kegų perėjau labai nesenai ir reikia šiek tiek patarimų. 2kg brew ferm co2 balionas, kiek maždaug 19l kegų galima atlikti force carb ir išpilstyti su tokiu balionu?",
+          "Šaltinis": "facebook.com (paskyra „Namų aludariai“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "10 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Buteliavimo įranga Pagrindiniai buteliavimo reikmenys: Buteliai. Stikliniai 0,33 l arba 0,5 l su „crown cap\" tipo kakliuku. Galima naudoti ir surenkamus butelius nuo pirkto alaus (svarbu, tik ne „twist-off\" tipo). [...].",
+          "Šaltinis": "alausdarykla.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "04 03.",
+          "Pavyzdį pateikė": "Gita (2026-09-16)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Šiame gide rasite viską, ko reikia, kad galėtumėte pasidaryti alų namuose: nuo ingredientų sąrašo iki buteliavimo.",
+          "Šaltinis": "alausdarykla.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "04 13.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
