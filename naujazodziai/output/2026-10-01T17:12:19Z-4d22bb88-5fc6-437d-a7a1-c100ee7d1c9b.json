@@ -1,0 +1,55 @@
+{
+  "uuid": "4d22bb88-5fc6-437d-a7a1-c100ee7d1c9b",
+  "header": "beraktis, -ė (būdv.)",
+  "publishedDate": 1790874739605,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "berãktis, berãktė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "būdvardis",
+      "Kilmė": "lietuvių",
+      "Giminiški naujažodžiai": "raktinė; raktinis, -ė; slaptaraktis; žvakraktis",
+      "Pateikta": "2026-10-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "būdingas techninėms sistemoms, pavyzdžiui, automobilių užraktams, kuriems valdyti nereikia mechaninio rakto.",
+      "Vartojimo sritys": "technologijos, transportas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Draudimo bendrovės „Gjensidige“ specialistai įspėja, kad vagys aktyviai darbuojasi kaimyninėse šalyse, kur šiemet, lyginant su pernai tuo pačiu laikotarpiu, pavagiamų automobilių skaičius padvigubėjo. Tačiau niekas negali garantuoti, kad pastaraisiais mėnesiais suaktyvėjusi automobilių, turinčių beraktį užvedimą, vagysčių banga nepasieks Lietuvos.",
+          "Šaltinis": "lrytas.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2017",
+          "Kita metrika": "03 10.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Apibendrinant galima teigti, kad beraktė įėjimo sistema šiuolaikinių transporto priemonių savininkams suteikia neprilygstamą patogumą ir didesnį saugumą. Tačiau jos turi ir savo pažeidžiamumą bei galimus trūkumus.",
+          "Šaltinis": "kruoja.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2023",
+          "Kita metrika": "10 08.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Vieni išmaniausių raktų, naudojančių „beraktį“ (angl. Keyless-Go) atrakinimą ir užvedimą, kuomet automobilį galima atidaryti raktui šalia jo bei užvesti mygtuku neįstačius raktą, pirma atsirado premium klasės gamintojų modeliuose.",
+          "Šaltinis": "ve.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "05 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Dar viena draudikų pastebima tendencija – vagys vis dažniau ieško automobilių su berakte atrakinimo ir užvedimo sistema. Anot jų, tokias transporto priemones, pasitelkus elektroninę įrangą, galima pavogti labai greitai. „Tokio tipo vagystės vyksta bet kuriuo paros metu, kadangi laužtis į automobilį nereikia, nesukeliamas joks aplinkinių įtarimas – jis tiesiog užvedamas ir nuvaromas. Automobilių vagystėse dažniausiai pasitelkiamos elektroninės priemonės, leidžiančios perimti beraktės atrakinimo sistemos signalą, taip pat palydovinio ryšio slopintuvai“, – nurodo I. Naraškevičiūtė-Kubilė.",
+          "Šaltinis": "tv3.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "10 01.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
