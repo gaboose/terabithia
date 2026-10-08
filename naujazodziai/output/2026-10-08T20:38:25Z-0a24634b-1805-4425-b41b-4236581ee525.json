@@ -1,0 +1,49 @@
+{
+  "uuid": "0a24634b-1805-4425-b41b-4236581ee525",
+  "header": "barfis",
+  "publishedDate": 1791491905805,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "bárfis",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Formos variantai": "barfi.",
+      "Kilmė": "persų, anglų k. perraša barffi, burfi.",
+      "Papildoma informacija": "skolinys įteisintas Valstybinės lietuvių kalbos komisijos svetimžodžių atitikmenų sąraše (2020-11-26).",
+      "Pateikta": "2026-10-08"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "indiškas pieniškas saldainis.",
+      "Vartojimo sritys": "kitų kraštų realijos, maistas",
+      "Semantiniai požymiai": "saldumynai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Gal turite daugiau tokių indiškų receptų? pvz. laddu, barfi?",
+          "Šaltinis": "lamaistas.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2019",
+          "Kita metrika": "04 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "5. Barfi - saldūs moliūgai iš pieno ir cukraus, dažnai papuošti riešutais ar vaisiais.",
+          "Šaltinis": "facebook.com (paskyra „Įvairiausi Serialai“).",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2023",
+          "Kita metrika": "08 09.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kad barfis būtų tirštesnis vietoje sviesto ir paprasto pieno pilkite riebią grietinėlę arba mišinį iš 2 dalių riebios grietinėlės ir 1 dalies pieno [...].",
+          "Šaltinis": "supermama.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "rugpjūtis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
