@@ -1,0 +1,39 @@
+{
+  "uuid": "22055dd2-6b27-44a3-99e8-6146e8a1cb66",
+  "header": "češyras",
+  "publishedDate": 1791572004520,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "češyras",
+      "Kirčiuotė": "nenustatyta",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, cheshire.",
+      "Pateikta": "2026-10-09"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "Šiaurės Vakarų Anglijos grafystėje Čèšyre gaminamas kietasis karvių pieno sūris.",
+      "Vartojimo sritys": "maistas",
+      "Semantiniai požymiai": "sūriai",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dėl specifinio aktyvaus sūrio masės rauginimo (čedarizavimo) ir specialių raugų naudojimo Čedaro tipo sūriai yra kietos konsistencijos ir be akučių. Šiam segmentui priskiriami sūriai: Čedaras, Češyras, Kolbi, Red Leicester, Double Gloucester, Monterey Jack ir kt.",
+          "Šaltinis": "baltvita.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "(ne anksčiau).",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Apie sūrių gamybą ūkininkė kalba su ypatinga aistra. Kai kuriems jų reikia labai konkrečių sąlygų, todėl skubėti čia neįmanoma. Pavyzdžiui, fetos ir češyro Monika negamina tol, kol pienas nepasiekia vadinamosios vasaros brandos.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "10 06.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
