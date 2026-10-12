@@ -1,0 +1,74 @@
+{
+  "uuid": "80f2b94a-7b16-456a-acc4-bb8b7e49cd08",
+  "header": "mikrovadyba",
+  "publishedDate": 1791787372315,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "mikrovadýba",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. micromanagement.",
+      "Giminiški naujažodžiai": "įvadybinti; mikrovadybinti; susivadybinti; suvadybinti; vadybinti",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-09-30).",
+      "Pateikta": "2026-10-12"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "vadovavimo stilius, kuriam būdinga smulkmeniška pavaldinių kontrolė.",
+      "Vartojimo sritys": "administravimas, psichologija",
+      "Sąsajos": "mikromenedžeris, -ė; mikrovadybinti; mikrovadovas, -ė; mikrovaldymas",
+      "Kiti variantai": "mikrovaldymas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Vienas veiksmingiausių būdų sunaikinti darbuotojų motyvaciją yra jų „mikrovadyba“ (angl. micromanagement), teigia „Forbes“. Vadovai, kontroliuodami kiekvieną savo darbuotojų žingsnį, paprastai tą daro su kuo geriausiais ketinimais – siekia užtikrinti, kad darbai būtų atlikti kokybiškai, laiku. Tačiau darbuotojas, per petį visą laiką matantis griežtą vadovo žvilgsnį, tiesiog neturi galimybės pasijusti įgalintas ir atsakingas už savo darbo rezultatą.",
+          "Šaltinis": "sc.bns.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2019",
+          "Kita metrika": "11 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Su Mantu susitikome turėdami galvoje tokius klausimus: Koks vadovo elgesys demotyvuoja komandą? Kodėl mes kartais esame linkę į mikrovadybą? Kokios tokio vadovo elgesio priežastys?",
+          "Šaltinis": "zmogiskieji.lt, aut. Valerija Buzėnienė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2021",
+          "Kita metrika": "04 07.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "„Dirbant su per daug kontroliuojančiu vadovu pirmiausia svarbu suprasti, kad šis žmogus mikrovadybą naudoja kaip projekciją – gynybą nuo savo paties patiriamo nerimo – ir jo noras kontroliuoti yra labiau susijęs su vidiniu nerimu, o ne su kolegų darbo vertinimu“, – sako psichikos sveikatos centro „Neuromeda“ specialistė.",
+          "Šaltinis": "moteris.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2023",
+          "Kita metrika": "02 03.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Skirtingų apklausų duomenimis, 70-80 proc. darbuotojų yra susidūrę su mikrovadyba – autokratiniu ir kontroliuojančiu vadovavimo stiliumi. Nors šią praktiką dauguma darbuotojų smerkia, mikrovadovai neretai greičiau sulaukia paaukštinimų, o mikrovadyba netgi gali būti efektyviausia kritiniais verslo laikotarpiais. Tad mikrovadybos per dieną neįveiks nei darbuotojai, nei vadovai, nei akcininkai, tačiau geruosius pokyčius gali paskatinti supratimas ir atvirumas.Mikrovadybos (dar vadinamos mikrovadovavimu, mikromanipuliavimu ar tiesiog micromanagementu) kritika yra suprantama ir pagrįsta. Vargu ar kas mėgaujasi vienintelį teisingą sprendimą „žinančiu“, erdvės savarankiškumui nepaliekančiu, perteklinės atskaitomybės reikalaujančiu, pernelyg smulkmenišku, neretai narcisistinių bruožų turinčiu vadovu.",
+          "Šaltinis": "delfi.lt, aut. Dainora Maziliauskienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "02 28.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Nuo valandinių atsiskaitymų iki vadovo žvilgsnio į darbuotojo ekraną – mikrovadybos pavyzdžiai vis dar gajūs Lietuvos ir pasaulio įmonėse. Ekspertai sako, kad tai – ne šiuolaikinės vadybos dalis, o žalingas įprotis, kenkiantis ne tik darbuotojui, bet ir vadovui.",
+          "Šaltinis": "15min.lt, aut. Adrija Kerbelytė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2025",
+          "Kita metrika": "11 22.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Mikrovadyba (angl. micromanagement) – tai vadovavimo stilius, kuriam būdingas perdėtas dėmesys pavaldinių stebėjimui, kontrolei. Tai vienas dažniausių veiksnių, lemiantis prastą komandos motyvaciją bei pasitenkinimą. Dėl mikrovadybos auga įtampa ir bejėgiškumo jausmas. Tai rodo, kad darbe nėra autonomijos, laisvės veikti, pasitikėjimo. Smulkmeniškiems ir nerimastingiems vadovams rekomenduojama pasitikėti savo komanda, suteikti įgaliojimų ir leisti jiems dirbti kuo geriau. Darbuotojų produktyvumas dažnai prasideda ne nuo procesų, o nuo tarpusavio santykių. Žmonės nori jausti, kad jų darbas kuria vertę.",
+          "Šaltinis": "vz.lt, aut. Jovita Budreikienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "08 05.",
+          "Pavyzdį pateikė": "Gita (2026-09-30)."
+        }
+      }
+    }
+  }
+}
