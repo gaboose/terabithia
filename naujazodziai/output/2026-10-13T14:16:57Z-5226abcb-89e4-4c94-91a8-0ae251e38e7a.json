@@ -1,0 +1,55 @@
+{
+  "uuid": "5226abcb-89e4-4c94-91a8-0ae251e38e7a",
+  "header": "mikropertrauka",
+  "publishedDate": 1791901017970,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "mikropértrauka",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. micro-break; microbreak.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-10-01).",
+      "Pateikta": "2026-10-13"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "trumpa (iki keliolikos minučių) pertrauka dirbant nejudamą darbą, ypač su kompiuteriais.",
+      "Vartojimo sritys": "medicina (sveikata), verslas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Daugelis iš mūsų yra bent kartą išgyvenę tą akimirką, kai žiūrime į ekraną, bandome užbaigti svarbų projektą, tačiau mintys kažkur klaidžioja, dėmesys išsiblaškęs, o produktyvumas smarkiai kritęs. Tokiomis akimirkomis dažnai kyla noras „išspausti” iš savęs daugiau – pasilikti ilgiau darbe ar praleisti pertrauką. Paradoksalu, bet tyrimai rodo, kad efektyviausias sprendimas šioje situacijoje – ne ilgesnės darbo valandos, bet trumpos, sąmoningos pertraukos. Šios mikropertraukos, trunkančios nuo kelių sekundžių iki keliolikos minučių, gali visiškai pakeisti jūsų darbo dieną.",
+          "Šaltinis": "countline.lt, aut. Giedrė Skupienė.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "03 04.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ankstesni tyrimai jau buvo parodę, kad mirksėjimas gali veikti kaip trumpa „mentalioji pauzė“. Skaitant tekstą ar reaguojant į emocinius signalus, mirksėjimai dažnai sutampa su sakinio pabaiga ar minties užbaigimu. Tai tarsi mikropertrauka, leidžianti smegenims apdoroti informaciją. Kanados mokslininkai spėja, kad labai panašus mechanizmas veikia ir klausantis. Kai informacija svarbi ir sudėtinga, smegenys atideda šias mikropertraukas, kad dėmesys būtų nenutrūkstamas.",
+          "Šaltinis": "laikas.lt, aut. Karolis Vaickus.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "12 20.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Net trumpas atsitiesimas, keli pečių pasukimai ar atsistojimas kelioms minutėms sumažina nuolatinę apkrovą kaklui ir pečiams. Svarbiausia – neleisti kūnui valandų valandas išbūti vienoje padėtyje. Atsistokite, pakelkite galvą ir atlikite kelis kaklo judesius: pasukite galvą į šonus, nuleiskite pečius žemyn. 30 sekundžių pakanka, kad raumenys „atsistatytų“. Nustatykite telefoną priminti kas 30 minučių – tai reiškia apie 16 mikropertraukų per dieną, kurios iš viso užims vos 8 minutes.",
+          "Šaltinis": "ortopro.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "06 12.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Praleidus prie kompiuterio 45 minutes reikia daryti 10–15 minučių pertrauką. Kompiuteriais besinaudojantys asmenys sąmoningai turi stengtis dažniau mirksėti – taip mažinami džiūvimo reiškiniai akies junginėje bei kiti su tuo susiję nemalonūs pojūčiai akyse. Akių nuovargiui pašalinti ir regėjimo sutrikimų profilaktikai pertraukų ir mikropertraukų metu rekomenduojama daryti specialius pratimus akims. Jie gali būti atliekami stovint arba sėdint, nukreipus akis nuo ekrano, žiūrint į tolį, ramiai kvėpuojant. Pertraukų metu taip pat patariama pasišalinti nuo kompiuterio ir nors trumpam užsiimti visiškai kita veikla, kuri nevargina akių.",
+          "Šaltinis": "birzuvsb.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "12 13 (ne vėliau).",
+          "Pavyzdį pateikė": "Gita (2026-10-01)."
+        }
+      }
+    }
+  }
+}
