@@ -1,0 +1,46 @@
+{
+  "uuid": "ce8f991c-3ce5-4ffc-b124-c7a9190c5528",
+  "header": "sprendyba",
+  "publishedDate": 1791962464959,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "sprendýba",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-09-28).",
+      "Pateikta": "2026-10-14"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "struktūruotas problemos sprendimo procesas.",
+      "Vartojimo sritys": "administravimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Visavertė sprendyba apima bent keturias skirtingas funkcijas:1. problemos diagnostiką – nustatyti, kas iš tiesų neveikia ir kam tai daro poveikį;2. alternatyvų kūrimą – sugeneruoti daugiau galimybių negu iš anksto žinomos stovyklos;3. argumentų patikrą – kritiškai tirti įrodymus, prielaidas ir pasekmes; 4. kolektyvinį vertinimą – nustatyti, kurios alternatyvos geriausiai atliepia bendrą tikslą ir kur lieka poliarizacija.",
+          "Šaltinis": "culture.lt, be aut.",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ateities tyrimas ir ateities pasirinkimas nėra tas pats. Scenarijus gali parodyti, kas galėtų įvykti, prognozė numato, kas tikriausiai įvyks, o vizija nusako, ko norėtume. Tačiau nė vienas iš šių instrumentų savaime neatsako, kaip daugybės žmonių žinias, argumentus, interesus ir vertinimus paversti pagrįstu sprendimu, kuriam jo pasekmes patirsiantys žmonės galėtų suteikti įgyvendinimo mandatą. Šiam procesui siūlau atskirą terminą: sprendyba. Tai nėra vien sprendimo priėmimo momentas, balsavimas ar konsultacija. Sprendyba yra struktūruotas procesas, kuriame nustatoma problema, kuriamos ir vertinamos alternatyvos, tikrinamos jų pasekmės, išryškinama dalyvių kompetencija ir suteikiamas mandatas įgyvendinti pasirinktą sprendimą. Žodynas pateikia daug ateities pažinimo instrumentų, tačiau atskiros sąvokos tokiai sprendybos architektūrai jame nėra. [...]Lietuvai reikia ne tik ateičių kalbos, bet ir sprendybos gramatikos, padedančios skirtingas žinias, vertinimus ir interesus paversti bendru sprendimu.",
+          "Šaltinis": "lrt.lt, aut. Saulius Norvaišas.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "09 25.",
+          "Pavyzdį pateikė": "Gita (2026-09-28)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kolektyvinis intelektas iš karto apjungia viską: vadovų matymą (ir nematymą), darbuotojų žinias ir patirtį, HR duomenis, komunikacijos logiką, procesų žinojimą ir išorinę ekspertizę. Ne per dar vieną sudėtingą apklausą ar dažnai iškreiptų nuomonių rinkimą (irgi sudėtingą), o per protokolu įrėmintą brainstorming'ą. „Karo rūkas“ išsisklaido, sujungus duomenis ir patirtis į kolektyvinę sprendybą.",
+          "Šaltinis": "linkedin.com, Saulius Norvaišas.",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2026",
+          "Kita metrika": "birželis.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
