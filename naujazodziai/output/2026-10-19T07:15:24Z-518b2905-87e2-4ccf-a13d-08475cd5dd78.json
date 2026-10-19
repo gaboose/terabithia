@@ -1,0 +1,38 @@
+{
+  "uuid": "518b2905-87e2-4ccf-a13d-08475cd5dd78",
+  "header": "dulkiašluostė",
+  "publishedDate": 1792394124523,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "dulkiãšluostė",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Aldona Kruševičiūtė (2026-04-02).",
+      "Pateikta": "2026-10-19"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "skepeta dulkėms šluostyti.",
+      "Vartojimo sritys": "buitis",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Trumpalaikio naudojimo namų ūkio prekės: [...]- Valymo ir priežiūros priemonės - muilas, skalbimo milteliai, valymo milteliai, plovikliai, dezinfekciniai balikliai, minkštikliai, kondicionieriai, langų valymo priemonės, vaškai, blizginimo priemonės, dažai, valomosios medžiagos, dezinfekantai, insekticidai, fungicidai ir distiliuotas vanduo; - valymo įnagiai - šluotos, šveistuvai, dulkių rinktuvės, dulkių šepetėliai, dulkiašluostės, indašluostės, grindų pašluostės, buitinės kempinės, šveitimo plaušinės, plieno vata ir zomšinės odos; - popieriaus gaminiai - filtrai, staltiesės, servetėlės, virtuvinis popierius, dulkių siurblių maišeliai [...].",
+          "Šaltinis": "osp.stat.gov.lt/c. Individualaus vartojimo išlaidų pagal paskirtį klasifikatorius (COICOP1, anglų k. Classification of Individual Consumption According to Purpose). Galioja muo 1999-03-01 iki 2016-12-31.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "1999",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Tada išsitraukia didelį valymo reikmenų rinkinį. Iš jo išsiima „Mr. Sheen“, dulkiašluostę, šveitimo šepetį ir butelį „Windolene“. Moteris išvalo ir taip nepriekaištingai švarų kambarį.",
+          "Šaltinis": "Sue Townsend. Vidutinio amžiaus moters vieši išpažinimai. Iš anglų k. vertė Gražina Zolubienė. Alma littera.",
+          "Šaltinio rūšis": "verstinis meninis tekstas",
+          "Metai": "2003",
+          "Kita metrika": "p. 34.",
+          "Pavyzdį pateikė": "Aldona Kruševičiūtė (2026-04-02)."
+        }
+      }
+    }
+  }
+}
