@@ -1,0 +1,55 @@
+{
+  "uuid": "8d989360-7b36-4cee-8eeb-926d17eab503",
+  "header": "metrobusas",
+  "publishedDate": 1792569492350,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "metrobùsas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, metrobus.",
+      "Giminiški naujažodžiai": "akvabusas; ateobusas; elektrobusas; velobusas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-10-20).",
+      "Pateikta": "2026-10-21"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "iš kelių sukabintų dalių sudarytas greitasis miesto autobusas, vežiojantis keleivius atskira juosta.",
+      "Vartojimo sritys": "transportas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Stambulas išsidėstęs skirtingose Bosforo sąsiaurio pusėse. Tiltų per jį nėra daug, keltai bei kateriai visų žmonių perkelti nespėja, todėl per piko valandas viena ar kita kryptimi susidaro nemenkos spūstys. Nuo jų gelbsti speciali autobusų, vadinamų „Metrobus“, linija. Šiuo metu jos ilgis – jau keturiasdešimt kilometrų. Maždaug dvidešimties metrų ilgio autobusai specialiais atitvarais atitvertomis juostomis lekia dideliu greičiu. [...] Metrobusai per parą veža apie 800 tūkst. keleivių. BRT (Bus Rapid Transit) sistema driekiasi autostrados O-1 viduriu, taip pat ir per Bosforo tiltą. Ši sistema sėkmingai pakeičia metro, piko valandomis autobusai šia trasa važinėja kas 14 sekundžių.",
+          "Šaltinis": "kauno.diena.lt (iš: ebus.lt), aut. Lina Jakubauskienė.",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2013",
+          "Kita metrika": "05 24.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Vieno iš didžiausių Europos autobusų gamintojų manymu, būtent metrobusai artimiausiu metu galėtų pagerinti eismą didmiesčiuose. [...]Kaip pavyzdį IVECO atstovai pateikia Prancūzijos greitųjų autobusų sistemas, kur eksploatuojama daugiau nei 500 „Crealis“ autobusų. Metrobusai padeda sumažinti eismą miestų gatvėse, juose – daugiau komforto viešojo transporto keleiviams. Be to, metrobusai gali būti varomi ne tik dyzelinu, bet ir suspaustomis gamtinėmis dujomis arba biodujomis. Pristatomi ir hibridiniai metrobusai su įdiegta funkcija „Arrive&Go“, kuri įsijungia autobusui privažiuojant prie stotelių.",
+          "Šaltinis": "eBus.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2016",
+          "Kita metrika": "07 15.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Metrobusai važiuoja specialiai atskirtomis atitvertomis juostomis, kelio viduriu, kas keletą minučių, keleivių bilietai patikrinami iš anksto, kad jie galėtų kuo greičiau įlipti į transporto priemonę. Naujas žemagrindis „Akia Metrobus“ – 25 metrų ilgio, jame – net aštuonerios dvivėrės durys. Vienu metu autobusas gali vežti net 290 keleivių. Tačiau sėdimų vietų – vos 29, likusiems važiuojant autobusu tenka stovėti.",
+          "Šaltinis": "delfi.lt (iš: eBus.lt).",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2016",
+          "Kita metrika": "09 06.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "[geriantis: ] Metrobusas yra ne tik, kad ilgesnis autikas važiuoja. Tai yra ir infrastruktūros pakeitimai. Realiai tai atrodo taip - įrengiamas maršrutas lygiai toks pats kaip ir bėginiam transportui (tramui, lengvam metro ar metro), tačiau tuo maršrutu važiuoji tie išilginti autobusai. Reikalingos įlaipinimo išlaipinimo platformos, kišenių panaikinimas, viadukai, šviesoforai ir t.t. Nes jeigu tik paleisi ilgesnius autikus į esamą infrastruktūrą, tai bus tiesiog ilgesnis autikas, o ne joks metrobusas. Paveikslėlyje yra Stambulo metrobusas.[felar: ] Kaip ir viskas kas liečia autobusus šita sąvoka yra aiškiai neapibrėžta. Berlyne \"Metrobus\" yra kamieniniai autobusų maršrutai, kuriais važinėja paprastos garmoškės bendromis gatvėmis. Autobusai nėra mass transit ir visi BRT, metrobusai ir kiti terminai yra bullshit'as.",
+          "Šaltinis": "miestai.net/forumas",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2025",
+          "Kita metrika": "10 06.",
+          "Pavyzdį pateikė": "Gita (2026-10-20)."
+        }
+      }
+    }
+  }
+}
