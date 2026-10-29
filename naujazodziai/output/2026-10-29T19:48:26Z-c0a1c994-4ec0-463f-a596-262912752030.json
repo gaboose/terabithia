@@ -1,0 +1,96 @@
+{
+  "uuid": "c0a1c994-4ec0-463f-a596-262912752030",
+  "header": "distronikas",
+  "publishedDate": 1793303306138,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "distrònikas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujai skolintos šaknies žodis",
+      "Žodžio klasė": "skolinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "anglų, distronic.",
+      "Duomenų pateikėjai": "pirmasis apie naujažodį pranešė duomenyno lankytojas (2023-12-11).",
+      "Pateikta": "2026-10-29"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "prietaisas, automatiškai reguliuojantis transporto priemonės greitį, kad būtų išlaikytas saugus atstumas nuo priekyje važiuojančių transporto priemonių.",
+      "Vartojimo sritys": "technologijos, transportas",
+      "Sąsajos": "tempomatas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Naudotas distronikas visų markių automobiliams.",
+          "Šaltinis": "rrr.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2013",
+          "Kita metrika": "gruodis (ne vėliau).",
+          "Pavyzdį pateikė": "duomenyno lankytojas (2023-12-11)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "[...] Bet Tesla iš esmės turi tik distroniką, juostų asistentą ir avarinį stabdį. Kaip mersas prieš 10+ metų. Autonominių raliuose vienetiniai modeliai tą patį sugebėdavo ir dar seniau.",
+          "Šaltinis": "miestai.net",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2017",
+          "Kita metrika": "11 16.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Klaipėdos policijos suvestinė toliau mirga pranešimais apie įvairias vagystes. Pirmadienio ryte Klaipėdoje apie 7.50 val. pastebėta, kad Lubinų g. nuo automobilio „Audi A6“ yra dingę automobilio distronikai. Padarytas žala tikslinama.",
+          "Šaltinis": "atviraklaipeda.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2020",
+          "Kita metrika": "05 19.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Stovėjimo aikštelėje pavogtas automobilio distronikas [antraštė] 2021-05-26 pradėtas ikiteisminis tyrimas pagal vienos uždarosios akcinės bendrovės vadovo pareiškimą, kuriame nurodoma, kad 2021-05-17 automobilių stovėjimo aikštelėje, esančioje Klaipėdoje, Joniškės g., buvo pastebėta, jog nuo bendrovės naudojamo automobilio BMW X6 priekinio bamperio pavogtas elektrinis įrenginys – distronikas. Žala – 4000 eurų. Pradėtas tyrimas dėl vagystės.",
+          "Šaltinis": "ve.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "05 27.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "O gal žinai kas galėtų instaliuoti distroniką ir ženklų atpažinimą?",
+          "Šaltinis": "mb1.lt",
+          "Šaltinio rūšis": "el. komunikacija",
+          "Metai": "2021",
+          "Kita metrika": "08 23.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Kas yra distronikas, kaip jis veikia ir kokius vairuotojui suteikia privalumus? [antraštė] Distronikas – tai adaptyvioji kruizo kontrolė (ACC), kuri, naudodama radaro jutiklius ir kartais kameras, automatiškai reguliuoja automobilio greitį, kad būtų išlaikytas saugus atstumas iki priekyje važiuojančios transporto priemonės. Skirtingai nuo tradicinės kruizo kontrolės, kuri palaiko nustatytą greitį nepriklausomai nuo eismo sąlygų, distronikas gali savarankiškai didinti arba mažinti greitį, todėl vairavimas tampa dinamiškesnis ir jautresnis.",
+          "Šaltinis": "reidasofficial.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2024",
+          "Kita metrika": "05 23.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "7-as pavyzdys": {
+          "Pavyzdys": "Birželio 28 d. apie 7 val. 55 min. Vilniuje, Žygio g., automobilių stovėjimo aikštelėje, pastebėta, kad nuimti ir pavogti automobilio „Audi A6 Avant“ distronikai, grotelės. Nuostolis – 1 460 eurų. Pradėtas ikiteisminis tyrimas pagal LR BK 178 str. 1 d.",
+          "Šaltinis": "vilnius.policija.lrv.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "06 29.",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "8-as pavyzdys": {
+          "Pavyzdys": "TOYOTA Hilux Aklos zonos radaras distronikas [...].",
+          "Šaltinis": "autopublic.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "rugpjūtis (ne vėliau).",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        },
+        "9-as pavyzdys": {
+          "Pavyzdys": "Distroniko reguliavimo raktas T formos 6-kampų hex 3.5×230 mm Audi / VW ACC radaro jutiklio reguliavimo raktas, šešiakampis 3,5×230 mm, VAGprofesionaliam jutiklio reguliavimui automatiniam atstumo valdymui (ACC), pvz., kalibravimo darbams.",
+          "Šaltinis": "irankiuzona.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "rugpjūtis (ne vėliau).",
+          "Pavyzdį pateikė": "Bernadeta Skirgailaitė (2024-08-02)."
+        }
+      }
+    }
+  }
+}
