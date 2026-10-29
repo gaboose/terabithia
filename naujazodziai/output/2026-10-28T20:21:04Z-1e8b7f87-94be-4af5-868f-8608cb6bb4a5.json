@@ -1,0 +1,40 @@
+{
+  "uuid": "1e8b7f87-94be-4af5-868f-8608cb6bb4a5",
+  "header": "vienvaikystė",
+  "publishedDate": 1793218864989,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "vienvaikỹstė",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-10-25).",
+      "Pateikta": "2026-10-28"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "vieno vaiko šeimoje turėjimas.",
+      "Vartojimo sritys": "visuomenė",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Taigi tik vyresnės kartos vienvaikystę vertina kaip problemą, o kuo jaunesnė karta, tuo ją vertina vis neutraliau ir net palankiau. Tai gali reikšti, kad vis labiau įsigali vienvaikės šeimos modelis.",
+          "Šaltinis": "Vlada Stankūnienė, Aiva Jonkarytė, Sarmintė Mikulionienė, Alfonsas A,. Mitrikas, Aušra Maslauskaitė. Šeimos revoliucija? Iššūkiai šeimos politikai [kolektyvinė monografija]. Vilnius: Socialinių tyrimų institutas.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2003",
+          "Kita metrika": "p. 55.",
+          "Pavyzdį pateikė": "Gita (2026-10-25)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Jau daugelį metų Lietuvoje dviem tėvams tenka vienas vaikas. Tai – sudėjus visus, turinčius daugiau nei vieną vaiką, su tais, kurie išvis neturi vaikų. Kai kam bevaikystė ar vienvaikystė padiktuota sveikatos, bet daugeliui tokią šeimyninę padėtį lemia visai kitos sąlygos.",
+          "Šaltinis": "delfi.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2026",
+          "Kita metrika": "02 13.",
+          "Naujažodį pavartojo": "Marius Kundrotas",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
