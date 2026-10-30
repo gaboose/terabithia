@@ -1,0 +1,39 @@
+{
+  "uuid": "867b0506-9d68-401b-b76d-47822b4c4dee",
+  "header": "biobankuoti",
+  "publishedDate": 1793352447006,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "biobankúoti, biobankúoja, biobankãvo",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "veiksmažodis",
+      "Kilmė": "lietuvių, < biobankas < anglų k. biobank.",
+      "Giminiški naujažodžiai": "biobankas",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-10-26).",
+      "Pateikta": "2026-10-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "mokslinių tyrimų tikslais kaupti ir tvarkyti žmogaus biologinę medžiagą ir medicinos dokumentus.",
+      "Vartojimo sritys": "biologija, medicina (sveikata), mokslas",
+      "Sąsajos": "biobankas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "• Pradėta biobankuoti naujus mėginių tipus – išmatas ir šlapimą, reikalingus projektams, susijusiems su mikrobiotos tyrimais. • Įrengta darbo su ląstelėmis laboratorija, kurioje yra galimybė auginti ląsteles, jas vizualizuoti, stebėti atsaką į įvairius vaistus, tikrinti biobankuojamų ląstelių kokybę.",
+          "Šaltinis": "santa.lt, Vilniaus universisteo ligoninė Santaros klinikos, 2024 metų ataskaita.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2024",
+          "Pavyzdį pateikė": "Gita (2026-10-26)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Taip pat IMC biobankas pasižymi išskirtinumu, biobankuoja GYVAS LĄSTELES. Gyvos užšaldytos ląstelės: tai galimybė ištirti įvairių veiksnių įtaką gyvoms ląstelėms: vaistų veiksmingumas, medicinos prietaisai ir technologijos, citotoksiškumo tyrimai, regeneracinės terapijos, medicinos prietaisų ir biomimetinių karkasų biologinis suderinamumas bei kiti tyrimai.",
+          "Šaltinis": "imcentras.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "07 22.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
