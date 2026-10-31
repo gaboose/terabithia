@@ -1,0 +1,48 @@
+{
+  "uuid": "ac3ee4a7-9590-4097-b3e3-a420b49ad05c",
+  "header": "biobankavimas",
+  "publishedDate": 1793371381328,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "biobankãvimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, < biobankuoti.",
+      "Giminiški naujažodžiai": "biobankas; biobankuoti",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Gita (2026-10-26).",
+      "Pateikta": "2026-10-30"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "žmogaus biologinės medžiagos ir medicinos dokumentų kaupimas ir tvarkymas mokslinių tyrimų tikslais.",
+      "Vartojimo sritys": "biologija, medicina (sveikata), mokslas",
+      "Sąsajos": "biobankas; biobankuoti",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Modernus biobankavimas yra santykinai nauja kocepcija, kuri brendo metų metus, kad galų gale taptų viena svarbiausių biomedicininių tyrimų sričių. Tūkstančiai biobankų pasaulio mastu renka biologinius mėginius su klinikine ir tyrimų informacija iš milijonų individų įvairiose jų gyvenimo stadijose – prieš ligą, ligos metu ir po ligos. Visa ši informacija yra didžiulis žinių šaltinis fundamentiniams biomedicininiams tyrimams ir turi potencialą dramatiškai pagerinti vadinamąją „personalizuotą“ ir prevencinę mediciną.",
+          "Šaltinis": "epublications.vu.lt",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2017",
+          "Pavyzdį pateikė": "Gita (2026-10-26)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Ligos biobankuose saugomi patologiniai žmogaus biologinės medžiagos mėginiai (pvz. navikinės ar kitos ligos pažeisto organo, kraujo mėginiai). Šie mėginiai gali būti surenkami specialiai biobankavimo tikslu, tačiau paprastai yra kaupiami po diagnostinių tyrimų ar terapinių procedūrų liekantys žmogaus biologinės medžiagos mėginiai.",
+          "Šaltinis": "bioetika.lrv.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2024",
+          "Kita metrika": "01 05.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Lietuvoje teisę vykdyti biobankavimo veiklą turi kelios institucijos, kurios prisideda prie mokslo pažangos ir visuomenės sveikatos gerinimo, tačiau veikia skirtingais principais: dalis jų kaupia mėginius pacientų gydymo ar diagnostikos proceso metu, kitos – specializuotiems moksliniams tyrimams ar populiacinėms studijoms: [...].",
+          "Šaltinis": "santa.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2025",
+          "Kita metrika": "07 17.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
