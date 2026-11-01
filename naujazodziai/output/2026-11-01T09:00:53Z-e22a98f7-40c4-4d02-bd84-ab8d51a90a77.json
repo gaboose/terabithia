@@ -1,0 +1,40 @@
+{
+  "uuid": "e22a98f7-40c4-4d02-bd84-ab8d51a90a77",
+  "header": "savikartojimas",
+  "publishedDate": 1793523653470,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "savikartójimas",
+      "Kirčiuotė": "1",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. self-repetition.",
+      "Giminiški naujažodžiai": "kartotė; kartotuvas",
+      "Pateikta": "2026-11-01"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "savo paties idėjų, frazių, siužetų, stiliaus ir pan. elementų kartojimas naujuose kūriniuose.",
+      "Vartojimo sritys": "kultūra, literatūra, menas, mokslas, muzika",
+      "Sąsajos": "saviplagiatas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Net savikartojimas reikalauja deklaracijos; dauguma institucijų vertina nedeklaruotą saviplagiatą kaip akademinės etikos pažeidimą, net jei tekstą parašėte jūs pats.",
+          "Šaltinis": "noplag.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "spalis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita U. (2026-10-31)."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "VIII sesija. Dirbtuvės, estampai ir savikartojimas [konferencijos pranešimo pavadinimas]",
+          "Šaltinis": "lndm.lt. Tarptautinė mokslinė konferencija „Toks pats, tik kitoks: kopija, sekinys ir klastotė vizualiajame mene“.",
+          "Šaltinio rūšis": "mokslinis tekstas",
+          "Metai": "2026",
+          "Kita metrika": "spalis.",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}

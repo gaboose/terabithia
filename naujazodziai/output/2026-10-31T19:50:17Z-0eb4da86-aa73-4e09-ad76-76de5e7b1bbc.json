@@ -1,0 +1,72 @@
+{
+  "uuid": "0eb4da86-aa73-4e09-ad76-76de5e7b1bbc",
+  "header": "saviplagiatas",
+  "publishedDate": 1793476217431,
+  "details": {
+    "Bendroji informacija": {
+      "Kirčiuotos formos": "saviplagiãtas",
+      "Kirčiuotė": "2",
+      "Rūšis": "naujadaras",
+      "Žodžio klasė": "darinys [hibridas] [vertinys]",
+      "Kalbos dalis": "daiktavardis",
+      "Kilmė": "lietuvių, plg. anglų k. self-plagiarism.",
+      "Duomenų pateikėjai": "pirmoji apie naujažodį pranešė Rita U. (2026-10-31).",
+      "Pateikta": "2026-10-31"
+    },
+    "Reikšmė ir vartosena": {
+      "Apibrėžtis": "savo paties paskelbto kūrinio ar jo dalies pakartotinis panaudojimas, tinkamai nenurodant pirminio šaltinio.",
+      "Vartojimo sritys": "mokslas",
+      "Sąsajos": "savikartojimas",
+      "Vartosenos pavyzdžiai": {
+        "1-as pavyzdys": {
+          "Pavyzdys": "Dėl plagiato skandalo S. Borch atsidūrė ypač nepatogioje padėtyje, nes tik praėjusią savaitę ji nusprendė kreiptis į Aukščiausiąjį Teismą dėl studentės, kuri apeliacine tvarka buvo išteisinta dėl saviplagiato, nes naudojo savo darbo ištraukas, bylos.",
+          "Šaltinis": "laikmetis.lt",
+          "Šaltinio rūšis": "internetinė žiniasklaida",
+          "Metai": "2021",
+          "Kita metrika": "01 21.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "2-as pavyzdys": {
+          "Pavyzdys": "Vertindami, kaip MTPE pažeidimai pasireiškia jų akademinėje aplinkoje, respondentai (N = 316) tarp dažniausiai (labai dažnai ir dažnai) pastebimų pažeidimų nurodė: neetiškų mokslinių tyrimų atlikimo tipus – po 10 proc. hipotezės pritaikymą prie rezultatų bei statistinio reikšmingumo koeficiento vaikymąsi; neetiško mokslinių tyrimų rezultatų skelbimo tipus – tyrimo išskaidymą į kelias publikacijas (11 proc.), daugialypės terpės plagiatą (7 proc.), po 5 proc. paslėptą dubliavimą bei vaizdų plagiatą, saviplagiatą (4 proc.); [...].",
+          "Šaltinis": "etikostarnyba.lt (Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba).",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2024",
+          "Kita metrika": "05 29.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "3-ias pavyzdys": {
+          "Pavyzdys": "Kalbant apie civilinės atsakomybės santykį su Kontrolieriaus tiriamų pažeidimų padariniais, galima pacituoti šį LVAT [2023 m. spalio 25 d. nutartis administracinėje byloje. – Red. past.] išaiškinimą: „Citavimo tvarkos pažeidimai visuotinai pripažįstami akademinio sąžiningumo pažeidimais, patenkančiais į plagiato sąvoką. Nors paprastai plagiatas suprantamas kaip svetimų kūrinių, minčių idėjų pateikimas kaip savo, tačiau į plagiato savoką patenka ir tokie atvejai, kaip netinkamas citavimas (kai pažodinė citata nėra specialiai išskiriama arba nenurodomas šaltinis, netinkamai percituojama ir pan.), saviplagiatas (kai to paties autoriaus kūrinio (rašto darbo) dalis pateikiama kitame kūrinyje (rašto darbe), to tinkamai nepažymint). Taigi, nustačius citavimo tvarkos pažeidimus, yra pagrindas konstatuoti, jog kūrinyje yra plagiato požymiai“.",
+          "Šaltinis": "Ramunė Žiedė. Baudžiamoji atsakomybė už autorystės pasisavinimą. Daktaro disertacija. Vilniaus universitetas.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2026",
+          "Kita metrika": "p. 119.",
+          "Pavyzdį pateikė": "Rita M."
+        },
+        "4-as pavyzdys": {
+          "Pavyzdys": "Saviplagiatas (angl. self-plagiarism) – didelės savo paties kūrinio dalies atkartojimas nenurodant (necituojant) pirminio publikavimo šaltinio.",
+          "Šaltinis": "mruni.eu, Akademinio raštingumo etika.",
+          "Šaltinio rūšis": "administracinis tekstas",
+          "Metai": "2026",
+          "Kita metrika": "spalis (ne vėliau)",
+          "Pavyzdį pateikė": "Rita U. (2026-10-31)."
+        },
+        "5-as pavyzdys": {
+          "Pavyzdys": "Net savikartojimas reikalauja deklaracijos; dauguma institucijų vertina nedeklaruotą saviplagiatą kaip akademinės etikos pažeidimą, net jei tekstą parašėte jūs pats.",
+          "Šaltinis": "noplag.com",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "spalis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita U. (2026-10-31)."
+        },
+        "6-as pavyzdys": {
+          "Pavyzdys": "Recenzentai neįpareigojami ieškoti galimo mokslinio nesąžiningumo veiksmų, tačiau jie privalo atkreipti Redakcinės kolegijos dėmesį į netinkamą, mokslinio nesąžiningumo elgesį tokį, kaip duomenų klastojimas, piktnaudžiavimas autoryste, plagiatas, vaizdų manipuliavimas, neetiškai atliktas tyrimas, atsikartojanti publikacija ar saviplagiatas, jei toks paaiškėja recenzavimo ar bet kuriuo publikavimo proceso metu. Kaltinimai dėl mokslinio nesąžiningumo veikų turi būti pagrįsti įrodymais.",
+          "Šaltinis": "arthistorystudies.lt",
+          "Šaltinio rūšis": "įvairi interneto informacija",
+          "Metai": "2026",
+          "Kita metrika": "spalis (ne vėliau).",
+          "Pavyzdį pateikė": "Rita M."
+        }
+      }
+    }
+  }
+}
